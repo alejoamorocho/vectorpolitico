@@ -7,7 +7,15 @@ import { useCompassDimensions } from './hooks/useCompassDimensions';
 import { IdeologyGrid } from './layers/IdeologyGrid';
 import { EntityPoints } from './layers/EntityPoints';
 import { Axes } from './layers/Axes';
-import type { CompassLayers } from './CompassModal';
+type CompassLayers = {
+  grid: boolean;
+  axes: boolean;
+  entities: boolean;
+  arrows: boolean;
+  quadrantLabels: boolean;
+  showSelfPerceived?: boolean;
+  showEvidenced?: boolean;
+};
 
 type CompassProps = {
   ideologies: Ideology[];
@@ -214,6 +222,8 @@ export default function Compass({
                 scales={scales}
                 focusedId={focusedId}
                 showArrows={layers.arrows}
+                showSelfPerceived={layers.showSelfPerceived ?? true}
+                showEvidenced={layers.showEvidenced ?? true}
                 onHover={handleEntityHover}
                 onClick={handleEntityClickInternal}
               />
@@ -370,39 +380,6 @@ export default function Compass({
         </div>
       )}
 
-      {/* Leyenda */}
-      <div className="compass-legend" data-click-through>
-        <span className="compass-legend-dot" style={{ color: 'var(--self)' }}>
-          Autopercibido
-        </span>
-        <span className="compass-legend-dot" style={{ color: 'var(--evidenced)' }}>
-          Evidenciado
-        </span>
-      </div>
-
-      {/* Hint al hover cuando es clickable */}
-      {isClickable && (
-        <div
-          data-click-through
-          style={{
-            position: 'absolute',
-            bottom: 16,
-            right: 16,
-            fontSize: 11,
-            color: 'var(--ink-mute)',
-            background: 'rgb(253 250 241 / 0.9)',
-            backdropFilter: 'blur(6px)',
-            border: '1px solid var(--rule)',
-            padding: '7px 12px',
-            pointerEvents: 'none',
-            fontFamily: 'var(--font-serif)',
-            fontStyle: 'italic',
-            letterSpacing: '0.02em',
-          }}
-        >
-          Click para expandir el mapa
-        </div>
-      )}
     </div>
   );
 }

@@ -836,6 +836,65 @@ a:hover { text-decoration-color: var(--ink); }
   }
 }
 
+/* ── Compass container (sidebar + map) ── */
+.compass-container {
+  display: flex;
+  border: 1px solid var(--rule);
+  background: var(--paper-cream);
+  overflow: hidden;
+  min-height: 500px;
+}
+
+.compass-container-map {
+  flex: 1;
+  min-width: 0;
+  position: relative;
+}
+
+.compass-container .compass-wrap {
+  aspect-ratio: auto;
+  height: 100%;
+  cursor: default;
+  border: none;
+}
+
+.compass-container .compass-wrap--modal {
+  height: 100%;
+}
+
+/* Fullscreen: CSS fallback */
+.compass-container--fullscreen {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  border: none;
+}
+
+.compass-container--fullscreen .compass-container-map {
+  height: 100vh;
+}
+
+.compass-container--fullscreen .compass-wrap {
+  height: 100%;
+}
+
+/* Native fullscreen */
+.compass-container:fullscreen {
+  border: none;
+}
+
+.compass-container:fullscreen .compass-container-map {
+  height: 100vh;
+}
+
+/* Mobile: stack vertically */
+@media (max-width: 639px) {
+  .compass-container {
+    flex-direction: column-reverse;
+    min-height: auto;
+  }
+}
+
 /* ── Modal fullscreen del compass ── */
 .compass-modal-backdrop {
   position: fixed;

@@ -7,25 +7,28 @@ type Props = {
   scales: CompassScales;
   focusedId?: string | null;
   showArrows?: boolean;
+  showSelfPerceived?: boolean;
+  showEvidenced?: boolean;
   onHover?: (entity: EntitySummary | null, ev?: React.MouseEvent) => void;
   onClick?: (id: string) => void;
 };
 
 /**
  * Por cada entidad renderiza:
- *   1. <ellipse> con la incertidumbre del score evidenciado
- *   2. <ArrowPath> desde autopercibido → evidenciado
- *   3. <circle> azul con ring blanco (autopercibido)
- *   4. <circle> rojo con ring blanco (evidenciado)
- *   5. Halo pulsante si está focused
+ *   1. <ArrowPath> desde autopercibido -> evidenciado
+ *   2. <circle> azul con ring blanco (autopercibido)
+ *   3. <circle> rojo con ring blanco (evidenciado)
+ *   4. Halo pulsante si esta focused
  *
- * Sombras sutiles con drop-shadow filter para elevar los puntos sobre la cuadrícula.
+ * Sombras sutiles con drop-shadow filter para elevar los puntos sobre la cuadricula.
  */
 export function EntityPoints({
   entities,
   scales,
   focusedId = null,
   showArrows = true,
+  showSelfPerceived = true,
+  showEvidenced = true,
   onHover,
   onClick,
 }: Props) {
@@ -59,74 +62,82 @@ export function EntityPoints({
             tabIndex={0}
             aria-label={`${e.displayName}`}
           >
-            {/* Flecha autopercibido → evidenciado */}
-            {showArrows && <ArrowPath x1={sx} y1={sy} x2={ex} y2={ey} />}
+            {/* Flecha autopercibido -> evidenciado */}
+            {showArrows && showSelfPerceived && showEvidenced && <ArrowPath x1={sx} y1={sy} x2={ex} y2={ey} />}
 
-            {/* Touch targets invisibles (44px mín para mobile) */}
-            <circle cx={sx} cy={sy} r={16} fill="transparent" stroke="none" />
-            <circle cx={ex} cy={ey} r={16} fill="transparent" stroke="none" />
+            {/* Touch targets invisibles (44px min para mobile) */}
+            {showSelfPerceived && <circle cx={sx} cy={sy} r={16} fill="transparent" stroke="none" />}
+            {showEvidenced && <circle cx={ex} cy={ey} r={16} fill="transparent" stroke="none" />}
 
             {/* Punto autopercibido (azul) */}
-            <circle
-              cx={sx}
-              cy={sy}
-              r={5}
-              fill="#1e3556"
-              stroke="#fdfaf1"
-              strokeWidth={2}
-              vectorEffect="non-scaling-stroke"
-              filter="url(#entity-shadow)"
-            />
+            {showSelfPerceived && (
+              <circle
+                cx={sx}
+                cy={sy}
+                r={5}
+                fill="#1e3556"
+                stroke="#fdfaf1"
+                strokeWidth={2}
+                vectorEffect="non-scaling-stroke"
+                filter="url(#entity-shadow)"
+              />
+            )}
 
             {/* Punto evidenciado (rojo) */}
-            <circle
-              cx={ex}
-              cy={ey}
-              r={5}
-              fill="#6b1f1f"
-              stroke="#fdfaf1"
-              strokeWidth={2}
-              vectorEffect="non-scaling-stroke"
-              filter="url(#entity-shadow)"
-            />
+            {showEvidenced && (
+              <circle
+                cx={ex}
+                cy={ey}
+                r={5}
+                fill="#6b1f1f"
+                stroke="#fdfaf1"
+                strokeWidth={2}
+                vectorEffect="non-scaling-stroke"
+                filter="url(#entity-shadow)"
+              />
+            )}
 
-            {/* Halo pulsante cuando está focused */}
+            {/* Halo pulsante cuando esta focused */}
             {isFocused && (
               <>
-                <circle
-                  cx={sx}
-                  cy={sy}
-                  r={11}
-                  fill="none"
-                  stroke="#1e3556"
-                  strokeWidth={1.5}
-                  strokeOpacity={0.5}
-                  vectorEffect="non-scaling-stroke"
-                >
-                  <animate
-                    attributeName="r"
-                    values="9;14;9"
-                    dur="1.8s"
-                    repeatCount="indefinite"
-                  />
-                </circle>
-                <circle
-                  cx={ex}
-                  cy={ey}
-                  r={11}
-                  fill="none"
-                  stroke="#6b1f1f"
-                  strokeWidth={1.5}
-                  strokeOpacity={0.6}
-                  vectorEffect="non-scaling-stroke"
-                >
-                  <animate
-                    attributeName="r"
-                    values="9;14;9"
-                    dur="1.8s"
-                    repeatCount="indefinite"
-                  />
-                </circle>
+                {showSelfPerceived && (
+                  <circle
+                    cx={sx}
+                    cy={sy}
+                    r={11}
+                    fill="none"
+                    stroke="#1e3556"
+                    strokeWidth={1.5}
+                    strokeOpacity={0.5}
+                    vectorEffect="non-scaling-stroke"
+                  >
+                    <animate
+                      attributeName="r"
+                      values="9;14;9"
+                      dur="1.8s"
+                      repeatCount="indefinite"
+                    />
+                  </circle>
+                )}
+                {showEvidenced && (
+                  <circle
+                    cx={ex}
+                    cy={ey}
+                    r={11}
+                    fill="none"
+                    stroke="#6b1f1f"
+                    strokeWidth={1.5}
+                    strokeOpacity={0.6}
+                    vectorEffect="non-scaling-stroke"
+                  >
+                    <animate
+                      attributeName="r"
+                      values="9;14;9"
+                      dur="1.8s"
+                      repeatCount="indefinite"
+                    />
+                  </circle>
+                )}
               </>
             )}
           </g>
