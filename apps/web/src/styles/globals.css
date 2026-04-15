@@ -1,0 +1,1074 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ═════════════════════════════════════════════════════════════
+   BRÚJULA POLÍTICA — Gazette editorial system
+   Tipografía clásica (Playfair Display + EB Garamond + JetBrains Mono)
+   Paleta crema papel · sobria · pastel muy suave
+   ═════════════════════════════════════════════════════════════ */
+
+:root {
+  /* ─── Paleta de papel ─── */
+  --paper:          #f5efe2;   /* crema papel */
+  --paper-raised:   #faf5e8;   /* papel elevado */
+  --paper-deep:     #ede4cc;   /* papel hundido / rule de pliego */
+  --paper-cream:    #fdfaf1;   /* blanco hueso más claro */
+
+  /* ─── Tinta (negro cálido, nunca #000) ─── */
+  --ink:            #1a1510;   /* titular, masthead */
+  --ink-soft:       #332b22;   /* body */
+  --ink-mute:       #6b5f4e;   /* metadata */
+  --ink-faint:      #a69a85;   /* caption, numeración */
+  --rule:           #d4cab0;   /* líneas separadoras */
+  --rule-soft:      #e6dcc5;   /* líneas muy sutiles */
+
+  /* ─── Cuadrantes: pastel MUY sobrio ─── */
+  --q-auth-left-bg:   #ebd9d9;  /* rosa polvo */
+  --q-auth-left-ink:  #5c1818;
+  --q-auth-left-line: #c89999;
+
+  --q-auth-right-bg:  #d9dfe8;  /* azul polvo */
+  --q-auth-right-ink: #1a2e4f;
+  --q-auth-right-line:#96a9c4;
+
+  --q-lib-left-bg:    #d9e3dc;  /* verde salvia */
+  --q-lib-left-ink:   #1d3a26;
+  --q-lib-left-line:  #9bb8a3;
+
+  --q-lib-right-bg:   #ebddb9;  /* dorado trigo */
+  --q-lib-right-ink:  #4a3608;
+  --q-lib-right-line: #c4ad6c;
+
+  /* ─── Acentos para los puntos de figura ─── */
+  --self-blue:      #1e3556;   /* azul tinta */
+  --evidenced-red:  #6b1f1f;   /* rojo sangre seca */
+  --self:           var(--self-blue);
+  --evidenced:      var(--evidenced-red);
+
+  /* ─── Espaciado ─── */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-24: 6rem;
+
+  /* ─── Sombras sutiles (casi imperceptibles) ─── */
+  --shadow-soft: 0 1px 0 rgb(26 21 16 / 0.04), 0 2px 8px rgb(26 21 16 / 0.04);
+  --shadow-raised: 0 1px 2px rgb(26 21 16 / 0.06), 0 8px 24px rgb(26 21 16 / 0.08);
+  --shadow-float: 0 24px 80px rgb(26 21 16 / 0.14);
+
+  /* ─── Fuentes ─── */
+  --font-display: 'Playfair Display', 'EB Garamond', Georgia, serif;
+  --font-serif:   'EB Garamond', 'Playfair Display', Georgia, serif;
+  --font-sans:    'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono:    'JetBrains Mono', ui-monospace, monospace;
+}
+
+/* ═════════════════════════════════════════════════════════════
+   Base
+   ═════════════════════════════════════════════════════════════ */
+
+html {
+  font-family: var(--font-serif);
+  -webkit-text-size-adjust: 100%;
+  -moz-tab-size: 4;
+  tab-size: 4;
+  font-feature-settings: 'kern', 'liga', 'onum', 'ss01';
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink-soft);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-size: 17px;
+  line-height: 1.55;
+}
+
+/* Textura de papel sutil — puntos muy dispersos */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: radial-gradient(circle at 1px 1px, rgb(26 21 16 / 0.035) 1px, transparent 0);
+  background-size: 32px 32px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+main, header, footer { position: relative; z-index: 1; }
+
+/* ─── Tipografía clásica newspaper ─── */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  color: var(--ink);
+  font-weight: 600;
+  letter-spacing: -0.012em;
+  line-height: 1.08;
+}
+
+h1 {
+  font-size: clamp(2.75rem, 6vw, 5.5rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: clamp(1.875rem, 3.5vw, 3rem);
+  font-weight: 600;
+}
+
+h3 {
+  font-size: clamp(1.375rem, 2.2vw, 1.875rem);
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+p {
+  font-family: var(--font-serif);
+  line-height: 1.65;
+  color: var(--ink-soft);
+}
+
+em, i { font-style: italic; }
+
+a {
+  color: var(--ink);
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--rule);
+  transition: text-decoration-color 150ms ease, color 150ms ease;
+}
+
+a:hover { text-decoration-color: var(--ink); }
+
+/* ═════════════════════════════════════════════════════════════
+   Componentes editoriales
+   ═════════════════════════════════════════════════════════════ */
+
+/* ── Masthead (cabecera del periódico) ── */
+.masthead {
+  text-align: center;
+  padding: 1.75rem 0 1.5rem;
+  border-top: 3px double var(--ink);
+  border-bottom: 3px double var(--ink);
+  background: var(--paper);
+}
+
+.masthead-title {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  line-height: 0.95;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  margin: 0;
+}
+
+.masthead-meta {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  margin-top: 0.4rem;
+}
+
+.masthead-dateline {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--font-serif);
+  font-size: 12px;
+  color: var(--ink-mute);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-top: 0.9rem;
+  padding: 0.5rem 1rem 0;
+  border-top: 1px solid var(--rule);
+}
+
+.masthead-dateline > * { flex: 1; }
+.masthead-dateline > *:nth-child(2) { text-align: center; font-style: italic; }
+.masthead-dateline > *:nth-child(3) { text-align: right; }
+
+/* ── Navegación tipo periódico ── */
+.newsnav {
+  background: var(--paper);
+  border-bottom: 1px solid var(--rule);
+}
+
+.newsnav-inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  gap: 1.75rem;
+  justify-content: center;
+  font-family: var(--font-serif);
+  font-size: 13px;
+  font-style: italic;
+  letter-spacing: 0.02em;
+}
+
+.newsnav-link {
+  color: var(--ink-soft);
+  text-decoration: none;
+  padding-bottom: 2px;
+  border-bottom: 1px solid transparent;
+  transition: color 150ms ease, border-color 150ms ease;
+}
+
+.newsnav-link:hover {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+
+/* ── Rule ornamental ── */
+.rule-ornament {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 2.5rem 0;
+  color: var(--ink-faint);
+}
+
+.rule-ornament::before,
+.rule-ornament::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--rule);
+  max-width: 200px;
+}
+
+.rule-ornament-glyph {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-style: italic;
+}
+
+/* ── Page lead (subtítulo editorial bajo H1) ── */
+.page-lead {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 22px;
+  line-height: 1.45;
+  color: var(--ink-mute);
+  max-width: 62ch;
+  margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+  .page-lead { font-size: 19px; }
+}
+
+/* ── Body text editorial (prose) ── */
+.prose-editorial {
+  font-family: var(--font-serif);
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--ink-soft);
+  max-width: 65ch;
+}
+
+.prose-editorial p {
+  margin-bottom: 1.2em;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+.prose-editorial h2 {
+  margin-top: 2.2em;
+  margin-bottom: 0.6em;
+  font-size: clamp(1.75rem, 3vw, 2.25rem);
+}
+
+.prose-editorial h3 {
+  margin-top: 1.8em;
+  margin-bottom: 0.5em;
+  font-size: clamp(1.25rem, 2vw, 1.5rem);
+}
+
+.prose-editorial h4 {
+  margin-top: 1.5em;
+  margin-bottom: 0.4em;
+  font-size: 1.125rem;
+}
+
+.prose-editorial a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--rule);
+  text-underline-offset: 0.2em;
+}
+
+.prose-editorial a:hover {
+  text-decoration-color: var(--ink);
+}
+
+.prose-editorial ul,
+.prose-editorial ol {
+  margin: 1.1em 0;
+  padding-left: 1.6em;
+}
+
+.prose-editorial li {
+  margin-bottom: 0.4em;
+  line-height: 1.65;
+}
+
+.prose-editorial blockquote {
+  border-left: 3px solid var(--ink);
+  padding-left: 1.25em;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: var(--ink-soft);
+}
+
+.prose-editorial code {
+  font-family: var(--font-mono);
+  font-size: 0.88em;
+  background: var(--paper-deep);
+  padding: 0.15em 0.4em;
+  border-radius: 2px;
+}
+
+.prose-editorial pre {
+  background: var(--paper-deep);
+  padding: 1em 1.25em;
+  overflow-x: auto;
+  border-left: 3px solid var(--ink);
+  font-size: 13px;
+  line-height: 1.5;
+  margin: 1.4em 0;
+}
+
+.prose-editorial pre code {
+  background: transparent;
+  padding: 0;
+}
+
+.prose-editorial table {
+  border-collapse: collapse;
+  margin: 1.4em 0;
+  font-size: 15px;
+  width: 100%;
+}
+
+.prose-editorial th,
+.prose-editorial td {
+  border-bottom: 1px solid var(--rule);
+  padding: 0.55em 0.8em;
+  text-align: left;
+}
+
+.prose-editorial th {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  border-bottom: 2px solid var(--ink);
+}
+
+.prose-editorial hr {
+  border: none;
+  text-align: center;
+  margin: 2.5em 0;
+}
+
+.prose-editorial hr::after {
+  content: '❦';
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 22px;
+  color: var(--ink-faint);
+}
+
+/* ── Page header (headline block for internal pages) ── */
+.page-header {
+  border-top: 3px double var(--ink);
+  border-bottom: 1px solid var(--rule);
+  padding: 2.5rem 0 2rem;
+  margin-bottom: 3rem;
+}
+
+.page-header-inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* ── Section header ── */
+.section-kicker {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  font-weight: 500;
+}
+
+.section-byline {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 17px;
+  line-height: 1.45;
+  color: var(--ink-mute);
+}
+
+.section-byline--lg {
+  font-size: 20px;
+}
+
+.section-byline--sm {
+  font-size: 14px;
+}
+
+/* ── Drop cap para primer párrafo editorial ── */
+.dropcap::first-letter {
+  font-family: var(--font-display);
+  font-size: 4.5em;
+  float: left;
+  line-height: 0.85;
+  padding: 0.15em 0.08em 0 0;
+  color: var(--ink);
+  font-weight: 700;
+}
+
+/* ── Tarjeta editorial ── */
+.card-editorial {
+  background: var(--paper-raised);
+  border: 1px solid var(--rule);
+  padding: 1.5rem 1.75rem;
+  transition: background 160ms ease, border-color 160ms ease;
+}
+
+.card-editorial:hover {
+  background: var(--paper-cream);
+  border-color: var(--ink-faint);
+}
+
+/* ═════════════════════════════════════════════════════════════
+   Compass — versión gazette
+   ═════════════════════════════════════════════════════════════ */
+
+.compass-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background: var(--paper-cream);
+  border: 1px solid var(--rule);
+  overflow: hidden;
+  cursor: pointer;
+  transition: border-color 180ms ease, box-shadow 180ms ease;
+}
+
+/* Viñeta editorial — sombra interior sutil */
+.compass-wrap::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  box-shadow: inset 0 0 60px rgb(26 21 16 / 0.06);
+  z-index: 2;
+}
+
+.compass-wrap--clickable:hover {
+  border-color: var(--ink-mute);
+  box-shadow: var(--shadow-raised);
+}
+
+.compass-wrap--modal {
+  cursor: default;
+  border: none;
+  background: var(--paper-cream);
+}
+
+.compass-wrap svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  touch-action: none;
+}
+
+.compass-wrap--modal svg {
+  cursor: grab;
+}
+
+.compass-wrap--modal svg:active { cursor: grabbing; }
+
+.compass-cell {
+  transition: filter 180ms ease;
+}
+
+.compass-cell:hover {
+  filter: brightness(1.03);
+}
+
+.compass-label {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  pointer-events: none;
+  user-select: none;
+  paint-order: stroke fill;
+  stroke: rgb(253 250 241 / 0.85);
+  stroke-width: 2.2px;
+  stroke-linejoin: round;
+}
+
+.compass-quadrant-label {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  pointer-events: none;
+  user-select: none;
+  opacity: 0.3;
+}
+
+/* ── Tooltip flotante ── */
+.compass-tooltip {
+  position: absolute;
+  pointer-events: none;
+  background: var(--paper-cream);
+  border: 1px solid var(--rule);
+  padding: 14px 18px;
+  box-shadow: var(--shadow-float);
+  min-width: 240px;
+  max-width: 340px;
+  z-index: 10;
+  animation: tooltip-in 180ms ease-out;
+  font-family: var(--font-serif);
+}
+
+@keyframes tooltip-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Controles del compass ── */
+.compass-controls {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  display: flex;
+  flex-direction: column;
+  background: rgb(253 250 241 / 0.94);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--rule);
+  padding: 0;
+  box-shadow: var(--shadow-soft);
+  z-index: 5;
+}
+
+.compass-control-btn {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-serif);
+  font-size: 17px;
+  color: var(--ink-soft);
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  transition: background 120ms ease;
+  border-bottom: 1px solid var(--rule-soft);
+}
+
+.compass-control-btn:last-child { border-bottom: none; }
+
+.compass-control-btn:hover {
+  background: var(--paper-deep);
+  color: var(--ink);
+}
+
+.compass-controls-close {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--paper-cream);
+  border: 1px solid var(--rule);
+  cursor: pointer;
+  color: var(--ink);
+  z-index: 50;
+  box-shadow: var(--shadow-soft);
+  transition: background 150ms ease;
+}
+
+.compass-controls-close:hover {
+  background: var(--paper-deep);
+}
+
+/* ── Leyenda ── */
+.compass-legend {
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+  background: rgb(253 250 241 / 0.94);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--rule);
+  padding: 10px 16px;
+  box-shadow: var(--shadow-soft);
+  z-index: 5;
+  font-size: 12px;
+  font-family: var(--font-serif);
+  font-style: italic;
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  color: var(--ink-soft);
+}
+
+.compass-legend-dot {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.compass-legend-dot::before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1.5px solid var(--paper-cream);
+  box-shadow: 0 0 0 1px currentColor;
+}
+
+/* ── Toolbar compacta del compass (inline) ── */
+.compass-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 12px 16px;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-bottom: none;
+  font-family: var(--font-serif);
+}
+
+@media (max-width: 639px) {
+  .compass-toolbar {
+    flex-direction: column;
+  }
+}
+
+/* ── Compass sidebar ── */
+.compass-sidebar {
+  width: 200px;
+  flex-shrink: 0;
+  background: var(--paper-raised);
+  border-right: 1px solid var(--rule);
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  font-family: var(--font-serif);
+  overflow-y: auto;
+}
+
+.compass-sidebar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 12px;
+}
+
+.compass-sidebar-title {
+  font-family: var(--font-display);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.compass-sidebar-btn {
+  width: 26px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--paper-deep);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  cursor: pointer;
+  color: var(--ink-mute);
+  font-size: 14px;
+  transition: background 120ms ease;
+}
+
+.compass-sidebar-btn:hover {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.compass-sidebar-section {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.compass-sidebar-section-title {
+  font-family: var(--font-mono);
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--ink-mute);
+  padding-bottom: 5px;
+  border-bottom: 1px solid var(--rule-soft);
+}
+
+.compass-sidebar-check {
+  font-size: 12px;
+  color: var(--ink-soft);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+
+.compass-sidebar-check input[type="checkbox"] {
+  accent-color: var(--ink-soft);
+  width: 13px;
+  height: 13px;
+  cursor: pointer;
+}
+
+.compass-sidebar-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.compass-sidebar-arrow {
+  display: inline-block;
+  width: 14px;
+  height: 0;
+  border-top: 1.5px solid #3d3d3d;
+  flex-shrink: 0;
+}
+
+.compass-sidebar-select {
+  font-family: var(--font-serif);
+  font-size: 12px;
+  color: var(--ink-soft);
+  background: var(--paper-cream);
+  border: 1px solid var(--rule);
+  padding: 5px 8px;
+  border-radius: 2px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.compass-sidebar-guide {
+  margin-top: auto;
+  padding-top: 12px;
+  border-top: 1px solid var(--rule-soft);
+}
+
+.compass-sidebar-guide-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  color: var(--ink-soft);
+}
+
+.compass-sidebar-hint {
+  font-size: 11px;
+  font-style: italic;
+  color: var(--ink-faint);
+  margin: 0;
+}
+
+@media (max-width: 639px) {
+  .compass-sidebar {
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+    border-right: none;
+    border-top: 1px solid var(--rule);
+    padding: 10px 14px;
+  }
+
+  .compass-sidebar-header {
+    width: 100%;
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .compass-sidebar-section {
+    flex: 1 1 140px;
+    margin-bottom: 0;
+  }
+
+  .compass-sidebar-guide {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
+  }
+}
+
+/* ── Modal fullscreen del compass ── */
+.compass-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgb(26 21 16 / 0.55);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  animation: backdrop-in 220ms ease-out;
+}
+
+@keyframes backdrop-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+.compass-modal-panel {
+  background: var(--paper-cream);
+  border: 1px solid var(--rule);
+  box-shadow: var(--shadow-float);
+  width: min(1400px, 100%);
+  height: min(100vh - 48px, 1100px);
+  position: relative;
+  overflow: hidden;
+  animation: panel-in 260ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  display: flex;
+  flex-direction: column;
+}
+
+@keyframes panel-in {
+  from { opacity: 0; transform: scale(0.96); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+.compass-modal-header {
+  padding: 20px 28px;
+  border-bottom: 1px solid var(--rule);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--paper);
+}
+
+.compass-modal-title {
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0;
+}
+
+.compass-modal-subtitle {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 13px;
+  color: var(--ink-mute);
+  margin-top: 2px;
+}
+
+.compass-modal-body {
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 0;
+}
+
+.compass-modal-canvas {
+  position: relative;
+  overflow: hidden;
+  border-right: 1px solid var(--rule);
+}
+
+.compass-modal-sidebar {
+  overflow-y: auto;
+  padding: 20px 24px;
+  background: var(--paper-raised);
+}
+
+.compass-modal-sidebar-section {
+  margin-bottom: 24px;
+}
+
+.compass-modal-sidebar-section:last-child { margin-bottom: 0; }
+
+/* ═════════════════════════════════════════════════════════════
+   Compass — responsive
+   ═════════════════════════════════════════════════════════════ */
+
+/* ── Mobile (< 640px) ── */
+@media (max-width: 639px) {
+  .compass-wrap {
+    aspect-ratio: 4 / 5;
+  }
+
+  .compass-legend {
+    flex-direction: column;
+    gap: 6px;
+    padding: 8px 12px;
+    font-size: 11px;
+    bottom: 8px;
+    left: 8px;
+  }
+
+  .compass-controls {
+    top: 8px;
+    right: 8px;
+  }
+
+  .compass-control-btn {
+    width: 44px;
+    height: 44px;
+    font-size: 20px;
+  }
+
+  .compass-tooltip {
+    min-width: 200px;
+    max-width: 280px;
+    padding: 10px 14px;
+    font-size: 13px;
+  }
+
+  .compass-modal-backdrop {
+    padding: 0;
+  }
+
+  .compass-modal-panel {
+    width: 100%;
+    height: 100dvh;
+    border: none;
+    border-radius: 0;
+    animation-name: none;
+  }
+
+  .compass-modal-header {
+    padding: 12px 16px;
+  }
+
+  .compass-modal-title {
+    font-size: 18px;
+  }
+
+  .compass-modal-body {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+
+  .compass-modal-canvas {
+    border-right: none;
+  }
+
+  .compass-modal-sidebar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-height: 60dvh;
+    border-top: 1px solid var(--rule);
+    border-radius: 12px 12px 0 0;
+    box-shadow: 0 -4px 24px rgb(0 0 0 / 0.12);
+    z-index: 110;
+    overscroll-behavior: contain;
+  }
+
+  .compass-controls-close {
+    top: 12px;
+    right: 12px;
+    width: 40px;
+    height: 40px;
+  }
+}
+
+/* ── Tablet (640px - 1023px) ── */
+@media (min-width: 640px) and (max-width: 1023px) {
+  .compass-modal-body {
+    grid-template-columns: 1fr 260px;
+  }
+
+  .compass-modal-sidebar {
+    padding: 16px 18px;
+  }
+
+  .compass-modal-panel {
+    height: min(100vh - 32px, 900px);
+  }
+}
+
+/* ═════════════════════════════════════════════════════════════
+   Helpers
+   ═════════════════════════════════════════════════════════════ */
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Caja con small-caps newspaper-style */
+.smallcaps {
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+}
+
+/* Columnas editoriales */
+.editorial-columns {
+  column-count: 1;
+  column-gap: 2rem;
+}
+
+@media (min-width: 768px) {
+  .editorial-columns-2 { column-count: 2; }
+  .editorial-columns-3 { column-count: 3; }
+}
+
+/* ═════════════════════════════════════════════════════════════
+   Reduced motion
+   ═════════════════════════════════════════════════════════════ */
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
