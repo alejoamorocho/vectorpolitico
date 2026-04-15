@@ -41,7 +41,6 @@ const DEFAULT_LAYERS: CompassLayers = {
   grid: true,
   axes: true,
   entities: true,
-  ellipses: false,
   arrows: true,
   quadrantLabels: true,
 };
@@ -63,9 +62,19 @@ export default function Compass({
   const size = fixedSize ?? dynamicSize;
 
   const scales = useMemo(() => createScales(size), [size]);
+  const [showScrollHint, setShowScrollHint] = useState(false);
+  const scrollHintTimer = useRef<ReturnType<typeof setTimeout>>();
+
+  const handleScrollHint = useCallback(() => {
+    setShowScrollHint(true);
+    clearTimeout(scrollHintTimer.current);
+    scrollHintTimer.current = setTimeout(() => setShowScrollHint(false), 2000);
+  }, []);
+
   const { transform, reset, zoomIn, zoomOut } = useCompassZoom(svgRef, {
     minScale: 1,
     maxScale: 12,
+    onScrollHint: handleScrollHint,
   });
 
   const [tooltip, setTooltip] = useState<TooltipState>(null);
@@ -204,7 +213,6 @@ export default function Compass({
                 entities={entities}
                 scales={scales}
                 focusedId={focusedId}
-                showEllipses={layers.ellipses}
                 showArrows={layers.arrows}
                 onHover={handleEntityHover}
                 onClick={handleEntityClickInternal}
@@ -290,6 +298,37 @@ export default function Compass({
           </div>
         )}
       </div>
+
+      {/* Scroll hint overlay */}
+      {showScrollHint && (
+        <div
+          style={{
+            position: 'absolute',
+            inset: 0,
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            background: 'rgb(26 21 16 / 0.6)',
+            zIndex: 20,
+            pointerEvents: 'none',
+            animation: 'tooltip-in 180ms ease-out',
+          }}
+        >
+          <p
+            style={{
+              color: '#fdfaf1',
+              fontFamily: 'var(--font-serif)',
+              fontSize: 14,
+              fontStyle: 'italic',
+              background: 'rgb(26 21 16 / 0.85)',
+              padding: '10px 20px',
+              border: '1px solid rgba(212 202 176 / 0.3)',
+            }}
+          >
+            Usa <strong>Ctrl + scroll</strong> para hacer zoom en el mapa
+          </p>
+        </div>
+      )}
 
       {/* Controles de zoom (solo en modalMode) */}
       {modalMode && !readOnly && (
