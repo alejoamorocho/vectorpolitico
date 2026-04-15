@@ -1,0 +1,318 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import {
+  getAllEntities,
+  getEntityBySlug,
+  getPartyBySlug,
+  getAllIdeologies,
+} from '@/lib/data';
+import Compass from '@/components/compass/Compass';
+import { entityTypeLabel } from '@/lib/i18n';
+
+export async function getStaticPaths() {
+  return getAllEntities().map((e) => ({
+    params: { slug: e.id },
+    props: { entityId: e.id },
+  }));
+}
+
+const { slug } = Astro.params;
+const entity = getEntityBySlug(slug!);
+
+if (!entity) {
+  return Astro.redirect('/404');
+}
+
+const party = entity.party ? getPartyBySlug(entity.party) : undefined;
+const ideologies = getAllIdeologies();
+
+const delta = Math.hypot(
+  entity.compassSelfPerceived.x - entity.compassEvidenced.x,
+  entity.compassSelfPerceived.y - entity.compassEvidenced.y,
+);
+
+const miniEntity = {
+  id: entity.id,
+  country: entity.country,
+  type: entity.type,
+  displayName: entity.displayName,
+  photoUrl: entity.photoUrl,
+  party: entity.party,
+  periods: entity.periods,
+  compassSelfPerceived: { x: entity.compassSelfPerceived.x, y: entity.compassSelfPerceived.y },
+  compassEvidenced: {
+    x: entity.compassEvidenced.x,
+    y: entity.compassEvidenced.y,
+    confidence: entity.compassEvidenced.confidence,
+  },
+  delta,
+  incoherenceCount: entity.incoherences.length,
+};
+
+const deltaLabel =
+  delta < 3 ? 'alta' : delta < 6 ? 'media' : delta < 10 ? 'baja' : 'severa';
+
+const dimensions = [
+  { key: 'fiscalPolicy', label: 'Política fiscal', axis: 'X' },
+  { key: 'marketPosition', label: 'Posición frente al mercado', axis: 'X' },
+  { key: 'socialPolicy', label: 'Política social', axis: 'X' },
+  { key: 'tradePolicy', label: 'Comercio exterior', axis: 'X' },
+  { key: 'civilRights', label: 'Derechos civiles', axis: 'Y' },
+  { key: 'securityApproach', label: 'Aproximación a seguridad', axis: 'Y' },
+  { key: 'socialRights', label: 'Derechos sociales', axis: 'Y' },
+  { key: 'powerConcentration', label: 'Concentración de poder', axis: 'Y' },
+] as const;
+
+---
+
+<BaseLayout title={entity.displayName} description={entity.bio.slice(0, 160)}>
+  <!-- Page header tipo byline de periódico -->
+  <div class="page-header">
+    <div class="page-header-inner">
+      <a
+        href="/figuras"
+        class="section-byline section-byline--sm"
+        style="text-decoration: none; display: inline-block; margin-bottom: 1rem;"
+      >
+        ← Todas las figuras
+      </a>
+      <p class="section-kicker">{entityTypeLabel(entity.type)}</p>
+      <h1 style="margin-top: 0.5rem; font-size: clamp(3rem, 6vw, 5.5rem);">
+        {entity.displayName}
+      </h1>
+      <p class="page-lead" style="margin-top: 0.5rem;">
+        <em>{entity.fullName}</em>
+        {party && (
+          <>
+            <span style="margin: 0 0.6em; color: var(--rule);">·</span>
+            <a href={`/partidos/${party.id}`} style="color: var(--ink-mute); text-decoration: none;">
+              <span style={`display: inline-block; width: 9px; height: 9px; border-radius: 50%; background: ${party.color}; vertical-align: middle; margin-right: 6px;`}></span>
+              {party.name}
+            </a>
+          </>
+        )}
+      </p>
+    </div>
+  </div>
+
+  <article class="mx-auto max-w-[1400px] px-6">
+    <!-- Grid principal: biografía + columna stats -->
+    <div class="grid lg:grid-cols-[1.4fr_1fr] gap-12 lg:gap-16">
+      <!-- Columna izquierda: biografía editorial con drop cap -->
+      <div>
+        <p class="section-kicker mb-3">Biografía</p>
+        <p class="dropcap prose-editorial">{entity.bio}</p>
+
+        <div class="mt-12">
+          <p class="section-kicker mb-4">Trayectoria</p>
+          <ul class="space-y-0" style="list-style: none; padding: 0;">
+            {entity.periods.map((p) => (
+              <li class="grid grid-cols-[140px_auto_1fr] gap-4 py-3" style="border-bottom: 1px solid var(--rule);">
+                <span style="font-family: var(--font-mono); font-size: 12px; color: var(--ink-mute); letter-spacing: 0.05em;">
+                  {p.startDate.slice(0, 4)}–{p.endDate ? p.endDate.slice(0, 4) : 'actual'}
+                </span>
+                <span style="font-family: var(--font-display); font-size: 17px; font-weight: 600; color: var(--ink);">
+                  {entityTypeLabel(p.role)}
+                </span>
+                <span class="section-byline section-byline--sm">
+                  {p.region && <em>{p.region}</em>}
+                  {p.electedWith && <span style="margin-left: 0.5em;">({p.electedWith}%)</span>}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      <!-- Columna derecha: aside con stats -->
+      <aside>
+        <div class="border-t-2" style="border-color: var(--ink); padding-top: 1.5rem;">
+          <p class="section-kicker mb-4">Coherencia</p>
+          <p style="font-family: var(--font-display); font-size: 88px; font-weight: 700; line-height: 0.9; color: var(--ink); margin: 0;">
+            Δ{delta.toFixed(1)}
+          </p>
+          <p class="section-byline mt-2">coherencia <em>{deltaLabel}</em></p>
+        </div>
+
+        <div class="mt-8 border-t pt-5" style="border-color: var(--rule);">
+          <p class="section-kicker mb-2">Confianza evidenciada</p>
+          <p style="font-family: var(--font-display); font-size: 28px; font-weight: 600; text-transform: capitalize; color: var(--ink); margin: 0;">
+            {entity.compassEvidenced.confidence}
+          </p>
+        </div>
+
+        <div class="mt-8 border-t pt-5" style="border-color: var(--rule);">
+          <p class="section-kicker mb-3">Coordenadas</p>
+          <table style="width: 100%; font-family: var(--font-mono); font-size: 12px;">
+            <tr>
+              <td style="padding: 0.4em 0; color: var(--self); font-weight: 600;">● Autopercibido</td>
+              <td style="text-align: right; color: var(--ink-soft);">
+                ({entity.compassSelfPerceived.x.toFixed(1)}, {entity.compassSelfPerceived.y.toFixed(1)})
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 0.4em 0; color: var(--evidenced); font-weight: 600;">● Evidenciado</td>
+              <td style="text-align: right; color: var(--ink-soft);">
+                ({entity.compassEvidenced.x.toFixed(1)}, {entity.compassEvidenced.y.toFixed(1)})
+              </td>
+            </tr>
+          </table>
+        </div>
+      </aside>
+    </div>
+
+    <!-- Rule ornament -->
+    <div class="rule-ornament">
+      <span class="rule-ornament-glyph">❦</span>
+    </div>
+
+    <!-- Compass individual -->
+    <section class="my-12">
+      <div class="text-center mb-8">
+        <p class="section-kicker">Su posición en el mapa</p>
+        <h2 style="margin-top: 4px;">El punto y la flecha</h2>
+        <p class="section-byline mt-2">
+          <em>Lo que dice ser contra lo que sus acciones revelan</em>
+        </p>
+      </div>
+      <div class="mx-auto" style="max-width: 680px;">
+        <Compass
+          ideologies={ideologies}
+          entities={[miniEntity]}
+          fixedSize={640}
+          readOnly
+          client:visible
+        />
+      </div>
+    </section>
+
+    <!-- Rule ornament -->
+    <div class="rule-ornament">
+      <span class="rule-ornament-glyph">§</span>
+    </div>
+
+    <!-- Dimensiones -->
+    <section class="my-12">
+      <div class="mb-8 pb-4" style="border-bottom: 2px solid var(--ink);">
+        <p class="section-kicker mb-2">Parte I</p>
+        <h2>Las ocho dimensiones</h2>
+        <p class="section-byline mt-2">Score evidenciado por área de política pública</p>
+      </div>
+
+      <div class="grid md:grid-cols-2 gap-x-12 gap-y-4">
+        {dimensions.map((d) => {
+          const value = entity.compassEvidenced.dimensionScores[d.key];
+          const pct = ((value + 10) / 20) * 100;
+          return (
+            <div>
+              <div class="flex items-baseline justify-between mb-2">
+                <span style="font-family: var(--font-display); font-size: 17px; font-weight: 600; color: var(--ink);">
+                  {d.label}
+                </span>
+                <span style="font-family: var(--font-mono); font-size: 14px; color: var(--ink);">
+                  {value > 0 ? '+' : ''}{value.toFixed(1)}
+                </span>
+              </div>
+              <div style="position: relative; height: 8px; background: var(--paper-deep); border: 1px solid var(--rule);">
+                <div style="position: absolute; top: 0; bottom: 0; left: 50%; width: 1px; background: var(--ink); opacity: 0.4;"></div>
+                <div style={`position: absolute; top: 50%; transform: translate(-50%, -50%); left: ${pct}%; width: 14px; height: 14px; border-radius: 50%; background: var(--ink); border: 2px solid var(--paper-cream);`}></div>
+              </div>
+              <div class="flex justify-between mt-1" style="font-family: var(--font-mono); font-size: 10px; color: var(--ink-faint); letter-spacing: 0.05em;">
+                <span>−10</span>
+                <span>0</span>
+                <span>+10</span>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </section>
+
+    <!-- Rule ornament -->
+    <div class="rule-ornament">
+      <span class="rule-ornament-glyph">◊</span>
+    </div>
+
+    <!-- Justificaciones -->
+    <section class="my-12">
+      <div class="mb-8 pb-4" style="border-bottom: 2px solid var(--ink);">
+        <p class="section-kicker mb-2">Parte II</p>
+        <h2>El dicho y el hecho</h2>
+        <p class="section-byline mt-2">Justificación editorial de cada posicionamiento</p>
+      </div>
+
+      <div class="grid md:grid-cols-2 gap-10">
+        <div>
+          <div class="flex items-center gap-3 mb-3">
+            <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background: var(--self); border: 2px solid var(--paper-cream); box-shadow: 0 0 0 1px var(--self);"></span>
+            <p class="section-kicker" style="margin: 0;">Autopercibido</p>
+          </div>
+          <p style="font-family: var(--font-mono); font-size: 13px; color: var(--ink-mute); margin-bottom: 1rem;">
+            ({entity.compassSelfPerceived.x.toFixed(1)}, {entity.compassSelfPerceived.y.toFixed(1)})
+          </p>
+          <p class="prose-editorial" style="font-size: 16px; max-width: none;">
+            {entity.compassSelfPerceived.justification}
+          </p>
+        </div>
+        <div>
+          <div class="flex items-center gap-3 mb-3">
+            <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background: var(--evidenced); border: 2px solid var(--paper-cream); box-shadow: 0 0 0 1px var(--evidenced);"></span>
+            <p class="section-kicker" style="margin: 0;">Evidenciado</p>
+          </div>
+          <p style="font-family: var(--font-mono); font-size: 13px; color: var(--ink-mute); margin-bottom: 1rem;">
+            ({entity.compassEvidenced.x.toFixed(1)}, {entity.compassEvidenced.y.toFixed(1)})
+          </p>
+          <p class="prose-editorial" style="font-size: 16px; max-width: none;">
+            {entity.compassEvidenced.justification}
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Incoherencias -->
+    {entity.incoherences.length > 0 ? (
+      <section class="my-12">
+        <div class="rule-ornament">
+          <span class="rule-ornament-glyph">¶</span>
+        </div>
+        <div class="mb-8 pb-4" style="border-bottom: 2px solid var(--ink);">
+          <p class="section-kicker mb-2">Parte III</p>
+          <h2>Incoherencias documentadas</h2>
+        </div>
+        <ul style="list-style: none; padding: 0;">
+          {entity.incoherences.map((inc) => (
+            <li class="card-editorial mb-4">
+              <div class="flex items-center gap-3 mb-3">
+                <span class="section-kicker">{inc.category}</span>
+                <span style="color: var(--rule);">·</span>
+                <span class="section-kicker" style={`color: var(--evidenced);`}>severidad {inc.severity}</span>
+              </div>
+              <div class="grid md:grid-cols-2 gap-6 mt-4">
+                <div>
+                  <p class="section-kicker mb-2" style="color: var(--self);">Promesa</p>
+                  <p class="prose-editorial" style="font-size: 15px;">{inc.proposal.text}</p>
+                </div>
+                <div>
+                  <p class="section-kicker mb-2" style="color: var(--evidenced);">Acción</p>
+                  <p class="prose-editorial" style="font-size: 15px;">{inc.action.text}</p>
+                </div>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ) : (
+      <section class="my-12 card-editorial text-center">
+        <p class="section-byline">
+          <em>Sin incoherencias documentadas aún. ¿Conoces alguna?</em>
+          <a href="/contribuir" style="margin-left: 0.5em; color: var(--ink); text-decoration: underline; text-decoration-color: var(--rule);">Contribuye →</a>
+        </p>
+      </section>
+    )}
+
+    <!-- Meta -->
+    <footer class="mt-16 mb-16 pt-6" style="border-top: 1px solid var(--rule); font-family: var(--font-serif); font-style: italic; font-size: 13px; color: var(--ink-mute);">
+      <p>Última actualización: {entity.lastUpdated}. Contribuyentes: <em>{entity.contributors.join(', ')}</em>.</p>
+    </footer>
+  </article>
+</BaseLayout>

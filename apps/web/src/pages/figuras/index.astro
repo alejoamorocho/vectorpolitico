@@ -1,0 +1,91 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getCompassSummary, getAllParties } from '@/lib/data';
+import { entityTypeLabelPlural } from '@/lib/i18n';
+
+const entities = getCompassSummary();
+const parties = getAllParties();
+const partyMap = new Map(parties.map((p) => [p.id, p]));
+
+const byType = entities.reduce<Record<string, typeof entities>>((acc, e) => {
+  (acc[e.type] ??= []).push(e);
+  return acc;
+}, {});
+
+
+const typeOrder = [
+  'president',
+  'presidential_candidate',
+  'senator',
+  'representative',
+  'governor',
+  'mayor',
+];
+---
+
+<BaseLayout title="Figuras" description="Índice completo de figuras políticas documentadas en La Brújula.">
+  <div class="page-header">
+    <div class="page-header-inner">
+      <p class="section-kicker">Sección</p>
+      <h1 style="margin-top: 0.5rem;">Figuras</h1>
+      <p class="page-lead">
+        <em>{entities.length} figuras documentadas en esta edición</em>. Cada una con su posición en
+        el mapa y su índice de coherencia.
+      </p>
+    </div>
+  </div>
+
+  <section class="mx-auto max-w-[1400px] px-6 pb-20">
+    {typeOrder.map((type, idx) => {
+      const list = byType[type];
+      if (!list || list.length === 0) return null;
+      return (
+        <>
+          {idx > 0 && (
+            <div class="rule-ornament">
+              <span class="rule-ornament-glyph">§</span>
+            </div>
+          )}
+          <div class="mb-6 pb-4" style="border-bottom: 2px solid var(--ink);">
+            <div class="flex items-baseline justify-between flex-wrap gap-2">
+              <h2>{entityTypeLabelPlural(type)}</h2>
+              <p class="section-byline section-byline--sm"><em>{list.length} figura(s)</em></p>
+            </div>
+          </div>
+          <ul class="mb-16" style="list-style: none; padding: 0;">
+            {list.map((e) => {
+              const party = e.party ? partyMap.get(e.party) : undefined;
+              return (
+                <li>
+                  <a
+                    href={`/figuras/${e.id}`}
+                    class="grid grid-cols-[1fr_auto] md:grid-cols-[1fr_auto_auto] items-baseline gap-4 md:gap-8 py-5"
+                    style="text-decoration: none; color: var(--ink); border-bottom: 1px solid var(--rule);"
+                  >
+                    <div class="min-w-0">
+                      <p style="font-family: var(--font-display); font-size: 24px; font-weight: 600; line-height: 1.15; margin: 0;">
+                        {e.displayName}
+                      </p>
+                      {party && (
+                        <p class="section-byline section-byline--sm mt-1">
+                          <span style={`display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: ${party.color}; vertical-align: middle; margin-right: 6px;`}></span>
+                          <em>{party.name}</em>
+                        </p>
+                      )}
+                    </div>
+                    <span class="hidden md:inline" style="font-family: var(--font-mono); font-size: 12px; color: var(--ink-mute);">
+                      ({e.compassSelfPerceived.x.toFixed(1)}, {e.compassSelfPerceived.y.toFixed(1)}) → ({e.compassEvidenced.x.toFixed(1)}, {e.compassEvidenced.y.toFixed(1)})
+                    </span>
+                    <span style="font-family: var(--font-display); font-size: 26px; font-weight: 700; color: var(--ink);">
+                      Δ{e.delta.toFixed(1)}
+                    </span>
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+        </>
+      );
+    })}
+  </section>
+</BaseLayout>

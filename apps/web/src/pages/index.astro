@@ -1,0 +1,279 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompassWithModal from '@/components/compass/CompassWithModal';
+import { entityTypeLabel } from '@/lib/i18n';
+import {
+  getAllIdeologies,
+  getCompassSummary,
+  getAllEntities,
+  getAllParties,
+} from '@/lib/data';
+
+const ideologies = getAllIdeologies();
+const entities = getCompassSummary();
+const allEntities = getAllEntities();
+const parties = getAllParties();
+const partyMap = new Map(parties.map((p) => [p.id, p]));
+
+const sortedEntities = [...entities].sort((a, b) => b.delta - a.delta);
+const featured = sortedEntities.slice(0, 3);
+const rest = sortedEntities.slice(3);
+---
+
+<BaseLayout
+  title="La Brújula"
+  description="Gaceta política de Colombia — propuestas contra la realidad, con fuentes primarias."
+>
+  <!-- ═══════════════════ LEDE ═══════════════════ -->
+  <section class="mx-auto max-w-[1400px] px-6 pt-12 pb-8">
+    <div class="grid lg:grid-cols-[1.3fr_1fr] gap-12 lg:gap-16 items-start">
+      <!-- Lede editorial -->
+      <div class="max-w-2xl">
+        <p class="section-kicker mb-4">Editorial · Colombia · V1</p>
+        <h1 class="mb-6" style="font-family: var(--font-display); font-weight: 800; font-size: clamp(2.75rem, 5.5vw, 5rem); line-height: 0.94;">
+          ¿Dónde <em style="font-weight: 600;">dice</em>
+          <br/>que está?
+          <br/><span style="color: var(--ink-mute); font-weight: 500;">¿Dónde está
+          <br/><em>realmente</em>?</span>
+        </h1>
+
+        <p class="dropcap" style="font-family: var(--font-serif); font-size: 17px; line-height: 1.65; color: var(--ink-soft); max-width: 56ch;">
+          En Colombia la política suele reducirse a dos o tres nombres y a un par de consignas.
+          <em>La Brújula</em> propone una medida distinta: cada figura se ubica en el mapa ideológico
+          con <strong>dos puntos</strong> — lo que dice ser, lo que sus votaciones y decretos
+          revelan — y la distancia entre ambos es un índice de coherencia. Los 131 lugares del mapa
+          provienen del <em>Political Compass</em> detallado; las posiciones, de fuentes primarias
+          verificables.
+        </p>
+
+        <div class="mt-8 flex flex-wrap gap-3">
+          <a
+            href="/metodologia/compass-scoring"
+            style="display: inline-flex; align-items: center; gap: 8px; padding: 10px 20px; background: var(--ink); color: var(--paper-cream); font-family: var(--font-serif); font-size: 14px; font-style: italic; text-decoration: none; border: 1px solid var(--ink);"
+          >
+            Leer la metodología
+          </a>
+          <a
+            href="/contribuir"
+            style="display: inline-flex; align-items: center; gap: 8px; padding: 10px 20px; background: transparent; color: var(--ink); font-family: var(--font-serif); font-size: 14px; font-style: italic; text-decoration: none; border: 1px solid var(--ink);"
+          >
+            Contribuir
+          </a>
+        </div>
+      </div>
+
+      <!-- Aside: stats + índice -->
+      <aside>
+        <div class="border-t border-[var(--ink)] pt-6">
+          <p class="section-kicker mb-4">La cifra del día</p>
+          <div class="grid grid-cols-3 gap-0">
+            <div class="pr-4 border-r border-[var(--rule)]">
+              <p style="font-family: var(--font-display); font-size: 40px; font-weight: 700; line-height: 1; color: var(--ink);">
+                {ideologies.length}
+              </p>
+              <p style="font-family: var(--font-serif); font-style: italic; font-size: 12px; color: var(--ink-mute); margin-top: 4px;">
+                ideologías
+              </p>
+            </div>
+            <div class="pl-4 pr-4 border-r border-[var(--rule)]">
+              <p style="font-family: var(--font-display); font-size: 40px; font-weight: 700; line-height: 1; color: var(--ink);">
+                {allEntities.length}
+              </p>
+              <p style="font-family: var(--font-serif); font-style: italic; font-size: 12px; color: var(--ink-mute); margin-top: 4px;">
+                figuras
+              </p>
+            </div>
+            <div class="pl-4">
+              <p style="font-family: var(--font-display); font-size: 40px; font-weight: 700; line-height: 1; color: var(--ink);">
+                {parties.length}
+              </p>
+              <p style="font-family: var(--font-serif); font-style: italic; font-size: 12px; color: var(--ink-mute); margin-top: 4px;">
+                partidos
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-8 border-t border-[var(--rule)] pt-6">
+          <p class="section-kicker mb-3">En esta edición</p>
+          <ul class="space-y-2 text-sm" style="font-family: var(--font-serif);">
+            <li><a href="#el-mapa" style="color: var(--ink-soft); text-decoration: none; font-style: italic;">→ El mapa político</a></li>
+            <li><a href="#figuras-destacadas" style="color: var(--ink-soft); text-decoration: none; font-style: italic;">→ Figuras destacadas</a></li>
+            <li><a href="#todas-las-figuras" style="color: var(--ink-soft); text-decoration: none; font-style: italic;">→ Índice completo</a></li>
+            <li><a href="/metodologia" style="color: var(--ink-soft); text-decoration: none; font-style: italic;">→ La metodología</a></li>
+          </ul>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ═══════════════════ EL MAPA ═══════════════════ -->
+  <section id="el-mapa" class="mx-auto max-w-[1400px] px-6 py-12">
+    <div class="rule-ornament">
+      <span class="rule-ornament-glyph">❦</span>
+    </div>
+
+    <div class="text-center mb-6">
+      <p class="section-kicker">Parte I</p>
+      <h2 style="margin-top: 4px;">El mapa político</h2>
+      <p class="section-byline mt-2">Click sobre el mapa para expandirlo y explorar las {ideologies.length} corrientes</p>
+    </div>
+
+    <div class="mx-auto max-w-[820px] lg:max-w-[1000px]">
+      <CompassWithModal
+        ideologies={ideologies}
+        entities={entities}
+        parties={parties}
+        client:visible
+      />
+    </div>
+
+    <p class="text-center section-byline mt-4">
+      Fuente: <em>Political Compass Memes</em> detailed grid · generado con squarified treemap
+    </p>
+  </section>
+
+  <!-- ═══════════════════ FIGURAS DESTACADAS ═══════════════════ -->
+  <section id="figuras-destacadas" class="mx-auto max-w-[1400px] px-6 py-12">
+    <div class="rule-ornament">
+      <span class="rule-ornament-glyph">§</span>
+    </div>
+
+    <div class="flex items-end justify-between flex-wrap gap-4 mb-10 pb-4" style="border-bottom: 2px solid var(--ink);">
+      <div>
+        <p class="section-kicker mb-2">Parte II</p>
+        <h2>Las mayores distancias</h2>
+      </div>
+      <p class="section-byline">entre el dicho y el hecho</p>
+    </div>
+
+    <div class="grid md:grid-cols-3 gap-8">
+      {featured.map((e, idx) => {
+        const party = e.party ? partyMap.get(e.party) : undefined;
+        const deltaLabel =
+          e.delta < 3 ? 'alta' : e.delta < 6 ? 'media' : e.delta < 10 ? 'baja' : 'severa';
+        return (
+          <article>
+            <div class="flex items-baseline gap-3 mb-2">
+              <span style="font-size: 28px; color: var(--ink-faint); font-family: var(--font-display); font-weight: 700;">
+                {String(idx + 1).padStart(2, '0')}
+              </span>
+              <p class="section-kicker">{entityTypeLabel(e.type)}</p>
+            </div>
+            <h3 style="font-size: 28px; line-height: 1.05; margin-bottom: 6px;">
+              <a href={`/figuras/${e.id}`} style="color: var(--ink); text-decoration: none;">
+                {e.displayName}
+              </a>
+            </h3>
+            {party && (
+              <p class="section-byline flex items-center gap-2">
+                <span style={`display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: ${party.color};`}></span>
+                {party.name}
+              </p>
+            )}
+            <div class="mt-4 pt-4" style="border-top: 1px solid var(--rule);">
+              <p class="section-kicker">Delta coherencia</p>
+              <div class="flex items-baseline gap-3 mt-1">
+                <p style="font-family: var(--font-display); font-size: 38px; font-weight: 700; line-height: 1; color: var(--ink);">
+                  {e.delta.toFixed(1)}
+                </p>
+                <p class="section-byline">coherencia {deltaLabel}</p>
+              </div>
+            </div>
+          </article>
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- ═══════════════════ ÍNDICE COMPLETO ═══════════════════ -->
+  <section id="todas-las-figuras" class="mx-auto max-w-[1400px] px-6 py-12">
+    <div class="rule-ornament">
+      <span class="rule-ornament-glyph">◊</span>
+    </div>
+
+    <div class="flex items-end justify-between flex-wrap gap-4 mb-8 pb-4" style="border-bottom: 2px solid var(--ink);">
+      <div>
+        <p class="section-kicker mb-2">Parte III</p>
+        <h2>Índice completo</h2>
+      </div>
+      <a href="/figuras" class="section-byline" style="text-decoration: none; color: var(--ink);">
+        Ver todas →
+      </a>
+    </div>
+
+    <ul class="divide-y divide-[var(--rule)]">
+      {rest.map((e) => {
+        const party = e.party ? partyMap.get(e.party) : undefined;
+        return (
+          <li>
+            <a
+              href={`/figuras/${e.id}`}
+              class="grid grid-cols-[140px_1fr_auto_auto] items-baseline gap-6 py-4"
+              style="text-decoration: none; color: var(--ink);"
+            >
+              <span class="section-kicker">{entityTypeLabel(e.type)}</span>
+              <div>
+                <span style="font-family: var(--font-display); font-size: 20px; font-weight: 600;">
+                  {e.displayName}
+                </span>
+                {party && (
+                  <span class="section-byline" style="margin-left: 10px;">
+                    <span style={`display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: ${party.color}; vertical-align: middle; margin-right: 5px;`}></span>
+                    {party.name}
+                  </span>
+                )}
+              </div>
+              <span style="font-family: var(--font-mono); font-size: 11px; color: var(--ink-mute);">
+                ({e.compassSelfPerceived.x.toFixed(1)}, {e.compassSelfPerceived.y.toFixed(1)}) → ({e.compassEvidenced.x.toFixed(1)}, {e.compassEvidenced.y.toFixed(1)})
+              </span>
+              <span style="font-family: var(--font-display); font-size: 22px; font-weight: 700; color: var(--ink);">
+                Δ {e.delta.toFixed(1)}
+              </span>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+  </section>
+
+  <!-- ═══════════════════ METODOLOGIA ═══════════════════ -->
+  <section class="mx-auto max-w-[1400px] px-6 py-16">
+    <div class="rule-ornament">
+      <span class="rule-ornament-glyph">¶</span>
+    </div>
+
+    <div class="grid md:grid-cols-[1fr_1fr] gap-16 items-start">
+      <div>
+        <p class="section-kicker mb-3">Nota metodológica</p>
+        <h2 class="mb-6">Hechos,<br/><em>no opiniones.</em></h2>
+        <p style="font-family: var(--font-serif); font-size: 17px; line-height: 1.65; color: var(--ink-soft); max-width: 55ch;">
+          Toda posición en el mapa se justifica con <strong>fuentes primarias verificables</strong>:
+          votaciones del Congreso, decretos, ejecución presupuestal. Sin redes sociales, sin opinión
+          disfrazada de dato. Cuando la evidencia es insuficiente, el mapa lo dice explícitamente
+          mediante el nivel de confianza.
+        </p>
+      </div>
+      <div>
+        {[
+          { title: 'Scoring del compass', desc: 'Ocho dimensiones, pesos explícitos, fórmula auditable por cualquier lector.', href: '/metodologia/compass-scoring' },
+          { title: 'Estándar de incoherencias', desc: 'Cinco requisitos obligatorios. Sin esos, el dato no se publica.', href: '/metodologia/incoherence-standard' },
+          { title: 'Fuentes de datos', desc: 'Qué contamos como evidencia primaria en Colombia.', href: '/metodologia/data-sources' },
+          { title: 'Cómo funciona el mapa', desc: 'Capas, filtros, zoom, enlaces externos y todo lo demás.', href: '/metodologia/how-it-works' },
+        ].map((item, i) => (
+          <a
+            href={item.href}
+            class="block card-editorial"
+            style={`text-decoration: none; ${i > 0 ? 'border-top: none;' : ''}`}
+          >
+            <p class="section-kicker mb-1">Capítulo {String(i + 1).padStart(2, '0')}</p>
+            <h4 style="font-family: var(--font-display); font-size: 22px; font-weight: 600; margin: 0;">
+              {item.title}
+            </h4>
+            <p class="section-byline mt-2" style="font-size: 14px;">{item.desc}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
