@@ -1,0 +1,163 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { entityTypeLabel } from '@/lib/i18n';
+import Compass from '@/components/compass/Compass';
+import {
+  getAllParties,
+  getPartyBySlug,
+  getEntitiesByParty,
+  getAllIdeologies,
+  getCompassSummary,
+} from '@/lib/data';
+
+export async function getStaticPaths() {
+  return getAllParties().map((p) => ({
+    params: { slug: p.id },
+    props: { partyId: p.id },
+  }));
+}
+
+const { slug } = Astro.params;
+const party = getPartyBySlug(slug!);
+
+if (!party) {
+  return Astro.redirect('/404');
+}
+
+const ideologies = getAllIdeologies();
+const members = getEntitiesByParty(party.id);
+const summaries = getCompassSummary().filter((s) => s.party === party.id);
+---
+
+<BaseLayout title={party.name} description={party.description.slice(0, 160)}>
+  <div class="page-header">
+    <div class="page-header-inner">
+      <a href="/partidos" class="section-byline section-byline--sm" style="text-decoration: none; display: inline-block; margin-bottom: 1rem;">
+        ← Todos los partidos
+      </a>
+      <p class="section-kicker">Partido político</p>
+      <div class="flex items-start gap-5 mt-2">
+        <span style={`display: inline-block; width: 22px; height: 22px; border-radius: 50%; background: ${party.color}; margin-top: 1.2rem; border: 3px solid var(--paper-cream); box-shadow: 0 0 0 1px var(--rule);`}></span>
+        <div>
+          <h1 style="font-size: clamp(3rem, 6vw, 5.5rem);">{party.name}</h1>
+          <p class="page-lead" style="margin-top: 0.5rem;">
+            <em>{party.fullName}</em>
+            {party.foundedYear && (
+              <>
+                <span style="margin: 0 0.5em; color: var(--rule);">·</span>
+                fundado en {party.foundedYear}
+              </>
+            )}
+            {party.dissolvedYear && (
+              <>
+                <span style="margin: 0 0.5em; color: var(--rule);">·</span>
+                disuelto en {party.dissolvedYear}
+              </>
+            )}
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <article class="mx-auto max-w-[1400px] px-6">
+    <!-- Grid: descripción + aside -->
+    <div class="grid lg:grid-cols-[1.4fr_1fr] gap-12 lg:gap-16">
+      <div>
+        <p class="section-kicker mb-3">Reseña</p>
+        <p class="dropcap prose-editorial">{party.description}</p>
+
+        {party.compassPosition && (
+          <div class="mt-12">
+            <p class="section-kicker mb-3">Posición institucional</p>
+            <p class="prose-editorial" style="font-size: 16px;">
+              {party.compassPosition.justification}
+            </p>
+          </div>
+        )}
+      </div>
+
+      <aside>
+        <div class="border-t-2 pt-5" style="border-color: var(--ink);">
+          <p class="section-kicker mb-3">Figuras documentadas</p>
+          <p style="font-family: var(--font-display); font-size: 88px; font-weight: 700; line-height: 0.9; color: var(--ink); margin: 0;">
+            {members.length}
+          </p>
+        </div>
+
+        {party.ideologies.length > 0 && (
+          <div class="mt-8 border-t pt-5" style="border-color: var(--rule);">
+            <p class="section-kicker mb-3">Corrientes ideológicas</p>
+            <ul style="list-style: none; padding: 0;">
+              {party.ideologies.map((id) => {
+                const ide = ideologies.find((i) => i.id === id);
+                return (
+                  <li class="py-2" style="border-bottom: 1px solid var(--rule-soft);">
+                    <a href={`/ideologias/${id}`} style="font-family: var(--font-display); font-size: 16px; color: var(--ink); text-decoration: none; font-weight: 500;">
+                      {ide?.name ?? id}
+                    </a>
+                  </li>
+                );
+              })}
+            </ul>
+          </div>
+        )}
+      </aside>
+    </div>
+
+    {summaries.length > 0 && (
+      <>
+        <div class="rule-ornament">
+          <span class="rule-ornament-glyph">❦</span>
+        </div>
+        <section>
+          <div class="text-center mb-8">
+            <p class="section-kicker">El partido en el mapa</p>
+            <h2 style="margin-top: 4px;">Miembros documentados</h2>
+            <p class="section-byline mt-2"><em>Cada punto, una figura del partido</em></p>
+          </div>
+          <div class="mx-auto" style="max-width: 680px;">
+            <Compass
+              ideologies={ideologies}
+              entities={summaries}
+              fixedSize={640}
+              readOnly
+              client:visible
+            />
+          </div>
+        </section>
+      </>
+    )}
+
+    <div class="rule-ornament">
+      <span class="rule-ornament-glyph">§</span>
+    </div>
+
+    <section class="mb-20">
+      <div class="mb-8 pb-4" style="border-bottom: 2px solid var(--ink);">
+        <h2>Figuras del partido</h2>
+        <p class="section-byline mt-2"><em>{members.length} figura(s) documentada(s)</em></p>
+      </div>
+      <ul style="list-style: none; padding: 0;">
+        {members.map((m) => (
+          <li>
+            <a
+              href={`/figuras/${m.id}`}
+              class="grid grid-cols-[1fr_auto] items-baseline gap-4 py-4"
+              style="text-decoration: none; color: var(--ink); border-bottom: 1px solid var(--rule);"
+            >
+              <div>
+                <p style="font-family: var(--font-display); font-size: 22px; font-weight: 600; line-height: 1.15; margin: 0;">
+                  {m.displayName}
+                </p>
+                <p class="section-byline section-byline--sm" style="margin-top: 0.25rem;">
+                  <em>{entityTypeLabel(m.type)}</em>
+                </p>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </article>
+</BaseLayout>

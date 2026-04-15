@@ -1,0 +1,124 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { entityTypeLabel } from '@/lib/i18n';
+import {
+  getAllIdeologies,
+  getIdeologyBySlug,
+  getEntitiesByIdeology,
+} from '@/lib/data';
+
+export async function getStaticPaths() {
+  return getAllIdeologies().map((i) => ({ params: { slug: i.id } }));
+}
+
+const { slug } = Astro.params;
+const ide = getIdeologyBySlug(slug!);
+
+if (!ide) {
+  return Astro.redirect('/404');
+}
+
+const relatedEntities = getEntitiesByIdeology(ide.id);
+const inkVar = `var(--q-${ide.quadrant.replace('_', '-')}-ink)`;
+
+const quadrantLabels: Record<string, string> = {
+  auth_left: 'Autoritario · Izquierda',
+  auth_right: 'Autoritario · Derecha',
+  lib_left: 'Libertario · Izquierda',
+  lib_right: 'Libertario · Derecha',
+};
+---
+
+<BaseLayout title={ide.name} description={ide.description.slice(0, 160)}>
+  <div class="page-header" style={`border-top-color: ${inkVar};`}>
+    <div class="page-header-inner">
+      <a href="/ideologias" class="section-byline section-byline--sm" style="text-decoration: none; display: inline-block; margin-bottom: 1rem;">
+        ← Todas las ideologías
+      </a>
+      <p class="section-kicker" style={`color: ${inkVar};`}>{quadrantLabels[ide.quadrant]}</p>
+      <h1 style="margin-top: 0.5rem; font-size: clamp(3rem, 6vw, 5.5rem);">{ide.name}</h1>
+      {ide.nameEn && (
+        <p class="page-lead" style="margin-top: 0.5rem;">
+          <em>{ide.nameEn}</em>
+        </p>
+      )}
+      <p class="section-byline section-byline--sm mt-4" style="font-family: var(--font-mono); font-style: normal;">
+        ({ide.x.toFixed(1)}, {ide.y.toFixed(1)}) · {ide.width.toFixed(1)}×{ide.height.toFixed(1)}
+      </p>
+    </div>
+  </div>
+
+  <article class="mx-auto max-w-[900px] px-6">
+    <p class="dropcap prose-editorial">{ide.description}</p>
+
+    {ide.keyThinkers && ide.keyThinkers.length > 0 && (
+      <>
+        <div class="rule-ornament">
+          <span class="rule-ornament-glyph">§</span>
+        </div>
+        <section>
+          <p class="section-kicker mb-3">Pensadores clave</p>
+          <ul style="list-style: none; padding: 0;">
+            {ide.keyThinkers.map((t) => (
+              <li class="py-3" style="border-bottom: 1px solid var(--rule);">
+                <p style="font-family: var(--font-display); font-size: 22px; font-style: italic; font-weight: 500; color: var(--ink); margin: 0;">
+                  {t}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </>
+    )}
+
+    {ide.historicalExamples && ide.historicalExamples.length > 0 && (
+      <>
+        <div class="rule-ornament">
+          <span class="rule-ornament-glyph">◊</span>
+        </div>
+        <section>
+          <p class="section-kicker mb-3">Ejemplos históricos</p>
+          <ul style="list-style: none; padding: 0;">
+            {ide.historicalExamples.map((ex) => (
+              <li class="py-3" style="border-bottom: 1px solid var(--rule);">
+                <p style="font-family: var(--font-serif); font-size: 17px; color: var(--ink-soft); margin: 0;">
+                  {ex}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </>
+    )}
+
+    {relatedEntities.length > 0 && (
+      <>
+        <div class="rule-ornament">
+          <span class="rule-ornament-glyph">❦</span>
+        </div>
+        <section class="mb-16">
+          <p class="section-kicker mb-4">Figuras clasificadas aquí</p>
+          <h3 class="mb-6">En la política colombiana</h3>
+          <ul style="list-style: none; padding: 0;">
+            {relatedEntities.map((e) => (
+              <li>
+                <a
+                  href={`/figuras/${e.id}`}
+                  class="grid grid-cols-[1fr_auto] items-baseline gap-4 py-4"
+                  style="text-decoration: none; color: var(--ink); border-bottom: 1px solid var(--rule);"
+                >
+                  <div>
+                    <p style="font-family: var(--font-display); font-size: 21px; font-weight: 600; margin: 0;">
+                      {e.displayName}
+                    </p>
+                    <p class="section-byline section-byline--sm"><em>{entityTypeLabel(e.type)}</em></p>
+                  </div>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </>
+    )}
+  </article>
+</BaseLayout>
