@@ -1,0 +1,69 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Acerca" description="Qué es La Brújula y por qué existe.">
+  <div class="page-header">
+    <div class="page-header-inner">
+      <p class="section-kicker">Manifiesto</p>
+      <h1 style="margin-top: 0.5rem;">Acerca</h1>
+      <p class="page-lead">
+        <em>La Brújula</em> es una gaceta política de código abierto dedicada a separar el discurso
+        de los hechos en la política colombiana.
+      </p>
+    </div>
+  </div>
+
+  <article class="mx-auto max-w-[900px] px-6 pb-20">
+    <p class="dropcap prose-editorial">
+      En Colombia existe la percepción de que la política se reduce a dos o tres nombres y a un
+      par de consignas. <em>La Brújula</em> propone una medida distinta: cada figura política se
+      ubica en un mapa ideológico con <strong>dos puntos</strong> — lo que dice ser, lo que sus
+      votaciones y decretos revelan — y la distancia entre ambos es un índice de coherencia.
+    </p>
+
+    <div class="prose-editorial">
+      <h2>El problema</h2>
+      <p>
+        La discusión política suele confundir tres cosas distintas: la identidad declarada de una
+        figura, su posición programática, y sus acciones verificables al ejercer el cargo. Cuando
+        estas tres se mezclan, es imposible evaluar coherencia, y el debate público se empobrece.
+      </p>
+      <p>
+        Esta plataforma separa esas capas. Publica <em>hechos</em>, no opiniones. Cita fuentes
+        primarias verificables — votaciones del Congreso, decretos, ejecución presupuestal — y
+        archiva las URLs en <em>Wayback Machine</em> para que la evidencia sobreviva a cambios de
+        diseño o borrados.
+      </p>
+
+      <h2>El método</h2>
+      <ol>
+        <li>Toda posición se justifica con fuentes primarias.</li>
+        <li>Nivel de confianza explícito (alto, medio, bajo).</li>
+        <li>Diferenciación entre posición autopercibida y evidenciada.</li>
+        <li>Revisión por al menos un colaborador distinto antes del merge.</li>
+        <li>Balance ideológico — la misma vara para todos los sectores.</li>
+      </ol>
+
+      <h2>Open source, replicable, auditable</h2>
+      <p>
+        Todo el código, los datos y la metodología están publicados bajo licencia Apache 2.0.
+        Cualquier persona puede auditar cómo clasificamos, proponer correcciones con fuentes
+        primarias, o replicar el framework para otro país. El repositorio está en
+        <a href="https://github.com/alejoamorocho/vectorpolitico">GitHub</a>.
+      </p>
+
+      <h2>Créditos</h2>
+      <p>
+        Iniciativa de <a href="https://github.com/alejoamorocho">Alejo Amorocho</a>, Cali, Colombia.
+        Inspirado en <a href="https://politicalcompass.org/">Political Compass</a>,
+        <a href="https://congresovisible.uniandes.edu.co/">CongresoVisible</a> y
+        <a href="https://votainteligente.cl/">Vota Inteligente</a>.
+      </p>
+      <p>
+        La retícula de 131 ideologías del mapa proviene del <em>Political Compass Memes</em> —
+        una referencia comunitaria ampliamente reconocida para clasificar corrientes políticas.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

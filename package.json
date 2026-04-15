@@ -1,0 +1,42 @@
+{
+  "name": "brujula-politica",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Brújula Política — mapa político interactivo de Colombia (open source)",
+  "license": "Apache-2.0",
+  "homepage": "https://brujula-politica-web.pages.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejoamorocho/vectorpolitico.git"
+  },
+  "author": "Alejo Amorocho (https://github.com/alejoamorocho)",
+  "packageManager": "pnpm@10.33.0",
+  "engines": {
+    "node": ">=20.11.0",
+    "pnpm": ">=9.0.0"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "pnpm --filter web dev",
+    "build": "pnpm -r --filter=\"./apps/*\" --filter=\"./packages/*\" build",
+    "typecheck": "pnpm -r typecheck",
+    "lint": "pnpm -r lint",
+    "test": "pnpm -r test",
+    "format": "prettier --write \"**/*.{ts,tsx,astro,js,jsx,json,md,yaml,yml}\"",
+    "format:check": "prettier --check \"**/*.{ts,tsx,astro,js,jsx,json,md,yaml,yml}\"",
+    "validate:data": "cd packages/etl && python -m src.validate ../data/colombia",
+    "generate:ideologies": "cd packages/etl && python -m src.generate_ideologies"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "sharp", "workerd"]
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "prettier": "^3.3.3",
+    "prettier-plugin-astro": "^0.14.1",
+    "typescript": "^5.5.4"
+  }
+}

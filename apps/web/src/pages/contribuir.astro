@@ -1,0 +1,81 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Contribuir" description="Cómo contribuir a La Brújula con datos, correcciones y mejoras técnicas.">
+  <div class="page-header">
+    <div class="page-header-inner">
+      <p class="section-kicker">Convocatoria abierta</p>
+      <h1 style="margin-top: 0.5rem;">Contribuir</h1>
+      <p class="page-lead">
+        <em>La Brújula</em> solo funciona con el aporte de la comunidad. Toda contribución se
+        revisa en público y se versiona en git.
+      </p>
+    </div>
+  </div>
+
+  <section class="mx-auto max-w-[1100px] px-6 pb-20">
+    <div class="grid md:grid-cols-2 gap-0">
+      {[
+        {
+          kicker: 'Datos',
+          title: 'Agregar una figura',
+          desc: 'Propón una nueva figura política con su posicionamiento, biografía y fuentes primarias.',
+          href: '/metodologia/add-politician',
+        },
+        {
+          kicker: 'Evidencia',
+          title: 'Reportar una incoherencia',
+          desc: 'Documenta una contradicción entre promesa y acción con fuentes verificables.',
+          href: '/metodologia/incoherence-standard',
+        },
+        {
+          kicker: 'Metodología',
+          title: 'Entender el scoring',
+          desc: 'Fórmulas, pesos por dimensión, niveles de confianza — todo explicado.',
+          href: '/metodologia/compass-scoring',
+        },
+        {
+          kicker: 'Técnico',
+          title: 'Contribuir al código',
+          desc: 'Bug fixes, features, mejoras al mapa. Pull request directo en GitHub.',
+          href: 'https://github.com/alejoamorocho/vectorpolitico',
+        },
+      ].map((item, i) => (
+        <a
+          href={item.href}
+          class="p-8"
+          style={`
+            text-decoration: none;
+            color: var(--ink);
+            border-bottom: 1px solid var(--rule);
+            ${i % 2 === 0 ? 'border-right: 1px solid var(--rule);' : ''}
+          `}
+        >
+          <p class="section-kicker">{item.kicker}</p>
+          <h3 class="mt-2 mb-3" style="font-size: 28px;">{item.title}</h3>
+          <p class="section-byline" style="max-width: 45ch;"><em>{item.desc}</em></p>
+        </a>
+      ))}
+    </div>
+
+    <div class="rule-ornament">
+      <span class="rule-ornament-glyph">¶</span>
+    </div>
+
+    <section>
+      <div class="mb-6 pb-4" style="border-bottom: 2px solid var(--ink);">
+        <p class="section-kicker">Regla fundamental</p>
+        <h2 class="mt-2">Los cinco requisitos</h2>
+        <p class="section-byline mt-2"><em>Sin ellos, el dato no se publica.</em></p>
+      </div>
+      <ol class="prose-editorial" style="font-size: 17px;">
+        <li><strong>Cita textual de la promesa</strong> con URL, medio y fecha.</li>
+        <li><strong>Hecho contrario verificable</strong> con fuente primaria — votación, decreto, ejecución presupuestal.</li>
+        <li><strong>URLs archivadas en Wayback Machine</strong>, ambas.</li>
+        <li><strong>Categoría y severidad justificadas</strong> — de las ocho disponibles.</li>
+        <li><strong>Revisión por un colaborador distinto</strong> al que subió el PR.</li>
+      </ol>
+    </section>
+  </section>
+</BaseLayout>
