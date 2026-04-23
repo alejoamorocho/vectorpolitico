@@ -15,7 +15,7 @@ import { zoom, zoomIdentity, type ZoomBehavior, type ZoomTransform } from 'd3-zo
 export function useCompassZoom(
   svgRef: RefObject<SVGSVGElement>,
   {
-    minScale = 1,
+    minScale = 0.25,
     maxScale = 12,
   }: {
     minScale?: number;

@@ -79,7 +79,7 @@ export default function Compass({
 
   const scales = useMemo(() => createScales(size), [size]);
   const { transform, isActive, justActivatedRef, reset, zoomIn, zoomOut } = useCompassZoom(svgRef, {
-    minScale: 1,
+    minScale: 0.25,
     maxScale: 12,
   });
 
