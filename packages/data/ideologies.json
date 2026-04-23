@@ -1,0 +1,537 @@
+[
+  {
+    "id": "left-populism",
+    "name": "Populismo de izquierda",
+    "nameEn": "Left Populism",
+    "x": -5.0,
+    "y": 9.0,
+    "width": 10.0,
+    "height": 2.0,
+    "quadrant": "auth_left",
+    "color": "#dc2626",
+    "description": "Movimientos que enfrentan una \"élite económica\" contra \"el pueblo\" desde una agenda redistributiva y nacionalista."
+  },
+  {
+    "id": "state-capitalism",
+    "name": "Capitalismo de Estado",
+    "nameEn": "State Capitalism",
+    "x": -8.571,
+    "y": 7.0,
+    "width": 2.857,
+    "height": 2.0,
+    "quadrant": "auth_left",
+    "color": "#dc2626",
+    "description": "Sistema donde el Estado posee o controla los medios de producción pero opera bajo lógica de acumulación de capital."
+  },
+  {
+    "id": "christian-democracy",
+    "name": "Democracia cristiana",
+    "nameEn": "Christian Democracy",
+    "x": -5.714,
+    "y": 7.0,
+    "width": 2.857,
+    "height": 2.0,
+    "quadrant": "auth_left",
+    "color": "#dc2626",
+    "description": "Corriente que combina doctrina social católica con política democrática, defendiendo el Estado de bienestar y los valores tradicionales."
+  },
+  {
+    "id": "social-gospel",
+    "name": "Social Gospel",
+    "x": -3.571,
+    "y": 7.0,
+    "width": 1.429,
+    "height": 2.0,
+    "quadrant": "auth_left",
+    "color": "#dc2626",
+    "description": "Movimiento cristiano protestante que aplica principios éticos del Evangelio a problemas sociales como pobreza y desigualdad."
+  },
+  {
+    "id": "technocracy",
+    "name": "Tecnocracia",
+    "nameEn": "Technocracy",
+    "x": -1.429,
+    "y": 7.0,
+    "width": 2.857,
+    "height": 2.0,
+    "quadrant": "auth_left",
+    "color": "#dc2626",
+    "description": "Gobernanza por expertos técnicos y científicos en lugar de políticos electos, con decisiones basadas en datos y eficiencia."
+  },
+  {
+    "id": "orthodox-marxism",
+    "name": "Marxismo ortodoxo",
+    "nameEn": "Orthodox Marxism",
+    "x": -5.0,
+    "y": 4.667,
+    "width": 10.0,
+    "height": 2.667,
+    "quadrant": "auth_left",
+    "color": "#dc2626",
+    "description": "Interpretación estricta de los textos clásicos de Marx y Engels sin las revisiones bernsteinianas o leninistas posteriores."
+  },
+  {
+    "id": "maoism",
+    "name": "Maoísmo",
+    "nameEn": "Maoism",
+    "x": -8.5,
+    "y": 1.667,
+    "width": 3.0,
+    "height": 3.333,
+    "quadrant": "auth_left",
+    "color": "#dc2626",
+    "description": "Variante china del marxismo-leninismo formulada por Mao Zedong: guerra campesina, revolución cultural permanente y partido como vanguardia.",
+    "keyThinkers": [
+      "Mao Zedong"
+    ]
+  },
+  {
+    "id": "leninism",
+    "name": "Leninismo",
+    "nameEn": "Leninism",
+    "x": -5.5,
+    "y": 1.667,
+    "width": 3.0,
+    "height": 3.333,
+    "quadrant": "auth_left",
+    "color": "#dc2626",
+    "description": "Teoría del partido de vanguardia que guía al proletariado hacia la revolución. Base del marxismo-leninismo soviético.",
+    "keyThinkers": [
+      "Vladimir Lenin"
+    ]
+  },
+  {
+    "id": "castroism",
+    "name": "Castrismo",
+    "nameEn": "Castroism",
+    "x": -3.0,
+    "y": 1.667,
+    "width": 2.0,
+    "height": 3.333,
+    "quadrant": "auth_left",
+    "color": "#dc2626",
+    "description": "Variante cubana del socialismo de Estado, surgida de la Revolución Cubana de 1959: partido único, economía planificada y política antimperialista.",
+    "keyThinkers": [
+      "Fidel Castro",
+      "Che Guevara"
+    ]
+  },
+  {
+    "id": "chavism",
+    "name": "Chavismo",
+    "nameEn": "Chavism",
+    "x": -1.0,
+    "y": 1.667,
+    "width": 2.0,
+    "height": 3.333,
+    "quadrant": "auth_left",
+    "color": "#dc2626",
+    "description": "Movimiento venezolano fundado por Hugo Chávez que combina nacionalismo, populismo de izquierda y control estatal de la economía.",
+    "keyThinkers": [
+      "Hugo Chávez"
+    ]
+  },
+  {
+    "id": "paleo-conservatism",
+    "name": "Paleoconservadurismo",
+    "nameEn": "Paleo-Conservatism",
+    "x": 0.833,
+    "y": 7.5,
+    "width": 1.667,
+    "height": 5.0,
+    "quadrant": "auth_right",
+    "color": "#2563eb",
+    "description": "Corriente conservadora tradicionalista estadounidense que defiende aislacionismo, herencia cultural occidental y federalismo."
+  },
+  {
+    "id": "progressive-conservatism",
+    "name": "Conservadurismo progresista",
+    "nameEn": "Progressive Conservatism",
+    "x": 2.5,
+    "y": 7.5,
+    "width": 1.667,
+    "height": 5.0,
+    "quadrant": "auth_right",
+    "color": "#2563eb",
+    "description": "Síntesis que acepta reformas sociales graduales dentro de un marco tradicionalista y jerárquico."
+  },
+  {
+    "id": "nationalist-conservatism",
+    "name": "Conservadurismo nacionalista",
+    "nameEn": "Nationalist Conservatism",
+    "x": 4.167,
+    "y": 7.5,
+    "width": 1.667,
+    "height": 5.0,
+    "quadrant": "auth_right",
+    "color": "#2563eb",
+    "description": "Conservadurismo con énfasis en soberanía nacional, identidad cultural y proteccionismo económico moderado."
+  },
+  {
+    "id": "traditionalist-conservatism",
+    "name": "Conservadurismo tradicionalista",
+    "nameEn": "Traditionalist Conservatism",
+    "x": 5.833,
+    "y": 7.5,
+    "width": 1.667,
+    "height": 5.0,
+    "quadrant": "auth_right",
+    "color": "#2563eb",
+    "description": "Énfasis en la preservación de instituciones, costumbres y jerarquías heredadas como base del orden social.",
+    "keyThinkers": [
+      "Russell Kirk",
+      "Edmund Burke"
+    ]
+  },
+  {
+    "id": "neo-conservatism",
+    "name": "Neoconservadurismo",
+    "nameEn": "Neo-Conservatism",
+    "x": 7.5,
+    "y": 7.5,
+    "width": 1.667,
+    "height": 5.0,
+    "quadrant": "auth_right",
+    "color": "#2563eb",
+    "description": "Corriente estadounidense con política exterior intervencionista, valores tradicionales, libre mercado y defensa armada de la democracia liberal."
+  },
+  {
+    "id": "liberal-conservatism",
+    "name": "Conservadurismo liberal",
+    "nameEn": "Liberal Conservatism",
+    "x": 9.167,
+    "y": 7.5,
+    "width": 1.667,
+    "height": 5.0,
+    "quadrant": "auth_right",
+    "color": "#2563eb",
+    "description": "Síntesis entre liberalismo económico y conservadurismo social moderado. Mercados libres dentro de un marco institucional tradicional."
+  },
+  {
+    "id": "authoritarian-capitalism",
+    "name": "Capitalismo autoritario",
+    "nameEn": "Authoritarian Capitalism",
+    "x": 5.0,
+    "y": 2.5,
+    "width": 10.0,
+    "height": 5.0,
+    "quadrant": "auth_right",
+    "color": "#2563eb",
+    "description": "Sistema que combina economía de mercado con fuerte control político autoritario sin democracia liberal ni garantías civiles robustas.",
+    "historicalExamples": [
+      "Singapur",
+      "China contemporánea"
+    ]
+  },
+  {
+    "id": "libertarian-socialism",
+    "name": "Socialismo libertario",
+    "nameEn": "Libertarian Socialism",
+    "x": -5.0,
+    "y": -1.333,
+    "width": 10.0,
+    "height": 2.667,
+    "quadrant": "lib_left",
+    "color": "#16a34a",
+    "description": "Corriente que rechaza tanto el capitalismo como el Estado autoritario, defendiendo autogestión y federaciones voluntarias.",
+    "keyThinkers": [
+      "Mijaíl Bakunin"
+    ]
+  },
+  {
+    "id": "environmentalism",
+    "name": "Ambientalismo",
+    "nameEn": "Environmentalism",
+    "x": -8.75,
+    "y": -3.667,
+    "width": 2.5,
+    "height": 2.0,
+    "quadrant": "lib_left",
+    "color": "#16a34a",
+    "description": "Corriente política que prioriza la sostenibilidad ecológica, la protección de ecosistemas y la reducción de impacto humano."
+  },
+  {
+    "id": "eco-socialism",
+    "name": "Ecosocialismo",
+    "nameEn": "Eco-Socialism",
+    "x": -6.25,
+    "y": -3.667,
+    "width": 2.5,
+    "height": 2.0,
+    "quadrant": "lib_left",
+    "color": "#16a34a",
+    "description": "Síntesis entre socialismo y ecologismo que identifica al capitalismo como causa estructural de la crisis ambiental."
+  },
+  {
+    "id": "green-politics",
+    "name": "Política verde",
+    "nameEn": "Green Politics",
+    "x": -3.75,
+    "y": -3.667,
+    "width": 2.5,
+    "height": 2.0,
+    "quadrant": "lib_left",
+    "color": "#16a34a",
+    "description": "Movimiento que combina sostenibilidad ambiental con justicia social, descentralización y no-violencia."
+  },
+  {
+    "id": "gandhism",
+    "name": "Gandhismo",
+    "nameEn": "Gandhism",
+    "x": -1.25,
+    "y": -3.667,
+    "width": 2.5,
+    "height": 2.0,
+    "quadrant": "lib_left",
+    "color": "#16a34a",
+    "description": "Filosofía política de Mahatma Gandhi basada en no-violencia (ahimsa), resistencia civil y autosuficiencia económica local.",
+    "keyThinkers": [
+      "Mahatma Gandhi"
+    ]
+  },
+  {
+    "id": "classical-marxism",
+    "name": "Marxismo clásico",
+    "nameEn": "Classical Marxism",
+    "x": -7.5,
+    "y": -6.0,
+    "width": 5.0,
+    "height": 2.667,
+    "quadrant": "lib_left",
+    "color": "#16a34a",
+    "description": "Interpretación pre-leninista del pensamiento de Marx y Engels, sin las adaptaciones del siglo XX.",
+    "keyThinkers": [
+      "Karl Marx",
+      "Friedrich Engels"
+    ]
+  },
+  {
+    "id": "syndicalism",
+    "name": "Sindicalismo",
+    "nameEn": "Syndicalism",
+    "x": -2.5,
+    "y": -6.0,
+    "width": 5.0,
+    "height": 2.667,
+    "quadrant": "lib_left",
+    "color": "#16a34a",
+    "description": "Estrategia obrera de lucha directa mediante sindicatos como núcleo de una futura sociedad autogestionada."
+  },
+  {
+    "id": "democratic-socialism",
+    "name": "Socialismo democrático",
+    "nameEn": "Democratic Socialism",
+    "x": -8.333,
+    "y": -8.667,
+    "width": 3.333,
+    "height": 2.667,
+    "quadrant": "lib_left",
+    "color": "#16a34a",
+    "description": "Combinación de democracia liberal con propiedad social de los medios estratégicos y fuerte redistribución.",
+    "keyThinkers": [
+      "Eduard Bernstein"
+    ]
+  },
+  {
+    "id": "social-democracy",
+    "name": "Socialdemocracia",
+    "nameEn": "Social Democracy",
+    "x": -5.0,
+    "y": -8.667,
+    "width": 3.333,
+    "height": 2.667,
+    "quadrant": "lib_left",
+    "color": "#16a34a",
+    "description": "Capitalismo regulado con fuerte Estado de bienestar, derechos laborales robustos y universalización de servicios públicos.",
+    "historicalExamples": [
+      "Países nórdicos siglo XX"
+    ]
+  },
+  {
+    "id": "progressivism",
+    "name": "Progresismo",
+    "nameEn": "Progressivism",
+    "x": -1.667,
+    "y": -8.667,
+    "width": 3.333,
+    "height": 2.667,
+    "quadrant": "lib_left",
+    "color": "#16a34a",
+    "description": "Movimiento de reformas sociales y políticas graduales para corregir desigualdades y ampliar derechos civiles."
+  },
+  {
+    "id": "fiscal-conservatism",
+    "name": "Conservadurismo fiscal",
+    "nameEn": "Fiscal Conservatism",
+    "x": 1.875,
+    "y": -1.0,
+    "width": 3.75,
+    "height": 2.0,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Énfasis en balances fiscales sostenibles, bajo gasto público, bajos impuestos y desregulación económica."
+  },
+  {
+    "id": "third-way",
+    "name": "Tercera Vía",
+    "nameEn": "Third Way",
+    "x": 5.0,
+    "y": -1.0,
+    "width": 2.5,
+    "height": 2.0,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Síntesis centrista de los 1990s entre socialdemocracia y liberalismo de mercado, asociada a Blair y Clinton.",
+    "keyThinkers": [
+      "Anthony Giddens"
+    ]
+  },
+  {
+    "id": "national-liberalism",
+    "name": "Liberalismo nacional",
+    "nameEn": "National Liberalism",
+    "x": 7.5,
+    "y": -1.0,
+    "width": 2.5,
+    "height": 2.0,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Liberalismo económico combinado con nacionalismo cultural moderado, común en Europa central del siglo XIX."
+  },
+  {
+    "id": "centrelism",
+    "name": "Centrelismo",
+    "nameEn": "Centr-elism",
+    "x": 9.375,
+    "y": -1.0,
+    "width": 1.25,
+    "height": 2.0,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Posición política de centro pragmático sin compromiso ideológico fuerte con ninguno de los cuadrantes extremos."
+  },
+  {
+    "id": "pink-capitalism",
+    "name": "Capitalismo rosa",
+    "nameEn": "Pink Capitalism",
+    "x": 1.667,
+    "y": -3.0,
+    "width": 3.333,
+    "height": 2.0,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Síntesis entre libre mercado y progresismo cultural LGBTIQ+, donde las empresas asumen políticas de diversidad."
+  },
+  {
+    "id": "christian-libertarianism",
+    "name": "Libertarismo cristiano",
+    "nameEn": "Christian Libertarianism",
+    "x": 6.667,
+    "y": -3.0,
+    "width": 6.667,
+    "height": 2.0,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Combinación de fe cristiana con libertarismo económico basado en la idea de libre albedrío como principio teológico."
+  },
+  {
+    "id": "anarcho-capitalism",
+    "name": "Anarco-capitalismo",
+    "nameEn": "Anarcho-Capitalism",
+    "x": 2.143,
+    "y": -5.667,
+    "width": 4.286,
+    "height": 3.333,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Abolición total del Estado, reemplazado por instituciones privadas voluntarias en un libre mercado irrestricto.",
+    "keyThinkers": [
+      "Murray Rothbard",
+      "Hans-Hermann Hoppe"
+    ]
+  },
+  {
+    "id": "paleo-libertarianism",
+    "name": "Paleo-libertarismo",
+    "nameEn": "Paleo-Libertarianism",
+    "x": 5.714,
+    "y": -5.667,
+    "width": 2.857,
+    "height": 3.333,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Síntesis entre libertarismo económico y conservadurismo cultural tradicionalista estadounidense."
+  },
+  {
+    "id": "libertarian-conservatism",
+    "name": "Conservadurismo libertario",
+    "nameEn": "Libertarian Conservatism",
+    "x": 8.571,
+    "y": -5.667,
+    "width": 2.857,
+    "height": 3.333,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Combina valores tradicionales (familia, religión, nación) con economía libertaria de mínima intervención estatal."
+  },
+  {
+    "id": "classical-liberalism",
+    "name": "Liberalismo clásico",
+    "nameEn": "Classical Liberalism",
+    "x": 1.5,
+    "y": -8.667,
+    "width": 3.0,
+    "height": 2.667,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Tradición filosófica que defiende el libre mercado, las libertades individuales fundamentales, el Estado mínimo y el imperio de la ley.",
+    "keyThinkers": [
+      "John Locke",
+      "Adam Smith",
+      "John Stuart Mill"
+    ]
+  },
+  {
+    "id": "social-liberalism",
+    "name": "Liberalismo social",
+    "nameEn": "Social Liberalism",
+    "x": 4.0,
+    "y": -8.667,
+    "width": 2.0,
+    "height": 2.667,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Variante del liberalismo que acepta intervención estatal moderada para corregir fallos de mercado y garantizar igualdad de oportunidades.",
+    "keyThinkers": [
+      "John Rawls"
+    ]
+  },
+  {
+    "id": "democratic-liberalism",
+    "name": "Liberalismo democrático",
+    "nameEn": "Democratic Liberalism",
+    "x": 6.0,
+    "y": -8.667,
+    "width": 2.0,
+    "height": 2.667,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Síntesis entre democracia representativa robusta y libre mercado con regulación moderada."
+  },
+  {
+    "id": "neo-liberalism",
+    "name": "Neoliberalismo",
+    "nameEn": "Neo-Liberalism",
+    "x": 8.5,
+    "y": -8.667,
+    "width": 3.0,
+    "height": 2.667,
+    "quadrant": "lib_right",
+    "color": "#eab308",
+    "description": "Corriente dominante desde los 1980s: privatización, desregulación, libre comercio y disciplina fiscal global.",
+    "keyThinkers": [
+      "Milton Friedman",
+      "Friedrich Hayek"
+    ]
+  }
+]
