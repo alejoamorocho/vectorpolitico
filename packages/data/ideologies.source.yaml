@@ -1,0 +1,1153 @@
+# ──────────────────────────────────────────────────────────────────────
+# Brújula Política — Ideologías source-of-truth
+# ──────────────────────────────────────────────────────────────────────
+#
+# Las celdas de este YAML son EXACTAMENTE las que aparecen en la imagen
+# detallada del Political Compass Memes (politicalcompass.png) compartida
+# por el usuario como referencia. No se inventan ideologías locales —
+# cualquier figura colombiana (Petro, Uribe, etc.) se clasifica usando
+# SOLO los IDs definidos aquí.
+#
+# Generador: packages/etl/src/generate_ideologies.py (squarified treemap)
+# Output:    packages/data/ideologies.json
+# Comando:   pnpm generate:ideologies
+#
+# Cuadrantes:
+#   auth_left  (rojo    #dc2626) → x[-10..0],  y[0..10]
+#   auth_right (azul    #2563eb) → x[0..10],   y[0..10]
+#   lib_left   (verde   #16a34a) → x[-10..0],  y[-10..0]
+#   lib_right  (amarillo #eab308) → x[0..10],  y[-10..0]
+#
+# Total actual: ~130 celdas. Iterable hacia la cobertura completa de la
+# imagen añadiendo entradas a las familias existentes.
+# ──────────────────────────────────────────────────────────────────────
+
+version: 1
+metadata:
+  source: 'Political Compass Memes — detailed grid'
+  lastRevised: '2026-04-11'
+
+quadrants:
+  # ═══════════════════════════════════════════════════════════════════
+  # AUTH LEFT — rojo
+  # ═══════════════════════════════════════════════════════════════════
+  auth_left:
+    color: '#dc2626'
+    families:
+      - name: extreme-auth-left
+        weight: 3
+        children:
+          - id: hive-mind-collectivism
+            name: 'Hive Mind Collectivism'
+            weight: 2
+            description: >-
+              Visión totalitaria máxima donde la individualidad se disuelve en un colectivo
+              unificado bajo una única voluntad. Posición teórica extrema del cuadrante.
+          - id: ingsocism
+            name: 'IngSoc'
+            nameEn: 'IngSocism'
+            weight: 2
+            description: >-
+              Socialismo inglés ficticio de "1984" de Orwell. Totalitarismo de partido
+              único con control total del lenguaje, la historia y el pensamiento.
+            keyThinkers: ['George Orwell']
+          - id: eco-fascism
+            name: 'Eco-Fascismo'
+            nameEn: 'Eco-Fascism'
+            weight: 2
+            description: >-
+              Fusión de nacionalismo étnico con conservación ambiental coercitiva.
+              Defiende acciones autoritarias drásticas para proteger la naturaleza.
+
+      - name: marxismo-leninismo
+        weight: 5
+        children:
+          - id: stalinism
+            name: 'Estalinismo'
+            nameEn: 'Stalinism'
+            weight: 3
+            description: >-
+              Interpretación autoritaria del marxismo-leninismo asociada a Iósif Stalin:
+              centralización total del Estado, planificación rígida y represión masiva.
+            keyThinkers: ['Iósif Stalin']
+          - id: maoism
+            name: 'Maoísmo'
+            nameEn: 'Maoism'
+            weight: 3
+            description: >-
+              Variante china del marxismo-leninismo formulada por Mao Zedong: guerra
+              campesina, revolución cultural permanente y partido como vanguardia.
+            keyThinkers: ['Mao Zedong']
+          - id: leninism
+            name: 'Leninismo'
+            nameEn: 'Leninism'
+            weight: 3
+            description: >-
+              Teoría del partido de vanguardia que guía al proletariado hacia la
+              revolución. Base del marxismo-leninismo soviético.
+            keyThinkers: ['Vladimir Lenin']
+          - id: trotskyism
+            name: 'Trotskismo'
+            nameEn: 'Trotskyism'
+            weight: 2
+            description: >-
+              Corriente marxista-leninista que defiende la revolución permanente
+              internacional y rechaza el "socialismo en un solo país".
+            keyThinkers: ['León Trotsky']
+          - id: juche
+            name: 'Juche'
+            weight: 2
+            description: >-
+              Ideología oficial de Corea del Norte: marxismo-leninismo con nacionalismo
+              étnico extremo, autosuficiencia económica y culto a la dinastía Kim.
+            keyThinkers: ['Kim Il-sung']
+          - id: anti-revisionism
+            name: 'Antirrevisionismo'
+            nameEn: 'Anti-Revisionism'
+            weight: 2
+            description: >-
+              Corriente marxista-leninista que rechaza las reformas post-estalinistas
+              y se considera la única heredera legítima del leninismo ortodoxo.
+          - id: ho-chi-minh-thought
+            name: 'Pensamiento Ho Chi Minh'
+            nameEn: 'Ho Chi Minh Thought'
+            weight: 2
+            description: >-
+              Aplicación vietnamita del marxismo-leninismo a la lucha anticolonial y
+              la reunificación nacional. Ideología oficial de Vietnam.
+            keyThinkers: ['Ho Chi Minh']
+          - id: dengism
+            name: 'Dengismo'
+            nameEn: 'Dengism'
+            weight: 2
+            description: >-
+              Socialismo con características chinas de Deng Xiaoping: mercado controlado
+              por el partido único, apertura al capital sin liberalización política.
+            keyThinkers: ['Deng Xiaoping']
+          - id: titoism
+            name: 'Titoísmo'
+            nameEn: 'Titoism'
+            weight: 2
+            description: >-
+              Variante yugoslava del comunismo que combinaba autogestión obrera con
+              partido único y distancia del bloque soviético.
+            keyThinkers: ['Josip Broz Tito']
+          - id: castroism
+            name: 'Castrismo'
+            nameEn: 'Castroism'
+            weight: 2
+            description: >-
+              Variante cubana del socialismo de Estado, surgida de la Revolución Cubana
+              de 1959: partido único, economía planificada y política antimperialista.
+            keyThinkers: ['Fidel Castro', 'Che Guevara']
+          - id: chavism
+            name: 'Chavismo'
+            nameEn: 'Chavism'
+            weight: 2
+            description: >-
+              Movimiento venezolano fundado por Hugo Chávez que combina nacionalismo,
+              populismo de izquierda y control estatal de la economía.
+            keyThinkers: ['Hugo Chávez']
+
+      - name: variantes-marxistas
+        weight: 4
+        children:
+          - id: orthodox-marxism
+            name: 'Marxismo ortodoxo'
+            nameEn: 'Orthodox Marxism'
+            weight: 2
+            description: >-
+              Interpretación estricta de los textos clásicos de Marx y Engels sin
+              las revisiones bernsteinianas o leninistas posteriores.
+          - id: national-bolshevism
+            name: 'Nacional-bolchevismo'
+            nameEn: 'National Bolshevism'
+            weight: 2
+            description: >-
+              Síntesis heterodoxa que combina socialismo estatal con nacionalismo
+              étnico, a veces clasificada como "third position".
+          - id: strasserism
+            name: 'Strasserismo'
+            nameEn: 'Strasserism'
+            weight: 2
+            description: >-
+              Ala "izquierda" del nazismo asociada a los hermanos Strasser, que enfatizaba
+              el anticapitalismo y el corporativismo sobre el racismo puro.
+            keyThinkers: ['Otto Strasser', 'Gregor Strasser']
+          - id: monarcho-communism
+            name: 'Monarco-comunismo'
+            nameEn: 'Monarcho-Communism'
+            weight: 1
+            description: >-
+              Síntesis excéntrica que combina una monarquía hereditaria simbólica con
+              economía colectivista estatal.
+          - id: posadism
+            name: 'Posadismo'
+            nameEn: 'Posadism'
+            weight: 1
+            description: >-
+              Corriente trotskista argentina de J. Posadas que defendía la guerra nuclear
+              como catalizador revolucionario y creía en contacto con extraterrestres.
+            keyThinkers: ['J. Posadas']
+          - id: socialist-transhumanism
+            name: 'Transhumanismo socialista'
+            nameEn: 'Socialist Transhumanism'
+            weight: 2
+            description: >-
+              Síntesis que combina colectivismo económico con modificación tecnológica
+              de la especie humana dirigida por el Estado.
+          - id: fully-automated-luxury-communism
+            name: 'FALGSC'
+            nameEn: 'Fully Automated Luxury Gay Space Communism'
+            weight: 2
+            description: >-
+              Visión utópica post-escasez donde la automatización total libera a la
+              humanidad del trabajo bajo un sistema colectivista.
+
+      - name: socialismo-estado
+        weight: 3
+        children:
+          - id: state-capitalism
+            name: 'Capitalismo de Estado'
+            nameEn: 'State Capitalism'
+            weight: 2
+            description: >-
+              Sistema donde el Estado posee o controla los medios de producción pero
+              opera bajo lógica de acumulación de capital.
+          - id: baathism
+            name: "Ba'athismo"
+            nameEn: "Ba'athism"
+            weight: 2
+            description: >-
+              Ideología panárabe socialista fundada por Michel Aflaq. Combina nacionalismo
+              secular, socialismo de Estado y autoritarismo. Régimen en Siria e Irak.
+            keyThinkers: ['Michel Aflaq']
+          - id: mugabeism
+            name: 'Mugabeismo'
+            nameEn: 'Mugabeism'
+            weight: 1
+            description: >-
+              Régimen de Robert Mugabe en Zimbabue: nacionalismo africano, redistribución
+              forzosa de tierras y autoritarismo de partido único.
+            keyThinkers: ['Robert Mugabe']
+          - id: christian-democracy
+            name: 'Democracia cristiana'
+            nameEn: 'Christian Democracy'
+            weight: 2
+            description: >-
+              Corriente que combina doctrina social católica con política democrática,
+              defendiendo el Estado de bienestar y los valores tradicionales.
+          - id: conservative-socialism
+            name: 'Socialismo conservador'
+            nameEn: 'Conservative Socialism'
+            weight: 2
+            description: >-
+              Síntesis que combina redistribución económica con preservación de valores
+              culturales tradicionales.
+          - id: social-gospel
+            name: 'Social Gospel'
+            weight: 1
+            description: >-
+              Movimiento cristiano protestante que aplica principios éticos del Evangelio
+              a problemas sociales como pobreza y desigualdad.
+          - id: technocracy
+            name: 'Tecnocracia'
+            nameEn: 'Technocracy'
+            weight: 2
+            description: >-
+              Gobernanza por expertos técnicos y científicos en lugar de políticos
+              electos, con decisiones basadas en datos y eficiencia.
+          - id: futurism
+            name: 'Futurismo'
+            nameEn: 'Futurism'
+            weight: 1
+            description: >-
+              Movimiento italiano de principios del siglo XX que glorificaba la velocidad,
+              la tecnología y la violencia revolucionaria, precursor del fascismo.
+            keyThinkers: ['Filippo Tommaso Marinetti']
+
+      - name: populismo-colectivismo
+        weight: 3
+        children:
+          - id: collectivism
+            name: 'Colectivismo'
+            nameEn: 'Collectivism'
+            weight: 2
+            description: >-
+              Doctrina que prioriza los intereses del grupo sobre los del individuo
+              como principio organizador de la sociedad.
+          - id: left-populism
+            name: 'Populismo de izquierda'
+            nameEn: 'Left Populism'
+            weight: 2
+            description: >-
+              Movimientos que enfrentan una "élite económica" contra "el pueblo"
+              desde una agenda redistributiva y nacionalista.
+          - id: distributism
+            name: 'Distributismo'
+            nameEn: 'Distributism'
+            weight: 2
+            description: >-
+              Tercera vía católica entre capitalismo y socialismo que propone
+              distribuir ampliamente la propiedad productiva.
+            keyThinkers: ['G.K. Chesterton', 'Hilaire Belloc']
+          - id: labourism
+            name: 'Laborismo'
+            nameEn: 'Labourism'
+            weight: 2
+            description: >-
+              Corriente política originada en el Reino Unido basada en el movimiento
+              sindical obrero y el Estado de bienestar.
+          - id: kleptocracy-left
+            name: 'Cleptocracia (izq)'
+            nameEn: 'Kleptocracy'
+            weight: 1
+            description: >-
+              Régimen donde gobernantes usan el poder estatal para enriquecerse
+              personalmente, presentado con retórica socialista.
+
+  # ═══════════════════════════════════════════════════════════════════
+  # AUTH RIGHT — azul
+  # ═══════════════════════════════════════════════════════════════════
+  auth_right:
+    color: '#2563eb'
+    families:
+      - name: extreme-auth-right
+        weight: 3
+        children:
+          - id: kraterocracy
+            name: 'Kratero-cracia'
+            nameEn: 'Kratero-cracy'
+            weight: 2
+            description: >-
+              "Gobierno del más fuerte". Sistema donde el poder lo ejerce quien
+              demuestra superioridad por la fuerza bruta.
+          - id: ghengis-khanism
+            name: 'Ghengis Khanismo'
+            nameEn: 'Ghengis Khanism'
+            weight: 2
+            description: >-
+              Imperialismo militarista extremo inspirado en las conquistas mongolas
+              del siglo XIII: expansión territorial por dominación total.
+          - id: corporate-autocracy
+            name: 'Autocracia corporativa'
+            nameEn: 'Corporate Autocracy'
+            weight: 2
+            description: >-
+              Sistema donde las corporaciones ejercen poder político autoritario sin
+              rendición de cuentas democrática. Ficción distópica cyberpunk.
+          - id: absolute-monarchism
+            name: 'Monarquía absoluta'
+            nameEn: 'Absolute Monarchism'
+            weight: 2
+            description: >-
+              Monarca con poder ilimitado sin separación de poderes ni constitución.
+              Forma histórica dominante en Europa pre-1789.
+
+      - name: fascismo
+        weight: 5
+        children:
+          - id: fascism
+            name: 'Fascismo'
+            nameEn: 'Fascism'
+            weight: 3
+            description: >-
+              Ideología totalitaria que exalta la nación sobre el individuo, rechaza
+              la democracia liberal y suprime la oposición mediante violencia.
+            keyThinkers: ['Benito Mussolini', 'Giovanni Gentile']
+          - id: nazism
+            name: 'Nazismo'
+            nameEn: 'Nazism'
+            weight: 3
+            description: >-
+              Fascismo alemán con antisemitismo genocida, supremacismo racial y
+              culto al Führer.
+            keyThinkers: ['Adolf Hitler']
+          - id: neo-nazism
+            name: 'Neo-nazismo'
+            nameEn: 'Neo-Nazism'
+            weight: 2
+            description: >-
+              Movimientos posguerra que retoman la ideología nazi incluyendo sus
+              elementos raciales, antisemitas y totalitarios.
+          - id: esoteric-fascism
+            name: 'Fascismo esotérico'
+            nameEn: 'Esoteric Fascism'
+            weight: 2
+            description: >-
+              Variantes del fascismo con base en ocultismo, mitología aria y
+              espiritualidad tradicionalista.
+            keyThinkers: ['Julius Evola']
+          - id: vichyism
+            name: 'Vichismo'
+            nameEn: 'Vichy French Nationalism'
+            weight: 2
+            description: >-
+              Régimen colaboracionista francés bajo Philippe Pétain (1940-1944),
+              con fascismo pro-nazi y reacción católica tradicionalista.
+            historicalExamples: ['Francia 1940-1944']
+          - id: neo-fascism
+            name: 'Neo-fascismo'
+            nameEn: 'Neo-Fascism'
+            weight: 2
+            description: >-
+              Movimientos contemporáneos que retoman elementos fascistas adaptados al
+              contexto postguerra fría: nacionalismo identitario, euroescepticismo.
+
+      - name: teocracia
+        weight: 3
+        children:
+          - id: islamic-theocracy
+            name: 'Teocracia islámica'
+            nameEn: 'Islamic Theocracy'
+            weight: 2
+            description: >-
+              Régimen donde la sharia es fuente principal del derecho estatal y el
+              clero tiene poder político formal.
+            historicalExamples: ['Irán desde 1979']
+          - id: christian-theocracy
+            name: 'Teocracia cristiana'
+            nameEn: 'Christian Theocracy'
+            weight: 2
+            description: >-
+              Visión política que busca que la moral cristiana determine la legislación
+              civil y la estructura del Estado.
+          - id: hindu-theocracy
+            name: 'Teocracia hindú'
+            nameEn: 'Hindu Theocracy'
+            weight: 2
+            description: >-
+              Corriente nacionalista india (Hindutva) que busca redefinir la identidad
+              nacional sobre bases religiosas hindúes.
+          - id: buddhist-theocracy
+            name: 'Teocracia budista'
+            nameEn: 'Buddhist Theocracy'
+            weight: 2
+            description: >-
+              Régimen donde el clero budista ejerce poder político, como en el Tíbet
+              pre-1959 bajo los Dalai Lamas.
+
+      - name: imperialismo-colonialismo
+        weight: 3
+        children:
+          - id: authoritarian-capitalism
+            name: 'Capitalismo autoritario'
+            nameEn: 'Authoritarian Capitalism'
+            weight: 3
+            description: >-
+              Sistema que combina economía de mercado con fuerte control político
+              autoritario sin democracia liberal ni garantías civiles robustas.
+            historicalExamples: ['Singapur', 'China contemporánea']
+          - id: imperialism
+            name: 'Imperialismo'
+            nameEn: 'Imperialism'
+            weight: 2
+            description: >-
+              Doctrina de expansión territorial y dominación política sobre otras
+              naciones mediante fuerza militar o presión económica.
+          - id: colonialism
+            name: 'Colonialismo'
+            nameEn: 'Colonialism'
+            weight: 2
+            description: >-
+              Sistema de explotación económica y cultural de territorios ocupados
+              por una potencia extranjera.
+          - id: aristocracy
+            name: 'Aristocracia'
+            nameEn: 'Aristocracy'
+            weight: 2
+            description: >-
+              Gobierno hereditario de una clase noble minoritaria que monopoliza
+              poder político y propiedad.
+          - id: fordism
+            name: 'Fordismo'
+            nameEn: 'Fordism'
+            weight: 2
+            description: >-
+              Sistema de producción industrial en masa con jerarquía corporativa
+              rígida y consumo estandarizado.
+            keyThinkers: ['Henry Ford']
+          - id: feudalism
+            name: 'Feudalismo'
+            nameEn: 'Feudalism'
+            weight: 2
+            description: >-
+              Sistema medieval de relaciones jerárquicas entre señores y vasallos
+              basado en tierras, fidelidad y servicio militar.
+
+      - name: monarquismo-conservador
+        weight: 3
+        children:
+          - id: elective-monarchism
+            name: 'Monarquía electiva'
+            nameEn: 'Elective Monarchism'
+            weight: 2
+            description: >-
+              Sistema donde el monarca es elegido por un cuerpo electoral restringido
+              en lugar de heredar el título.
+          - id: constitutional-monarchism
+            name: 'Monarquía constitucional'
+            nameEn: 'Constitutional Monarchism'
+            weight: 2
+            description: >-
+              Sistema donde el monarca comparte poder con un parlamento bajo un marco
+              constitucional que limita su autoridad.
+          - id: senatorialism
+            name: 'Senatorialismo'
+            nameEn: 'Senatorialism'
+            weight: 1
+            description: >-
+              Gobernanza oligárquica donde un senado aristocrático retiene el poder
+              político principal.
+          - id: paleo-conservatism
+            name: 'Paleoconservadurismo'
+            nameEn: 'Paleo-Conservatism'
+            weight: 2
+            description: >-
+              Corriente conservadora tradicionalista estadounidense que defiende
+              aislacionismo, herencia cultural occidental y federalismo.
+          - id: pinochetism
+            name: 'Pinochetismo'
+            nameEn: 'Pinochetism'
+            weight: 2
+            description: >-
+              Dictadura militar chilena (1973-1990) que combinó represión autoritaria
+              con liberalización económica radical (Chicago Boys).
+            historicalExamples: ['Chile 1973-1990']
+          - id: progressive-conservatism
+            name: 'Conservadurismo progresista'
+            nameEn: 'Progressive Conservatism'
+            weight: 2
+            description: >-
+              Síntesis que acepta reformas sociales graduales dentro de un marco
+              tradicionalista y jerárquico.
+          - id: nationalist-conservatism
+            name: 'Conservadurismo nacionalista'
+            nameEn: 'Nationalist Conservatism'
+            weight: 2
+            description: >-
+              Conservadurismo con énfasis en soberanía nacional, identidad cultural
+              y proteccionismo económico moderado.
+          - id: traditionalist-conservatism
+            name: 'Conservadurismo tradicionalista'
+            nameEn: 'Traditionalist Conservatism'
+            weight: 2
+            description: >-
+              Énfasis en la preservación de instituciones, costumbres y jerarquías
+              heredadas como base del orden social.
+            keyThinkers: ['Russell Kirk', 'Edmund Burke']
+          - id: neo-conservatism
+            name: 'Neoconservadurismo'
+            nameEn: 'Neo-Conservatism'
+            weight: 2
+            description: >-
+              Corriente estadounidense con política exterior intervencionista, valores
+              tradicionales, libre mercado y defensa armada de la democracia liberal.
+          - id: eco-conservatism
+            name: 'Eco-conservación'
+            nameEn: 'Eco-Conservatism'
+            weight: 1
+            description: >-
+              Conservadurismo que integra preocupación ambiental desde una perspectiva
+              tradicionalista y local.
+          - id: liberal-conservatism
+            name: 'Conservadurismo liberal'
+            nameEn: 'Liberal Conservatism'
+            weight: 2
+            description: >-
+              Síntesis entre liberalismo económico y conservadurismo social moderado.
+              Mercados libres dentro de un marco institucional tradicional.
+          - id: zionism
+            name: 'Sionismo'
+            nameEn: 'Zionism'
+            weight: 2
+            description: >-
+              Movimiento nacionalista judío que defiende la existencia del Estado de
+              Israel como patria del pueblo judío.
+          - id: kuomintangism
+            name: 'Kuomintangismo'
+            nameEn: 'Kuomintangism'
+            weight: 1
+            description: >-
+              Ideología del Partido Nacionalista Chino (KMT) de Sun Yat-sen: nacionalismo,
+              democracia y bienestar del pueblo.
+            keyThinkers: ['Sun Yat-sen', 'Chiang Kai-shek']
+
+  # ═══════════════════════════════════════════════════════════════════
+  # LIB LEFT — verde
+  # ═══════════════════════════════════════════════════════════════════
+  lib_left:
+    color: '#16a34a'
+    families:
+      - name: socialismo-democratico
+        weight: 4
+        children:
+          - id: democratic-socialism
+            name: 'Socialismo democrático'
+            nameEn: 'Democratic Socialism'
+            weight: 3
+            description: >-
+              Combinación de democracia liberal con propiedad social de los medios
+              estratégicos y fuerte redistribución.
+            keyThinkers: ['Eduard Bernstein']
+          - id: social-democracy
+            name: 'Socialdemocracia'
+            nameEn: 'Social Democracy'
+            weight: 3
+            description: >-
+              Capitalismo regulado con fuerte Estado de bienestar, derechos laborales
+              robustos y universalización de servicios públicos.
+            historicalExamples: ['Países nórdicos siglo XX']
+          - id: progressivism
+            name: 'Progresismo'
+            nameEn: 'Progressivism'
+            weight: 3
+            description: >-
+              Movimiento de reformas sociales y políticas graduales para corregir
+              desigualdades y ampliar derechos civiles.
+          - id: welfarism
+            name: 'Welfarismo'
+            nameEn: 'Welfarism'
+            weight: 2
+            description: >-
+              Corriente que prioriza la expansión del Estado de bienestar sin
+              cuestionar la economía de mercado.
+          - id: labour-social-democracy
+            name: 'Socialismo laborista'
+            nameEn: 'Labour Socialism'
+            weight: 2
+            description: >-
+              Síntesis británica entre socialismo democrático y movimiento sindical,
+              base histórica del Partido Laborista.
+          - id: luxemburgism
+            name: 'Luxemburguismo'
+            nameEn: 'Luxemburgism'
+            weight: 2
+            description: >-
+              Corriente marxista antiautoritaria de Rosa Luxemburgo que defiende
+              la democracia revolucionaria obrera.
+            keyThinkers: ['Rosa Luxemburgo']
+
+      - name: comunismo-libertario
+        weight: 4
+        children:
+          - id: left-communism
+            name: 'Comunismo de izquierda'
+            nameEn: 'Left Communism'
+            weight: 2
+            description: >-
+              Corriente marxista crítica tanto del leninismo como de la socialdemocracia,
+              defendiendo la autonomía de los consejos obreros.
+          - id: council-communism
+            name: 'Comunismo de consejos'
+            nameEn: 'Council Communism'
+            weight: 2
+            description: >-
+              Propuesta de gobierno directo mediante consejos obreros elegidos desde
+              la base, sin partido de vanguardia.
+            keyThinkers: ['Anton Pannekoek']
+          - id: classical-marxism
+            name: 'Marxismo clásico'
+            nameEn: 'Classical Marxism'
+            weight: 2
+            description: >-
+              Interpretación pre-leninista del pensamiento de Marx y Engels, sin
+              las adaptaciones del siglo XX.
+            keyThinkers: ['Karl Marx', 'Friedrich Engels']
+          - id: democratic-confederalism
+            name: 'Confederalismo democrático'
+            nameEn: 'Democratic Confederalism'
+            weight: 2
+            description: >-
+              Modelo de Abdullah Öcalan basado en asambleas locales, autonomía de
+              las mujeres y ecología. Implementado en Rojava.
+            keyThinkers: ['Abdullah Öcalan']
+          - id: bookchin-communalism
+            name: 'Comunalismo (Bookchin)'
+            nameEn: 'Bookchin Communalism'
+            weight: 2
+            description: >-
+              Propuesta de Murray Bookchin de confederaciones de asambleas municipales
+              directas, ecología social y democracia radical.
+            keyThinkers: ['Murray Bookchin']
+          - id: syndicalism
+            name: 'Sindicalismo'
+            nameEn: 'Syndicalism'
+            weight: 2
+            description: >-
+              Estrategia obrera de lucha directa mediante sindicatos como núcleo de
+              una futura sociedad autogestionada.
+          - id: market-socialism
+            name: 'Socialismo de mercado'
+            nameEn: 'Market Socialism'
+            weight: 2
+            description: >-
+              Sistema donde los medios son de propiedad social pero operan en mercados
+              competitivos mediante cooperativas autogestionadas.
+            keyThinkers: ['Oskar Lange']
+
+      - name: ecologismo-social
+        weight: 3
+        children:
+          - id: environmentalism
+            name: 'Ambientalismo'
+            nameEn: 'Environmentalism'
+            weight: 2
+            description: >-
+              Corriente política que prioriza la sostenibilidad ecológica, la protección
+              de ecosistemas y la reducción de impacto humano.
+          - id: eco-socialism
+            name: 'Ecosocialismo'
+            nameEn: 'Eco-Socialism'
+            weight: 2
+            description: >-
+              Síntesis entre socialismo y ecologismo que identifica al capitalismo
+              como causa estructural de la crisis ambiental.
+          - id: green-politics
+            name: 'Política verde'
+            nameEn: 'Green Politics'
+            weight: 2
+            description: >-
+              Movimiento que combina sostenibilidad ambiental con justicia social,
+              descentralización y no-violencia.
+          - id: technological-primitivism
+            name: 'Primitivismo tecnológico'
+            nameEn: 'Technological Primitivism'
+            weight: 1
+            description: >-
+              Crítica radical de la civilización industrial que propone retornar a
+              formas pre-tecnológicas de organización social.
+          - id: gandhism
+            name: 'Gandhismo'
+            nameEn: 'Gandhism'
+            weight: 2
+            description: >-
+              Filosofía política de Mahatma Gandhi basada en no-violencia (ahimsa),
+              resistencia civil y autosuficiencia económica local.
+            keyThinkers: ['Mahatma Gandhi']
+          - id: mandelism
+            name: 'Mandelismo'
+            nameEn: 'Mandelism'
+            weight: 1
+            description: >-
+              Legado político de Nelson Mandela: reconciliación nacional, democracia
+              multirracial y justicia social gradual.
+            keyThinkers: ['Nelson Mandela']
+
+      - name: anarquismo-social
+        weight: 4
+        children:
+          - id: libertarian-socialism
+            name: 'Socialismo libertario'
+            nameEn: 'Libertarian Socialism'
+            weight: 2
+            description: >-
+              Corriente que rechaza tanto el capitalismo como el Estado autoritario,
+              defendiendo autogestión y federaciones voluntarias.
+            keyThinkers: ['Mijaíl Bakunin']
+          - id: anarcho-communism
+            name: 'Anarco-comunismo'
+            nameEn: 'Anarcho-Communism'
+            weight: 2
+            description: >-
+              Síntesis anarquismo + comunismo que propone abolir Estado, dinero y
+              propiedad privada, sustituidos por comunas federadas.
+            keyThinkers: ['Piotr Kropotkin']
+          - id: anarcho-syndicalism
+            name: 'Anarco-sindicalismo'
+            nameEn: 'Anarcho-Syndicalism'
+            weight: 2
+            description: >-
+              Estrategia anarquista centrada en los sindicatos como medio de lucha
+              y órgano de la sociedad post-capitalista.
+            historicalExamples: ['España CNT 1910-1939']
+          - id: anarcho-collectivism
+            name: 'Anarco-colectivismo'
+            nameEn: 'Anarcho-Collectivism'
+            weight: 2
+            description: >-
+              Variante anarquista que defiende la propiedad colectiva de los medios
+              de producción con retribución según trabajo realizado.
+            keyThinkers: ['Mijaíl Bakunin']
+          - id: anarcho-feminism
+            name: 'Anarco-feminismo'
+            nameEn: 'Anarcha-Feminism'
+            weight: 2
+            description: >-
+              Síntesis de anarquismo y feminismo que identifica al patriarcado y al
+              Estado como formas interconectadas de dominación.
+          - id: queer-anarchism
+            name: 'Anarquismo queer'
+            nameEn: 'Queer Anarchism'
+            weight: 2
+            description: >-
+              Corriente que aplica crítica anarquista a las normas de género y
+              sexualidad desde una perspectiva queer.
+          - id: eco-anarchism
+            name: 'Eco-anarquismo'
+            nameEn: 'Eco-Anarchism'
+            weight: 2
+            description: >-
+              Síntesis de anarquismo y ecología profunda que rechaza tanto al Estado
+              como a la industrialización como formas de dominación.
+          - id: religious-anarchism
+            name: 'Anarquismo religioso'
+            nameEn: 'Religious Anarchism'
+            weight: 2
+            description: >-
+              Corriente que deriva su rechazo al Estado y a la autoridad de convicciones
+              religiosas (cristianas, budistas, etc.).
+            keyThinkers: ['León Tolstói']
+          - id: anarcho-pacifism
+            name: 'Anarco-pacifismo'
+            nameEn: 'Anarcho-Pacifism'
+            weight: 2
+            description: >-
+              Variante anarquista que combina rechazo del Estado con no-violencia
+              absoluta como principio ético y estratégico.
+          - id: situationism
+            name: 'Situacionismo'
+            nameEn: 'Situationism'
+            weight: 1
+            description: >-
+              Movimiento de vanguardia de los 1960s que criticaba la "sociedad del
+              espectáculo" y buscaba la transformación revolucionaria de la vida cotidiana.
+            keyThinkers: ['Guy Debord']
+          - id: minarcho-socialism
+            name: 'Minarco-socialismo'
+            nameEn: 'Minarcho-Socialism'
+            weight: 1
+            description: >-
+              Síntesis hipotética entre Estado mínimo y propiedad social de los
+              medios de producción.
+          - id: mutualism
+            name: 'Mutualismo'
+            nameEn: 'Mutualism'
+            weight: 2
+            description: >-
+              Corriente anarquista de Proudhon que defiende propiedad basada en el
+              uso, intercambio mutuo y crédito libre sin interés.
+            keyThinkers: ['Pierre-Joseph Proudhon']
+
+  # ═══════════════════════════════════════════════════════════════════
+  # LIB RIGHT — amarillo
+  # ═══════════════════════════════════════════════════════════════════
+  lib_right:
+    color: '#eab308'
+    families:
+      - name: liberalismo-clasico
+        weight: 4
+        children:
+          - id: classical-liberalism
+            name: 'Liberalismo clásico'
+            nameEn: 'Classical Liberalism'
+            weight: 3
+            description: >-
+              Tradición filosófica que defiende el libre mercado, las libertades
+              individuales fundamentales, el Estado mínimo y el imperio de la ley.
+            keyThinkers: ['John Locke', 'Adam Smith', 'John Stuart Mill']
+          - id: social-liberalism
+            name: 'Liberalismo social'
+            nameEn: 'Social Liberalism'
+            weight: 2
+            description: >-
+              Variante del liberalismo que acepta intervención estatal moderada para
+              corregir fallos de mercado y garantizar igualdad de oportunidades.
+            keyThinkers: ['John Rawls']
+          - id: democratic-liberalism
+            name: 'Liberalismo democrático'
+            nameEn: 'Democratic Liberalism'
+            weight: 2
+            description: >-
+              Síntesis entre democracia representativa robusta y libre mercado con
+              regulación moderada.
+          - id: nordic-liberalism
+            name: 'Liberalismo nórdico'
+            nameEn: 'Nordic Liberalism'
+            weight: 2
+            description: >-
+              Modelo escandinavo que combina mercados libres con fuerte Estado de
+              bienestar universal.
+          - id: liberal-corporatism
+            name: 'Corporativismo liberal'
+            nameEn: 'Liberal Corporatism'
+            weight: 1
+            description: >-
+              Sistema donde organizaciones empresariales y sindicales negocian
+              directamente con el Estado dentro de un marco democrático liberal.
+          - id: neo-liberalism
+            name: 'Neoliberalismo'
+            nameEn: 'Neo-Liberalism'
+            weight: 3
+            description: >-
+              Corriente dominante desde los 1980s: privatización, desregulación,
+              libre comercio y disciplina fiscal global.
+            keyThinkers: ['Milton Friedman', 'Friedrich Hayek']
+          - id: neoclassical-liberalism
+            name: 'Liberalismo neoclásico'
+            nameEn: 'Neoclassical Liberalism'
+            weight: 1
+            description: >-
+              Variante académica del liberalismo basada en la economía neoclásica
+              marginalista.
+          - id: general-capitalism
+            name: 'Capitalismo general'
+            nameEn: 'General Capitalism'
+            weight: 2
+            description: >-
+              Término paraguas para las variantes estándar del capitalismo de mercado
+              sin compromiso ideológico específico.
+
+      - name: libertarismo
+        weight: 5
+        children:
+          - id: minarchism
+            name: 'Minarquismo'
+            nameEn: 'Minarchism'
+            weight: 3
+            description: >-
+              Estado mínimo limitado a defensa, policía y justicia, dejando el resto
+              a la iniciativa privada voluntaria.
+            keyThinkers: ['Robert Nozick']
+          - id: anarcho-capitalism
+            name: 'Anarco-capitalismo'
+            nameEn: 'Anarcho-Capitalism'
+            weight: 3
+            description: >-
+              Abolición total del Estado, reemplazado por instituciones privadas
+              voluntarias en un libre mercado irrestricto.
+            keyThinkers: ['Murray Rothbard', 'Hans-Hermann Hoppe']
+          - id: objectivism
+            name: 'Objetivismo'
+            nameEn: 'Objectivism'
+            weight: 2
+            description: >-
+              Filosofía de Ayn Rand que defiende el egoísmo racional, el capitalismo
+              laissez-faire y el rechazo de todo colectivismo.
+            keyThinkers: ['Ayn Rand']
+          - id: voluntaryism
+            name: 'Voluntarismo'
+            nameEn: 'Voluntaryism'
+            weight: 2
+            description: >-
+              Rechazo de toda relación coercitiva, incluyendo el Estado. Toda
+              interacción humana debe ser voluntaria y consensuada.
+          - id: agorism
+            name: 'Agorismo'
+            nameEn: 'Agorism'
+            weight: 2
+            description: >-
+              Estrategia libertaria de Konkin que busca el colapso del Estado mediante
+              mercados contraeconómicos (mercados grises).
+            keyThinkers: ['Samuel Edward Konkin III']
+          - id: hoppeanism
+            name: 'Hoppeanismo'
+            nameEn: 'Hoppeanism'
+            weight: 2
+            description: >-
+              Variante paleolibertaria de Hans-Hermann Hoppe que combina anarco-capitalismo
+              con conservadurismo social tradicional.
+            keyThinkers: ['Hans-Hermann Hoppe']
+          - id: paleo-libertarianism
+            name: 'Paleo-libertarismo'
+            nameEn: 'Paleo-Libertarianism'
+            weight: 2
+            description: >-
+              Síntesis entre libertarismo económico y conservadurismo cultural
+              tradicionalista estadounidense.
+          - id: national-libertarianism
+            name: 'Libertarismo nacional'
+            nameEn: 'National Libertarianism'
+            weight: 2
+            description: >-
+              Libertarismo con énfasis en soberanía nacional y restricción migratoria
+              estricta.
+          - id: libertarian-conservatism
+            name: 'Conservadurismo libertario'
+            nameEn: 'Libertarian Conservatism'
+            weight: 2
+            description: >-
+              Combina valores tradicionales (familia, religión, nación) con economía
+              libertaria de mínima intervención estatal.
+
+      - name: libertarismo-contemporaneo
+        weight: 3
+        children:
+          - id: techno-libertarianism
+            name: 'Tecnolibertarismo'
+            nameEn: 'Techno-Libertarianism'
+            weight: 2
+            description: >-
+              Libertarismo aplicado a la era digital: criptomonedas, descentralización,
+              rechazo a la regulación estatal del ciberespacio.
+          - id: geo-libertarianism
+            name: 'Geolibertarismo'
+            nameEn: 'Geo-Libertarianism'
+            weight: 2
+            description: >-
+              Síntesis libertaria con las ideas de Henry George: impuesto único al
+              valor de la tierra financia un Estado mínimo.
+            keyThinkers: ['Henry George']
+          - id: georgism
+            name: 'Georgismo'
+            nameEn: 'Georgism'
+            weight: 2
+            description: >-
+              Propuesta de Henry George de un impuesto único al valor de la tierra
+              como fuente principal de ingresos fiscales.
+            keyThinkers: ['Henry George']
+          - id: green-libertarianism
+            name: 'Libertarismo verde'
+            nameEn: 'Green Libertarianism'
+            weight: 1
+            description: >-
+              Síntesis entre libertarismo económico y protección ambiental mediante
+              derechos de propiedad sobre recursos naturales.
+          - id: neo-libertarianism
+            name: 'Neo-libertarismo'
+            nameEn: 'Neo-Libertarianism'
+            weight: 1
+            description: >-
+              Variante contemporánea del libertarismo con ajustes pragmáticos para
+              el contexto político moderno.
+          - id: dark-enlightenment
+            name: 'Ilustración Oscura'
+            nameEn: 'Dark Enlightenment'
+            weight: 2
+            description: >-
+              Movimiento intelectual reaccionario contemporáneo (neorreacción) que
+              rechaza la democracia liberal en favor de formas monárquicas o corporativas.
+            keyThinkers: ['Curtis Yarvin', 'Nick Land']
+          - id: consequentialism-libright
+            name: 'Consecuencialismo'
+            nameEn: 'Consequentialism'
+            weight: 1
+            description: >-
+              Posición ética que juzga acciones por sus resultados, frecuentemente
+              aplicada a favor del libertarismo por sus resultados de bienestar.
+          - id: pink-capitalism
+            name: 'Capitalismo rosa'
+            nameEn: 'Pink Capitalism'
+            weight: 1
+            description: >-
+              Síntesis entre libre mercado y progresismo cultural LGBTIQ+, donde las
+              empresas asumen políticas de diversidad.
+          - id: christian-libertarianism
+            name: 'Libertarismo cristiano'
+            nameEn: 'Christian Libertarianism'
+            weight: 2
+            description: >-
+              Combinación de fe cristiana con libertarismo económico basado en la
+              idea de libre albedrío como principio teológico.
+          - id: individualist-anarchism
+            name: 'Anarquismo individualista'
+            nameEn: 'Individualist Anarchism'
+            weight: 2
+            description: >-
+              Corriente anarquista que prioriza la soberanía individual sobre
+              cualquier forma de colectivo o mercado organizado.
+            keyThinkers: ['Max Stirner', 'Benjamin Tucker']
+
+      - name: conservadurismo-fiscal
+        weight: 3
+        children:
+          - id: fiscal-conservatism
+            name: 'Conservadurismo fiscal'
+            nameEn: 'Fiscal Conservatism'
+            weight: 3
+            description: >-
+              Énfasis en balances fiscales sostenibles, bajo gasto público, bajos
+              impuestos y desregulación económica.
+          - id: third-way
+            name: 'Tercera Vía'
+            nameEn: 'Third Way'
+            weight: 2
+            description: >-
+              Síntesis centrista de los 1990s entre socialdemocracia y liberalismo de
+              mercado, asociada a Blair y Clinton.
+            keyThinkers: ['Anthony Giddens']
+          - id: national-liberalism
+            name: 'Liberalismo nacional'
+            nameEn: 'National Liberalism'
+            weight: 2
+            description: >-
+              Liberalismo económico combinado con nacionalismo cultural moderado,
+              común en Europa central del siglo XIX.
+          - id: capitalist-transhumanism
+            name: 'Transhumanismo capitalista'
+            nameEn: 'Capitalist Transhumanism'
+            weight: 1
+            description: >-
+              Visión que combina libre mercado con modificación tecnológica voluntaria
+              de la especie humana mediante innovación privada.
+          - id: paleo-libertarianism-2
+            name: 'Paleo-conservadurismo libertario'
+            nameEn: 'Paleo-Libertarian Conservatism'
+            weight: 1
+            description: >-
+              Variante paleo que enfatiza tanto el libre mercado radical como la
+              defensa de tradiciones culturales locales.
+          - id: centrelism
+            name: 'Centrelismo'
+            nameEn: 'Centr-elism'
+            weight: 1
+            description: >-
+              Posición política de centro pragmático sin compromiso ideológico fuerte
+              con ninguno de los cuadrantes extremos.
+
+# ──────────────────────────────────────────────────────────────────────
+# Aplicabilidad por país
+# ──────────────────────────────────────────────────────────────────────
+# Lista de IDs de ideologías aplicables al contexto político colombiano.
+# El generador filtra por este listado cuando se invoca con --country=co.
+# Criterio: ideología con partido/movimiento/figura colombiana identificable,
+# o familia de referencia necesaria para ubicar posiciones. Se excluyen
+# categorías analíticas sin actor que las defienda (imperialismo, colonialismo,
+# fascismo como ataque) y abstracciones teóricas sin presencia colombiana.
+# Metodología completa en docs/methodology/ideology-classification.md.
+applicable_to_country:
+  co:
+    # auth_left
+    - classical-marxism
+    - leninism
+    - maoism
+    - castroism
+    - chavism
+    - orthodox-marxism
+    - state-capitalism
+    - social-gospel
+    - christian-democracy
+    - technocracy
+    - left-populism
+    # auth_right
+    - paleo-conservatism
+    - nationalist-conservatism
+    - traditionalist-conservatism
+    - neo-conservatism
+    - liberal-conservatism
+    - progressive-conservatism
+    - authoritarian-capitalism
+    # lib_left
+    - democratic-socialism
+    - social-democracy
+    - progressivism
+    - green-politics
+    - eco-socialism
+    - environmentalism
+    - gandhism
+    - libertarian-socialism
+    - syndicalism
+    # lib_right
+    - classical-liberalism
+    - social-liberalism
+    - democratic-liberalism
+    - neo-liberalism
+    - libertarian-conservatism
+    - fiscal-conservatism
+    - third-way
+    - centrelism
+    - christian-libertarianism
+    - anarcho-capitalism
+    - pink-capitalism
+    - paleo-libertarianism
+    - national-liberalism
