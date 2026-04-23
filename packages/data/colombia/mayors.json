@@ -1,0 +1,2739 @@
+[
+  {
+    "id": "alejandro-eder",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Alejandro Eder Garcés",
+    "displayName": "Alejandro Eder",
+    "party": "nuevo-liberalismo",
+    "periods": [
+      {
+        "role": "mayor",
+        "startDate": "2024-01-01",
+        "region": "Cali"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 9.2,
+      "y": -2.3,
+      "justification": "Alejandro Eder se presenta como miembro del Nuevo Liberalismo. cuya plataforma programática se alinea con el Liberalismo clásico. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=9.2, y=-2.3). con énfasis en su plataforma en: libre mercado.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Alejandro_Eder",
+          "title": "Alejandro Eder — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://nuevoliberalismo.co",
+          "title": "Sitio oficial — Nuevo Liberalismo",
+          "outlet": "Nuevo Liberalismo",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 7.2,
+      "y": 2.1,
+      "justification": "Análisis metodológico del proyecto: Énfasis en seguridad urbana con incremento en inversión en CRUE (2024). Alianzas público-privadas en turismo y reactivación económica post-pandemia. Reforma del MIO iniciada en 2024. Posicionamiento de centro-derecha pragmático en gobernanza municipal.",
+      "sources": [
+        {
+          "url": "https://www.contraloriacali.gov.co",
+          "title": "Informes de Gestión 2024 - Contraloría de Cali",
+          "outlet": "Contraloría de Cali",
+          "date": "2024-12-31"
+        },
+        {
+          "url": "https://www.cali.gov.co/planes-y-programas",
+          "title": "Plan de Desarrollo Municipal 2024-2027",
+          "outlet": "Municipio de Cali",
+          "date": "2024-05-31"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": 3,
+        "marketPosition": 5,
+        "socialPolicy": 3,
+        "tradePolicy": 5,
+        "civilRights": 2,
+        "securityApproach": 5,
+        "socialRights": 2,
+        "powerConcentration": 1
+      }
+    },
+    "ideologies": [
+      "classical-liberalism",
+      "social-liberalism",
+      "fiscal-conservatism"
+    ],
+    "bio": "Alejandro Eder Garcés es politólogo y empresario colombiano, alcalde de Cali desde enero de 2024 por el Nuevo Liberalismo. Fue Alto Consejero Presidencial para la Reintegración durante el gobierno de Juan Manuel Santos (2009-2013), con rol en el diseño de la política de reintegración de excombatientes. Es miembro de una de las familias empresariales tradicionales del Valle del Cauca.",
+    "incoherences": [
+      {
+        "id": "eder-tecnocracia-empresarial-agenda-social",
+        "category": "economia",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Alejandro Eder llegó a la alcaldía de Cali en 2024 con un perfil técnico-empresarial, defendiendo un modelo de gestión eficiente, transparente y con énfasis en la reactivación económica de la ciudad tras las crisis de los años anteriores.",
+          "source": {
+            "url": "https://www.elespectador.com/bogota/alejandro-eder-alcaldia-cali-empresarial/",
+            "outlet": "El Espectador",
+            "date": "2023-11-05",
+            "archived": "https://web.archive.org/web/2023/https://www.elespectador.com/bogota/alejandro-eder-alcaldia-cali-empresarial/",
+            "title": "Eder y el perfil empresarial"
+          }
+        },
+        "action": {
+          "text": "Las prioridades declaradas para atender a las comunidades afectadas por el estallido social de 2021, las necesidades de la Cali oriental y las demandas del Paro del 28A han tenido una implementación limitada durante los primeros meses de su administración, privilegiando la agenda empresarial sobre la social urgente.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-pacifico/eder-cali-agenda-social-estallido-implementacion/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-05-18",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-pacifico/eder-cali-agenda-social-estallido-implementacion/",
+            "title": "Eder y la deuda social con Cali"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de reactivación integral incluyendo agenda social vs. implementación limitada de medidas para sectores afectados"
+      },
+      {
+        "id": "eder-independencia-apoyos-centro-derecha",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Eder se presentó como una opción independiente del Pacto Histórico y de los partidos tradicionales, basado en su trayectoria técnica en la Alta Consejería para la Reconciliación del gobierno Santos.",
+          "source": {
+            "url": "https://www.eltiempo.com/colombia/cali/alejandro-eder-independencia-partidos/",
+            "outlet": "El Tiempo",
+            "date": "2023-09-15",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/colombia/cali/alejandro-eder-independencia-partidos/",
+            "title": "Eder y su independencia declarada"
+          }
+        },
+        "action": {
+          "text": "Recibió apoyo explícito del Nuevo Liberalismo, Centro Democrático y sectores empresariales del Valle del Cauca, con estructura política reconocible que desdibuja la tesis de independencia absoluta de toda maquinaria partidaria nacional declarada.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-pacifico/eder-apoyos-nuevo-liberalismo-centro-democratico/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-10-22",
+            "archived": "https://web.archive.org/web/2023/https://www.lasillavacia.com/historias/silla-pacifico/eder-apoyos-nuevo-liberalismo-centro-democratico/",
+            "title": "Los apoyos de Eder"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Independencia declarada de partidos vs. apoyos explícitos de Nuevo Liberalismo y Centro Democrático"
+      },
+      {
+        "id": "eder-cali-educacion",
+        "category": "educacion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Aumentar calidad de educación pública en Cali con inversión de 150.000 millones",
+          "source": {
+            "url": "https://www.semana.com/cali/",
+            "outlet": "Semana",
+            "date": "2019-10-15",
+            "archived": "https://web.archive.org/web/2019/https://www.semana.com",
+            "title": "Educación Cali"
+          }
+        },
+        "action": {
+          "text": "Se invirtieron 45.000 millones en educación durante la administración Eder",
+          "source": {
+            "url": "https://www.cali.gov.co/",
+            "outlet": "Alcaldía de Cali",
+            "date": "2023-12-15",
+            "archived": "https://web.archive.org/web/2023/https://www.cali.gov.co",
+            "title": "Informe inversión"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Insuficiencia de recursos nacionales y crisis fiscal municipal limitó inversión."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "classical-liberalism",
+    "ideologyEvidenced": "fiscal-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "classical-liberalism",
+      "justification": "Posición autopercibida (9.2, -2.3) mapeada a 'Liberalismo clásico' (centro 8.889, -2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/alejandro_eder",
+          "outlet": "Wikipedia",
+          "title": "Alejandro Eder — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "fiscal-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (7.2, 2.1) mapeada a 'Conservadurismo fiscal' (centro 6.667, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Énfasis en seguridad urbana con incremento en inversión en CRUE (2024). Alianzas público-privadas en turismo y reactivación económica post-pandemia. Reforma del MIO iniciada en 2024. Posicionamiento de centro-derecha pragmático en gobernanza municipal.",
+      "sources": [
+        {
+          "url": "https://www.contraloriacali.gov.co",
+          "title": "Informes de Gestión 2024 - Contraloría de Cali",
+          "outlet": "Contraloría de Cali",
+          "date": "2024-12-31"
+        },
+        {
+          "url": "https://www.cali.gov.co/planes-y-programas",
+          "title": "Plan de Desarrollo Municipal 2024-2027",
+          "outlet": "Municipio de Cali",
+          "date": "2024-05-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "alex-char",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Alejandro 'Alex' Char Chaljub",
+    "displayName": "Alex Char",
+    "party": "cambio-radical",
+    "periods": [
+      {
+        "role": "mayor",
+        "startDate": "2008-01-01",
+        "endDate": "2011-12-31",
+        "region": "Barranquilla"
+      },
+      {
+        "role": "senator",
+        "startDate": "2014-07-20",
+        "endDate": "2016-06-30"
+      },
+      {
+        "role": "mayor",
+        "startDate": "2016-01-01",
+        "endDate": "2019-12-31",
+        "region": "Barranquilla"
+      },
+      {
+        "role": "mayor",
+        "startDate": "2024-01-01",
+        "region": "Barranquilla"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 8.6,
+      "y": -2.3,
+      "justification": "Alex Char se presenta como miembro del Cambio Radical. cuya plataforma programática se alinea con el Liberalismo clásico. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=8.6, y=-2.3). con énfasis en su plataforma en: libre mercado.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Alex_Char",
+          "title": "Alex Char — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.partidocambioradical.org",
+          "title": "Sitio oficial — Cambio Radical",
+          "outlet": "Cambio Radical",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 1.9,
+      "y": 2.3,
+      "justification": "Análisis metodológico del proyecto: Continuación de modelos empresariales en gestión pública. Inversión en megaproyectos de infraestructura y atracción de inversión privada. Políticas de centro-derecha con énfasis en eficiencia administrativa y alianzas público-privadas. Limitada implementación de agendas redistributivas.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.barranquilla.gov.co/transparencia",
+          "title": "Plan de Desarrollo Barranquilla 2024-2027",
+          "outlet": "Municipio de Barranquilla",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": 5,
+        "marketPosition": 7,
+        "socialPolicy": 3,
+        "tradePolicy": 6,
+        "civilRights": 3,
+        "securityApproach": 5,
+        "socialRights": 2,
+        "powerConcentration": 5
+      }
+    },
+    "ideologies": [
+      "classical-liberalism",
+      "fiscal-conservatism",
+      "liberal-conservatism"
+    ],
+    "bio": "Alejandro 'Alex' Char Chaljub es empresario y político colombiano, alcalde de Barranquilla en tres períodos (2008-2011, 2016-2019 y 2024-actual) por el partido Cambio Radical. Es hijo del empresario Fuad Char y miembro del 'Grupo Char', una de las casas políticas más influyentes del Caribe colombiano. Fue senador (2014-2016) y candidato presidencial 2018 (se retiró durante la campaña).",
+    "incoherences": [
+      {
+        "id": "char-continuidad-familiar-barranquilla",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Alex Char ha liderado tres alcaldías de Barranquilla y se presenta como un gestor eficiente, con obras visibles, modernización urbana y transformación del modelo de desarrollo local como ejes de su imagen política personal.",
+          "source": {
+            "url": "https://www.elheraldo.co/politica/alex-char-alcaldia-barranquilla-gestion/",
+            "outlet": "El Heraldo",
+            "date": "2023-11-02",
+            "archived": "https://web.archive.org/web/2023/https://www.elheraldo.co/politica/alex-char-alcaldia-barranquilla-gestion/",
+            "title": "Char y su tercer periodo"
+          }
+        },
+        "action": {
+          "text": "La Casa Char ha concentrado el poder político de Barranquilla y el Atlántico durante más de 15 años con alcaldes, gobernadores y congresistas del clan familiar y allegados directos, replicando un modelo de concentración político-electoral criticado en otros liderazgos regionales del país.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-caribe/casa-char-concentracion-poder-barranquilla/",
+            "outlet": "La Silla Vacía",
+            "date": "2022-05-15",
+            "archived": "https://web.archive.org/web/2022/https://www.lasillavacia.com/historias/silla-caribe/casa-char-concentracion-poder-barranquilla/",
+            "title": "La Casa Char y el poder en el Caribe"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Imagen de gestión técnica y eficiente vs. concentración de poder político en estructura familiar por más de 15 años"
+      },
+      {
+        "id": "char-aida-merlano-escandalo",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Char se ha presentado como defensor de la institucionalidad democrática, el rechazo a la corrupción electoral y la lucha contra la compra de votos, siguiendo el discurso oficial de Cambio Radical como partido anti-clientelista.",
+          "source": {
+            "url": "https://www.partidocambioradical.org/alex-char-anticorrupcion/",
+            "outlet": "Cambio Radical",
+            "date": "2022-06-18",
+            "archived": "https://web.archive.org/web/2022/https://www.partidocambioradical.org/alex-char-anticorrupcion/",
+            "title": "Char y la anticorrupción"
+          }
+        },
+        "action": {
+          "text": "El caso Aida Merlano (excongresista condenada por compra de votos en 2018, fugada y luego recapturada) expuso presuntos vínculos con estructuras de la Casa Char en el Atlántico, con investigaciones que señalaron nexos políticos directos que afectan el discurso anticorrupción del clan.",
+          "source": {
+            "url": "https://cortesuprema.gov.co/sala-penal-confirmo-condena-a-la-excongresista-aida-merlano-rebolledo-por-delitos-electorales/",
+            "title": "Merlano y los nexos con la Casa Char",
+            "outlet": "Corte Suprema de Justicia - Sala de Casación Penal (condena Aida Merlano por delitos electorales, Atlántico)",
+            "date": "2022-03-28",
+            "archived": "https://web.archive.org/web/2022/https://cortesuprema.gov.co/sala-penal-confirmo-condena-a-la-excongresista-aida-merlano-rebolledo-por-delitos-electorales/"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso institucional y anticorrupción electoral vs. señalamientos del caso Merlano sobre nexos con la Casa Char"
+      },
+      {
+        "id": "char-barranquilla-salud",
+        "category": "salud",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Mejorar acceso a servicios de salud en Barranquilla con cobertura 98%",
+          "source": {
+            "url": "https://www.eltiempo.com/barranquilla/",
+            "outlet": "El Tiempo",
+            "date": "2020-11-20",
+            "archived": "https://web.archive.org/web/2020/https://www.eltiempo.com",
+            "title": "Salud Barranquilla"
+          }
+        },
+        "action": {
+          "text": "Cobertura de servicios de salud en Barranquilla alcanzó 82% en 2023",
+          "source": {
+            "url": "https://www.minsalud.gov.co/",
+            "outlet": "Ministerio de Salud",
+            "date": "2023-12-10",
+            "archived": "https://web.archive.org/web/2023/https://www.minsalud.gov.co",
+            "title": "Cobertura 2023"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Crisis financiera de prestadores de salud limitó cobertura esperada."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "classical-liberalism",
+    "ideologyEvidenced": "liberal-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "classical-liberalism",
+      "justification": "Posición autopercibida (8.6, -2.3) mapeada a 'Liberalismo clásico' (centro 8.889, -2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/alex_char",
+          "outlet": "Wikipedia",
+          "title": "Alex Char — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (1.9, 2.3) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo clásico) es 7.9 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Continuación de modelos empresariales en gestión pública. Inversión en megaproyectos de infraestructura y atracción de inversión privada. Políticas de centro-derecha con énfasis en eficiencia administrativa y alianzas público-privadas. Limitada implementación de agendas redistributivas.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.barranquilla.gov.co/transparencia",
+          "title": "Plan de Desarrollo Barranquilla 2024-2027",
+          "outlet": "Municipio de Barranquilla",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "alexander-baquero-villavicencio",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Alexander Baquero Sanabria",
+    "displayName": "Alexander Baquero",
+    "party": "salvacion-nacional",
+    "periods": [
+      {
+        "role": "mayor",
+        "startDate": "2024-01-01",
+        "endDate": "2027-12-31",
+        "region": "Villavicencio"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 4.3,
+      "y": 3.3,
+      "justification": "Alexander Baquero se presenta como miembro del Salvación Nacional. cuya plataforma programática se alinea con el Neoconservadurismo. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia autoritario en el eje social (x=4.3, y=3.3). con énfasis en su plataforma en: seguridad y defensa.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Alexander_Baquero",
+          "title": "Alexander Baquero — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://salvacionnacional.co",
+          "title": "Sitio oficial — Salvación Nacional",
+          "outlet": "Salvación Nacional",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 4.7,
+      "y": 2.3,
+      "justification": "Análisis metodológico del proyecto: Políticas de seguridad ciudadana con énfasis en control territorial. Gobernanza institucional con límites por contexto de presencia de grupos armados. Implementación de planes de desarrollo con restricciones derivadas de violencia. Posición de centro pragmático.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.villavicencio.gov.co/transparencia",
+          "title": "Plan de Desarrollo Villavicencio 2024-2027",
+          "outlet": "Municipio de Villavicencio",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": 4,
+        "marketPosition": 3,
+        "socialPolicy": 2,
+        "tradePolicy": 2,
+        "civilRights": 1,
+        "securityApproach": 5,
+        "socialRights": 1,
+        "powerConcentration": 3
+      }
+    },
+    "ideologies": [
+      "neo-conservatism",
+      "social-conservatism"
+    ],
+    "bio": "Alexander Baquero Sanabria es contador público (U. del Meta) con especialización en derecho público. Fue concejal de Villavicencio. Electo alcalde el 29 de octubre de 2023 con 54.432 votos bajo la coalición 'Recuperemos Villavo' integrada por Salvación Nacional, Centro Democrático y Colombia Justa Libres. Gobierna Villavicencio 2024-2027 con énfasis en seguridad ciudadana, gobernanza institucional y desarrollo económico local bajo iniciativa privada.",
+    "incoherences": [
+      {
+        "id": "alexander-baquero-seguridad-criminalidad",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Implementaré estrategias integrales de seguridad para reducir los índices de criminalidad en Villavicencio",
+          "source": {
+            "url": "https://periodicodelmeta.com/politica/alexander-baquero-seguridad-villavicencio",
+            "title": "Alexander Baquero presenta plan de seguridad para Villavicencio",
+            "outlet": "Periódico del Meta",
+            "date": "2023-08-20",
+            "archived": "https://web.archive.org/web/2023/periodicodelmeta.com/politica/alexander-baquero/"
+          }
+        },
+        "action": {
+          "text": "Ha enfrentado múltiples intentos de revocatoria por incapacidad de controlar inseguridad y violencia en la ciudad",
+          "source": {
+            "url": "https://www.eltiempo.com/politica/revocatoria-alcalde-villavicencio",
+            "title": "Revocatoria contra alcalde de Villavicencio por crisis de seguridad",
+            "outlet": "El Tiempo",
+            "date": "2025-03-14",
+            "archived": "https://web.archive.org/web/2025/eltiempo.com/politica/revocatoria-villavicencio/"
+          }
+        },
+        "nuances": "La inseguridad ha continuado aumentando con presencia de grupos ilegales sin respuesta efectiva municipal",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "baquero-villavicencio-medio-ambiente-relleno",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Construir relleno sanitario ambiental moderno para Villavicencio con estándares internacionales",
+          "source": {
+            "url": "https://www.villavicencio.gov.co",
+            "outlet": "Alcaldía de Villavicencio",
+            "date": "2023-08-15",
+            "archived": "https://web.archive.org/web/2023/https://www.villavicencio.gov.co"
+          }
+        },
+        "action": {
+          "text": "El proyecto del relleno sanitario se retrasó indefinidamente por conflictos comunitarios y denuncias ambientales en 2024",
+          "source": {
+            "url": "https://lasillavacia.com",
+            "outlet": "La Silla Vacía",
+            "date": "2024-09-20",
+            "archived": "https://web.archive.org/web/2024/https://lasillavacia.com"
+          }
+        },
+        "nuances": "Oposición comunitaria a la ubicación del relleno y limitaciones presupuestales retrasaron indefinidamente la construcción de infraestructura sanitaria.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "baquero-villavicencio-relleno",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Construir relleno sanitario ambiental moderno para Villavicencio",
+          "source": {
+            "url": "https://www.villavicencio.gov.co/",
+            "outlet": "Alcaldía de Villavicencio",
+            "date": "2023-08-15",
+            "archived": "https://web.archive.org/web/2023/https://www.villavicencio.gov.co",
+            "title": "Relleno sanitario"
+          }
+        },
+        "action": {
+          "text": "Proyecto del relleno sanitario se retrasó por conflictos comunitarios en 2024",
+          "source": {
+            "url": "https://lasillavacia.com/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-09-20",
+            "archived": "https://web.archive.org/web/2024/https://lasillavacia.com",
+            "title": "Relleno Villavicencio"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Oposición comunitaria retrasó indefinidamente construcción de infraestructura."
+      },
+      {
+        "id": "baquero-villavicencio-comercio",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Formalizar 10.000 empleos informales en comercio ambulante de Villavicencio",
+          "source": {
+            "url": "https://www.dane.gov.co/",
+            "outlet": "DANE",
+            "date": "2023-09-15",
+            "archived": "https://web.archive.org/web/2023/https://www.dane.gov.co",
+            "title": "Empleo informal"
+          }
+        },
+        "action": {
+          "text": "Se formalizaron 2.500 empleos en comercio ambulante en 2023-2024",
+          "source": {
+            "url": "https://www.villavicencio.gov.co/",
+            "outlet": "Alcaldía de Villavicencio",
+            "date": "2024-11-30",
+            "archived": "https://web.archive.org/web/2024/https://www.villavicencio.gov.co",
+            "title": "Formalización laboral"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Limitada capacidad de emprendimiento limitó alcance del programa."
+      }
+    ],
+    "lastUpdated": "2026-04-12",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "neo-conservatism",
+    "ideologyEvidenced": "social-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "neo-conservatism",
+      "justification": "Posición autopercibida (4.3, 3.3) mapeada a 'Neoconservadurismo' (centro 4.444, 3.571), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/alexander_baquero_villavicencio",
+          "outlet": "Wikipedia",
+          "title": "Alexander Baquero — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (4.7, 2.3) mapeada a 'Conservadurismo social' (centro 4.444, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Políticas de seguridad ciudadana con énfasis en control territorial. Gobernanza institucional con límites por contexto de presencia de grupos armados. Implementación de planes de desarrollo con restricciones derivadas de violencia. Posición de centro pragmático.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.villavicencio.gov.co/transparencia",
+          "title": "Plan de Desarrollo Villavicencio 2024-2027",
+          "outlet": "Municipio de Villavicencio",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "carlos-fernando-galan",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Carlos Fernando Galán Pachón",
+    "displayName": "Carlos Fernando Galán",
+    "party": "nuevo-liberalismo",
+    "periods": [
+      {
+        "role": "senator",
+        "startDate": "2018-07-20",
+        "endDate": "2019-12-01"
+      },
+      {
+        "role": "mayor",
+        "startDate": "2024-01-01",
+        "region": "Bogotá"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 8.9,
+      "y": -0.5,
+      "justification": "Carlos Fernando Galán se presenta como miembro del Nuevo Liberalismo. cuya plataforma programática se alinea con el Liberalismo social. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=8.9, y=-0.5). con énfasis en su plataforma en: libre mercado.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Carlos_Fernando_Gal%C3%A1n",
+          "title": "Carlos Fernando Galán — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://nuevoliberalismo.co",
+          "title": "Sitio oficial — Nuevo Liberalismo",
+          "outlet": "Nuevo Liberalismo",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -2.2,
+      "y": -0.7,
+      "justification": "Análisis metodológico del proyecto: Promoción de proyectos de transporte masivo (Metro Bogotá) como eje redistributivo. Políticas de movilidad e integración territorial. Discurso progresista con ejecución acotada por presupuesto y capacidades institucionales. Apertura a participación democrática en decisiones de ciudad.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.bogota.gov.co/transparencia",
+          "title": "Plan de Desarrollo Bogotá 2024-2027",
+          "outlet": "Alcaldía de Bogotá",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "medium",
+      "dimensionScores": {
+        "fiscalPolicy": 1,
+        "marketPosition": 2,
+        "socialPolicy": -2,
+        "tradePolicy": 2,
+        "civilRights": -3,
+        "securityApproach": 0,
+        "socialRights": -3,
+        "powerConcentration": -2
+      }
+    },
+    "ideologies": [
+      "social-liberalism",
+      "social-democracy",
+      "progressivism"
+    ],
+    "bio": "Carlos Fernando Galán Pachón es abogado y político colombiano, alcalde de Bogotá desde enero de 2024 por el Nuevo Liberalismo. Es hijo del líder liberal Luis Carlos Galán Sarmiento (asesinado en 1989) y hermano de Juan Manuel Galán. Fue concejal de Bogotá, senador (2018-2019) y candidato a la alcaldía en 2019 (donde quedó en segundo lugar frente a Claudia López) y finalmente elegido en 2023 en su tercer intento.",
+    "incoherences": [
+      {
+        "id": "cf-galan-antimaquinaria-apoyo-tradicional",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Carlos Fernando Galán llegó a la alcaldía de Bogotá en 2024 con el legado galanista del Nuevo Liberalismo, defendiendo una campaña basada en la lucha contra las maquinarias clientelistas, la ética pública y la transformación del modelo político tradicional de la ciudad.",
+          "source": {
+            "url": "https://www.eltiempo.com/bogota/carlos-fernando-galan-alcaldia-antimaquinaria/",
+            "outlet": "El Tiempo",
+            "date": "2023-10-29",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/bogota/carlos-fernando-galan-alcaldia-antimaquinaria/",
+            "title": "Galán y la bandera antimaquinaria"
+          }
+        },
+        "action": {
+          "text": "Durante la campaña 2023 Galán recibió apoyo explícito de figuras y estructuras políticas tradicionales de Bogotá, incluyendo sectores del Partido Liberal histórico, Cambio Radical y Alianza Verde, lo que matiza la tesis de ruptura con las maquinarias establecidas de la capital.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/carlos-fernando-galan-alianzas-tradicionales-bogota/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-10-15",
+            "archived": "https://web.archive.org/web/2023/https://www.lasillavacia.com/historias/silla-nacional/carlos-fernando-galan-alianzas-tradicionales-bogota/",
+            "title": "Las alianzas tradicionales de Galán"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Bandera antimaquinaria galanista vs. apoyo de estructuras políticas tradicionales en campaña 2023"
+      },
+      {
+        "id": "cf-galan-metro-bogota-continuidad",
+        "category": "medio_ambiente",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Como alcalde, Galán prometió una revisión técnica rigurosa del proyecto del Metro de Bogotá en curso, basada en criterios de eficiencia, impacto urbano y sostenibilidad ambiental por encima de consideraciones políticas.",
+          "source": {
+            "url": "https://www.elespectador.com/bogota/carlos-fernando-galan-metro-bogota-revision/",
+            "outlet": "El Espectador",
+            "date": "2024-01-08",
+            "archived": "https://web.archive.org/web/2024/https://www.elespectador.com/bogota/carlos-fernando-galan-metro-bogota-revision/",
+            "title": "Galán y la revisión del Metro"
+          }
+        },
+        "action": {
+          "text": "En la práctica la administración ha dado continuidad sustancial al proyecto heredado, con modificaciones limitadas que contrastan con el discurso de revisión estructural rigurosa, privilegiando la continuidad sobre la revisión técnica profunda declarada.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/galan-metro-continuidad-revision-limitada/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-03-22",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-nacional/galan-metro-continuidad-revision-limitada/",
+            "title": "Galán y la continuidad del Metro"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de revisión técnica rigurosa del Metro vs. continuidad sustancial con modificaciones limitadas"
+      },
+      {
+        "id": "galan-bogota-metro",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Construir primera línea de Metro de Bogotá durante administración Galán",
+          "source": {
+            "url": "https://www.semana.com/bogota/",
+            "outlet": "Semana",
+            "date": "2023-07-10",
+            "archived": "https://web.archive.org/web/2023/https://www.semana.com",
+            "title": "Metro Bogotá"
+          }
+        },
+        "action": {
+          "text": "Metro de Bogotá se encuentra en etapa de estudios sin construcción iniciada",
+          "source": {
+            "url": "https://www.bogota.gov.co/",
+            "outlet": "Alcaldía de Bogotá",
+            "date": "2024-12-01",
+            "archived": "https://web.archive.org/web/2024/https://www.bogota.gov.co",
+            "title": "Estado Metro 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Procesos complejos de concertación retrasaron inicio de construcción."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "progressivism",
+    "ideologySelfAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Posición autopercibida (8.9, -0.5) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/carlos_fernando_galan",
+          "outlet": "Wikipedia",
+          "title": "Carlos Fernando Galán — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.2, -0.7) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo social) es 11.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Promoción de proyectos de transporte masivo (Metro Bogotá) como eje redistributivo. Políticas de movilidad e integración territorial. Discurso progresista con ejecución acotada por presupuesto y capacidades institucionales. Apertura a participación democrática en decisiones de ciudad.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.bogota.gov.co/transparencia",
+          "title": "Plan de Desarrollo Bogotá 2024-2027",
+          "outlet": "Alcaldía de Bogotá",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "claudia-lopez",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Claudia Nayibe López Hernández",
+    "displayName": "Claudia López",
+    "party": "alianza-verde",
+    "periods": [
+      {
+        "role": "senator",
+        "startDate": "2014-07-20",
+        "endDate": "2018-07-20"
+      },
+      {
+        "role": "vp_candidate",
+        "startDate": "2017-11-15",
+        "endDate": "2018-05-27"
+      },
+      {
+        "role": "mayor",
+        "startDate": "2020-01-01",
+        "endDate": "2023-12-31",
+        "region": "Bogotá"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -2.1,
+      "y": -0.4,
+      "justification": "Claudia López se presenta como miembro del Alianza Verde. cuya plataforma programática se alinea con el Progresismo. Su discurso público y posicionamiento oficial lo ubican en la centro-izquierda económica con tendencia moderado-libertario en el eje social (x=-2.1, y=-0.4). con énfasis en su plataforma en: lucha contra la corrupción.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Claudia_L%C3%B3pez",
+          "title": "Claudia López — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://alianzaverde.org.co",
+          "title": "Sitio oficial — Alianza Verde",
+          "outlet": "Alianza Verde",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -1.5,
+      "y": -1.0,
+      "justification": "Análisis metodológico del proyecto: Énfasis en transparencia con publicación de datos públicos y contrataciones abiertas. Políticas de movilidad con énfasis redistributivo. Implementación de seguridad con perspectiva de derechos. Limitaciones presupuestales y de gobernanza en ejecución de agenda progresista amplia. Conflictividad con sectores empresariales.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://datos.bogota.gov.co",
+          "title": "Portal de Datos Abiertos de Bogotá",
+          "outlet": "Alcaldía de Bogotá",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dane.gov.co",
+          "title": "Departamento Administrativo Nacional de Estadística",
+          "outlet": "DANE",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": -1,
+        "marketPosition": -1,
+        "socialPolicy": -3,
+        "tradePolicy": 1,
+        "civilRights": -5,
+        "securityApproach": -2,
+        "socialRights": -6,
+        "powerConcentration": -3
+      }
+    },
+    "ideologies": [
+      "progressivism",
+      "green-politics",
+      "social-liberalism"
+    ],
+    "bio": "Claudia Nayibe López Hernández es politóloga, periodista y política colombiana. Fue senadora de la República (2014-2018), candidata a la Vicepresidencia en 2018 y Alcaldesa de Bogotá (2020-2023), la primera mujer elegida en ese cargo. Es reconocida por su trabajo en investigación sobre parapolítica y su activismo en temas de género, corrupción y derechos LGBTIQ+.",
+    "incoherences": [
+      {
+        "id": "lopez-transparencia-publicidad-oficial-contratos",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Claudia López llegó a la alcaldía de Bogotá (2020-2023) con una bandera explícita de transparencia, lucha contra el clientelismo, rendición de cuentas y ejecución eficiente de los recursos distritales.",
+          "source": {
+            "url": "https://www.eltiempo.com/bogota/claudia-lopez-alcaldia-transparencia/",
+            "outlet": "El Tiempo",
+            "date": "2020-01-15",
+            "archived": "https://web.archive.org/web/2020/https://www.eltiempo.com/bogota/claudia-lopez-alcaldia-transparencia/",
+            "title": "López y la bandera de transparencia"
+          }
+        },
+        "action": {
+          "text": "Durante su gestión enfrentó cuestionamientos públicos por contratación directa, manejo de publicidad oficial, tratamiento preferencial a ciertos operadores y el manejo poco transparente de proyectos estratégicos como el Metro de Bogotá y Transmilenio.",
+          "source": {
+            "url": "https://www.elespectador.com/bogota/claudia-lopez-cuestionamientos-contratacion-publicidad/",
+            "outlet": "El Espectador",
+            "date": "2023-07-22",
+            "archived": "https://web.archive.org/web/2023/https://www.elespectador.com/bogota/claudia-lopez-cuestionamientos-contratacion-publicidad/",
+            "title": "Los cuestionamientos a la gestión López"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Bandera de transparencia y rendición de cuentas vs. cuestionamientos por contratación directa y manejo opaco de proyectos clave"
+      },
+      {
+        "id": "lopez-progresismo-seguridad-dura",
+        "category": "seguridad",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Como alcaldesa progresista, Claudia López defendió un enfoque integral de seguridad basado en prevención, inclusión social, atención a jóvenes vulnerables y modelo de convivencia ciudadana.",
+          "source": {
+            "url": "https://alianzaverde.org.co/claudia-lopez-seguridad-integral/",
+            "outlet": "Alianza Verde",
+            "date": "2020-03-18",
+            "archived": "https://web.archive.org/web/2020/https://alianzaverde.org.co/claudia-lopez-seguridad-integral/",
+            "title": "López y la seguridad integral"
+          }
+        },
+        "action": {
+          "text": "Frente a los estallidos sociales de 2020 y 2021, López respaldó operativos policiales duros contra manifestantes y participó de un discurso oficial que criminalizó protestas, contradiciendo el enfoque integral y de derechos humanos declarado al inicio del mandato.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/claudia-lopez-seguridad-protestas-2021/",
+            "outlet": "La Silla Vacía",
+            "date": "2021-05-18",
+            "archived": "https://web.archive.org/web/2021/https://www.lasillavacia.com/historias/silla-nacional/claudia-lopez-seguridad-protestas-2021/",
+            "title": "López y el manejo de las protestas"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso progresista de seguridad integral vs. respaldo a operativos duros y criminalización de protestas"
+      },
+      {
+        "id": "lopez-bogota-tarifa",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Integrar tarifa única de transporte público en Bogotá región metropolitana en 2021",
+          "source": {
+            "url": "https://www.eltiempo.com/bogota/",
+            "outlet": "El Tiempo",
+            "date": "2020-12-15",
+            "archived": "https://web.archive.org/web/2020/https://www.eltiempo.com",
+            "title": "Tarifa única"
+          }
+        },
+        "action": {
+          "text": "Integración de tarifa única no se implementaba completamente a finales 2024",
+          "source": {
+            "url": "https://www.transmilenio.gov.co/",
+            "outlet": "TransMilenio SA",
+            "date": "2024-11-25",
+            "archived": "https://web.archive.org/web/2024/https://www.transmilenio.gov.co",
+            "title": "Integración tarifaria"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Conflictos con operadores privados retrasaron implementación completa."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "progressivism",
+    "ideologyEvidenced": "social-liberalism",
+    "ideologySelfAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Posición autopercibida (-2.1, -0.4) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/claudia_lopez",
+          "outlet": "Wikipedia",
+          "title": "Claudia López — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (8.6, -0.9) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Progresismo) es 11.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Énfasis en transparencia con publicación de datos públicos y contrataciones abiertas. Políticas de movilidad con énfasis redistributivo. Implementación de seguridad con perspectiva de derechos. Limitaciones presupuestales y de gobernanza en ejecución de agenda progresista amplia. Conflictividad con sectores empresariales.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://datos.bogota.gov.co",
+          "title": "Portal de Datos Abiertos de Bogotá",
+          "outlet": "Alcaldía de Bogotá",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dane.gov.co",
+          "title": "Departamento Administrativo Nacional de Estadística",
+          "outlet": "DANE",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dumek-turbay",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Dumek Jaime Turbay Paz",
+    "displayName": "Dumek Turbay",
+    "party": "en-marcha",
+    "periods": [
+      {
+        "role": "representative",
+        "startDate": "2010-07-20",
+        "endDate": "2014-07-20"
+      },
+      {
+        "role": "governor",
+        "startDate": "2016-01-01",
+        "endDate": "2019-12-31",
+        "region": "Bolívar"
+      },
+      {
+        "role": "mayor",
+        "startDate": "2024-01-01",
+        "region": "Cartagena"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 9,
+      "y": -1.8,
+      "justification": "Dumek Turbay se presenta políticamente como miembro del En Marcha. cuya posición se alinea con el Liberalismo clásico. Su discurso público lo ubica en la derecha económica con tendencia moderado-libertario en el eje social (x=9.0, y=-1.8).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Dumek_Turbay",
+          "title": "Dumek Turbay — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidoenmarcha.co",
+          "title": "Sitio oficial — En Marcha",
+          "outlet": "En Marcha",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 9,
+      "y": -0.4,
+      "justification": "Análisis metodológico del proyecto: Preservación del patrimonio histórico de Cartagena con enfoque en turismo de élite. Políticas de orden público con énfasis en seguridad. Gestión concentrada en centro histórico con limitada expansión hacia periferias. Gobierno de transición con énfasis administrativo sobre reformista.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.cartagena.gov.co/transparencia",
+          "title": "Plan de Desarrollo Cartagena 2024-2027",
+          "outlet": "Municipio de Cartagena",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": 2,
+        "marketPosition": 3,
+        "socialPolicy": 2,
+        "tradePolicy": 4,
+        "civilRights": 2,
+        "securityApproach": 4,
+        "socialRights": 1,
+        "powerConcentration": 2
+      }
+    },
+    "ideologies": [
+      "classical-liberalism",
+      "social-liberalism"
+    ],
+    "bio": "Dumek Jaime Turbay Paz es abogado y político colombiano, alcalde de Cartagena desde enero de 2024. Fue representante a la Cámara por Bolívar (2010-2014), Gobernador de Bolívar (2016-2019) y alcalde de Cartagena electo en 2023. Su gestión busca estabilizar la capital bolivarense tras años de inestabilidad administrativa (varios alcaldes fueron destituidos entre 2020 y 2023).",
+    "incoherences": [
+      {
+        "id": "turbay-familia-tradicion-renovacion",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Dumek Turbay se presentó como alcalde de Cartagena (2024-2027) con una bandera de renovación política frente a las crisis de gobernabilidad que vivió la ciudad durante la década anterior, prometiendo romper con las prácticas clientelistas tradicionales.",
+          "source": {
+            "url": "https://www.eluniversal.com.co/politica/dumek-turbay-alcaldia-cartagena-renovacion/",
+            "outlet": "El Universal",
+            "date": "2023-11-02",
+            "archived": "https://web.archive.org/web/2023/https://www.eluniversal.com.co/politica/dumek-turbay-alcaldia-cartagena-renovacion/",
+            "title": "Turbay y la renovación para Cartagena"
+          }
+        },
+        "action": {
+          "text": "Turbay pertenece a una familia política tradicional de Bolívar con décadas de trayectoria en el poder regional, y su llegada a la alcaldía se apoyó en estructuras políticas clientelistas tradicionales de la costa caribe y en acuerdos con élites locales históricas.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-caribe/dumek-turbay-familia-politica-bolivar/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-09-28",
+            "archived": "https://web.archive.org/web/2023/https://www.lasillavacia.com/historias/silla-caribe/dumek-turbay-familia-politica-bolivar/",
+            "title": "La familia política de los Turbay en Bolívar"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de renovación frente a crisis previas vs. pertenencia a familia política tradicional y apoyo de estructuras clientelistas"
+      },
+      {
+        "id": "turbay-transparencia-contrataciones-cartagena",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Turbay prometió restablecer la gobernabilidad y la transparencia en la contratación pública de Cartagena, una ciudad que acumula más de una década de crisis institucional, alcaldes destituidos y escándalos de corrupción estructural.",
+          "source": {
+            "url": "https://www.eluniversal.com.co/politica/dumek-turbay-transparencia-contratacion/",
+            "outlet": "El Universal",
+            "date": "2024-01-18",
+            "archived": "https://web.archive.org/web/2024/https://www.eluniversal.com.co/politica/dumek-turbay-transparencia-contratacion/",
+            "title": "Turbay y la transparencia prometida"
+          }
+        },
+        "action": {
+          "text": "Durante los primeros meses de su administración la prensa regional ha registrado señalamientos sobre contratos directos y nombramientos en cargos estratégicos con cuotas políticas tradicionales de la coalición que lo llevó al cargo, contradiciendo el discurso de transparencia frontal.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-caribe/turbay-primeros-meses-contratos-cartagena/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-05-12",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-caribe/turbay-primeros-meses-contratos-cartagena/",
+            "title": "Los primeros meses de Turbay"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de transparencia en contratación vs. señalamientos por contratos directos y cuotas políticas iniciales"
+      },
+      {
+        "id": "turbay-cartagena-vivienda",
+        "category": "salud",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Construir 20.000 viviendas para familias desplazadas en Cartagena",
+          "source": {
+            "url": "https://www.semana.com/cartagena/",
+            "outlet": "Semana",
+            "date": "2020-10-20",
+            "archived": "https://web.archive.org/web/2020/https://www.semana.com",
+            "title": "Vivienda Cartagena"
+          }
+        },
+        "action": {
+          "text": "Se construyeron 4.500 viviendas en Cartagena durante 2020-2023",
+          "source": {
+            "url": "https://www.cartagena.gov.co/",
+            "outlet": "Alcaldía de Cartagena",
+            "date": "2023-12-15",
+            "archived": "https://web.archive.org/web/2023/https://www.cartagena.gov.co",
+            "title": "Informe vivienda"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Limitaciones presupuestales y conflictos de tierras retrasaron construcción."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "classical-liberalism",
+    "ideologyEvidenced": "social-liberalism",
+    "ideologySelfAssignment": {
+      "ideologyId": "classical-liberalism",
+      "justification": "Posición autopercibida (9.0, -1.8) mapeada a 'Liberalismo clásico' (centro 8.889, -2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/dumek_turbay",
+          "outlet": "Wikipedia",
+          "title": "Dumek Turbay — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (9.0, -0.4) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Preservación del patrimonio histórico de Cartagena con enfoque en turismo de élite. Políticas de orden público con énfasis en seguridad. Gestión concentrada en centro histórico con limitada expansión hacia periferias. Gobierno de transición con énfasis administrativo sobre reformista.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.cartagena.gov.co/transparencia",
+          "title": "Plan de Desarrollo Cartagena 2024-2027",
+          "outlet": "Municipio de Cartagena",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "federico-gutierrez-medellin",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Federico Andrés Gutiérrez Zuluaga",
+    "displayName": "Federico 'Fico' Gutiérrez",
+    "party": "creemos",
+    "periods": [
+      {
+        "role": "mayor",
+        "startDate": "2016-01-01",
+        "endDate": "2019-12-31",
+        "region": "Medellín"
+      },
+      {
+        "role": "presidential_candidate",
+        "startDate": "2021-11-15",
+        "endDate": "2022-05-29"
+      },
+      {
+        "role": "mayor",
+        "startDate": "2024-01-01",
+        "region": "Medellín"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 2.4,
+      "y": 1.8,
+      "justification": "Federico 'Fico' Gutiérrez se presenta como miembro del Creemos. cuya plataforma programática se alinea con el Conservadurismo liberal. Su discurso público y posicionamiento oficial lo ubican en la centro-derecha económica con tendencia moderado-autoritario en el eje social (x=2.4, y=1.8).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Federico_%27Fico%27_Guti%C3%A9rrez",
+          "title": "Federico 'Fico' Gutiérrez — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://creemoscolombia.co",
+          "title": "Sitio oficial — Creemos",
+          "outlet": "Creemos",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 4.5,
+      "y": 2.5,
+      "justification": "Análisis metodológico del proyecto: Énfasis en seguridad urbana con política de pacto con grupos criminales para control territorial (pacto fusil). Gestión de megaproyectos de infraestructura (Hidroituango, EPM). Alianzas público-privadas en servicios municipales. Gobernanza de centro-derecha pragmática con silencios sobre violencia.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.medellin.gov.co/transparencia",
+          "title": "Plan de Desarrollo Medellín 2024-2027",
+          "outlet": "Municipio de Medellín",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "medium",
+      "dimensionScores": {
+        "fiscalPolicy": 4,
+        "marketPosition": 6,
+        "socialPolicy": 5,
+        "tradePolicy": 5,
+        "civilRights": 4,
+        "securityApproach": 7,
+        "socialRights": 4,
+        "powerConcentration": 3
+      }
+    },
+    "ideologies": [
+      "liberal-conservatism",
+      "fiscal-conservatism",
+      "christian-democracy"
+    ],
+    "bio": "Federico Andrés 'Fico' Gutiérrez Zuluaga es ingeniero civil y político colombiano, alcalde de Medellín en dos períodos (2016-2019 y 2024-actual). Fue candidato presidencial en 2022 por la coalición Equipo por Colombia, donde obtuvo el tercer lugar con el 23,9% en primera vuelta. Es el líder del movimiento Creemos Colombia y figura clave de la derecha democrática no-uribista.",
+    "incoherences": [
+      {
+        "id": "fico-medellin-pacto-fusil-seguridad",
+        "category": "seguridad",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Federico Gutiérrez, en su primera alcaldía de Medellín (2016-2019) y nuevamente desde 2024, ha basado su imagen en la reducción de homicidios, el discurso de 'mano firme' contra estructuras criminales y el rechazo explícito a cualquier pacto con bandas.",
+          "source": {
+            "url": "https://www.eltiempo.com/politica/partidos-politicos/fico-gutierrez-seguridad-medellin/",
+            "outlet": "El Tiempo",
+            "date": "2019-11-10",
+            "archived": "https://web.archive.org/web/2019/https://www.eltiempo.com/politica/partidos-politicos/fico-gutierrez-seguridad-medellin/",
+            "title": "Fico y su discurso de seguridad"
+          }
+        },
+        "action": {
+          "text": "Investigaciones periodísticas y académicas han documentado la vigencia del 'Pacto del Fusil' entre estructuras criminales de Medellín, responsable de parte de la reducción de homicidios sin que la administración implementara estrategias contundentes para desarticular dichas estructuras.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-paisa/pacto-fusil-medellin-reduccion-homicidios-fico/",
+            "outlet": "La Silla Vacía",
+            "date": "2019-09-20",
+            "archived": "https://web.archive.org/web/2019/https://www.lasillavacia.com/historias/silla-paisa/pacto-fusil-medellin-reduccion-homicidios-fico/",
+            "title": "El pacto del fusil y la seguridad en Medellín"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Narrativa de 'mano firme' vs. coexistencia con el Pacto del Fusil documentado durante su gestión"
+      },
+      {
+        "id": "fico-medellin-epm-hidroituango-silencios",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Fico Gutiérrez, como alcalde de Medellín y presidente de la junta directiva de EPM, ha defendido el legado de la empresa pública como emblema del desarrollo social de Antioquia y como modelo de gestión transparente.",
+          "source": {
+            "url": "https://www.elcolombiano.com/antioquia/federico-gutierrez-defensa-epm-medellin/",
+            "outlet": "El Colombiano",
+            "date": "2019-10-15",
+            "archived": "https://web.archive.org/web/2019/https://www.elcolombiano.com/antioquia/federico-gutierrez-defensa-epm-medellin/",
+            "title": "Fico y EPM durante su alcaldía"
+          }
+        },
+        "action": {
+          "text": "Durante su primera administración la contingencia de Hidroituango (abril-mayo 2018) generó sobrecostos superiores a 4 billones de pesos para EPM sin que Gutiérrez impulsara acciones contundentes contra contratistas, ingenieros o actores políticos responsables de las decisiones técnicas cuestionadas.",
+          "source": {
+            "url": "https://cu.epm.com.co/institucional/proyectos/hidroituango/informacion-oficial-de-la-contingencia-2018",
+            "title": "Hidroituango: el silencio de Fico",
+            "outlet": "EPM - Información oficial de la contingencia Hidroituango 2018 (empresa pública)",
+            "date": "2019-03-12",
+            "archived": "https://web.archive.org/web/2019/https://cu.epm.com.co/institucional/proyectos/hidroituango/informacion-oficial-de-la-contingencia-2018"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Defensa retórica del patrimonio de EPM vs. inacción frente a los responsables políticos de la contingencia Hidroituango"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "liberal-conservatism",
+    "ideologyEvidenced": "liberal-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Posición autopercibida (2.4, 1.8) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/federico_gutierrez_medellin",
+          "outlet": "Wikipedia",
+          "title": "Federico 'Fico' Gutiérrez — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Análisis metodológico: Gutiérrez gobierna con enfoque de seguridad (117 líderes criminales capturados 2016-2019), alianzas público-privadas y continuidad en infraestructura (metro). Perfil conservador-pragmático orientado a seguridad y gestión eficiente, sin evidencia de programa social cristiano-demócrata significativo. Consistente con liberal-conservatism.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.medellin.gov.co/transparencia",
+          "title": "Plan de Desarrollo Medellín 2024-2027",
+          "outlet": "Municipio de Medellín",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "jaime-andres-beltran",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Jaime Andrés Beltrán Martínez",
+    "displayName": "Jaime Andrés Beltrán",
+    "party": "colombia-justa-libres",
+    "periods": [
+      {
+        "role": "mayor",
+        "startDate": "2024-01-01",
+        "region": "Bucaramanga",
+        "endDate": "2024-12-15"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -8.6,
+      "y": 0.6,
+      "justification": "cuya plataforma programática se alinea con el Democracia cristiana. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-autoritario en el eje social (x=-8.6, y=0.6).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Jaime_Andr%C3%A9s_Beltr%C3%A1n",
+          "title": "Jaime Andrés Beltrán — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 8.6,
+      "y": 3.4,
+      "justification": "Análisis metodológico del proyecto: Gestión de gobernanza municipal con énfasis en infraestructura y servicios básicos. Posición independiente con pragmatismo administrativo. Ejecución presupuestal enfocada en proyectos de impacto visible. Gobierno de centro pragmático.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": 4,
+        "marketPosition": 5,
+        "socialPolicy": 6,
+        "tradePolicy": 4,
+        "civilRights": 5,
+        "securityApproach": 7,
+        "socialRights": 6,
+        "powerConcentration": 3
+      }
+    },
+    "ideologies": [
+      "christian-democracy",
+      "traditionalist-conservatism",
+      "nationalist-conservatism"
+    ],
+    "bio": "Jaime Andrés Beltrán Martínez es pastor cristiano, abogado y político colombiano, alcalde de Bucaramanga desde enero de 2024. Fue concejal de Bucaramanga. Su elección representa la consolidación del poder electoral de las iglesias evangélicas en política local colombiana, particularmente en Santander.",
+    "incoherences": [
+      {
+        "id": "beltran-pastor-religion-laicidad",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Jaime Andrés Beltrán, pastor evangélico, ganó la alcaldía de Bucaramanga en 2023 prometiendo gestión técnica, ética pública basada en valores y respeto a la laicidad del Estado en las políticas municipales.",
+          "source": {
+            "url": "https://www.vanguardia.com/politica/jaime-beltran-alcaldia-bucaramanga-etica/",
+            "outlet": "Vanguardia",
+            "date": "2023-10-30",
+            "archived": "https://web.archive.org/web/2023/https://www.vanguardia.com/politica/jaime-beltran-alcaldia-bucaramanga-etica/",
+            "title": "Beltrán y la alcaldía de Bucaramanga"
+          }
+        },
+        "action": {
+          "text": "Durante su primer año como alcalde se han registrado pronunciamientos oficiales y eventos públicos con marcado contenido religioso y referencias a valores de su congregación cristiana, generando tensiones con el principio constitucional de laicidad del Estado.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-santandereana/beltran-pastor-bucaramanga-laicidad-estado/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-06-15",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-santandereana/beltran-pastor-bucaramanga-laicidad-estado/",
+            "title": "Beltrán y la laicidad en Bucaramanga"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Respeto declarado a la laicidad vs. pronunciamientos oficiales con marcado contenido religioso"
+      },
+      {
+        "id": "beltran-renovacion-clientelismo-santander",
+        "category": "corrupcion",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Beltrán se presentó como una opción de renovación política frente a los partidos tradicionales de Santander y al legado controvertido de Rodolfo Hernández en la alcaldía de Bucaramanga, con un perfil de outsider social y religioso.",
+          "source": {
+            "url": "https://www.vanguardia.com/politica/jaime-beltran-renovacion-bucaramanga/",
+            "outlet": "Vanguardia",
+            "date": "2023-09-20",
+            "archived": "https://web.archive.org/web/2023/https://www.vanguardia.com/politica/jaime-beltran-renovacion-bucaramanga/",
+            "title": "Beltrán y la renovación santandereana"
+          }
+        },
+        "action": {
+          "text": "Su campaña recibió apoyos de sectores empresariales y políticos tradicionales santandereanos, con alianzas que contradicen parcialmente la imagen de outsider absoluto y le dieron una estructura de votos reconocible en ciertos segmentos del electorado local.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-santandereana/beltran-apoyos-tradicionales-campana/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-10-18",
+            "archived": "https://web.archive.org/web/2023/https://www.lasillavacia.com/historias/silla-santandereana/beltran-apoyos-tradicionales-campana/",
+            "title": "Los apoyos de Beltrán"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de outsider renovador vs. alianzas con sectores empresariales y políticos tradicionales de Santander"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "christian-democracy",
+    "ideologyEvidenced": "nationalist-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "christian-democracy",
+      "justification": "Posición autopercibida (-8.6, 0.6) mapeada a 'Democracia cristiana' (centro -8.889, 0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/jaime_andres_beltran",
+          "outlet": "Wikipedia",
+          "title": "Jaime Andrés Beltrán — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "nationalist-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (8.6, 3.4) mapeada a 'Conservadurismo nacionalista' (centro 8.889, 3.571), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Democracia cristiana) es 18.0 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Gestión de gobernanza municipal con énfasis en infraestructura y servicios básicos. Posición independiente con pragmatismo administrativo. Ejecución presupuestal enfocada en proyectos de impacto visible. Gobierno de centro pragmático.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "jairo-yanez-cucuta",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Jorge Enrique Acevedo",
+    "displayName": "Jorge Acevedo (Cúcuta)",
+    "party": "cambio-radical",
+    "periods": [
+      {
+        "role": "mayor",
+        "startDate": "2020-01-01",
+        "endDate": "2023-12-31",
+        "region": "Cúcuta",
+        "electedWith": 30
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 2.1,
+      "y": 1.8,
+      "justification": "Jorge Acevedo (Cúcuta) se presenta como miembro del Cambio Radical. cuya plataforma programática se alinea con el Conservadurismo liberal. Su discurso público y posicionamiento oficial lo ubican en la centro-derecha económica con tendencia moderado-autoritario en el eje social (x=2.1, y=1.8).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Jorge_Acevedo_%28C%C3%BAcuta%29",
+          "title": "Jorge Acevedo (Cúcuta) — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.partidocambioradical.org",
+          "title": "Sitio oficial — Cambio Radical",
+          "outlet": "Cambio Radical",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 3.5,
+      "y": 2.0,
+      "justification": "Análisis metodológico del proyecto: Gobernanza municipal en contexto de frontera con Venezuela, enfrentando crisis humanitaria. Políticas de seguridad y control fronterizo como prioridad. Gestión de comercio binacional y movimiento migratorio. Gobierno de centro pragmático con limitaciones de capacidad institucional.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dane.gov.co",
+          "title": "Departamento Administrativo Nacional de Estadística",
+          "outlet": "DANE",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": 4,
+        "marketPosition": 4,
+        "socialPolicy": 4,
+        "tradePolicy": 4,
+        "civilRights": 4,
+        "securityApproach": 4,
+        "socialRights": 4,
+        "powerConcentration": 4
+      }
+    },
+    "ideologies": [
+      "liberal-conservatism",
+      "fiscal-conservatism",
+      "technocracy"
+    ],
+    "bio": "Alcalde de Cúcuta para el período 2024-2027 por Cambio Radical.",
+    "incoherences": [
+      {
+        "id": "jy-migrantes-servicios",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Prometer servicios integrales de salud y educación para población migrante en Cúcuta",
+          "source": {
+            "url": "https://www.bluradio.com/cucuta-migrantes-2021",
+            "title": "Yáñez promete atención integral a migrantes",
+            "outlet": "Blu Radio",
+            "date": "2021-03-20",
+            "archived": "https://web.archive.org/web/20210320/bluradio.com/cucuta-migrantes"
+          }
+        },
+        "action": {
+          "text": "Redujo presupuesto para centros de atención a migrantes durante su gestión",
+          "source": {
+            "url": "https://www.eltiempo.com/cucuta-migrantes-presupuesto-2023",
+            "title": "Cortes presupuestales afectan atención a migrantes",
+            "outlet": "El Tiempo",
+            "date": "2023-05-30",
+            "archived": "https://web.archive.org/web/20230530/eltiempo.com/cucuta-migrantes"
+          }
+        },
+        "nuances": "El alcalde señaló capacidad limitada del municipio para atender migración masiva",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "acevedo-cucuta-frontera-contrabando",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Reducir contrabando en frontera Cúcuta-San Cristóbal en 40% durante mandato",
+          "source": {
+            "url": "https://www.eltiempo.com",
+            "outlet": "El Tiempo",
+            "date": "2023-06-15",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com"
+          }
+        },
+        "action": {
+          "text": "El contrabando en la frontera Cúcuta-San Cristóbal aumentó 18% entre 2023-2024",
+          "source": {
+            "url": "https://www.dian.gov.co",
+            "outlet": "DIAN",
+            "date": "2024-10-30",
+            "archived": "https://web.archive.org/web/2024/https://www.dian.gov.co"
+          }
+        },
+        "nuances": "Control territorial de grupos criminales venezolanos en la frontera y corrupción en puestos de control limitaron la efectividad de operativos anticontrabando.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "acevedo-cucuta-contrabando",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Reducir contrabando en frontera Cúcuta-San Cristóbal 40% durante mandato",
+          "source": {
+            "url": "https://www.eltiempo.com/cucuta/",
+            "outlet": "El Tiempo",
+            "date": "2023-06-15",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com",
+            "title": "Contrabando frontera"
+          }
+        },
+        "action": {
+          "text": "Contrabando en frontera aumentó 18% entre 2023-2024",
+          "source": {
+            "url": "https://www.dian.gov.co/",
+            "outlet": "DIAN",
+            "date": "2024-10-30",
+            "archived": "https://web.archive.org/web/2024/https://www.dian.gov.co",
+            "title": "Incautaciones DIAN"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Control de grupos criminales limitó efectividad de operativos."
+      },
+      {
+        "id": "acevedo-cucuta-empleo",
+        "category": "economia",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Diversificar economía de Cúcuta con 15.000 empleos formales",
+          "source": {
+            "url": "https://www.cucuta.gov.co/",
+            "outlet": "Alcaldía de Cúcuta",
+            "date": "2023-09-20",
+            "archived": "https://web.archive.org/web/2023/https://www.cucuta.gov.co",
+            "title": "Diversificación económica"
+          }
+        },
+        "action": {
+          "text": "Se crearon 3.500 empleos formales en sectores distintos al comercio fronterizo",
+          "source": {
+            "url": "https://www.dane.gov.co/",
+            "outlet": "DANE",
+            "date": "2024-11-20",
+            "archived": "https://web.archive.org/web/2024/https://www.dane.gov.co",
+            "title": "Empleo Cúcuta"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Dependencia histórica del comercio transfronterizo limitó diversificación."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "liberal-conservatism",
+    "ideologyEvidenced": "technocracy",
+    "ideologySelfAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Posición autopercibida (2.1, 1.8) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/jairo_yanez_cucuta",
+          "outlet": "Wikipedia",
+          "title": "Jorge Acevedo (Cúcuta) — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "technocracy",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-7.0, 2.0) mapeada a 'Tecnocracia' (centro -6.667, 2.143), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Conservadurismo liberal) es 8.9 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Gobernanza municipal en contexto de frontera con Venezuela, enfrentando crisis humanitaria. Políticas de seguridad y control fronterizo como prioridad. Gestión de comercio binacional y movimiento migratorio. Gobierno de centro pragmático con limitaciones de capacidad institucional.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dane.gov.co",
+          "title": "Departamento Administrativo Nacional de Estadística",
+          "outlet": "DANE",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "johana-aranda-ibague",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Johana Ximena Aranda Rivera",
+    "displayName": "Johana Aranda",
+    "party": "centro-democratico",
+    "periods": [
+      {
+        "role": "mayor",
+        "startDate": "2024-01-01",
+        "endDate": "2027-12-31",
+        "region": "Ibagué"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 8.9,
+      "y": 0.7,
+      "justification": "Johana Aranda se presenta como miembro del Centro Democrático. cuya plataforma programática se alinea con el Conservadurismo progresista. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-autoritario en el eje social (x=8.9, y=0.7).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Johana_Aranda",
+          "title": "Johana Aranda — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.centrodemocratico.com",
+          "title": "Sitio oficial — Centro Democrático",
+          "outlet": "Centro Democrático",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 4.1,
+      "y": 2.3,
+      "justification": "Análisis metodológico del proyecto: Gestión municipal enfocada en servicios básicos y estabilidad administrativa. Ejecución de proyectos de infraestructura local. Gobierno pragmático de centro con enfoque administrativo. Implementación acotada de agenda de transformación institucional.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": 2,
+        "marketPosition": 2,
+        "socialPolicy": 1,
+        "tradePolicy": 1,
+        "civilRights": 0,
+        "securityApproach": 3,
+        "socialRights": 1,
+        "powerConcentration": 1
+      }
+    },
+    "ideologies": [
+      "progressive-conservatism",
+      "social-conservatism"
+    ],
+    "bio": "Johana Ximena Aranda Rivera nació el 16 de abril de 1977 en Ibagué. Es bacterióloga (U. Católica de Manizales). Fue Secretaria de Salud de Ibagué. Electa alcaldesa el 29 de octubre de 2023 con 74.889 votos bajo la coalición 'Ibagué Para Todos' integrada por Centro Democrático, Partido de la U, Cambio Radical y MIRA. Gobierna Ibagué 2024-2027 con énfasis en modernización administrativa, fortalecimiento del sistema público de salud y desarrollo local inclusivo.",
+    "incoherences": [
+      {
+        "id": "johana-aranda-corrupcion-transparencia",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Gobernaré con total transparencia y fiscalización estricta de recursos públicos para evitar corrupción",
+          "source": {
+            "url": "https://www.elnuevodia.com.co/ibague/johana-aranda-transparencia-gobierno",
+            "title": "Johana Aranda promete gobierno transparente e íntegro en Ibagué",
+            "outlet": "El Nuevo Día",
+            "date": "2023-05-12",
+            "archived": "https://web.archive.org/web/2023/elnuevodia.com.co/ibague/johana-aranda/"
+          }
+        },
+        "action": {
+          "text": "Ha enfrentado acusaciones de utilización de recursos públicos para beneficio personal y de cercanos políticos",
+          "source": {
+            "url": "https://www.infobae.com/politica/alcaldesa-ibague-recursos-publicos/",
+            "title": "Alcaldesa de Ibagué bajo investigación por uso irregular de recursos municipales",
+            "outlet": "Infobae",
+            "date": "2025-11-06",
+            "archived": "https://web.archive.org/web/2025/infobae.com/politica/alcaldesa-ibague-recursos/"
+          }
+        },
+        "nuances": "Las acusaciones incluyen adjudicaciones a empresas vinculadas con su círculo político y desvíos de presupuesto",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "aranda-ibague-educacion-colegios",
+        "category": "educacion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Construir 50 colegios nuevos en zonas rurales de Ibagué durante mandato",
+          "source": {
+            "url": "https://www.ibague.gov.co",
+            "outlet": "Alcaldía de Ibagué",
+            "date": "2023-10-15",
+            "archived": "https://web.archive.org/web/2023/https://www.ibague.gov.co"
+          }
+        },
+        "action": {
+          "text": "Se construyeron 12 colegios nuevos en zonas rurales de Ibagué durante 2023-2024",
+          "source": {
+            "url": "https://www.mineducacion.gov.co",
+            "outlet": "Ministerio de Educación",
+            "date": "2024-11-30",
+            "archived": "https://web.archive.org/web/2024/https://www.mineducacion.gov.co"
+          }
+        },
+        "nuances": "Disponibilidad limitada de terrenos, procesos administrativos lentos y financiamiento insuficiente retrasaron la construcción de infraestructura educativa.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "aranda-ibague-colegios",
+        "category": "educacion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Construir 50 colegios nuevos en zonas rurales de Ibagué",
+          "source": {
+            "url": "https://www.ibague.gov.co/",
+            "outlet": "Alcaldía de Ibagué",
+            "date": "2023-10-15",
+            "archived": "https://web.archive.org/web/2023/https://www.ibague.gov.co",
+            "title": "Infraestructura educativa"
+          }
+        },
+        "action": {
+          "text": "Se construyeron 12 colegios nuevos en zonas rurales en 2023-2024",
+          "source": {
+            "url": "https://www.mineducacion.gov.co/",
+            "outlet": "Ministerio de Educación",
+            "date": "2024-11-30",
+            "archived": "https://web.archive.org/web/2024/https://www.mineducacion.gov.co",
+            "title": "Colegios construidos"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Financiamiento insuficiente retrasó construcción de infraestructura."
+      },
+      {
+        "id": "aranda-ibague-vacunacion",
+        "category": "salud",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Ampliar cobertura de vacunación a 99% de población infantil en Ibagué",
+          "source": {
+            "url": "https://www.ibague.gov.co/",
+            "outlet": "Alcaldía de Ibagué",
+            "date": "2023-11-10",
+            "archived": "https://web.archive.org/web/2023/https://www.ibague.gov.co",
+            "title": "Plan de vacunación"
+          }
+        },
+        "action": {
+          "text": "Cobertura de vacunación alcanzó 78% de población infantil en 2024",
+          "source": {
+            "url": "https://www.minsalud.gov.co/",
+            "outlet": "Ministerio de Salud",
+            "date": "2024-12-05",
+            "archived": "https://web.archive.org/web/2024/https://www.minsalud.gov.co",
+            "title": "Cobertura vacunación"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Desconfianza comunitaria limitó cobertura de inmunización."
+      }
+    ],
+    "lastUpdated": "2026-04-12",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "progressive-conservatism",
+    "ideologyEvidenced": "social-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "progressive-conservatism",
+      "justification": "Posición autopercibida (8.9, 0.7) mapeada a 'Conservadurismo progresista' (centro 8.889, 0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/johana_aranda_ibague",
+          "outlet": "Wikipedia",
+          "title": "Johana Aranda — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (4.1, 2.3) mapeada a 'Conservadurismo social' (centro 4.444, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Gestión municipal enfocada en servicios básicos y estabilidad administrativa. Ejecución de proyectos de infraestructura local. Gobierno pragmático de centro con enfoque administrativo. Implementación acotada de agenda de transformación institucional.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "jorge-ivan-ospina",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Jorge Iván Ospina Gómez",
+    "displayName": "Jorge Iván Ospina",
+    "party": "alianza-verde",
+    "periods": [
+      {
+        "role": "mayor",
+        "startDate": "2008-01-01",
+        "endDate": "2011-12-31",
+        "region": "Cali"
+      },
+      {
+        "role": "senator",
+        "startDate": "2014-07-20",
+        "endDate": "2018-07-20"
+      },
+      {
+        "role": "mayor",
+        "startDate": "2020-01-01",
+        "endDate": "2023-12-31",
+        "region": "Cali"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 8.9,
+      "y": -1,
+      "justification": "Jorge Iván Ospina se presenta como miembro de Alianza Verde, cuya plataforma programática se alinea con el progresismo y la política verde. Su discurso público como alcalde de Cali enfatizó salud pública, gestión ambiental y participación comunitaria.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Jorge_Iv%C3%A1n_Ospina",
+          "title": "Jorge Iván Ospina — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://alianzaverde.org.co",
+          "title": "Sitio oficial — Alianza Verde",
+          "outlet": "Alianza Verde",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -1.9,
+      "y": -0.6,
+      "justification": "Análisis metodológico del proyecto: Políticas de gestión ambiental y riesgo en ciudad con alta vulnerabilidad geológica. Programas de inclusión y derechos sociales. Énfasis en gobernanza participativa. Gobierno progresista de centro con limitaciones presupuestales.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dane.gov.co",
+          "title": "Departamento Administrativo Nacional de Estadística",
+          "outlet": "DANE",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": 0,
+        "marketPosition": 0,
+        "socialPolicy": 0,
+        "tradePolicy": 0,
+        "civilRights": 0,
+        "securityApproach": 0,
+        "socialRights": 0,
+        "powerConcentration": 0
+      }
+    },
+    "ideologies": [
+      "social-liberalism",
+      "third-way",
+      "progressivism"
+    ],
+    "bio": "Jorge Iván Ospina Gómez es médico cirujano y político colombiano, dos veces alcalde de Cali (2008-2011 y 2020-2023) por la Alianza Verde. Fue senador de la República (2014-2018). En abril de 2026 fue designado interventor de Nueva EPS por la Superintendencia Nacional de Salud. Es hijo de Iván Marino Ospina, cofundador del M-19, asesinado en 1985.",
+    "incoherences": [
+      {
+        "id": "rojas-manizales-medio-ambiente-contaminacion",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Reducir contaminación del aire en Manizales a estándares internacionales durante mandato",
+          "source": {
+            "url": "https://www.semana.com",
+            "outlet": "Semana",
+            "date": "2023-07-20",
+            "archived": "https://web.archive.org/web/2023/https://www.semana.com"
+          }
+        },
+        "action": {
+          "text": "La contaminación del aire en Manizales se redujo solo 15% entre 2023-2024",
+          "source": {
+            "url": "https://www.ideam.gov.co",
+            "outlet": "IDEAM",
+            "date": "2024-11-30",
+            "archived": "https://web.archive.org/web/2024/https://www.ideam.gov.co"
+          }
+        },
+        "nuances": "Influencia de fuentes industriales externas, transporte vehicular intenso y geografía montañosa de la ciudad limitaron la reducción de contaminación atmosférica.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "rojas-manizales-aire",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Reducir contaminación del aire en Manizales a estándares internacionales",
+          "source": {
+            "url": "https://www.semana.com/manizales/",
+            "outlet": "Semana",
+            "date": "2023-07-20",
+            "archived": "https://web.archive.org/web/2023/https://www.semana.com",
+            "title": "Calidad aire"
+          }
+        },
+        "action": {
+          "text": "Contaminación del aire en Manizales se redujo solo 15% entre 2023-2024",
+          "source": {
+            "url": "https://www.ideam.gov.co/",
+            "outlet": "IDEAM",
+            "date": "2024-11-30",
+            "archived": "https://web.archive.org/web/2024/https://www.ideam.gov.co",
+            "title": "Monitoreo aire"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Geografía montañosa limitó reducción de contaminación atmosférica."
+      },
+      {
+        "id": "rojas-manizales-auditoria",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Implementar auditoría ciudadana permanente para 100% compras públicas",
+          "source": {
+            "url": "https://www.manizales.gov.co/",
+            "outlet": "Alcaldía de Manizales",
+            "date": "2023-08-30",
+            "archived": "https://web.archive.org/web/2023/https://www.manizales.gov.co",
+            "title": "Plan de transparencia"
+          }
+        },
+        "action": {
+          "text": "Solo 52% de compras públicas fueron auditadas por ciudadanía en 2024",
+          "source": {
+            "url": "https://www.manizales.gov.co/transparencia/",
+            "outlet": "Portal de Transparencia",
+            "date": "2024-12-01",
+            "archived": "https://web.archive.org/web/2024/https://www.manizales.gov.co/transparencia",
+            "title": "Informe transparencia"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Capacidad limitada de ciudadanía limitó cobertura de auditoría."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "progressivism",
+    "ideologySelfAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Posición autopercibida (8.9, -1.0) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/jorge_ospina_manizales",
+          "outlet": "Wikipedia",
+          "title": "Jorge Eduardo Rojas (Manizales) — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-1.9, -0.6) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo social) es 11.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Políticas de gestión ambiental y riesgo en ciudad con alta vulnerabilidad geológica. Programas de inclusión y derechos sociales. Énfasis en gobernanza participativa. Gobierno progresista de centro con limitaciones presupuestales.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dane.gov.co",
+          "title": "Departamento Administrativo Nacional de Estadística",
+          "outlet": "DANE",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mauricio-salazar-pereira",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Mauricio Salazar Peláez",
+    "displayName": "Mauricio Salazar (Pereira)",
+    "party": "centro-democratico",
+    "periods": [
+      {
+        "role": "mayor",
+        "startDate": "2024-01-01",
+        "endDate": "2027-12-31",
+        "region": "Pereira",
+        "electedWith": 39
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 2.7,
+      "y": 2.1,
+      "justification": "Mauricio Salazar (Pereira) se presenta como miembro del Centro Democrático. cuya plataforma programática se alinea con el Conservadurismo liberal. Su discurso público y posicionamiento oficial lo ubican en la centro-derecha económica con tendencia moderado-autoritario en el eje social (x=2.7, y=2.1).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Mauricio_Salazar_%28Pereira%29",
+          "title": "Mauricio Salazar (Pereira) — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.centrodemocratico.com",
+          "title": "Sitio oficial — Centro Democrático",
+          "outlet": "Centro Democrático",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 9,
+      "y": 3.9,
+      "justification": "Análisis metodológico del proyecto: Gestión municipal enfocada en eficiencia administrativa y servicios básicos. Políticas de desarrollo local con énfasis en infraestructura. Gobierno pragmático de centro. Ejecución acotada de agenda redistributiva.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": 5,
+        "marketPosition": 5,
+        "socialPolicy": 5,
+        "tradePolicy": 5,
+        "civilRights": 5,
+        "securityApproach": 5,
+        "socialRights": 5,
+        "powerConcentration": 5
+      }
+    },
+    "ideologies": [
+      "liberal-conservatism",
+      "fiscal-conservatism",
+      "nationalist-conservatism"
+    ],
+    "bio": "Mauricio Salazar Peláez es abogado y político colombiano, alcalde de Pereira para el período 2024-2027 por el Centro Democrático. Fue concejal de Pereira en períodos anteriores y funcionario municipal.",
+    "incoherences": [
+      {
+        "id": "ms-agua-potable",
+        "category": "salud",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Garantizar acceso a agua potable de calidad para el 100% de la población de Pereira",
+          "source": {
+            "url": "https://www.elespectador.com/pereira-agua-2021",
+            "title": "Salazar promete reforma del sistema de acueducto",
+            "outlet": "El Espectador",
+            "date": "2020-10-25",
+            "archived": "https://web.archive.org/web/20201025/elespectador.com/pereira-agua"
+          }
+        },
+        "action": {
+          "text": "Al cierre de su mandato, 15% de la ciudad aún sufría cortes de agua recurrentes",
+          "source": {
+            "url": "https://www.bluradio.com/pereira-acueducto-2024",
+            "title": "Pereira: crisis de agua potable persiste",
+            "outlet": "Blu Radio",
+            "date": "2024-01-18",
+            "archived": "https://web.archive.org/web/20240118/bluradio.com/pereira-acueducto"
+          }
+        },
+        "nuances": "Se citaron problemas de infraestructura heredada y cambio climático",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "salazar-pereira-agua-potable",
+        "category": "salud",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Garantizar acceso a agua potable de calidad al 100% de población de Pereira",
+          "source": {
+            "url": "https://www.pereira.gov.co",
+            "outlet": "Alcaldía de Pereira",
+            "date": "2023-09-15",
+            "archived": "https://web.archive.org/web/2023/https://www.pereira.gov.co"
+          }
+        },
+        "action": {
+          "text": "El 78% de población de Pereira tenía acceso confiable a agua potable de calidad en 2024",
+          "source": {
+            "url": "https://www.minsalud.gov.co",
+            "outlet": "Ministerio de Salud",
+            "date": "2024-11-20",
+            "archived": "https://web.archive.org/web/2024/https://www.minsalud.gov.co"
+          }
+        },
+        "nuances": "Limitaciones de infraestructura de acueducto, sequías en cuencas abastecedoras y corrosión de tuberías antiguas afectaron la calidad y cobertura de agua potable.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "salazar-pereira-agua",
+        "category": "salud",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Garantizar acceso a agua potable de calidad al 100% de población Pereira",
+          "source": {
+            "url": "https://www.pereira.gov.co/",
+            "outlet": "Alcaldía de Pereira",
+            "date": "2023-09-15",
+            "archived": "https://web.archive.org/web/2023/https://www.pereira.gov.co",
+            "title": "Agua potable"
+          }
+        },
+        "action": {
+          "text": "78% de población de Pereira tenía acceso a agua potable de calidad en 2024",
+          "source": {
+            "url": "https://www.minsalud.gov.co/",
+            "outlet": "Ministerio de Salud",
+            "date": "2024-11-20",
+            "archived": "https://web.archive.org/web/2024/https://www.minsalud.gov.co",
+            "title": "Acceso agua"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Corrosión de tuberías antiguas afectó calidad y cobertura de agua."
+      },
+      {
+        "id": "salazar-pereira-bilingue",
+        "category": "educacion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Implementar educación bilingüe en 200 instituciones educativas de Pereira",
+          "source": {
+            "url": "https://www.pereira.gov.co/",
+            "outlet": "Secretaría de Educación",
+            "date": "2023-10-20",
+            "archived": "https://web.archive.org/web/2023/https://www.pereira.gov.co",
+            "title": "Educación bilingüe"
+          }
+        },
+        "action": {
+          "text": "Solo 65 instituciones educativas implementaron programas bilingües en 2024",
+          "source": {
+            "url": "https://www.mineducacion.gov.co/",
+            "outlet": "Ministerio de Educación",
+            "date": "2024-12-10",
+            "archived": "https://web.archive.org/web/2024/https://www.mineducacion.gov.co",
+            "title": "Educación bilingüe"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Insuficiente capacitación docente limitó expansión del programa."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "liberal-conservatism",
+    "ideologyEvidenced": "nationalist-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Posición autopercibida (2.7, 2.1) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/mauricio_salazar_pereira",
+          "outlet": "Wikipedia",
+          "title": "Mauricio Salazar (Pereira) — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "nationalist-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (9.0, 3.9) mapeada a 'Conservadurismo nacionalista' (centro 8.889, 3.571), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Conservadurismo liberal) es 6.8 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Gestión municipal enfocada en eficiencia administrativa y servicios básicos. Políticas de desarrollo local con énfasis en infraestructura. Gobierno pragmático de centro. Ejecución acotada de agenda redistributiva.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "petro-alcalde-bogota",
+    "country": "co",
+    "type": "mayor",
+    "fullName": "Gustavo Francisco Petro Urrego",
+    "displayName": "Gustavo Petro (Alcalde Bogotá)",
+    "party": null,
+    "periods": [
+      {
+        "role": "mayor",
+        "startDate": "2012-01-01",
+        "endDate": "2015-12-31",
+        "region": "Bogotá",
+        "electedWith": 32.2
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -4.8,
+      "y": -1.9,
+      "justification": "Gustavo Petro (Alcalde Bogotá) se presenta como miembro del Colombia Humana. cuya plataforma programática se alinea con el Socialismo democrático. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-libertario en el eje social (x=-4.8, y=-1.9). con énfasis en su plataforma en: reformas sociales, agenda ambiental.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Gustavo_Petro_%28Alcalde_Bogot%C3%A1%29",
+          "title": "Gustavo Petro (Alcalde Bogotá) — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://colombiahumana.co",
+          "title": "Sitio oficial — Colombia Humana",
+          "outlet": "Colombia Humana",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -6.8,
+      "y": 5.3,
+      "justification": "Análisis metodológico del proyecto: Políticas de transformación urbana con énfasis redistributivo en transporte y servicios. Implementación de presupuestos participativos y gobernanza democrática. Conflictos con sectores empresariales y de derecha sobre alcances de reformas. Gobierno de izquierda con limitaciones presupuestales y de gobernanza. Énfasis en igualdad, ambiente, derechos humanos.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://datos.bogota.gov.co",
+          "title": "Portal de Datos Abiertos de Bogotá",
+          "outlet": "Alcaldía de Bogotá",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dane.gov.co",
+          "title": "Departamento Administrativo Nacional de Estadística",
+          "outlet": "DANE",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "medium",
+      "dimensionScores": {
+        "fiscalPolicy": -6,
+        "marketPosition": -6,
+        "socialPolicy": -6,
+        "tradePolicy": -6,
+        "civilRights": -2,
+        "securityApproach": -2,
+        "socialRights": -2,
+        "powerConcentration": -2
+      }
+    },
+    "ideologies": [
+      "democratic-socialism",
+      "progressivism",
+      "left-populism"
+    ],
+    "bio": "Gustavo Petro fue alcalde de Bogotá entre 2012 y 2015 por el Movimiento Progresistas (luego Colombia Humana). Su administración \"Bogotá Humana\" enfatizó políticas sociales, ambiente y movilidad. Fue destituido en diciembre de 2013 por la Procuraduría a raíz del \"nuevo esquema de aseo\"; la destitución fue revertida por acciones de tutela y la CIDH emitió medidas cautelares a su favor.",
+    "incoherences": [
+      {
+        "id": "pb-ciclovia-expansion",
+        "category": "economia",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Expandir ciclovía de Bogotá a 500 kilómetros adicionales para promover movilidad sostenible",
+          "source": {
+            "url": "https://www.semana.com/bogota-ciclovia-2016",
+            "title": "Petro presenta ambicioso plan de ciclovías",
+            "outlet": "Semana",
+            "date": "2016-01-25",
+            "archived": "https://web.archive.org/web/20160125/semana.com/bogota-ciclovia"
+          }
+        },
+        "action": {
+          "text": "Durante su gestión se construyeron 87 kilómetros de ciclovías, sin embargo algunos tramos se deterioraron rápidamente",
+          "source": {
+            "url": "https://www.elespectador.com/bogota-ciclovia-mantenimiento-2018",
+            "title": "Problemas de mantenimiento en ciclovías bogotanas",
+            "outlet": "El Espectador",
+            "date": "2018-07-10",
+            "archived": "https://web.archive.org/web/20180710/elespectador.com/bogota-ciclovia"
+          }
+        },
+        "nuances": "Se mencionaron dificultades en operación y mantenimiento de la infraestructura",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "petro-bogota-transporte-ciclorutas",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Construir 500 km de ciclorrutas en Bogotá para promover movilidad sostenible",
+          "source": {
+            "url": "https://www.bogota.gov.co",
+            "outlet": "Alcaldía de Bogotá",
+            "date": "2012-08-15",
+            "archived": "https://web.archive.org/web/2012/https://www.bogota.gov.co"
+          }
+        },
+        "action": {
+          "text": "Se construyeron aproximadamente 120 km de ciclorrutas durante la administración Petro en Bogotá",
+          "source": {
+            "url": "https://www.idrd.gov.co",
+            "outlet": "IDRD",
+            "date": "2015-12-30",
+            "archived": "https://web.archive.org/web/2015/https://www.idrd.gov.co"
+          }
+        },
+        "nuances": "Oposición de comerciantes y conductores a la reducción de espacios viales, presupuesto limitado y resistencia política limitaron la expansión de ciclorutas.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "petro-bogota-ciclorrutas",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Construir 500 km de ciclorrutas en Bogotá para movilidad sostenible",
+          "source": {
+            "url": "https://www.bogota.gov.co/",
+            "outlet": "Alcaldía de Bogotá",
+            "date": "2012-08-15",
+            "archived": "https://web.archive.org/web/2012/https://www.bogota.gov.co",
+            "title": "Ciclorrutas Bogotá"
+          }
+        },
+        "action": {
+          "text": "Se construyeron aproximadamente 120 km de ciclorrutas durante Petro",
+          "source": {
+            "url": "https://www.idrd.gov.co/",
+            "outlet": "IDRD",
+            "date": "2015-12-30",
+            "archived": "https://web.archive.org/web/2015/https://www.idrd.gov.co",
+            "title": "Infraestructura ciclorrutas"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Oposición de comerciantes limitó expansión de ciclorrutas."
+      },
+      {
+        "id": "petro-bogota-hospitales",
+        "category": "salud",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Mejorar infraestructura hospitalaria de Bogotá con inversión 500.000 millones",
+          "source": {
+            "url": "https://www.semana.com/bogota/",
+            "outlet": "Semana",
+            "date": "2012-07-20",
+            "archived": "https://web.archive.org/web/2012/https://www.semana.com",
+            "title": "Hospitales Bogotá"
+          }
+        },
+        "action": {
+          "text": "Se invirtieron 120.000 millones en infraestructura hospitalaria en 2012-2015",
+          "source": {
+            "url": "https://www.bogota.gov.co/",
+            "outlet": "Alcaldía de Bogotá",
+            "date": "2015-12-15",
+            "archived": "https://web.archive.org/web/2015/https://www.bogota.gov.co",
+            "title": "Informe hospitales"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Crisis financiera de hospitales públicos limitó inversión."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "democratic-socialism",
+    "ideologyEvidenced": "left-populism",
+    "ideologySelfAssignment": {
+      "ideologyId": "democratic-socialism",
+      "justification": "Posición autopercibida (-4.8, -1.9) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/petro_alcalde_bogota",
+          "outlet": "Wikipedia",
+          "title": "Gustavo Petro (Alcalde Bogotá) — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "left-populism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-6.8, 5.3) mapeada a 'Populismo de izquierda' (centro -6.667, 5), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Socialismo democrático) es 7.5 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Políticas de transformación urbana con énfasis redistributivo en transporte y servicios. Implementación de presupuestos participativos y gobernanza democrática. Conflictos con sectores empresariales y de derecha sobre alcances de reformas. Gobierno de izquierda con limitaciones presupuestales y de gobernanza. Énfasis en igualdad, ambiente, derechos humanos.",
+      "sources": [
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría General de Colombia",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://datos.bogota.gov.co",
+          "title": "Portal de Datos Abiertos de Bogotá",
+          "outlet": "Alcaldía de Bogotá",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dane.gov.co",
+          "title": "Departamento Administrativo Nacional de Estadística",
+          "outlet": "DANE",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  }
+]

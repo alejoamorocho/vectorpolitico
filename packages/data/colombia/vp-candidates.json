@@ -1,0 +1,1965 @@
+[
+  {
+    "id": "angela-maria-robledo",
+    "country": "co",
+    "type": "vp_candidate",
+    "fullName": "Ángela María Robledo Gómez",
+    "displayName": "Ángela María Robledo",
+    "party": "colombia-humana",
+    "periods": [
+      {
+        "role": "vp_candidate",
+        "startDate": "2018-03-11",
+        "endDate": "2018-06-17",
+        "electedWith": 41.77
+      },
+      {
+        "role": "representative",
+        "startDate": "2010-07-20",
+        "endDate": "2018-07-20",
+        "region": "Bogotá"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -5,
+      "y": -5.5,
+      "justification": "Se autodefine como feminista, defensora de derechos humanos y de la paz, crítica del modelo económico extractivista y del patriarcado. En su trayectoria como psicóloga, académica y congresista se ha posicionado explícitamente a favor de los derechos de las mujeres, los territorios, la JEP y el Acuerdo de Paz, y contra la guerra contra las drogas.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/%C3%81ngela_Mar%C3%ADa_Robledo",
+          "title": "Ángela María Robledo — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-01-10"
+        },
+        {
+          "url": "https://web.archive.org/web/2018/https://www.colombiahumana.co",
+          "title": "Colombia Humana — plataforma 2018 (archivado)",
+          "outlet": "Colombia Humana",
+          "date": "2018-05-15"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -4.8,
+      "y": -5,
+      "confidence": "medium",
+      "justification": "Análisis metodológico del proyecto: Como Representante a la Cámara (2010-2018) por el Partido Verde y luego Colombia Humana, votó consistentemente a favor del Acuerdo Final de Paz, de la JEP, de la reforma tributaria progresiva y de proyectos de derechos de las mujeres y diversidades. Como fórmula vicepresidencial de Gustavo Petro en 2018 defendió una agenda de transición del modelo extractivo, reforma agraria, enfoque de género e implementación plena del Acuerdo de Paz. Enfrentó una investigación del Consejo de Estado por supuesta doble militancia por apoyar a Petro siendo del Partido Verde, caso que generó tensión institucional. La evidencia legislativa y pública la ubica en izquierda progresista con alto compromiso con derechos civiles y sociales.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/angela-maria-robledo-gomez/4815/",
+          "title": "Votaciones Representante Robledo 2010-2018",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2018-07-20"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados presidenciales 2018 — segunda vuelta",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2018-06-17"
+        },
+        {
+          "url": "https://www.consejodeestado.gov.co",
+          "title": "Fallos sobre doble militancia Robledo-Colombia Humana 2018",
+          "outlet": "Consejo de Estado",
+          "date": "2019-09-01"
+        },
+        {
+          "url": "https://www.jep.gov.co",
+          "title": "Marco normativo de la JEP — Ley 1957 de 2019",
+          "outlet": "Jurisdicción Especial para la Paz",
+          "date": "2019-06-06"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": -5,
+        "marketPosition": -5,
+        "socialPolicy": -6,
+        "tradePolicy": -3,
+        "civilRights": -7,
+        "securityApproach": -5,
+        "socialRights": -7,
+        "powerConcentration": -2
+      }
+    },
+    "ideologies": [
+      "democratic-socialism",
+      "progressivism",
+      "eco-socialism",
+      "social-democracy"
+    ],
+    "ideologySelf": "progressivism",
+    "ideologyEvidenced": "progressivism",
+    "bio": "Ángela María Robledo Gómez (1954, Manizales) es psicóloga de la Pontificia Universidad Javeriana con maestría en Teoría Psicoanalítica, académica e investigadora en temas de infancia, familia y género. Fue directora de la Facultad de Psicología de la Javeriana y del Instituto Pensar. Fue Representante a la Cámara por Bogotá por el Partido Verde (2010-2014 y 2014-2018) y fórmula vicepresidencial de Gustavo Petro en la coalición Colombia Humana en las elecciones presidenciales de 2018, en las que pasaron a segunda vuelta con 41.77% del voto.",
+    "incoherences": [
+      {
+        "id": "angelarobledo-doble-militancia-2018",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "En su trayectoria política defendió el respeto al régimen de partidos, la institucionalidad democrática y la claridad de la representación política.",
+          "source": {
+            "url": "https://web.archive.org/web/2018/https://www.partidoverde.org.co",
+            "title": "Partido Verde Colombia — plataforma programática",
+            "outlet": "Partido Verde",
+            "date": "2017-05-10",
+            "archived": "https://web.archive.org/web/2018/https://www.partidoverde.org.co"
+          }
+        },
+        "action": {
+          "text": "Siendo Representante electa por el Partido Verde, aceptó la fórmula vicepresidencial de Gustavo Petro (Colombia Humana) en 2018 sin renunciar previamente a su curul. El Consejo de Estado declaró la pérdida de investidura por doble militancia en 2019, decisión luego anulada parcialmente pero que evidenció tensión entre lealtad programática y la literalidad de la norma de partidos.",
+          "source": {
+            "url": "https://www.consejodeestado.gov.co/news/consejo-de-estado-anula-designacion-de-representante-angela-maria-robledo/index.htm",
+            "title": "Ángela María Robledo pierde la investidura por doble militancia",
+            "outlet": "Consejo de Estado - Sección Quinta (Sentencia electoral abril 2019)",
+            "date": "2019-04-25",
+            "archived": "https://web.archive.org/web/2019/https://www.consejodeestado.gov.co/news/consejo-de-estado-anula-designacion-de-representante-angela-maria-robledo/index.htm"
+          }
+        },
+        "nuances": "El fallo de pérdida de investidura fue controvertido y su alcance discutido. Robledo defendió que su gesto era coherente con su identidad progresista y que la norma de doble militancia se aplicó de manera desigual. La incoherencia es entre su defensa del orden institucional y la interpretación flexible de la norma de partidos en beneficio propio.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "angelarobledo-silencio-venezuela-2018",
+        "category": "relaciones_exteriores",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Como defensora de derechos humanos y de la autodeterminación democrática, ha sostenido que toda vulneración de libertades civiles debe ser denunciada sin sesgos ideológicos.",
+          "source": {
+            "url": "https://web.archive.org/web/2018/https://www.colombiahumana.co/propuestas",
+            "title": "Propuestas Colombia Humana 2018",
+            "outlet": "Colombia Humana",
+            "date": "2018-04-20",
+            "archived": "https://web.archive.org/web/2018/https://www.colombiahumana.co/propuestas"
+          }
+        },
+        "action": {
+          "text": "Durante la campaña presidencial 2018 y el deterioro democrático en Venezuela bajo Nicolás Maduro, la fórmula Petro-Robledo evitó pronunciamientos críticos contundentes sobre la violación de derechos humanos documentada por la OEA, HRW y la OACNUDH, enfocándose en criticar la injerencia extranjera.",
+          "source": {
+            "url": "https://www.ohchr.org/es/countries/venezuela-bolivarian-republic",
+            "title": "Informes OACNUDH sobre Venezuela 2018-2019",
+            "outlet": "OACNUDH",
+            "date": "2019-07-04",
+            "archived": "https://web.archive.org/web/2019/https://www.ohchr.org/es/countries/venezuela-bolivarian-republic"
+          }
+        },
+        "nuances": "La agenda de la campaña se centró en temas internos colombianos y la coalición incluía sectores con diversas lecturas de Venezuela. La incoherencia es selectiva en su evidencia: silencio relativo sobre un caso documentado mientras se denunciaban otras violaciones con mayor énfasis.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "angelarobledo-acuerdo-paz-implementacion-2018",
+        "category": "seguridad",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Defendió una implementación integral y rápida del Acuerdo de Paz de La Habana como eje de la transformación democrática del país, incluyendo la reforma rural integral.",
+          "source": {
+            "url": "https://web.archive.org/web/2018/https://www.colombiahumana.co/paz",
+            "title": "Propuestas de paz — Colombia Humana 2018",
+            "outlet": "Colombia Humana",
+            "date": "2018-03-25",
+            "archived": "https://web.archive.org/web/2018/https://www.colombiahumana.co/paz"
+          }
+        },
+        "action": {
+          "text": "La coalición Petro-Robledo criticó simultáneamente al gobierno Santos por implementación 'insuficiente' del Acuerdo y a Duque por 'hacer trizas' el Acuerdo, pero no presentó una hoja de ruta detallada con cronogramas y costos fiscales realistas para la reforma rural integral (RRI) y el programa de sustitución PNIS, aspectos que requieren gasto y capacidad estatal elevada.",
+          "source": {
+            "url": "https://www.kroc.nd.edu/research/peace-accords/peace-accord-matrix-implementation-database/",
+            "title": "Kroc Institute — Implementación del Acuerdo de Paz",
+            "outlet": "University of Notre Dame - Kroc Institute",
+            "date": "2020-06-01",
+            "archived": "https://web.archive.org/web/2020/https://www.kroc.nd.edu/research/peace-accords/peace-accord-matrix-implementation-database/"
+          }
+        },
+        "nuances": "Una campaña presidencial no suele operar con precisión presupuestal comparable a un Plan Nacional de Desarrollo. La incoherencia es entre el alto compromiso discursivo con la implementación plena y la ausencia de un plan operativo y fiscal detallado.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      }
+    ],
+    "lastUpdated": "2026-04-15",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelfAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Posición autopercibida (-5.0, -5.5) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Se autodefine como feminista, defensora de derechos humanos y de la paz, crítica del modelo económico extractivista y del patriarcado. En su trayectoria como psicóloga, académica y congresista se ha posicionado explícitamente a favor de los derechos de las mujeres, los territorios, la JEP y el Acuerdo de Paz, y contra la guerra contra las drogas.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/%C3%81ngela_Mar%C3%ADa_Robledo",
+          "title": "Ángela María Robledo — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-01-10"
+        },
+        {
+          "url": "https://web.archive.org/web/2018/https://www.colombiahumana.co",
+          "title": "Colombia Humana — plataforma 2018 (archivado)",
+          "outlet": "Colombia Humana",
+          "date": "2018-05-15"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-4.8, -5.0) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Como Representante a la Cámara (2010-2018) por el Partido Verde y luego Colombia Humana, votó consistentemente a favor del Acuerdo Final de Paz, de la JEP, de la reforma tributaria progresiva y de proyectos de derechos de las mujeres y diversidades. Como fórmula vicepresidencial de Gustavo Petro en 2018 defendió una agenda de transición del modelo extractivo, reforma agraria, enfoque de género e implementación plena del Acuerdo de Paz. Enfrentó una investigación del Consejo de Estado por supuesta doble militancia por apoyar a Petro siendo del Partido Verde, caso que generó tensión institucional. La evidencia legislativa y pública la ubica en izquierda prog",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/angela-maria-robledo-gomez/4815/",
+          "title": "Votaciones Representante Robledo 2010-2018",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2018-07-20"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados presidenciales 2018 — segunda vuelta",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2018-06-17"
+        },
+        {
+          "url": "https://www.consejodeestado.gov.co",
+          "title": "Fallos sobre doble militancia Robledo-Colombia Humana 2018",
+          "outlet": "Consejo de Estado",
+          "date": "2019-09-01"
+        },
+        {
+          "url": "https://www.jep.gov.co",
+          "title": "Marco normativo de la JEP — Ley 1957 de 2019",
+          "outlet": "Jurisdicción Especial para la Paz",
+          "date": "2019-06-06"
+        }
+      ]
+    }
+  },
+  {
+    "id": "juan-carlos-pinzon",
+    "country": "co",
+    "type": "vp_candidate",
+    "fullName": "Juan Carlos Pinzón Bueno",
+    "displayName": "Juan Carlos Pinzón",
+    "party": "cambio-radical",
+    "periods": [
+      {
+        "role": "vp_candidate",
+        "startDate": "2018-03-11",
+        "endDate": "2018-05-27",
+        "electedWith": 7.28
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 5.5,
+      "y": 2.0,
+      "justification": "Se autodefine como demócrata liberal, defensor de la seguridad nacional, la institucionalidad, el libre mercado con reglas claras y la alianza estratégica con Estados Unidos. Promueve una visión centrista-derecha con énfasis en seguridad y competitividad.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Juan_Carlos_Pinz%C3%B3n_Bueno",
+          "title": "Juan Carlos Pinzón — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-01-20"
+        },
+        {
+          "url": "https://web.archive.org/web/2018/https://www.vargasllerasyjuanca.com",
+          "title": "Vargas Lleras y Juan Ca — campaña 2018 (archivado)",
+          "outlet": "Campaña Vargas Lleras",
+          "date": "2018-05-20",
+          "archived": "https://web.archive.org/web/2018/https://www.vargasllerasyjuanca.com"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 5.5,
+      "y": 2.5,
+      "confidence": "medium",
+      "justification": "Análisis metodológico del proyecto: Como Ministro de Defensa (2011-2015) bajo Juan Manuel Santos, continuó la política de fortalecimiento militar iniciada en la Seguridad Democrática, supervisó la captura/neutralización de 'Alfonso Cano' y múltiples cabecillas FARC, y jugó un rol clave en la preparación militar que precedió el proceso de paz. Como Embajador en Washington (2015-2017) alineó la política exterior con Estados Unidos y fue pieza clave en 'Paz Colombia' (continuación del Plan Colombia). Como fórmula de Vargas Lleras en 2018 defendió una plataforma centrista-derecha: seguridad robusta, infraestructura, disciplina fiscal, apertura comercial. La evidencia administrativa lo ubica en derecha liberal con énfasis securitario.",
+      "sources": [
+        {
+          "url": "https://www.mindefensa.gov.co",
+          "title": "Gestión Ministerio de Defensa 2011-2015",
+          "outlet": "Ministerio de Defensa",
+          "date": "2015-06-16"
+        },
+        {
+          "url": "https://www.state.gov/u-s-relations-with-colombia/",
+          "title": "Paz Colombia — relación bilateral 2016-2017",
+          "outlet": "U.S. Department of State",
+          "date": "2017-01-10"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados presidenciales 2018 — primera vuelta",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2018-05-27"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "Decretos gobierno Santos 2011-2015 — Defensa",
+          "outlet": "SUIN-Juriscol",
+          "date": "2015-12-01"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": 5,
+        "marketPosition": 6,
+        "socialPolicy": 4,
+        "tradePolicy": 6,
+        "civilRights": 3,
+        "securityApproach": 7,
+        "socialRights": 3,
+        "powerConcentration": 4
+      }
+    },
+    "ideologies": [
+      "liberal-conservatism",
+      "classical-liberalism",
+      "neo-liberalism"
+    ],
+    "ideologySelf": "classical-liberalism",
+    "ideologyEvidenced": "liberal-conservatism",
+    "bio": "Juan Carlos Pinzón Bueno (1971, Bogotá) es economista de la Universidad Javeriana con maestría en Relaciones Internacionales de la Johns Hopkins SAIS. Fue Vicepresidente Ejecutivo de Asobancaria, Viceministro de Defensa (2006-2009) bajo Uribe y Ministro de Defensa Nacional (2011-2015) bajo Santos, el más joven de la historia reciente. Fue Embajador de Colombia en Washington (2015-2017), fórmula vicepresidencial de Germán Vargas Lleras por Cambio Radical en las elecciones de 2018 (obtuvo 7.28% en primera vuelta), y nuevamente Embajador en Washington (2021-2022) bajo Duque.",
+    "incoherences": [
+      {
+        "id": "juancarlospinzon-falsos-positivos-2014",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Como Ministro de Defensa sostuvo públicamente el compromiso del Ministerio con los derechos humanos, la justicia transicional y la investigación plena de violaciones cometidas por miembros de la fuerza pública.",
+          "source": {
+            "url": "https://web.archive.org/web/2014/https://www.mindefensa.gov.co",
+            "title": "Ministerio de Defensa — gestión Pinzón",
+            "outlet": "Ministerio de Defensa",
+            "date": "2014-03-10",
+            "archived": "https://web.archive.org/web/2014/https://www.mindefensa.gov.co"
+          }
+        },
+        "action": {
+          "text": "Durante su gestión impulsó un marco jurídico (el 'Marco Jurídico para la Paz' y el Fuero Penal Militar ampliado en 2014/2015) que la JEP y organizaciones como HRW señalaron como riesgo de impunidad para violaciones graves como las ejecuciones extrajudiciales ('falsos positivos'), que ya alcanzaban miles de víctimas documentadas por la Fiscalía.",
+          "source": {
+            "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=65339",
+            "title": "Ampliación del Fuero Penal Militar propicia la impunidad",
+            "outlet": "Función Pública - Ley 1765 de 2015 (reestructura Justicia Penal Militar y Policial)",
+            "date": "2015-07-23",
+            "archived": "https://web.archive.org/web/2015/https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=65339"
+          }
+        },
+        "nuances": "Parte del marco legal fue luego modificado por la Corte Constitucional. Pinzón defendió que el objetivo era separar delitos de servicio de delitos comunes. La incoherencia es entre el discurso de derechos humanos y la promoción activa de normas que el sistema de justicia internacional y la JEP identificaron como riesgosas.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "juancarlospinzon-formula-vargas-2018",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Ha enfatizado en su trayectoria la transparencia, la disciplina institucional y la separación entre la vida pública y los intereses privados — propios de un profesional formado en asuntos de seguridad y política exterior.",
+          "source": {
+            "url": "https://web.archive.org/web/2018/https://www.vargasllerasyjuanca.com/propuestas",
+            "title": "Propuestas Vargas Lleras-Pinzón 2018",
+            "outlet": "Campaña Vargas Lleras",
+            "date": "2018-04-15",
+            "archived": "https://web.archive.org/web/2018/https://www.vargasllerasyjuanca.com/propuestas"
+          }
+        },
+        "action": {
+          "text": "Aceptó ser fórmula vicepresidencial de Germán Vargas Lleras, quien había sido Vicepresidente durante el gobierno Santos y enfrentaba cuestionamientos por la ejecución discrecional de recursos de infraestructura ('mermelada' en el Programa de Vivienda Gratuita y en el Fondo Adaptación), sin deslindarse públicamente de esos cuestionamientos durante la campaña.",
+          "source": {
+            "url": "https://www.semana.com/nacion/articulo/vargas-lleras-y-los-cuestionamientos-por-manejo-de-recursos/",
+            "title": "Vargas Lleras y los cuestionamientos por manejo de recursos",
+            "outlet": "Semana",
+            "date": "2018-04-20",
+            "archived": "https://web.archive.org/web/2018/https://www.semana.com/nacion/articulo/vargas-lleras-y-los-cuestionamientos-por-manejo-de-recursos/"
+          }
+        },
+        "nuances": "La coalición se sostuvo en una alianza política estratégica Cambio Radical-sectores del liberalismo. La incoherencia es entre el perfil técnico-institucional de Pinzón y la alianza con un liderazgo cuestionado por manejo clientelar de recursos.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "juancarlospinzon-plan-colombia-soberania-2015",
+        "category": "relaciones_exteriores",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Defendió una política exterior basada en la soberanía nacional, la cooperación respetuosa y el interés colombiano como eje rector de las relaciones con otros Estados.",
+          "source": {
+            "url": "https://web.archive.org/web/2016/https://www.cancilleria.gov.co",
+            "title": "Cancillería — política exterior 2016",
+            "outlet": "Cancillería de Colombia",
+            "date": "2016-02-15",
+            "archived": "https://web.archive.org/web/2016/https://www.cancilleria.gov.co"
+          }
+        },
+        "action": {
+          "text": "Como Embajador en Washington impulsó la continuidad del Plan Colombia bajo el esquema 'Paz Colombia' con fuerte condicionalidad de DEA/DOS en asuntos de cultivos ilícitos y glifosato, aceptando marcos de cooperación con alto peso de la agenda antidrogas estadounidense sobre los objetivos del post-conflicto definidos por Colombia.",
+          "source": {
+            "url": "https://www.congress.gov/bill/114th-congress/house-bill/5293",
+            "title": "Paz Colombia — legislación presupuestal 2016-2017",
+            "outlet": "U.S. Congress",
+            "date": "2016-07-01",
+            "archived": "https://web.archive.org/web/2016/https://www.congress.gov/bill/114th-congress/house-bill/5293"
+          }
+        },
+        "nuances": "Colombia se benefició de cooperación estadounidense en múltiples frentes. La incoherencia es de énfasis: mayor alineamiento con la agenda antidrogas de Washington que con los ejes de implementación del Acuerdo definidos en La Habana.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      }
+    ],
+    "lastUpdated": "2026-04-15",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelfAssignment": {
+      "ideologyId": "classical-liberalism",
+      "justification": "Posición autopercibida (4.5, 4.2) mapeada a 'Liberalismo clásico' (centro 8.889, -2.143), la ideología del mismo cuadrante más cercana. Se autodefine como demócrata liberal, defensor de la seguridad nacional, la institucionalidad, el libre mercado con reglas claras y la alianza estratégica con Estados Unidos. Promueve una visión centrista-derecha con énfasis en seguridad y competitividad.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Juan_Carlos_Pinz%C3%B3n_Bueno",
+          "title": "Juan Carlos Pinzón — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-01-20"
+        },
+        {
+          "url": "https://web.archive.org/web/2018/https://www.vargasllerasyjuanca.com",
+          "title": "Vargas Lleras y Juan Ca — campaña 2018 (archivado)",
+          "outlet": "Campaña Vargas Lleras",
+          "date": "2018-05-20",
+          "archived": "https://web.archive.org/web/2018/https://www.vargasllerasyjuanca.com"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (4.8, 4.5) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo clásico) es 7.9 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Como Ministro de Defensa (2011-2015) bajo Juan Manuel Santos, continuó la política de fortalecimiento militar iniciada en la Seguridad Democrática, supervisó la captura/neutralización de 'Alfonso Cano' y múltiples cabecillas FARC, y jugó un rol clave en la preparación militar que precedió el proceso de paz. Como Embajador en Washington (2015-2017) alineó la política exterior con Estados Unidos y fue pieza clave en 'Paz Colombia' (continuación del Plan Colombia). Como fórmula de Vargas Lleras en 2018 defendió una plataforma centrista-derecha: seguridad robusta, infraestructura, disciplina fiscal, apertura comercial. La evidencia administrativa lo ubica en d",
+      "sources": [
+        {
+          "url": "https://www.mindefensa.gov.co",
+          "title": "Gestión Ministerio de Defensa 2011-2015",
+          "outlet": "Ministerio de Defensa",
+          "date": "2015-06-16"
+        },
+        {
+          "url": "https://www.state.gov/u-s-relations-with-colombia/",
+          "title": "Paz Colombia — relación bilateral 2016-2017",
+          "outlet": "U.S. Department of State",
+          "date": "2017-01-10"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados presidenciales 2018 — primera vuelta",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2018-05-27"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "Decretos gobierno Santos 2011-2015 — Defensa",
+          "outlet": "SUIN-Juriscol",
+          "date": "2015-12-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "clara-lopez-obregon",
+    "country": "co",
+    "type": "vp_candidate",
+    "fullName": "Clara Eugenia López Obregón",
+    "displayName": "Clara López Obregón",
+    "party": "pacto-historico",
+    "periods": [
+      {
+        "role": "vp_candidate",
+        "startDate": "2018-03-11",
+        "endDate": "2018-05-27",
+        "electedWith": 2.06
+      },
+      {
+        "role": "senator",
+        "startDate": "2022-07-20",
+        "region": "Nacional"
+      },
+      {
+        "role": "mayor",
+        "startDate": "2011-05-03",
+        "endDate": "2011-12-31",
+        "region": "Bogotá"
+      },
+      {
+        "role": "presidential_candidate",
+        "startDate": "2013-10-01",
+        "endDate": "2014-05-25"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -3.5,
+      "y": -3.2,
+      "justification": "Se autodefine como liberal socialdemócrata, feminista, defensora de la paz y del fortalecimiento de lo público. Su trayectoria la ha llevado a sectores del Polo Democrático, del Partido Liberal y ahora parte del Pacto Histórico, con un discurso centrado en justicia social, redistribución progresiva y reforma democrática.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Clara_L%C3%B3pez_Obreg%C3%B3n",
+          "title": "Clara López Obregón — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-02-05"
+        },
+        {
+          "url": "https://web.archive.org/web/2022/https://claralopez.co",
+          "title": "Clara López — sitio personal (archivado)",
+          "outlet": "Clara López Obregón",
+          "date": "2022-02-15",
+          "archived": "https://web.archive.org/web/2022/https://claralopez.co"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -3,
+      "y": -2.8,
+      "confidence": "high",
+      "justification": "Análisis metodológico del proyecto: Como Alcaldesa encargada de Bogotá (2011) continuó programas sociales del Polo. Como presidenta del Polo Democrático Alternativo (2009-2011) y candidata presidencial del Polo en 2014 defendió ampliación de derechos laborales, reforma agraria y salud como derecho. Como Ministra de Trabajo (2016-2017) bajo Santos impulsó el salario mínimo por negociación y la formalización laboral. Como fórmula de Humberto de la Calle por el Partido Liberal en 2018 defendió la implementación del Acuerdo de Paz y una agenda socialdemócrata. Como Senadora del Pacto Histórico desde 2022 ha respaldado reformas laboral, pensional y de salud del gobierno Petro. Evidencia legislativa y ejecutiva la ubica en centro-izquierda socialdemócrata.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/clara-eugenia-lopez-obregon/12420/",
+          "title": "Votaciones Senadora López Obregón 2022-presente",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2024-12-01"
+        },
+        {
+          "url": "https://www.mintrabajo.gov.co",
+          "title": "Gestión Ministerio del Trabajo 2016-2017",
+          "outlet": "Ministerio del Trabajo",
+          "date": "2017-05-30"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados presidenciales 2014 y 2018",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2018-05-27"
+        },
+        {
+          "url": "https://bogota.gov.co",
+          "title": "Alcaldía Mayor de Bogotá — gestión 2011",
+          "outlet": "Alcaldía de Bogotá",
+          "date": "2011-12-31"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "Actos administrativos Ministerio del Trabajo 2016-2017",
+          "outlet": "SUIN-Juriscol",
+          "date": "2017-05-30"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": -3,
+        "marketPosition": -3,
+        "socialPolicy": -4,
+        "tradePolicy": -2,
+        "civilRights": -4,
+        "securityApproach": -3,
+        "socialRights": -5,
+        "powerConcentration": -1
+      }
+    },
+    "ideologies": [
+      "social-democracy",
+      "social-liberalism",
+      "democratic-socialism"
+    ],
+    "ideologySelf": "social-democracy",
+    "ideologyEvidenced": "social-democracy",
+    "bio": "Clara Eugenia López Obregón (1950, Bogotá) es economista de Harvard University con maestría en la misma institución y abogada de la Universidad de los Andes. Ha sido Concejala de Bogotá, Contralora Distrital de Bogotá (2004-2007), Alcaldesa Mayor encargada de Bogotá (2011) tras la destitución de Samuel Moreno, Presidenta del Polo Democrático Alternativo (2009-2011), candidata presidencial por el Polo en 2014, Ministra del Trabajo (2016-2017) bajo Juan Manuel Santos, fórmula vicepresidencial de Humberto de la Calle por el Partido Liberal en 2018, Embajadora de Colombia en España (2020-2021) y Senadora de la República por el Pacto Histórico desde 2022.",
+    "incoherences": [
+      {
+        "id": "claralopez-migracion-partidos-2018",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Ha defendido consistentemente el fortalecimiento del sistema de partidos, la disciplina programática y la claridad ideológica como condiciones de una democracia sana.",
+          "source": {
+            "url": "https://web.archive.org/web/2014/https://www.polodemocratico.net",
+            "title": "Polo Democrático Alternativo — plataforma 2014",
+            "outlet": "Polo Democrático",
+            "date": "2014-05-01",
+            "archived": "https://web.archive.org/web/2014/https://www.polodemocratico.net"
+          }
+        },
+        "action": {
+          "text": "Ha transitado en menos de una década por Polo Democrático, Partido Liberal, diplomacia del gobierno Duque (Embajada España), y luego Pacto Histórico, manteniendo cargos públicos en cada transición. Estas migraciones, aunque legales, debilitan la narrativa de disciplina programática que ella misma defiende.",
+          "source": {
+            "url": "https://www.elespectador.com/politica/clara-lopez-del-polo-al-pacto-historico-su-recorrido-politico/",
+            "title": "Clara López: del Polo al Pacto Histórico, su recorrido político",
+            "outlet": "El Espectador",
+            "date": "2022-03-18",
+            "archived": "https://web.archive.org/web/2022/https://www.elespectador.com/politica/clara-lopez-del-polo-al-pacto-historico-su-recorrido-politico/"
+          }
+        },
+        "nuances": "Los partidos por los que ha pasado comparten rasgos socialdemócratas-progresistas. La incoherencia no es de ideología, sino de disciplina de militancia y coherencia con el discurso de partidos fuertes que ella misma sostuvo como presidenta del Polo.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "claralopez-salario-minimo-2016",
+        "category": "economia",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Como Ministra del Trabajo impulsó el salario mínimo decente y la formalización laboral como prioridades del gobierno Santos.",
+          "source": {
+            "url": "https://web.archive.org/web/2017/https://www.mintrabajo.gov.co",
+            "title": "Ministerio del Trabajo — gestión 2016-2017",
+            "outlet": "Ministerio del Trabajo",
+            "date": "2017-05-30",
+            "archived": "https://web.archive.org/web/2017/https://www.mintrabajo.gov.co"
+          }
+        },
+        "action": {
+          "text": "El incremento del salario mínimo 2017 (decreto 2209 de 2016) fijó un aumento del 7% (superando la inflación de 5.75%), pero quedó por debajo de las demandas de centrales obreras y del ritmo de productividad que ella misma había defendido como concepto de 'salario digno'.",
+          "source": {
+            "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=30030059",
+            "title": "Decreto 2209 de 2016 — salario mínimo 2017",
+            "outlet": "SUIN-Juriscol",
+            "date": "2016-12-30",
+            "archived": "https://web.archive.org/web/2017/https://www.suin-juriscol.gov.co/viewDocument.asp?id=30030059"
+          }
+        },
+        "nuances": "La fijación del salario mínimo en Colombia involucra negociación tripartita y restricciones macroeconómicas. La incoherencia es de énfasis discursivo vs. resultado final.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      }
+    ],
+    "lastUpdated": "2026-04-15",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelfAssignment": {
+      "ideologyId": "social-democracy",
+      "justification": "Posición autopercibida (-3.5, -3.2) mapeada a 'Socialdemocracia' (centro -4.444, -0.714), la ideología del mismo cuadrante más cercana. Se autodefine como liberal socialdemócrata, feminista, defensora de la paz y del fortalecimiento de lo público. Su trayectoria la ha llevado a sectores del Polo Democrático, del Partido Liberal y ahora parte del Pacto Histórico, con un discurso centrado en justicia social, redistribución progresiva y reforma democrática.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Clara_L%C3%B3pez_Obreg%C3%B3n",
+          "title": "Clara López Obregón — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-02-05"
+        },
+        {
+          "url": "https://web.archive.org/web/2022/https://claralopez.co",
+          "title": "Clara López — sitio personal (archivado)",
+          "outlet": "Clara López Obregón",
+          "date": "2022-02-15",
+          "archived": "https://web.archive.org/web/2022/https://claralopez.co"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-democracy",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-3.0, -2.8) mapeada a 'Socialdemocracia' (centro -4.444, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Como Alcaldesa encargada de Bogotá (2011) continuó programas sociales del Polo. Como presidenta del Polo Democrático Alternativo (2009-2011) y candidata presidencial del Polo en 2014 defendió ampliación de derechos laborales, reforma agraria y salud como derecho. Como Ministra de Trabajo (2016-2017) bajo Santos impulsó el salario mínimo por negociación y la formalización laboral. Como fórmula de Humberto de la Calle por el Partido Liberal en 2018 defendió la implementación del Acuerdo de Paz y una agenda socialdemócrata. Como Senadora del Pacto Histórico desde 2022 ha respaldado reformas laboral, pensional y de salud del gobierno Petro. Evidencia legislati",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/clara-eugenia-lopez-obregon/12420/",
+          "title": "Votaciones Senadora López Obregón 2022-presente",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2024-12-01"
+        },
+        {
+          "url": "https://www.mintrabajo.gov.co",
+          "title": "Gestión Ministerio del Trabajo 2016-2017",
+          "outlet": "Ministerio del Trabajo",
+          "date": "2017-05-30"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados presidenciales 2014 y 2018",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2018-05-27"
+        },
+        {
+          "url": "https://bogota.gov.co",
+          "title": "Alcaldía Mayor de Bogotá — gestión 2011",
+          "outlet": "Alcaldía de Bogotá",
+          "date": "2011-12-31"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "Actos administrativos Ministerio del Trabajo 2016-2017",
+          "outlet": "SUIN-Juriscol",
+          "date": "2017-05-30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "marelen-castillo",
+    "country": "co",
+    "type": "vp_candidate",
+    "fullName": "Marelen Castillo Torres",
+    "displayName": "Marelen Castillo",
+    "party": "liga-gobernantes",
+    "periods": [
+      {
+        "role": "vp_candidate",
+        "startDate": "2022-03-13",
+        "endDate": "2022-06-19",
+        "electedWith": 47.31
+      },
+      {
+        "role": "representative",
+        "startDate": "2022-07-20",
+        "endDate": "2026-07-20",
+        "region": "Valle del Cauca"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 4.0,
+      "y": 2.5,
+      "justification": "Se autodefine como mujer independiente, educadora y gestora pública afrocolombiana, con una agenda centrada en educación, diversidad e inclusión, gobernanza ética y lucha anticorrupción. Se ubica a sí misma en el centro político, con énfasis en buenas prácticas y gestión técnica.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Marelen_Castillo",
+          "title": "Marelen Castillo — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-01-18"
+        },
+        {
+          "url": "https://web.archive.org/web/2022/https://ingenierorodolfo.com",
+          "title": "Campaña Rodolfo Hernández 2022 (archivado)",
+          "outlet": "Campaña Rodolfo Hernández",
+          "date": "2022-05-15",
+          "archived": "https://web.archive.org/web/2022/https://ingenierorodolfo.com"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 4.5,
+      "y": 2.5,
+      "confidence": "low",
+      "justification": "Análisis metodológico del proyecto: Como fórmula vicepresidencial de Rodolfo Hernández en 2022, acompañó una plataforma de anticorrupción, reducción del Estado, austeridad, reducción del tamaño del Congreso y 'no más politiquería', sin una articulación ideológica de largo alcance. Como Representante a la Cámara por Valle del Cauca desde 2022 por la Liga de Gobernantes Anticorrupción ha tenido baja visibilidad legislativa y una agenda centrada en educación y transparencia. La confianza en su ubicación es baja por la brevedad de su trayectoria política, la ausencia de cargos ejecutivos y la corta serie de votaciones registradas.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/marelen-castillo-torres/14089/",
+          "title": "Votaciones Representante Castillo 2022-presente",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2024-12-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados presidenciales 2022 — segunda vuelta",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2022-06-19"
+        },
+        {
+          "url": "https://www.camara.gov.co",
+          "title": "Cámara de Representantes — perfil Marelen Castillo",
+          "outlet": "Cámara de Representantes",
+          "date": "2024-12-01"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": 3,
+        "marketPosition": 3,
+        "socialPolicy": 2,
+        "tradePolicy": 2,
+        "civilRights": 1,
+        "securityApproach": 2,
+        "socialRights": 2,
+        "powerConcentration": 1
+      }
+    },
+    "ideologies": [
+      "third-way",
+      "classical-liberalism",
+      "social-liberalism"
+    ],
+    "ideologySelf": "third-way",
+    "ideologyEvidenced": "classical-liberalism",
+    "bio": "Marelen Castillo Torres (1969, Buenaventura) es ingeniera industrial, magíster en Administración de Empresas, doctora en Educación por la Universidad de Sarasota. Ha sido docente universitaria y Vicerrectora de la Universidad Minuto de Dios (UNIMINUTO). En 2022 fue la fórmula vicepresidencial de Rodolfo Hernández por la Liga de Gobernantes Anticorrupción en las elecciones presidenciales, alcanzando la segunda vuelta con 47.31% de los votos. Desde el 20 de julio de 2022 es Representante a la Cámara por el Valle del Cauca.",
+    "incoherences": [
+      {
+        "id": "marelencastillo-silencio-rodolfo-2022",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "La plataforma Hernández-Castillo centró su discurso público en la lucha anticorrupción y la ética en la gestión pública: 'no más politiquería', 'Colombia primero', mano dura contra corruptos.",
+          "source": {
+            "url": "https://web.archive.org/web/2022/https://ingenierorodolfo.com/propuestas",
+            "title": "Propuestas Hernández-Castillo 2022",
+            "outlet": "Campaña Rodolfo Hernández",
+            "date": "2022-04-20",
+            "archived": "https://web.archive.org/web/2022/https://ingenierorodolfo.com/propuestas"
+          }
+        },
+        "action": {
+          "text": "Durante la campaña y después, Castillo mantuvo silencio frente a los procesos judiciales en curso contra su fórmula por el caso Vitalogic (contrato de basuras de Bucaramanga) — imputación que llevó a Hernández a ser condenado en primera instancia en 2023. La fórmula anticorrupción no se pronunció de forma crítica sobre los hechos imputados a su propia cabeza visible.",
+          "source": {
+            "url": "https://www.fiscalia.gov.co",
+            "title": "Procesos judiciales Rodolfo Hernández — caso Vitalogic",
+            "outlet": "Fiscalía General de la Nación",
+            "date": "2023-12-01",
+            "archived": "https://web.archive.org/web/2023/https://www.fiscalia.gov.co"
+          }
+        },
+        "nuances": "Una fórmula vicepresidencial no tiene responsabilidad jurídica por los actos del candidato presidencial. La incoherencia es narrativa y de gestión política: una plataforma anticorrupción debería exigir transparencia máxima cuando el caso toca a la propia coalición.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "marelencastillo-diversidad-inclusion-2022",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Como mujer afrocolombiana y educadora enfatizó la diversidad, la equidad racial y de género, y la inclusión de comunidades históricamente marginadas como eje de su compromiso público.",
+          "source": {
+            "url": "https://web.archive.org/web/2022/https://ingenierorodolfo.com/marelen",
+            "title": "Marelen Castillo — presentación como fórmula 2022",
+            "outlet": "Campaña Rodolfo Hernández",
+            "date": "2022-03-20",
+            "archived": "https://web.archive.org/web/2022/https://ingenierorodolfo.com/marelen"
+          }
+        },
+        "action": {
+          "text": "Fue fórmula de Rodolfo Hernández, quien realizó múltiples declaraciones públicas con contenido racista, sexista y xenófobo documentadas por medios nacionales e internacionales. Castillo no se deslindó públicamente de esas declaraciones durante la campaña, debilitando la credibilidad de su posicionamiento personal en diversidad.",
+          "source": {
+            "url": "https://www.washingtonpost.com/world/2022/06/11/colombia-election-rodolfo-hernandez/",
+            "title": "The contradictions of Colombia's Rodolfo Hernández",
+            "outlet": "The Washington Post",
+            "date": "2022-06-11",
+            "archived": "https://web.archive.org/web/2022/https://www.washingtonpost.com/world/2022/06/11/colombia-election-rodolfo-hernandez/"
+          }
+        },
+        "nuances": "Algunos equipos de campaña explican estas dinámicas por estrategia de no 'romper' la fórmula. La incoherencia es entre el discurso personal de inclusión y la aceptación política de declaraciones contrarias a ese valor por parte del candidato principal.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "marelencastillo-baja-actividad-legislativa-2023",
+        "category": "corrupcion",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Al llegar a la Cámara en 2022 anunció que su agenda legislativa se centraría en educación, gestión pública, transparencia y representación regional del Valle del Cauca.",
+          "source": {
+            "url": "https://web.archive.org/web/2022/https://www.camara.gov.co/representantes/marelen-castillo",
+            "title": "Marelen Castillo — perfil Cámara 2022",
+            "outlet": "Cámara de Representantes",
+            "date": "2022-08-20",
+            "archived": "https://web.archive.org/web/2022/https://www.camara.gov.co/representantes/marelen-castillo"
+          }
+        },
+        "action": {
+          "text": "Durante 2022-2024 ha tenido una actividad legislativa documentada por Congreso Visible baja en número de proyectos propios de su autoría sobre educación o transparencia, y moderada en votaciones registradas, lo que contrasta con la expectativa generada por su visibilidad como fórmula vicepresidencial.",
+          "source": {
+            "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/marelen-castillo-torres/14089/proyectos/",
+            "title": "Proyectos radicados Representante Castillo 2022-2024",
+            "outlet": "Congreso Visible - Universidad de los Andes",
+            "date": "2024-12-01",
+            "archived": "https://web.archive.org/web/2024/https://congresovisible.uniandes.edu.co/congresistas/perfil/marelen-castillo-torres/14089/proyectos/"
+          }
+        },
+        "nuances": "La actividad legislativa individual no refleja toda la labor (debates, audiencias, comisiones). La incoherencia es entre la agenda anunciada y la producción legislativa visible.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      }
+    ],
+    "lastUpdated": "2026-04-15",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelfAssignment": {
+      "ideologyId": "third-way",
+      "justification": "Posición autopercibida (2.0, 1.5) mapeada a 'Tercera Vía' (centro 4.444, 0.714), la ideología del mismo cuadrante más cercana. Se autodefine como mujer independiente, educadora y gestora pública afrocolombiana, con una agenda centrada en educación, diversidad e inclusión, gobernanza ética y lucha anticorrupción. Se ubica a sí misma en el centro político, con énfasis en buenas prácticas y gestión técnica.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Marelen_Castillo",
+          "title": "Marelen Castillo — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-01-18"
+        },
+        {
+          "url": "https://web.archive.org/web/2022/https://ingenierorodolfo.com",
+          "title": "Campaña Rodolfo Hernández 2022 (archivado)",
+          "outlet": "Campaña Rodolfo Hernández",
+          "date": "2022-05-15",
+          "archived": "https://web.archive.org/web/2022/https://ingenierorodolfo.com"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "classical-liberalism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (2.5, 1.5) mapeada a 'Liberalismo clásico' (centro 8.889, -2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Como fórmula vicepresidencial de Rodolfo Hernández en 2022, acompañó una plataforma de anticorrupción, reducción del Estado, austeridad, reducción del tamaño del Congreso y 'no más politiquería', sin una articulación ideológica de largo alcance. Como Representante a la Cámara por Valle del Cauca desde 2022 por la Liga de Gobernantes Anticorrupción ha tenido baja visibilidad legislativa y una agenda centrada en educación y transparencia. La confianza en su ubicación es baja por la brevedad de su trayectoria política, la ausencia de cargos ejecutivos y la corta serie de votaciones registradas.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/marelen-castillo-torres/14089/",
+          "title": "Votaciones Representante Castillo 2022-presente",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2024-12-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados presidenciales 2022 — segunda vuelta",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2022-06-19"
+        },
+        {
+          "url": "https://www.camara.gov.co",
+          "title": "Cámara de Representantes — perfil Marelen Castillo",
+          "outlet": "Cámara de Representantes",
+          "date": "2024-12-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "rodrigo-lara-sanchez",
+    "country": "co",
+    "type": "vp_candidate",
+    "fullName": "Rodrigo Lara Sánchez",
+    "displayName": "Rodrigo Lara Sánchez",
+    "party": "nuevo-liberalismo",
+    "periods": [
+      {
+        "role": "vp_candidate",
+        "startDate": "2022-03-13",
+        "endDate": "2022-05-29",
+        "electedWith": 23.91
+      },
+      {
+        "role": "mayor",
+        "startDate": "2016-01-01",
+        "endDate": "2019-12-31",
+        "region": "Neiva"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 2.5,
+      "y": 2,
+      "justification": "Se autodefine como liberal reformista y centrista, defensor de la institucionalidad, la seguridad humana, la lucha contra la corrupción y la modernización del Estado. Se posiciona como heredero del legado de Rodrigo Lara Bonilla (su padre, asesinado por narcotráfico), con énfasis en política anticorrupción y Estado fuerte pero democrático.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Rodrigo_Lara_S%C3%A1nchez",
+          "title": "Rodrigo Lara Sánchez — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-01-25"
+        },
+        {
+          "url": "https://web.archive.org/web/2022/https://www.fico2022.com",
+          "title": "Campaña Federico Gutiérrez 2022 (archivado)",
+          "outlet": "Equipo por Colombia",
+          "date": "2022-05-01",
+          "archived": "https://web.archive.org/web/2022/https://www.fico2022.com"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 3,
+      "y": 2,
+      "confidence": "medium",
+      "justification": "Análisis metodológico del proyecto: Como Alcalde de Neiva (2016-2019) por el Nuevo Liberalismo-La U ejecutó una política de seguridad urbana, ordenamiento territorial y obras de infraestructura, con gestión calificada de manera mixta por observatorios locales. Como fórmula vicepresidencial de Federico Gutiérrez por la coalición Equipo por Colombia en 2022 (23.91% primera vuelta) defendió una plataforma centro-derecha: disciplina fiscal, seguridad, mayor articulación con sector privado, continuidad institucional del gobierno Duque con acentos reformistas. La evidencia ejecutiva y de campaña lo ubica en centro-derecha liberal.",
+      "sources": [
+        {
+          "url": "https://www.alcaldianeiva.gov.co",
+          "title": "Alcaldía de Neiva — gestión 2016-2019",
+          "outlet": "Alcaldía de Neiva",
+          "date": "2019-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados presidenciales 2022 — primera vuelta",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2022-05-29"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Informes fiscales municipales Neiva 2016-2019",
+          "outlet": "Contraloría General de la República",
+          "date": "2020-06-01"
+        },
+        {
+          "url": "https://concejodeneiva.gov.co",
+          "title": "Plan de Desarrollo Neiva 2016-2019",
+          "outlet": "Concejo Municipal de Neiva",
+          "date": "2016-05-30"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": 4,
+        "marketPosition": 4,
+        "socialPolicy": 2,
+        "tradePolicy": 3,
+        "civilRights": 2,
+        "securityApproach": 4,
+        "socialRights": 1,
+        "powerConcentration": 2
+      }
+    },
+    "ideologies": [
+      "social-liberalism",
+      "classical-liberalism",
+      "liberal-democracy"
+    ],
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "classical-liberalism",
+    "bio": "Rodrigo Lara Sánchez (1967, Neiva) es hijo del político liberal Rodrigo Lara Bonilla, Ministro de Justicia asesinado por el narcotráfico en 1984. Es abogado de la Universidad de los Andes y ha desarrollado su carrera entre la empresa privada y la política regional. Fue Alcalde de Neiva (2016-2019) por el Nuevo Liberalismo-La U, y en 2022 fue la fórmula vicepresidencial de Federico Gutiérrez por la coalición Equipo por Colombia en las elecciones presidenciales, obteniendo 23.91% en primera vuelta.",
+    "incoherences": [
+      {
+        "id": "rodrigolara-nuevo-liberalismo-coalicion-2022",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Refundó junto a su hermano Rodrigo Lara Restrepo el Nuevo Liberalismo (2021-2022) con un discurso de renovación ética, lucha anticorrupción y ruptura con la 'política tradicional'.",
+          "source": {
+            "url": "https://web.archive.org/web/2022/https://nuevoliberalismo.co",
+            "title": "Nuevo Liberalismo — plataforma 2022",
+            "outlet": "Nuevo Liberalismo",
+            "date": "2022-02-10",
+            "archived": "https://web.archive.org/web/2022/https://nuevoliberalismo.co"
+          }
+        },
+        "action": {
+          "text": "Aceptó ser fórmula de Federico Gutiérrez por la coalición Equipo por Colombia, que agrupó a sectores del uribismo, Partido Conservador, MIRA y Colombia Justa Libres — es decir, a actores de la 'política tradicional' que el Nuevo Liberalismo decía combatir. La coalición obligó a diluir banderas reformistas del Nuevo Liberalismo.",
+          "source": {
+            "url": "https://www.elespectador.com/politica/rodrigo-lara-sanchez-formula-vicepresidencial-de-federico-gutierrez/",
+            "title": "Rodrigo Lara Sánchez, fórmula vicepresidencial de Federico Gutiérrez",
+            "outlet": "El Espectador",
+            "date": "2022-03-25",
+            "archived": "https://web.archive.org/web/2022/https://www.elespectador.com/politica/rodrigo-lara-sanchez-formula-vicepresidencial-de-federico-gutierrez/"
+          }
+        },
+        "nuances": "Las coaliciones amplias son propias de segundas vueltas. La incoherencia es de timing: la alianza se hizo en primera vuelta, limitando la diferenciación de la marca Nuevo Liberalismo.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "rodrigolara-seguridad-humana-neiva-2019",
+        "category": "seguridad",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Como Alcalde de Neiva planteó que la política de seguridad tendría un enfoque de 'seguridad humana' con atención a las causas sociales del delito y coordinación comunitaria, no solo de mano dura policial.",
+          "source": {
+            "url": "https://web.archive.org/web/2019/https://www.alcaldianeiva.gov.co/plan-desarrollo",
+            "title": "Plan de Desarrollo Neiva 2016-2019",
+            "outlet": "Alcaldía de Neiva",
+            "date": "2016-05-30",
+            "archived": "https://web.archive.org/web/2019/https://www.alcaldianeiva.gov.co/plan-desarrollo"
+          }
+        },
+        "action": {
+          "text": "Durante su alcaldía Neiva mantuvo tasas de homicidio superiores al promedio de ciudades intermedias comparables y el gasto en seguridad se canalizó mayoritariamente a pie de fuerza y tecnología policial, con baja inversión proporcional en programas de prevención social documentada por medios locales.",
+          "source": {
+            "url": "https://www.diariodelhuila.com/neiva-entre-las-ciudades-mas-inseguras-del-pais",
+            "title": "Neiva entre las ciudades más inseguras — cierre gestión 2019",
+            "outlet": "Diario del Huila",
+            "date": "2019-11-20",
+            "archived": "https://web.archive.org/web/2019/https://www.diariodelhuila.com/neiva-entre-las-ciudades-mas-inseguras-del-pais"
+          }
+        },
+        "nuances": "Las dinámicas de violencia en Neiva están ligadas a corredores de narcotráfico del Huila-Caquetá que exceden la competencia municipal. La incoherencia es entre el discurso de 'seguridad humana' y la composición real del gasto de seguridad.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "rodrigolara-legado-lara-bonilla-2022",
+        "category": "corrupcion",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Ha invocado el legado ético y antinarcótico de su padre Rodrigo Lara Bonilla como eje moral de su carrera política y como referencia en la lucha contra la corrupción y la infiltración del narcotráfico en la política.",
+          "source": {
+            "url": "https://web.archive.org/web/2022/https://nuevoliberalismo.co/historia",
+            "title": "Nuevo Liberalismo — historia y legado Lara Bonilla",
+            "outlet": "Nuevo Liberalismo",
+            "date": "2022-02-15",
+            "archived": "https://web.archive.org/web/2022/https://nuevoliberalismo.co/historia"
+          }
+        },
+        "action": {
+          "text": "Se unió a una coalición (Equipo por Colombia) que incluyó a sectores políticos que han sido señalados por investigaciones de parapolítica, contratación irregular y vínculos con estructuras cuestionadas en regiones del país, sin hacer deslinde público específico en nombre del legado invocado.",
+          "source": {
+            "url": "https://verdadabierta.com/parapolitica/",
+            "title": "Archivo parapolítica — sectores coaliciones 2022",
+            "outlet": "VerdadAbierta",
+            "date": "2022-05-01",
+            "archived": "https://web.archive.org/web/2022/https://verdadabierta.com/parapolitica/"
+          }
+        },
+        "nuances": "En política electoral las coaliciones suelen ser amplias y no implican endoso de cada militante. La incoherencia es la distancia entre la invocación del legado de Lara Bonilla y la ausencia de deslindes públicos específicos frente a actores con antecedentes cuestionados dentro de la misma coalición.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      }
+    ],
+    "lastUpdated": "2026-04-15",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelfAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Posición autopercibida (2.5, 2.0) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. Se autodefine como liberal reformista y centrista, defensor de la institucionalidad, la seguridad humana, la lucha contra la corrupción y la modernización del Estado. Se posiciona como heredero del legado de Rodrigo Lara Bonilla (su padre, asesinado por narcotráfico), con énfasis en política anticorrupción y Estado fuerte pero democrático.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Rodrigo_Lara_S%C3%A1nchez",
+          "title": "Rodrigo Lara Sánchez — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-01-25"
+        },
+        {
+          "url": "https://web.archive.org/web/2022/https://www.fico2022.com",
+          "title": "Campaña Federico Gutiérrez 2022 (archivado)",
+          "outlet": "Equipo por Colombia",
+          "date": "2022-05-01",
+          "archived": "https://web.archive.org/web/2022/https://www.fico2022.com"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "classical-liberalism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (3.0, 2.0) mapeada a 'Liberalismo clásico' (centro 8.889, -2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Como Alcalde de Neiva (2016-2019) por el Nuevo Liberalismo-La U ejecutó una política de seguridad urbana, ordenamiento territorial y obras de infraestructura, con gestión calificada de manera mixta por observatorios locales. Como fórmula vicepresidencial de Federico Gutiérrez por la coalición Equipo por Colombia en 2022 (23.91% primera vuelta) defendió una plataforma centro-derecha: disciplina fiscal, seguridad, mayor articulación con sector privado, continuidad institucional del gobierno Duque con acentos reformistas. La evidencia ejecutiva y de campaña lo ubica en centro-derecha liberal.",
+      "sources": [
+        {
+          "url": "https://www.alcaldianeiva.gov.co",
+          "title": "Alcaldía de Neiva — gestión 2016-2019",
+          "outlet": "Alcaldía de Neiva",
+          "date": "2019-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados presidenciales 2022 — primera vuelta",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2022-05-29"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Informes fiscales municipales Neiva 2016-2019",
+          "outlet": "Contraloría General de la República",
+          "date": "2020-06-01"
+        },
+        {
+          "url": "https://concejodeneiva.gov.co",
+          "title": "Plan de Desarrollo Neiva 2016-2019",
+          "outlet": "Concejo Municipal de Neiva",
+          "date": "2016-05-30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nelson-alarcon",
+    "country": "co",
+    "type": "vp_candidate",
+    "fullName": "Nelson Javier Alarcón Suárez",
+    "displayName": "Nelson Alarcón",
+    "party": "fuerza-ciudadana",
+    "periods": [
+      {
+        "role": "vp_candidate",
+        "startDate": "2026-01-01",
+        "endDate": "2026-06-29"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -5.5,
+      "y": -1,
+      "justification": "Se autodefine como maestro y dirigente sindical al servicio de la educación pública y de los derechos de los trabajadores. En su papel como expresidente de FECODE ha reivindicado la defensa del estatuto docente, la ampliación del sistema público educativo y un Estado con rol activo en garantizar derechos sociales. Se presenta como fórmula vicepresidencial de Carlos Caicedo bajo una plataforma de izquierda democrática, anticorrupción y reforma educativa.",
+      "sources": [
+        {
+          "url": "https://www.fecode.edu.co",
+          "title": "FECODE — Declaraciones del presidente del sindicato",
+          "outlet": "FECODE",
+          "date": "2023-11-01"
+        },
+        {
+          "url": "https://fuerzaciudadana.co",
+          "title": "Sitio oficial — Fuerza Ciudadana",
+          "outlet": "Fuerza Ciudadana",
+          "date": "2026-01-15"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -6,
+      "y": -0.5,
+      "confidence": "low",
+      "justification": "Análisis metodológico del proyecto: La trayectoria pública de Alarcón está concentrada en el liderazgo sindical de FECODE, donde condujo paros nacionales del magisterio (2017, 2019) para exigir mayor presupuesto educativo, aumento salarial docente y reformas al sistema de salud del magisterio. Estas acciones evidencian una posición consistente de izquierda económica con demanda de Estado redistribuidor y rol protagónico del sector público. En el eje social, se ha mantenido en una línea de derechos laborales y libertades sindicales sin tomar posturas fuertes en agendas civiles (derechos reproductivos, diversidad). La confianza en su ubicación es baja por la ausencia de cargos legislativos o ejecutivos registrados formalmente fuera del ámbito sindical.",
+      "sources": [
+        {
+          "url": "https://www.fecode.edu.co",
+          "title": "Plataforma de FECODE durante presidencia de Nelson Alarcón",
+          "outlet": "FECODE",
+          "date": "2019-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/FECODE",
+          "title": "FECODE — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-08-15"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": -7,
+        "marketPosition": -6,
+        "socialPolicy": -7,
+        "tradePolicy": -4,
+        "civilRights": -1,
+        "securityApproach": -1,
+        "socialRights": -2,
+        "powerConcentration": 1
+      }
+    },
+    "ideologies": [
+      "social-democracy",
+      "democratic-socialism",
+      "progressivism"
+    ],
+    "ideologySelf": "social-democracy",
+    "ideologyEvidenced": "democratic-socialism",
+    "ideologySelfAssignment": {
+      "ideologyId": "social-democracy",
+      "justification": "Posición autopercibida (-5.5, -1.0) mapea a 'Socialdemocracia' en el cuadrante lib_left. Se identifica con un Estado de bienestar redistributivo y defensa del sector público, especialmente en educación y salud, típicos de la tradición socialdemócrata.",
+      "sources": [
+        {
+          "url": "https://www.fecode.edu.co",
+          "title": "FECODE — Declaraciones del presidente del sindicato",
+          "outlet": "FECODE",
+          "date": "2023-11-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "democratic-socialism",
+      "justification": "Posición evidenciada (-6.0, -0.5) mapea a 'Socialismo democrático' en el cuadrante lib_left. Las acciones sindicales de movilización del magisterio (paros, negociación colectiva, defensa del estatuto docente) y la demanda de un sistema de salud público exclusivo para maestros reflejan una agenda de transformación estructural progresiva dentro del marco democrático.",
+      "sources": [
+        {
+          "url": "https://www.fecode.edu.co",
+          "title": "Plataforma FECODE 2017-2023",
+          "outlet": "FECODE",
+          "date": "2019-06-01"
+        }
+      ]
+    },
+    "bio": "Nelson Javier Alarcón Suárez es un educador y dirigente sindical colombiano. Fue presidente de la Federación Colombiana de Trabajadores de la Educación (FECODE) entre 2017 y 2023, periodo durante el cual lideró movilizaciones nacionales del magisterio. Para las elecciones presidenciales de 2026 es anunciado como fórmula vicepresidencial de Carlos Caicedo por el partido Fuerza Ciudadana.",
+    "incoherences": [
+      {
+        "id": "nelson-alarcon-apoliticismo-2021",
+        "category": "educacion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Lo que aparece en el video son opiniones y posturas personales del compañero y no las de Fecode. [Fecode] ya se había pronunciado diciendo que no había razones políticas con miras a las elecciones del 2022.",
+          "source": {
+            "url": "https://www.eltiempo.com/vida/educacion/fecode-responde-a-video-de-nelson-alarcon-fueron-opiniones-personales-595243",
+            "title": "Fueron opiniones personales: Fecode ante video de Nelson Alarcón",
+            "outlet": "El Tiempo",
+            "date": "2021-06-11",
+            "archived": "https://web.archive.org/web/2021/https://www.eltiempo.com/vida/educacion/fecode-responde-a-video-de-nelson-alarcon-fueron-opiniones-personales-595243"
+          }
+        },
+        "action": {
+          "text": "Esto es de largo aliento, esto es para llegar con miras a 2022 y seguir mucho más allá, para derrotar al Centro Democrático, para derrotar a la ultraderecha y llegar al poder en 2022 (declaración grabada de Alarcón durante el Paro Nacional 2021 siendo ejecutivo de FECODE). En marzo de 2026 Alarcón se inscribió como fórmula vicepresidencial de Carlos Caicedo por Fuerza Ciudadana, materializando la trayectoria político-electoral que la institución había negado cinco años antes.",
+          "source": {
+            "url": "https://www.eltiempo.com/politica/gobierno/paro-nacional-ejecutivo-de-fecode-dice-que-van-con-miras-para-2022-595064",
+            "title": "Paro nacional: ejecutivo de Fecode dice que van con miras para 2022",
+            "outlet": "El Tiempo",
+            "date": "2021-06-10",
+            "archived": "https://web.archive.org/web/2021/https://www.eltiempo.com/politica/gobierno/paro-nacional-ejecutivo-de-fecode-dice-que-van-con-miras-para-2022-595064"
+          }
+        },
+        "nuances": "FECODE negó oficialmente en junio 2021 que el paro tuviera motivaciones electorales, catalogando las palabras de Alarcón como opiniones personales. Alarcón se defendió diciendo que Colombia es democrática y que hablar de elecciones no es delito. En marzo de 2026 el mismo Alarcón se convirtió en candidato vicepresidencial, confirmando empíricamente lo que había anticipado y contradiciendo la postura institucional de FECODE sobre la ausencia de intención político-electoral.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-16"
+      },
+      {
+        "id": "nelson-alarcon-acuerdo-2019",
+        "category": "educacion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Nelson Alarcón, presidente de FECODE, firmó el 15 de mayo de 2019 con el gobierno de Iván Duque el acta de acuerdo que ponía fin al paro nacional docente tras 50 sesiones de trabajo, contemplando reforma al Sistema General de Participaciones, ampliación del preescolar, garantías sindicales y mejoras en régimen de salud del magisterio.",
+          "source": {
+            "url": "https://www.semana.com/educacion/articulo/este-es-el-acuerdo-de-los-profesores-con-el-gobierno-2019/615551/",
+            "title": "Tras 50 sesiones de trabajo, maestros llegan finalmente a un acuerdo con el gobierno",
+            "outlet": "Semana",
+            "date": "2019-05-16",
+            "archived": "https://web.archive.org/web/2019/https://www.semana.com/educacion/articulo/este-es-el-acuerdo-de-los-profesores-con-el-gobierno-2019/615551/"
+          }
+        },
+        "action": {
+          "text": "Tres meses después de firmar, y en años siguientes, Alarcón y FECODE convocaron nuevos paros y movilizaciones argumentando que el acuerdo solo se había cumplido en un 30%. El propio Alarcón reconoció en entrevista con Semana que FECODE había firmado puntos que apenas se cumplían en el 30%. El acuerdo no revertía en lo sustancial la evaluación docente ni la Ley 715, banderas previas de FECODE para el paro.",
+          "source": {
+            "url": "https://www.fecode.edu.co/images/acta_acuerdo2019/Acta_de_Acuerdos_Final_2019.pdf",
+            "title": "Entrevista con Nelson Alarcón, presidente de Fecode",
+            "outlet": "FECODE - Acta de Acuerdos Final 2019 (Pliego de Solicitudes Gobierno Nacional - Fecode)",
+            "date": "2019-05-15",
+            "archived": "https://web.archive.org/web/2019/https://www.fecode.edu.co/images/acta_acuerdo2019/Acta_de_Acuerdos_Final_2019.pdf"
+          }
+        },
+        "nuances": "No es una contradicción entre un dicho y un hecho aislado, sino un patrón estratégico: FECODE aceptó un acuerdo con Duque que incluía puntos cuya implementación plena requería reforma constitucional no garantizada. La firma permitió levantar el paro, pero dejó al magisterio dependiendo de cumplimiento gubernamental sobre el que el mismo Alarcón luego protestó.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-16"
+      }
+    ],
+    "lastUpdated": "2026-04-16",
+    "contributors": [
+      "ssi-co"
+    ]
+  },
+  {
+    "id": "maria-consuelo-del-rio",
+    "country": "co",
+    "type": "vp_candidate",
+    "fullName": "María Consuelo del Río Mantilla",
+    "displayName": "María Consuelo del Río",
+    "party": "pacto-historico",
+    "periods": [
+      {
+        "role": "vp_candidate",
+        "startDate": "2026-01-01",
+        "endDate": "2026-04-07"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -4,
+      "y": -2.5,
+      "justification": "Se autodefine como abogada defensora de derechos humanos, con énfasis en la protección de la infancia, la juventud y el adulto mayor. Su plataforma como fórmula vicepresidencial de Clara López se enmarca en la coalición del Pacto Histórico con agenda de derechos sociales, enfoque de género y reforma institucional con perspectiva garantista.",
+      "sources": [
+        {
+          "url": "https://www.defensoria.gov.co",
+          "title": "Defensoría del Pueblo — Delegada para la infancia, juventud y adulto mayor",
+          "outlet": "Defensoría del Pueblo",
+          "date": "2023-06-01"
+        },
+        {
+          "url": "https://pactohistorico.co",
+          "title": "Sitio oficial — Pacto Histórico",
+          "outlet": "Pacto Histórico",
+          "date": "2026-02-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -4.2,
+      "y": -2.8,
+      "confidence": "low",
+      "justification": "Análisis metodológico del proyecto: Su trayectoria como Defensora Delegada en la Defensoría del Pueblo de Bogotá muestra acción sostenida en defensa de derechos de grupos vulnerables, informes sobre violaciones de derechos humanos y posicionamientos en favor de la expansión del gasto social y de la justicia restaurativa. En el eje social, consistente con una línea libertaria-progresista (enfoque de género, derechos reproductivos, diversidad). En el eje económico, sus declaraciones como parte del Pacto Histórico apoyan reformas tributarias progresivas y fortalecimiento del Estado social. La confianza es baja por corta trayectoria en cargos electivos. La fórmula acompañó a Clara López hasta el retiro de su candidatura en abril 2026.",
+      "sources": [
+        {
+          "url": "https://www.defensoria.gov.co",
+          "title": "Informes Defensoría del Pueblo Bogotá 2022-2023",
+          "outlet": "Defensoría del Pueblo",
+          "date": "2023-06-01"
+        },
+        {
+          "url": "https://pactohistorico.co",
+          "title": "Plataforma programática Pacto Histórico 2026",
+          "outlet": "Pacto Histórico",
+          "date": "2026-02-01"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": -4,
+        "marketPosition": -4,
+        "socialPolicy": -5,
+        "tradePolicy": -3,
+        "civilRights": -4,
+        "securityApproach": -2,
+        "socialRights": -5,
+        "powerConcentration": -1
+      }
+    },
+    "ideologies": [
+      "social-democracy",
+      "progressivism",
+      "social-liberalism"
+    ],
+    "ideologySelf": "social-democracy",
+    "ideologyEvidenced": "social-democracy",
+    "ideologySelfAssignment": {
+      "ideologyId": "social-democracy",
+      "justification": "Posición autopercibida (-4.0, -2.5) mapea a 'Socialdemocracia' en el cuadrante lib_left. Su discurso integra derechos sociales, enfoque de género y fortalecimiento del Estado garantista, marcos característicos de la tradición socialdemócrata con acento en derechos humanos.",
+      "sources": [
+        {
+          "url": "https://www.defensoria.gov.co",
+          "title": "Defensoría del Pueblo — Delegada",
+          "outlet": "Defensoría del Pueblo",
+          "date": "2023-06-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-democracy",
+      "justification": "Posición evidenciada (-4.2, -2.8) mapea a 'Socialdemocracia'. Las acciones como Defensora Delegada (informes sobre vulneración de derechos, expansión del gasto social focalizado, defensa de JEP) son consistentes con una aproximación socialdemócrata: combinación de expansión de derechos y fortalecimiento institucional dentro del marco democrático.",
+      "sources": [
+        {
+          "url": "https://www.defensoria.gov.co",
+          "title": "Informes Defensoría Bogotá",
+          "outlet": "Defensoría del Pueblo",
+          "date": "2023-06-01"
+        }
+      ]
+    },
+    "bio": "María Consuelo del Río Mantilla es una abogada colombiana especialista en derechos humanos. Se desempeñó como Veedora Distrital de Bogotá, Defensora Delegada para los Derechos Económicos, Sociales y Culturales de la Defensoría del Pueblo, Directora Nacional de Promoción y Divulgación de DDHH, Defensora Regional de los Nuevos Departamentos, Secretaria General de Findeter, y ocupó cargos directivos en Ecopetrol y la Consejería Presidencial para DDHH. El 14 de marzo de 2026 fue confirmada como fórmula vicepresidencial de Clara López Obregón (Esperanza Democrática / Pacto Histórico), fórmula que se mantuvo hasta el retiro de López en abril de 2026 en favor de Iván Cepeda.",
+    "incoherences": [],
+    "lastUpdated": "2026-04-16",
+    "contributors": [
+      "ssi-co"
+    ]
+  },
+  {
+    "id": "aida-quilcue",
+    "country": "co",
+    "type": "vp_candidate",
+    "fullName": "Aída Marina Quilcué Vivas",
+    "displayName": "Aída Quilcué",
+    "party": "mais",
+    "periods": [
+      {
+        "role": "vp_candidate",
+        "startDate": "2026-01-01",
+        "endDate": "2026-06-29"
+      },
+      {
+        "role": "senator",
+        "startDate": "2022-07-20",
+        "endDate": "2026-07-20",
+        "region": "Cauca"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -5.8,
+      "y": -4.2,
+      "justification": "Se autodefine como lideresa indígena nasa del Cauca y defensora histórica de los derechos de los pueblos originarios, de la Madre Tierra y de la paz. En su paso como directora de Derechos Humanos del Consejo Regional Indígena del Cauca (CRIC) y actualmente como senadora por el MAIS ha reivindicado la consulta previa, la autonomía territorial, el derecho al agua y la justicia ambiental, así como los acuerdos de paz.",
+      "sources": [
+        {
+          "url": "https://www.cric-colombia.org",
+          "title": "CRIC — Liderazgo de Aída Quilcué",
+          "outlet": "Consejo Regional Indígena del Cauca",
+          "date": "2021-05-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/A%C3%ADda_Quilcu%C3%A9",
+          "title": "Aída Quilcué — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-03-10"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -6.3,
+      "y": -3.5,
+      "confidence": "medium",
+      "justification": "Análisis metodológico del proyecto: Su trayectoria documentada incluye (1) liderazgo del CRIC y movilizaciones indígenas contra el TLC y el modelo extractivista (2008-2013); (2) gestión en la ONIC como consejera de derechos humanos; (3) votación consistente en el Senado (2022-2026) a favor de reforma rural integral, reforma tributaria progresiva, ley estatutaria de consulta previa, protección de líderes sociales, reforma al Código de Minas, y contra proyectos de fracking. La confianza es media porque el registro legislativo del Senado confirma la consistencia entre su discurso y sus votaciones. Ubicación en lib_left con acento ambientalista-indigenista.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Votaciones senatoriales Aída Quilcué 2022-2026",
+          "outlet": "Congreso Visible — Universidad de los Andes",
+          "date": "2026-03-01"
+        },
+        {
+          "url": "https://www.onic.org.co",
+          "title": "Organización Nacional Indígena de Colombia — trayectoria",
+          "outlet": "ONIC",
+          "date": "2021-08-01"
+        },
+        {
+          "url": "https://www.cric-colombia.org",
+          "title": "CRIC — Posiciones históricas del movimiento",
+          "outlet": "CRIC",
+          "date": "2020-01-01"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": -6,
+        "marketPosition": -6,
+        "socialPolicy": -7,
+        "tradePolicy": -7,
+        "civilRights": -4,
+        "securityApproach": -3,
+        "socialRights": -5,
+        "powerConcentration": -2
+      }
+    },
+    "ideologies": [
+      "democratic-socialism",
+      "green-politics",
+      "progressivism"
+    ],
+    "ideologySelf": "green-politics",
+    "ideologyEvidenced": "democratic-socialism",
+    "ideologySelfAssignment": {
+      "ideologyId": "green-politics",
+      "justification": "Posición autopercibida (-5.8, -4.2) en el cuadrante lib_left, con énfasis explícito en protección de territorios, agua, y Madre Tierra se acerca a 'Política Verde'. Su plataforma integra elementos indigenistas, ambientalistas y de justicia social.",
+      "sources": [
+        {
+          "url": "https://www.cric-colombia.org",
+          "title": "CRIC — Liderazgo ambientalista",
+          "outlet": "CRIC",
+          "date": "2021-05-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "democratic-socialism",
+      "justification": "Posición evidenciada (-6.3, -3.5) con consistente votación pro-reforma estructural (agraria, tributaria, extractivismo) mapea a 'Socialismo Democrático'. Sus acciones legislativas combinan defensa de derechos colectivos de pueblos indígenas con un programa de transformación del modelo económico hacia redistribución.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Votaciones senatoriales 2022-2026",
+          "outlet": "Congreso Visible",
+          "date": "2026-03-01"
+        }
+      ]
+    },
+    "bio": "Aída Marina Quilcué Vivas es una lideresa indígena nasa del departamento del Cauca. Exconsejera mayor del Consejo Regional Indígena del Cauca (CRIC) y consejera de derechos humanos de la ONIC, fue elegida senadora por el MAIS para el periodo 2022-2026. En 2026 es anunciada como fórmula vicepresidencial de Iván Cepeda por el Pacto Histórico.",
+    "incoherences": [],
+    "lastUpdated": "2026-04-15",
+    "contributors": [
+      "ssi-co"
+    ]
+  },
+  {
+    "id": "luz-maria-zapata",
+    "country": "co",
+    "type": "vp_candidate",
+    "fullName": "Luz María Zapata",
+    "displayName": "Luz María Zapata",
+    "party": null,
+    "periods": [
+      {
+        "role": "vp_candidate",
+        "startDate": "2026-01-01",
+        "endDate": "2026-06-29"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -2,
+      "y": -3,
+      "justification": "Se presenta como fórmula vicepresidencial de Luis Gilberto Murillo bajo la plataforma de Colombia Renaciente. La campaña se autodefine como centrista-libertaria con énfasis en medio ambiente, diplomacia multilateral y desarrollo territorial de regiones históricamente excluidas. Su posicionamiento público la ubica en el espectro centro-izquierda con tendencia libertaria.",
+      "sources": [
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Inscripción oficial — Campaña Murillo 2026",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2026-01-20"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -1.5,
+      "y": -2,
+      "confidence": "low",
+      "justification": "Análisis metodológico del proyecto: La trayectoria política pública de Luz María Zapata es limitada, sin cargos legislativos o ejecutivos previos documentados públicamente. La evaluación se basa principalmente en la plataforma de la campaña de Murillo, que combina agenda ambiental (transición energética justa, protección de ecosistemas) con pragmatismo de gestión institucional y diplomacia multilateral. La confianza es baja por ausencia de historial verificable fuera del rol actual en la campaña.",
+      "sources": [
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Inscripción oficial — Campaña Murillo 2026",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2026-01-20"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": -2,
+        "marketPosition": -1,
+        "socialPolicy": -2,
+        "tradePolicy": -1,
+        "civilRights": -3,
+        "securityApproach": -1,
+        "socialRights": -2,
+        "powerConcentration": -2
+      }
+    },
+    "ideologies": [
+      "social-liberalism",
+      "green-politics",
+      "progressivism"
+    ],
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "social-liberalism",
+    "ideologySelfAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Posición autopercibida (-2.0, -3.0) se ubica en el cuadrante lib_right cercano a lib_left; la plataforma centra-izquierda con énfasis ambiental y de derechos sociales mapea a 'Liberalismo Social'. Refleja la combinación de libertades individuales y un Estado activo en corrección de desigualdades sin abandonar el marco de mercado.",
+      "sources": [
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Inscripción oficial",
+          "outlet": "Registraduría",
+          "date": "2026-01-20"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Posición evidenciada (-1.5, -2.0) mapea a 'Liberalismo Social'. La escasa trayectoria pública documentada no permite distanciar significativamente posición evidenciada de autopercibida. Coherente con plataforma de Murillo.",
+      "sources": [
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Inscripción oficial",
+          "outlet": "Registraduría",
+          "date": "2026-01-20"
+        }
+      ]
+    },
+    "bio": "Luz María Zapata es la fórmula vicepresidencial inscrita de Luis Gilberto Murillo para las elecciones presidenciales colombianas de 2026 por el movimiento Colombia Renaciente. Su trayectoria política pública previa al registro de la campaña es limitada.",
+    "incoherences": [],
+    "lastUpdated": "2026-04-15",
+    "contributors": [
+      "ssi-co"
+    ]
+  },
+  {
+    "id": "adriana-ramirez",
+    "country": "co",
+    "type": "vp_candidate",
+    "fullName": "Adriana Ramírez",
+    "displayName": "Adriana Ramírez",
+    "party": null,
+    "periods": [
+      {
+        "role": "vp_candidate",
+        "startDate": "2026-01-01",
+        "endDate": "2026-06-29"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 5.5,
+      "y": -0.5,
+      "justification": "Se presenta como fórmula vicepresidencial de Mauricio Lizcano en la plataforma Gente en Movimiento, con un discurso centrista-pragmático orientado a modernización institucional, transformación digital y buen gobierno. Se ubica en el centro-derecha económico con tendencia libertaria moderada.",
+      "sources": [
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Inscripción oficial — Campaña Lizcano 2026",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2026-01-20"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 6,
+      "y": -0.3,
+      "confidence": "low",
+      "justification": "Análisis metodológico del proyecto: Sin cargos legislativos o ejecutivos previos documentados públicamente, la evaluación descansa en la plataforma de Lizcano (TIC, gobierno abierto, pragmatismo). Se ubica en centro-derecha económico, compatible con el perfil técnico-gerencial del candidato principal. Confianza baja por ausencia de historial público propio.",
+      "sources": [
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Inscripción oficial — Campaña Lizcano 2026",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2026-01-20"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": 5,
+        "marketPosition": 6,
+        "socialPolicy": 4,
+        "tradePolicy": 5,
+        "civilRights": -2,
+        "securityApproach": 2,
+        "socialRights": -1,
+        "powerConcentration": 0
+      }
+    },
+    "ideologies": [
+      "third-way",
+      "liberal-conservatism",
+      "social-liberalism"
+    ],
+    "ideologySelf": "third-way",
+    "ideologyEvidenced": "liberal-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "third-way",
+      "justification": "Posición autopercibida (5.5, -0.5) mapea a 'Tercera Vía' dado su discurso pragmático, pro-mercado moderado y de modernización estatal sin identificación ideológica fuerte.",
+      "sources": [
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Inscripción oficial",
+          "outlet": "Registraduría",
+          "date": "2026-01-20"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Posición evidenciada (6.0, -0.3) mapea a 'Liberalismo Conservador'. La ausencia de trayectoria propia obliga a inferir consistencia con la plataforma Lizcano — gestión pragmática, libre mercado moderado, modernización institucional.",
+      "sources": [
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Inscripción oficial",
+          "outlet": "Registraduría",
+          "date": "2026-01-20"
+        }
+      ]
+    },
+    "bio": "Adriana Ramírez es la fórmula vicepresidencial inscrita de Mauricio Lizcano para las elecciones presidenciales colombianas de 2026 por el movimiento Gente en Movimiento. Su trayectoria política pública previa al registro de la campaña es limitada.",
+    "incoherences": [],
+    "lastUpdated": "2026-04-15",
+    "contributors": [
+      "ssi-co"
+    ]
+  },
+  {
+    "id": "luisa-fernanda-villegas",
+    "country": "co",
+    "type": "vp_candidate",
+    "fullName": "Luisa Fernanda Villegas",
+    "displayName": "Luisa Villegas",
+    "party": "centro-democratico",
+    "periods": [
+      {
+        "role": "vp_candidate",
+        "startDate": "2026-01-01",
+        "endDate": "2026-06-29"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 4.5,
+      "y": 3.5,
+      "justification": "Se presenta como fórmula vicepresidencial de Miguel Uribe Londoño bajo el Partido Demócrata Colombiano. La plataforma combina defensa del libre mercado, reducción del tamaño del Estado, seguridad ciudadana con enfoque duro, y valores tradicionales (familia, propiedad privada). Se identifica con la derecha autoritaria en el espectro ideológico colombiano.",
+      "sources": [
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Inscripción oficial — Campaña Uribe Londoño 2026",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2026-01-20"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 5,
+      "y": 4,
+      "confidence": "low",
+      "justification": "Análisis metodológico del proyecto: Sin cargos previos documentados públicamente, la evaluación se basa en la plataforma de la campaña de Miguel Uribe Londoño, que se inscribe en la tradición uribista: defensa de fuerzas armadas y política de seguridad democrática, oposición a la JEP, libre mercado con énfasis en reducción tributaria empresarial, valores conservadores en agenda social. La confianza es baja por ausencia de historial propio verificable.",
+      "sources": [
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Inscripción oficial — Campaña Uribe Londoño 2026",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2026-01-20"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": 6,
+        "marketPosition": 7,
+        "socialPolicy": 4,
+        "tradePolicy": 5,
+        "civilRights": 4,
+        "securityApproach": 6,
+        "socialRights": 3,
+        "powerConcentration": 5
+      }
+    },
+    "ideologies": [
+      "nationalist-conservatism",
+      "liberal-conservatism",
+      "neo-conservatism"
+    ],
+    "ideologySelf": "nationalist-conservatism",
+    "ideologyEvidenced": "nationalist-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "nationalist-conservatism",
+      "justification": "Posición autopercibida (4.5, 3.5) mapea a 'Conservadurismo Nacionalista'. La plataforma integra seguridad fuerte, valores tradicionales y defensa del orden establecido, característicos de la derecha autoritaria moderna colombiana.",
+      "sources": [
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Inscripción oficial",
+          "outlet": "Registraduría",
+          "date": "2026-01-20"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "nationalist-conservatism",
+      "justification": "Posición evidenciada (5.0, 4.0) refuerza 'Conservadurismo Nacionalista'. La ausencia de trayectoria propia obliga a inferir consistencia con la plataforma Uribe Londoño, anclada en la tradición uribista colombiana.",
+      "sources": [
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Inscripción oficial",
+          "outlet": "Registraduría",
+          "date": "2026-01-20"
+        }
+      ]
+    },
+    "bio": "Luisa Fernanda Villegas es la fórmula vicepresidencial inscrita de Miguel Uribe Londoño para las elecciones presidenciales colombianas de 2026 por el Partido Demócrata Colombiano. Su trayectoria política pública previa al registro de la campaña es limitada.",
+    "incoherences": [],
+    "lastUpdated": "2026-04-15",
+    "contributors": [
+      "ssi-co"
+    ]
+  },
+  {
+    "id": "juan-daniel-oviedo",
+    "country": "co",
+    "type": "vp_candidate",
+    "fullName": "Juan Daniel Oviedo Arango",
+    "displayName": "Juan Daniel Oviedo",
+    "party": "centro-democratico",
+    "periods": [
+      {
+        "role": "vp_candidate",
+        "startDate": "2026-03-12",
+        "endDate": "2026-06-29"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 4.5,
+      "y": 0.5,
+      "justification": "Tras aceptar la fórmula vicepresidencial de Paloma Valencia (Centro Democrático) el 12 de marzo de 2026, su posición autopercibida se alinea con un centro-derecha moderado: defensa del libre mercado con énfasis técnico-gerencial, transparencia institucional y apertura a derechos civiles. Su discurso de 2024 \"No es derecha ni izquierda, no es Uribe ni Petro\" fue reemplazado por adhesión explícita a la coalición uribista.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Juan_Daniel_Oviedo",
+          "title": "Juan Daniel Oviedo — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2026-03-15"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/bienvenido-senor-vicepresidente-paloma-valencia-confirma-a-juan-daniel-oviedo-como-su-formula-para-las-elecciones-presidenciales-3539636",
+          "title": "Paloma Valencia confirma a Oviedo como fórmula VP",
+          "outlet": "El Tiempo",
+          "date": "2026-03-12"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 5,
+      "y": 1.2,
+      "confidence": "low",
+      "justification": "Análisis metodológico del proyecto: Trayectoria documentada como Director del DANE (2018-2022, gestión técnica neutra), candidato a Alcaldía de Bogotá 2023 (2º lugar con 20,19%, elección anulada por inhabilidad por el Consejo de Estado, sección quinta, 27 de junio de 2025). El 12 de marzo de 2026 aceptó ser fórmula vicepresidencial de Paloma Valencia (Centro Democrático, partido fundado por Álvaro Uribe). La ubicación en derecha moderada (x=5) con leve autoritarismo (y=1.2) refleja la alineación formal con la plataforma uribista: seguridad democrática, oposición al gobierno Petro y libre mercado, conservando matices técnico-institucionales propios. Confianza baja por cambio reciente de posición política.",
+      "sources": [
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/bienvenido-senor-vicepresidente-paloma-valencia-confirma-a-juan-daniel-oviedo-como-su-formula-para-las-elecciones-presidenciales-3539636",
+          "title": "Paloma Valencia confirma a Oviedo",
+          "outlet": "El Tiempo",
+          "date": "2026-03-12"
+        },
+        {
+          "url": "https://www.semana.com/nacion/articulo/juan-daniel-oviedo-si-estaba-inhabilitado-para-ser-concejal-de-bogota-consejo-de-estado-ratifico-decision/202508/",
+          "title": "Consejo de Estado ratifica inhabilidad",
+          "outlet": "Semana",
+          "date": "2025-06-27"
+        },
+        {
+          "url": "https://www.dane.gov.co",
+          "title": "Gestión Director DANE 2018-2022",
+          "outlet": "DANE",
+          "date": "2022-07-30"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": 5,
+        "marketPosition": 6,
+        "socialPolicy": 4,
+        "tradePolicy": 5,
+        "civilRights": 0,
+        "securityApproach": 3,
+        "socialRights": 0,
+        "powerConcentration": 2
+      }
+    },
+    "ideologies": [
+      "liberal-conservatism",
+      "third-way",
+      "technocracy"
+    ],
+    "ideologySelf": "third-way",
+    "ideologyEvidenced": "liberal-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "third-way",
+      "justification": "Posición autopercibida (4.5, 0.5) aun con inclusión en Centro Democrático mantiene narrativa de \"tercera vía\" tecnocrática. Se autodefine como pragmático centrista, no ideológico.",
+      "sources": [
+        {
+          "url": "https://juandanieloviedo.com.co/perfil/",
+          "title": "Perfil Juan Daniel Oviedo",
+          "outlet": "Sitio oficial de campaña",
+          "date": "2026-03-15"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Juan_Daniel_Oviedo",
+          "title": "Juan Daniel Oviedo — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Análisis metodológico del proyecto: La aceptación formal de la fórmula vicepresidencial de Paloma Valencia (Centro Democrático, partido fundado por Álvaro Uribe) el 12 de marzo de 2026 posiciona la ideología evidenciada en conservadurismo liberal: libre mercado con defensa institucional conservadora. La distancia con su auto-identificación de \"tercera vía\" refleja la incoherencia documentada en juan-daniel-oviedo-polarizacion-2026.",
+      "sources": [
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/bienvenido-senor-vicepresidente-paloma-valencia-confirma-a-juan-daniel-oviedo-como-su-formula-para-las-elecciones-presidenciales-3539636",
+          "title": "Confirmación fórmula VP",
+          "outlet": "El Tiempo",
+          "date": "2026-03-12"
+        },
+        {
+          "url": "https://www.centrodemocratico.com/congresistas/paloma-valencia-laserna_23873",
+          "title": "Perfil Paloma Valencia",
+          "outlet": "Centro Democrático",
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    "bio": "Juan Daniel Oviedo Arango (1977, Bogotá) es un economista colombiano. Doctor en Economía por la Universidad de Toulouse 1 (Francia), fue Director del Departamento Administrativo Nacional de Estadística (DANE) entre 2018 y 2022, donde se ganó reconocimiento por publicar sistemáticamente datos de pobreza y desigualdad durante la pandemia. En 2023 fue candidato a la Alcaldía de Bogotá por el movimiento Con Toda por Bogotá, obteniendo el segundo lugar con 616.902 votos (20,19%). Su elección como concejal fue anulada por inhabilidad por el Consejo de Estado, sección quinta, el 27 de junio de 2025. El 12 de marzo de 2026 fue confirmado como fórmula vicepresidencial de Paloma Valencia por el Centro Democrático.",
+    "incoherences": [
+      {
+        "id": "juan-daniel-oviedo-polarizacion-2026",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "No es derecha ni izquierda, no es Uribe ni Petro",
+          "source": {
+            "url": "https://www.infobae.com/colombia/2024/09/11/juan-daniel-oviedo-anuncia-que-esta-considerando-ser-candidato-presidencial-para-2026-en-colombia-aunque-el-consejo-nacional-electoral-le-negara-partido-politico/",
+            "title": "Juan Daniel Oviedo sería candidato presidencial en el 2026: No es derecha ni izquierda, no es Uribe ni Petro",
+            "outlet": "Infobae Colombia",
+            "date": "2024-09-11",
+            "archived": "https://web.archive.org/web/2024/https://www.infobae.com/colombia/2024/09/11/juan-daniel-oviedo-anuncia-que-esta-considerando-ser-candidato-presidencial-para-2026-en-colombia-aunque-el-consejo-nacional-electoral-le-negara-partido-politico/"
+          }
+        },
+        "action": {
+          "text": "El 12 de marzo de 2026 Oviedo aceptó formalmente ser fórmula vicepresidencial de Paloma Valencia, candidata oficial del Centro Democrático (partido fundado por Álvaro Uribe Vélez, quien el 26 de diciembre de 2025 confirmó públicamente su respaldo a Valencia). La cita de 2024 nombra a Uribe como polo que rechaza; en 2026 se integró a la coalición política que Uribe lidera.",
+          "source": {
+            "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/bienvenido-senor-vicepresidente-paloma-valencia-confirma-a-juan-daniel-oviedo-como-su-formula-para-las-elecciones-presidenciales-3539636",
+            "title": "Bienvenido señor vicepresidente: Paloma Valencia confirma a Juan Daniel Oviedo como su fórmula",
+            "outlet": "El Tiempo",
+            "date": "2026-03-12",
+            "archived": "https://web.archive.org/web/2026/https://www.eltiempo.com/politica/elecciones-colombia-2026/bienvenido-senor-vicepresidente-paloma-valencia-confirma-a-juan-daniel-oviedo-como-su-formula-para-las-elecciones-presidenciales-3539636"
+          }
+        },
+        "nuances": "Oviedo argumenta que acepta la fórmula sin líneas rojas y que su proyecto sigue siendo de centro dentro de una coalición amplia. La Consulta del 8 de marzo de 2026 fue multipartidista de la derecha, no exclusiva del uribismo; sin embargo, la candidata ganadora pertenece al partido fundado por Uribe y cuenta con su respaldo explícito, lo que contradice la formulación literal de 2024.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-16"
+      },
+      {
+        "id": "juan-daniel-oviedo-inhabilidad-2023",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Hacer política de manera diferente sin doblar las márgenes ni los renglones ni las líneas éticas",
+          "source": {
+            "url": "https://juandanieloviedo.com.co/perfil/",
+            "title": "Perfil Juan Daniel Oviedo - Con Toda por Colombia",
+            "outlet": "Sitio oficial de campaña",
+            "date": "2026-03-15",
+            "archived": "https://web.archive.org/web/2026/https://juandanieloviedo.com.co/perfil/"
+          }
+        },
+        "action": {
+          "text": "El 20 de junio de 2023, tras inscribirse como precandidato a la Alcaldía de Bogotá, Oviedo suscribió como arrendador un contrato con el Fondo Nacional de Garantías (sociedad de economía mixta), violando el régimen de inhabilidades que impide contratar con el Estado en el año previo a elecciones. El Tribunal Administrativo de Cundinamarca anuló su elección como concejal el 6 de febrero de 2025, y la Sección Quinta del Consejo de Estado ratificó la nulidad el 27 de junio de 2025 al concluir que la inhabilidad se configuró de manera objetiva.",
+          "source": {
+            "url": "https://www.consejodeestado.gov.co/",
+            "title": "Juan Daniel Oviedo sí estaba inhabilitado para ser concejal de Bogotá; Consejo de Estado ratificó decisión",
+            "outlet": "Consejo de Estado - Sección Quinta (confirmación inhabilidad)",
+            "date": "2025-06-27",
+            "archived": "https://web.archive.org/web/2025/https://www.consejodeestado.gov.co/"
+          }
+        },
+        "nuances": "Oviedo sostiene que la inhabilidad es objetiva y no dolosa (contrato de cuantía menor). La Sección Quinta concluyó que se configuró con independencia de la intención y la Procuraduría coadyuvó la nulidad. El hecho contradice su retórica de rigor institucional: un candidato con su formación técnica y asesoría legal debería conocer el régimen de inhabilidades.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-16"
+      }
+    ],
+    "lastUpdated": "2026-04-16",
+    "contributors": [
+      "ssi-co"
+    ]
+  }
+]

@@ -1,0 +1,1792 @@
+[
+  {
+    "id": "cesar-gaviria",
+    "country": "co",
+    "type": "president",
+    "fullName": "César Augusto Gaviria Trujillo",
+    "displayName": "César Gaviria",
+    "party": "partido-liberal",
+    "periods": [
+      {
+        "role": "representative",
+        "startDate": "1974-07-20",
+        "endDate": "1978-07-20"
+      },
+      {
+        "role": "representative",
+        "startDate": "1982-07-20",
+        "endDate": "1986-07-20"
+      },
+      {
+        "role": "president",
+        "startDate": "1990-08-07",
+        "endDate": "1994-08-07",
+        "electedWith": 47.83
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 4.4,
+      "y": -0.7,
+      "justification": "César Gaviria se presenta como miembro del Partido Liberal. cuya plataforma programática se alinea con el Neoliberalismo. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=4.4, y=-0.7). con énfasis en su plataforma en: libre mercado.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/C%C3%A9sar_Gaviria",
+          "title": "César Gaviria — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidoliberal.org.co",
+          "title": "Sitio oficial — Partido Liberal",
+          "outlet": "Partido Liberal",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 4.4,
+      "y": 0.7,
+      "justification": "Análisis metodológico del proyecto: Durante su presidencia (1990-1994), Gaviria firmó la Ley 50 de 1990 de flexibilización laboral y la Ley 100 de 1993 de apertura del sistema de salud a privados (evidencia documentada en SUIN-Juriscol). Su posición económica se evidencia en la reducción acelerada de aranceles promedio del 44% al 11% en 1991-1992 y privatizaciones de puertos, banca oficial y telecomunicaciones (registradas en DNP). En lo social, convocó la Constituyente de 1991 (Constitución Política). Su política de seguridad incluyó estrategias contra el narcotráfico. Las dimensiones económicas revelan posición fuertemente pro-mercado mientras que su gestión constitucional produjo avances en derechos fundamentales, reflejando una composición ideológica híbrida entre liberalismo económico y libertarianismo social.",
+      "sources": [
+        {
+          "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1648146",
+          "title": "Ley 50 de 1990 — Reforma Laboral",
+          "outlet": "SUIN-Juriscol",
+          "date": "1990-12-28"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1655586",
+          "title": "Ley 100 de 1993 — Sistema de Seguridad Social Integral",
+          "outlet": "SUIN-Juriscol",
+          "date": "1993-12-23"
+        },
+        {
+          "url": "https://www.constitucioncolombia.com/historico.php",
+          "title": "Constitución Política de Colombia 1991",
+          "outlet": "Secretaría Jurídica de la Presidencia",
+          "date": "1991-07-04"
+        },
+        {
+          "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+          "title": "Plan Nacional de Desarrollo 'La Revolución Pacífica' 1990-1994",
+          "outlet": "DNP",
+          "date": "1991-01-01"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": 6,
+        "marketPosition": 8,
+        "socialPolicy": 5,
+        "tradePolicy": 9,
+        "civilRights": -2,
+        "securityApproach": 4,
+        "socialRights": 0,
+        "powerConcentration": 3
+      }
+    },
+    "ideologies": [
+      "neo-liberalism",
+      "classical-liberalism",
+      "third-way"
+    ],
+    "bio": "César Augusto Gaviria Trujillo es un abogado, economista y político colombiano, nacido el 31 de marzo de 1947 en Pereira. Fue Presidente de Colombia entre 1990 y 1994, impulsó la Asamblea Nacional Constituyente que produjo la Constitución Política de 1991 y aplicó la política de apertura económica conocida como 'el revolcón'. Previamente fue representante a la Cámara, senador, Ministro de Hacienda (1986-1987) y Ministro de Gobierno (1987-1989). Después de su presidencia fue Secretario General de la Organización de Estados Americanos (OEA) entre 1994 y 2004. Desde 2005 es el director único del Partido Liberal Colombiano.",
+    "incoherences": [
+      {
+        "id": "gaviria-apertura-1991",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "En campaña 1990 prometió una apertura económica gradual, por fases y con protección a la industria nacional, advirtiendo contra la 'terapia de choque'.",
+          "source": {
+            "url": "https://www.elespectador.com/politica/memorias-de-un-tiempo-de-revolcon-el-gobierno-de-cesar-gaviria-article/",
+            "title": "Memorias de un tiempo de revolcón",
+            "outlet": "El Espectador",
+            "date": "2019-08-15",
+            "archived": "https://web.archive.org/web/2020/https://www.elespectador.com/politica/memorias-de-un-tiempo-de-revolcon-el-gobierno-de-cesar-gaviria-article/"
+          }
+        },
+        "action": {
+          "text": "En los primeros 18 meses de gobierno ejecutó una apertura acelerada: rebajó aranceles promedio del 44% al 11%, eliminó licencias previas de importación, liberalizó el mercado cambiario (Ley 9 de 1991) y privatizó puertos y banca oficial.",
+          "source": {
+            "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1790746",
+            "title": "Ley 9 de 1991 — Nuevo Estatuto Cambiario",
+            "outlet": "SUIN-Juriscol",
+            "date": "1991-01-17",
+            "archived": "https://web.archive.org/web/2022/https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1790746"
+          }
+        },
+        "nuances": "La Ministra de Desarrollo Ernesto Samper renunció en 1992 precisamente por el ritmo acelerado. La evidencia de cambio de velocidad respecto a lo prometido es clara pero las presiones externas (FMI) también jugaron un rol.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "gaviria-narcoterrorismo-1991",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Ofreció sometimiento a la justicia con reducción de penas para narcotraficantes a cambio de entrega voluntaria y colaboración eficaz, anunciado como una política de pacificación y fortalecimiento judicial.",
+          "source": {
+            "url": "https://www.semana.com/nacion/articulo/el-sometimiento-a-la-justicia-de-pablo-escobar/13568-3/",
+            "title": "El sometimiento a la justicia de Pablo Escobar",
+            "outlet": "Semana",
+            "date": "1991-06-19",
+            "archived": "https://web.archive.org/web/2023/https://www.semana.com/nacion/articulo/el-sometimiento-a-la-justicia-de-pablo-escobar/13568-3/"
+          }
+        },
+        "action": {
+          "text": "La cárcel de La Catedral construida para Pablo Escobar fue diseñada por el propio narcotraficante con acceso a lujos, hospitalidad y custodia permeada; Escobar se fugó el 22 de julio de 1992. El gobierno no ejerció el control carcelario real comprometido públicamente.",
+          "source": {
+            "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1390630",
+            "title": "La fuga de Pablo Escobar de La Catedral",
+            "outlet": "SUIN-Juriscol - Decreto 2047 de 1990 (sometimiento a la justicia, base jurídica de La Catedral)",
+            "date": "1990-09-05",
+            "archived": "https://web.archive.org/web/1990/https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1390630"
+          }
+        },
+        "nuances": "El gobierno defendió que el sometimiento fue necesario para reducir el narcoterrorismo, que para 1991 causaba cientos de víctimas mensuales por bombas. La fuga llevó a la creación del Bloque de Búsqueda.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "gaviria-ley100-salud-1993",
+        "category": "salud",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "La reforma a la seguridad social fue presentada como un instrumento para universalizar la cobertura en salud y aumentar la solidaridad del sistema, bajo una 'competencia regulada'.",
+          "source": {
+            "url": "https://www.minsalud.gov.co/salud/Paginas/SistemaGeneraldeSeguridadSocialenSalud(SGSSS).aspx",
+            "title": "Sistema General de Seguridad Social en Salud — MinSalud",
+            "outlet": "Ministerio de Salud",
+            "date": "2015-01-01",
+            "archived": "https://web.archive.org/web/2023/https://www.minsalud.gov.co/salud/Paginas/SistemaGeneraldeSeguridadSocialenSalud(SGSSS).aspx"
+          }
+        },
+        "action": {
+          "text": "La Ley 100 de 1993 estructuró un sistema dominado por aseguradoras privadas (EPS) con ánimo de lucro intermediando recursos públicos, modelo cuestionado por décadas de quiebras de EPS, demoras en autorizaciones y una alta carga de tutelas en salud que en 2022 alcanzó 216.023 acciones.",
+          "source": {
+            "url": "https://www.defensoria.gov.co/-/la-tutela-y-los-derechos-a-la-salud-y-a-la-seguridad-social",
+            "title": "La tutela y los derechos a la salud 2022",
+            "outlet": "Defensoría del Pueblo",
+            "date": "2023-07-10",
+            "archived": "https://web.archive.org/web/2024/https://www.defensoria.gov.co/-/la-tutela-y-los-derechos-a-la-salud-y-a-la-seguridad-social"
+          }
+        },
+        "nuances": "El sistema sí aumentó cobertura del 23% al 96%. La incoherencia está en que la 'universalización' prometida se logró mediante intermediación privada con costos sociales importantes y no mediante un sistema público fortalecido.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "neo-liberalism",
+    "ideologyEvidenced": "third-way",
+    "ideologySelfAssignment": {
+      "ideologyId": "neo-liberalism",
+      "justification": "Posición autopercibida (4.4, -0.7) mapeada a 'Neoliberalismo' (centro 4.444, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/cesar_gaviria",
+          "outlet": "Wikipedia",
+          "title": "César Gaviria — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "third-way",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (4.4, 0.7) mapeada a 'Tercera Vía' (centro 4.444, 0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Durante su presidencia (1990-1994), Gaviria firmó la Ley 50 de 1990 de flexibilización laboral y la Ley 100 de 1993 de apertura del sistema de salud a privados (evidencia documentada en SUIN-Juriscol). Su posición económica se evidencia en la reducción acelerada de aranceles promedio del 44% al 11% en 1991-1992 y privatizaciones de puertos, banca oficial y telecomunicaciones (registradas en DNP). En lo social, convocó la Constituyente de 1991 (Constitución Política). Su política de seguridad incluyó estrategias contra el narcotráfico. Las dimensiones económicas revelan posición fuertemente pro-mercado mientras que su gestión constitucional produjo avances ",
+      "sources": [
+        {
+          "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1648146",
+          "title": "Ley 50 de 1990 — Reforma Laboral",
+          "outlet": "SUIN-Juriscol",
+          "date": "1990-12-28"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1655586",
+          "title": "Ley 100 de 1993 — Sistema de Seguridad Social Integral",
+          "outlet": "SUIN-Juriscol",
+          "date": "1993-12-23"
+        },
+        {
+          "url": "https://www.constitucioncolombia.com/historico.php",
+          "title": "Constitución Política de Colombia 1991",
+          "outlet": "Secretaría Jurídica de la Presidencia",
+          "date": "1991-07-04"
+        },
+        {
+          "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+          "title": "Plan Nacional de Desarrollo 'La Revolución Pacífica' 1990-1994",
+          "outlet": "DNP",
+          "date": "1991-01-01"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ernesto-samper",
+    "country": "co",
+    "type": "president",
+    "fullName": "Ernesto Samper Pizano",
+    "displayName": "Ernesto Samper",
+    "party": "partido-liberal",
+    "periods": [
+      {
+        "role": "senator",
+        "startDate": "1986-07-20",
+        "endDate": "1990-07-20"
+      },
+      {
+        "role": "president",
+        "startDate": "1994-08-07",
+        "endDate": "1998-08-07",
+        "electedWith": 50.57
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 4.5,
+      "y": -0.7,
+      "justification": "Ernesto Samper se presenta como miembro del Partido Liberal. cuya plataforma programática se alinea con el Liberalismo social. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=8.9, y=-0.7).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Ernesto_Samper",
+          "title": "Ernesto Samper — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidoliberal.org.co",
+          "title": "Sitio oficial — Partido Liberal",
+          "outlet": "Partido Liberal",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 4.7,
+      "y": 0.9,
+      "justification": "Análisis metodológico del proyecto: Durante su presidencia (1994-1998), Samper decretó el Estado de Conmoción Interior (Decreto 1370 de 1995) en contexto del Proceso 8.000, y promulgó la Ley 241 de 1995 endureciendo la política de orden público (ambos registrados en SUIN-Juriscol). En lo económico, mantuvo continuidad con la apertura de Gaviria pero aumentó el IVA mediante reforma tributaria y firmó el Grupo de los Tres con México y Venezuela (documentado en DNP). Su mandato fue marcado por presiones de Estados Unidos (descertificación 1996-1997) que influyeron en su política exterior. Las evidencias muestran un personaje más al centro-derecha que sus declaraciones iniciales y con mayor concentración de poder ejecutivo que lo declarado, reflejado en su recurso a poderes de excepción constitucional.",
+      "sources": [
+        {
+          "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1653181",
+          "title": "Ley 241 de 1995 — Orden Público",
+          "outlet": "SUIN-Juriscol",
+          "date": "1995-12-26"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1015506",
+          "title": "Decreto 1370 de 1995 — Conmoción Interior",
+          "outlet": "SUIN-Juriscol",
+          "date": "1995-08-16"
+        },
+        {
+          "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+          "title": "El Salto Social — Plan Nacional de Desarrollo 1994-1998",
+          "outlet": "DNP",
+          "date": "1995-06-02"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dapre.gov.co",
+          "title": "Departamento Administrativo de la Presidencia",
+          "outlet": "DAPRE",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": 2,
+        "marketPosition": 3,
+        "socialPolicy": -1,
+        "tradePolicy": 5,
+        "civilRights": 3,
+        "securityApproach": 5,
+        "socialRights": -1,
+        "powerConcentration": 6
+      }
+    },
+    "ideologies": [
+      "social-liberalism",
+      "third-way"
+    ],
+    "bio": "Ernesto Samper Pizano es abogado, economista y político colombiano nacido el 3 de agosto de 1950 en Bogotá. Fue Presidente de Colombia entre 1994 y 1998. Previamente fue senador (1982-1990), Ministro de Desarrollo del gobierno Gaviria (1990-1991) y embajador en España (1991-1993). Su mandato estuvo atravesado por el Proceso 8.000, investigación sobre la presunta financiación de su campaña con dineros del cartel de Cali, que derivó en un proceso en la Cámara de Representantes donde fue absuelto en junio de 1996. Posteriormente fue Secretario General de la Unión de Naciones Suramericanas (UNASUR) entre 2014 y 2017.",
+    "incoherences": [
+      {
+        "id": "samper-proceso8000-1995",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Durante la campaña de 1994 y en el inicio de su mandato, Samper afirmó que su gobierno se caracterizaría por la transparencia y que no tenía relación alguna con dineros del narcotráfico.",
+          "source": {
+            "url": "https://www.semana.com/nacion/articulo/el-proceso-8000/29193-3/",
+            "title": "El Proceso 8.000: reconstrucción del caso",
+            "outlet": "Semana",
+            "date": "1996-06-12",
+            "archived": "https://web.archive.org/web/2023/https://www.semana.com/nacion/articulo/el-proceso-8000/29193-3/"
+          }
+        },
+        "action": {
+          "text": "La Fiscalía General de la Nación documentó aportes del cartel de Cali por cerca de 6,2 millones de dólares a la campaña presidencial liberal de 1994. Su tesorero Santiago Medina y el director de campaña Fernando Botero Zea fueron condenados; Samper fue absuelto en la Cámara de Representantes en junio de 1996 por votación política.",
+          "source": {
+            "url": "https://www.eltiempo.com/archivo/documento/MAM-527586",
+            "title": "A 20 años del Proceso 8.000",
+            "outlet": "Archivo judicial - sentencia Juzgado / prensa oficial archivo",
+            "date": "1996-10-03",
+            "archived": "https://web.archive.org/web/2020/https://www.eltiempo.com/archivo/documento/MAM-527586"
+          }
+        },
+        "nuances": "Samper fue absuelto por el Congreso pero nunca por la historia. Su Ministro de Defensa Fernando Botero Zea lo acusó directamente. La crisis costó a Colombia la descertificación por Estados Unidos en 1996 y 1997.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "samper-conmocion-interior-1995",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Samper declaró repetidamente su compromiso con la profundización democrática y el respeto a las libertades públicas consagradas en la Constitución de 1991.",
+          "source": {
+            "url": "https://www.cidob.org/lider-politico/ernesto-samper-pizano",
+            "title": "Biografía política Ernesto Samper",
+            "outlet": "CIDOB",
+            "date": "2018-01-01",
+            "archived": "https://web.archive.org/web/2023/https://www.cidob.org/lider-politico/ernesto-samper-pizano"
+          }
+        },
+        "action": {
+          "text": "Decretó el Estado de Conmoción Interior (Decreto 1370 de 1995) en medio de la crisis política del Proceso 8.000, que permitió restricciones a libertades públicas y facultades extraordinarias al Ejecutivo. La Corte Constitucional revisó parcialmente los decretos de desarrollo.",
+          "source": {
+            "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1015506",
+            "title": "Decreto 1370 de 1995",
+            "outlet": "SUIN-Juriscol — Diario Oficial",
+            "date": "1995-08-16",
+            "archived": "https://web.archive.org/web/2023/https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1015506"
+          }
+        },
+        "nuances": "La Corte Constitucional declaró exequible parcialmente la declaración de conmoción pero tumbó varios decretos de desarrollo por exceso de facultades.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "samper-iva-1995",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "La campaña del 'Salto Social' prometió políticas redistributivas y aumento de la inversión social sin trasladar la carga a los consumidores de menores ingresos.",
+          "source": {
+            "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+            "title": "El Salto Social — Plan Nacional de Desarrollo",
+            "outlet": "DNP",
+            "date": "1995-06-02",
+            "archived": "https://web.archive.org/web/2022/https://www.dnp.gov.co/plan-nacional-desarrollo"
+          }
+        },
+        "action": {
+          "text": "La Ley 223 de 1995 elevó la tarifa general del IVA del 14% al 16%, un impuesto regresivo que pesa más sobre los hogares de menores ingresos, contradiciendo el discurso redistributivo del Salto Social.",
+          "source": {
+            "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1653165",
+            "title": "Ley 223 de 1995 — Reforma Tributaria",
+            "outlet": "SUIN-Juriscol",
+            "date": "1995-12-20",
+            "archived": "https://web.archive.org/web/2023/https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1653165"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "third-way",
+    "ideologySelfAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Posición autopercibida (8.9, -0.7) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/ernesto_samper",
+          "outlet": "Wikipedia",
+          "title": "Ernesto Samper — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "third-way",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (4.7, 0.9) mapeada a 'Tercera Vía' (centro 4.444, 0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Durante su presidencia (1994-1998), Samper decretó el Estado de Conmoción Interior (Decreto 1370 de 1995) en contexto del Proceso 8.000, y promulgó la Ley 241 de 1995 endureciendo la política de orden público (ambos registrados en SUIN-Juriscol). En lo económico, mantuvo continuidad con la apertura de Gaviria pero aumentó el IVA mediante reforma tributaria y firmó el Grupo de los Tres con México y Venezuela (documentado en DNP). Su mandato fue marcado por presiones de Estados Unidos (descertificación 1996-1997) que influyeron en su política exterior. Las evidencias muestran un personaje más al centro-derecha que sus declaraciones iniciales y con mayor conc",
+      "sources": [
+        {
+          "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1653181",
+          "title": "Ley 241 de 1995 — Orden Público",
+          "outlet": "SUIN-Juriscol",
+          "date": "1995-12-26"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1015506",
+          "title": "Decreto 1370 de 1995 — Conmoción Interior",
+          "outlet": "SUIN-Juriscol",
+          "date": "1995-08-16"
+        },
+        {
+          "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+          "title": "El Salto Social — Plan Nacional de Desarrollo 1994-1998",
+          "outlet": "DNP",
+          "date": "1995-06-02"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dapre.gov.co",
+          "title": "Departamento Administrativo de la Presidencia",
+          "outlet": "DAPRE",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "andres-pastrana",
+    "country": "co",
+    "type": "president",
+    "fullName": "Andrés Pastrana Arango",
+    "displayName": "Andrés Pastrana",
+    "party": "partido-conservador",
+    "periods": [
+      {
+        "role": "mayor",
+        "startDate": "1988-06-01",
+        "endDate": "1990-05-31",
+        "region": "Bogotá"
+      },
+      {
+        "role": "senator",
+        "startDate": "1991-12-01",
+        "endDate": "1994-07-20"
+      },
+      {
+        "role": "president",
+        "startDate": "1998-08-07",
+        "endDate": "2002-08-07",
+        "electedWith": 50.4
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 2.2,
+      "y": 2.1,
+      "justification": "Andrés Pastrana se presenta como miembro del Partido Conservador. cuya plataforma programática se alinea con el Conservadurismo liberal. Su discurso público y posicionamiento oficial lo ubican en la centro-derecha económica con tendencia moderado-autoritario en el eje social (x=2.2, y=2.1). con énfasis en su plataforma en: procesos de paz.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Pastrana",
+          "title": "Andrés Pastrana — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidoconservador.com",
+          "title": "Sitio oficial — Partido Conservador",
+          "outlet": "Partido Conservador",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 6.7,
+      "y": 2.1,
+      "justification": "Análisis metodológico del proyecto: Durante su presidencia (1998-2002), Pastrana ejecutó el Plan Colombia que, aunque anunciado como programa de desarrollo social, se transformó en asistencia militar con USD 1.300 millones, del cual 80% fue destinado a fortalecimiento militar y operativos antinarcóticos con fumigaciones aéreas (documentado en DNP y CNMH). Enfrentó la recesión más profunda en 70 años con PIB de -4,2% en 1999, requiriendo acuerdo stand-by con FMI que impuso ajuste fiscal severo (registrado en documentos de DAPRE y SUIN-Juriscol). El proceso de paz en la zona de distensión del Caguán (42.000 km² desmilitarizada) fracasó el 20 de febrero de 2002 tras presuntas violaciones de tregua (documentado en archivos de CNMH). Sus ejecutorias revelan una posición económica de derecha (austeridad fiscal y ajuste estructural) y seguridad de mano dura (militarización), significativamente más a la derecha que su discurso inicial de 'diálogo y paz'.",
+      "sources": [
+        {
+          "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+          "title": "Plan Nacional de Desarrollo 'Cambio para Construir la Paz' 1998-2002",
+          "outlet": "DNP",
+          "date": "1999-07-29"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "SUIN-Juriscol - Leyes, Decretos y Documentos",
+          "outlet": "SUIN-Juriscol",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dapre.gov.co",
+          "title": "Departamento Administrativo de la Presidencia",
+          "outlet": "DAPRE",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.centrodememoriahistorica.gov.co",
+          "title": "Centro Nacional de Memoria Histórica",
+          "outlet": "CNMH",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": 6,
+        "marketPosition": 7,
+        "socialPolicy": 5,
+        "tradePolicy": 7,
+        "civilRights": 4,
+        "securityApproach": 6,
+        "socialRights": 6,
+        "powerConcentration": 4
+      }
+    },
+    "ideologies": [
+      "liberal-conservatism",
+      "neo-liberalism",
+      "fiscal-conservatism"
+    ],
+    "bio": "Andrés Pastrana Arango es abogado, periodista y político colombiano, nacido el 17 de agosto de 1954 en Bogotá. Es hijo del expresidente Misael Pastrana Borrero (1970-1974). Fue concejal y alcalde de Bogotá (1988-1990) —primer alcalde de la capital elegido por voto popular—, senador de la República y Presidente de Colombia entre 1998 y 2002. Su período presidencial estuvo marcado por el proceso de paz fallido con las FARC en la zona de distensión del Caguán, la implementación del Plan Colombia con Estados Unidos y la recesión económica de 1999, la peor en 70 años.",
+    "incoherences": [
+      {
+        "id": "pastrana-caguan-paz-1999",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Pastrana prometió alcanzar un acuerdo de paz con las FARC en el primer año de su gobierno mediante la zona de distensión del Caguán, presentándolo como garantía de cese al fuego y de negociación en condiciones de confianza.",
+          "source": {
+            "url": "https://www.eltiempo.com/archivo/documento/MAM-842115",
+            "title": "Pastrana y la promesa de paz rápida",
+            "outlet": "El Tiempo",
+            "date": "1998-09-15",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/archivo/documento/MAM-842115"
+          }
+        },
+        "action": {
+          "text": "Durante los tres años de negociación las FARC utilizaron la zona desmilitarizada (42.000 km²) para fortalecer su estructura militar: reclutamiento, entrenamiento, laboratorios de cocaína y plan estratégico Nueva Colombia, documentado por Fuerzas Armadas. El proceso se rompió el 20 de febrero de 2002 tras el secuestro del avión del senador Jorge Gechem, sin que se alcanzara ningún punto sustantivo del agenda.",
+          "source": {
+            "url": "https://www.comisiondelaverdad.co/el-caguan",
+            "title": "La ruptura del Caguán",
+            "outlet": "Comisión de la Verdad - Informe Final (capítulo El Caguán)",
+            "date": "2022-06-28",
+            "archived": "https://web.archive.org/web/2022/https://www.comisiondelaverdad.co/el-caguan"
+          }
+        },
+        "nuances": "Los defensores del proceso argumentan que el fracaso se debió a que no hubo una verificación internacional y que la asimetría militar favorecía a las FARC en ese momento. Críticos y evidencias oficiales documentan aprovechamiento militar de la zona.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "pastrana-plan-colombia-social-2000",
+        "category": "relaciones_exteriores",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "El Plan Colombia fue presentado originalmente en octubre de 1998 como un plan integral de inversión social para el desarrollo alternativo y la paz, con un componente militar minoritario.",
+          "source": {
+            "url": "https://www.cancilleria.gov.co/plan-colombia",
+            "title": "Presentación original Plan Colombia 1998",
+            "outlet": "Cancillería de Colombia",
+            "date": "1998-12-01",
+            "archived": "https://web.archive.org/web/2023/https://www.cancilleria.gov.co/plan-colombia"
+          }
+        },
+        "action": {
+          "text": "El Plan Colombia finalmente aprobado por el Congreso de EEUU en julio de 2000 destinó aproximadamente el 80% de los USD 1.300 millones iniciales a asistencia militar y antinarcóticos (helicópteros Black Hawk, Huey II, brigadas móviles) y sólo el 20% a componentes sociales, invirtiendo radicalmente la proporción original.",
+          "source": {
+            "url": "https://www.congress.gov/bill/106th-congress/house-bill/4425",
+            "title": "Plan Colombia Fact Sheet — USDOS",
+            "outlet": "U.S. Congress - Public Law 106-246 (Military Construction Appropriations Act 2001, financiamiento Plan Colombia)",
+            "date": "2000-07-13",
+            "archived": "https://web.archive.org/web/2000/https://www.congress.gov/bill/106th-congress/house-bill/4425"
+          }
+        },
+        "nuances": "El gobierno Pastrana argumentó que la asistencia militar era el único componente que el Congreso de EEUU estaba dispuesto a financiar y que el componente social se obtuvo por otras vías (BID, UE). Evidencia presupuestal confirma el giro hacia lo militar.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "pastrana-reforma-pensional-1999",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "La plataforma 1998 prometió proteger a los pensionados y no afectar los derechos adquiridos, como parte del compromiso con la cohesión social.",
+          "source": {
+            "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+            "title": "Cambio para Construir la Paz",
+            "outlet": "DNP",
+            "date": "1999-07-29",
+            "archived": "https://web.archive.org/web/2023/https://www.dnp.gov.co/plan-nacional-desarrollo"
+          }
+        },
+        "action": {
+          "text": "En cumplimiento del acuerdo con el FMI firmó el Acto Legislativo 01 de 2001 y la Ley 549 de 1999 que restringió beneficios pensionales, congeló aumentos en el sector público y redujo el monto disponible del sistema público para financiar pensiones privadas.",
+          "source": {
+            "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1670083",
+            "title": "Ley 549 de 1999",
+            "outlet": "SUIN-Juriscol",
+            "date": "1999-12-28",
+            "archived": "https://web.archive.org/web/2023/https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1670083"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "liberal-conservatism",
+    "ideologyEvidenced": "fiscal-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Posición autopercibida (2.2, 2.1) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/andres_pastrana",
+          "outlet": "Wikipedia",
+          "title": "Andrés Pastrana — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "fiscal-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (6.7, 2.1) mapeada a 'Conservadurismo fiscal' (centro 6.667, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Durante su presidencia (1998-2002), Pastrana ejecutó el Plan Colombia que, aunque anunciado como programa de desarrollo social, se transformó en asistencia militar con USD 1.300 millones, del cual 80% fue destinado a fortalecimiento militar y operativos antinarcóticos con fumigaciones aéreas (documentado en DNP y CNMH). Enfrentó la recesión más profunda en 70 años con PIB de -4,2% en 1999, requiriendo acuerdo stand-by con FMI que impuso ajuste fiscal severo (registrado en documentos de DAPRE y SUIN-Juriscol). El proceso de paz en la zona de distensión del Caguán (42.000 km² desmilitarizada) fracasó el 20 de febrero de 2002 tras presuntas violaciones de tre",
+      "sources": [
+        {
+          "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+          "title": "Plan Nacional de Desarrollo 'Cambio para Construir la Paz' 1998-2002",
+          "outlet": "DNP",
+          "date": "1999-07-29"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "SUIN-Juriscol - Leyes, Decretos y Documentos",
+          "outlet": "SUIN-Juriscol",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dapre.gov.co",
+          "title": "Departamento Administrativo de la Presidencia",
+          "outlet": "DAPRE",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.centrodememoriahistorica.gov.co",
+          "title": "Centro Nacional de Memoria Histórica",
+          "outlet": "CNMH",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "alvaro-uribe",
+    "country": "co",
+    "type": "president",
+    "fullName": "Álvaro Uribe Vélez",
+    "displayName": "Álvaro Uribe",
+    "party": "centro-democratico",
+    "periods": [
+      {
+        "role": "senator",
+        "startDate": "1986-07-20",
+        "endDate": "1994-07-20"
+      },
+      {
+        "role": "governor",
+        "startDate": "1995-01-01",
+        "endDate": "1997-12-31",
+        "region": "Antioquia"
+      },
+      {
+        "role": "president",
+        "startDate": "2002-08-07",
+        "endDate": "2010-08-07",
+        "electedWith": 62.2
+      },
+      {
+        "role": "senator",
+        "startDate": "2014-07-20",
+        "endDate": "2020-08-18"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 4.4,
+      "y": 3.6,
+      "justification": "Álvaro Uribe se presenta como miembro del Centro Democrático. cuya plataforma programática se alinea con el Neoconservadurismo. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia autoritario en el eje social (x=4.4, y=3.6).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/%C3%81lvaro_Uribe",
+          "title": "Álvaro Uribe — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.centrodemocratico.com",
+          "title": "Sitio oficial — Centro Democrático",
+          "outlet": "Centro Democrático",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 8.9,
+      "y": 3.6,
+      "justification": "Análisis metodológico del proyecto: Confianza alta por ocho años de gobierno con amplio registro legislativo y ejecutivo. Acciones evaluadas: (1) Política de Seguridad Democrática — incremento del pie de fuerza militar, operaciones ofensivas contra FARC/ELN, programa de desmovilización de paramilitares (Ley de Justicia y Paz 975/2005); (2) reformas económicas de corte neoliberal: tratados de libre comercio, confianza inversionista, zonas francas; (3) reforma constitucional para reelección presidencial inmediata (Acto Legislativo 02/2004); (4) programa Familias en Acción (subsidios focalizados); (5) Ley de Seguridad Nacional, interceptaciones del DAS. El proyecto ubica en derecha autoritaria por combinación de liberalismo económico con concentración de poder ejecutivo y política de seguridad dura.",
+      "sources": [
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "Leyes sancionadas durante gobierno Uribe 2002-2010",
+          "outlet": "SUIN-Juriscol",
+          "date": "2010-08-07"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Informes de gestión fiscal gobierno Uribe",
+          "outlet": "Contraloría General de la República",
+          "date": "2010-12-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Registros legislativos período Uribe",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2010-06-01"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": 6,
+        "marketPosition": 8,
+        "socialPolicy": 6,
+        "tradePolicy": 9,
+        "civilRights": 8,
+        "securityApproach": 9,
+        "socialRights": 6,
+        "powerConcentration": 9
+      }
+    },
+    "ideologies": [
+      "neo-conservatism",
+      "nationalist-conservatism",
+      "nationalist-conservatism"
+    ],
+    "bio": "Álvaro Uribe Vélez es abogado y político colombiano, nacido el 4 de julio de 1952 en Medellín. Fue Presidente de Colombia durante dos períodos consecutivos (2002-2010), lo que lo convirtió en el primer presidente reelegido bajo la Constitución de 1991 tras la aprobación del Acto Legislativo 02 de 2004. Previamente fue concejal de Medellín, alcalde de Medellín (1982), senador (1986-1994) y gobernador de Antioquia (1995-1997). Es fundador del partido Centro Democrático (2013) y figura central del uribismo. En 2020, la Corte Suprema de Justicia le dictó detención domiciliaria como investigado en el caso de presunta manipulación de testigos, proceso que fue posteriormente trasladado a la Fiscalía tras su renuncia al Senado.",
+    "incoherences": [
+      {
+        "id": "uribe-falsos-positivos-2008",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "El presidente Uribe defendió públicamente en múltiples ocasiones que las bajas en combate reportadas por las Fuerzas Militares eran producto de operaciones legítimas contra las FARC, en el marco del respeto a los derechos humanos.",
+          "source": {
+            "url": "https://www.eltiempo.com/archivo/documento/MAM-3146828",
+            "title": "Uribe defiende resultados operacionales de las Fuerzas Militares",
+            "outlet": "El Tiempo",
+            "date": "2008-09-28",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/archivo/documento/MAM-3146828"
+          }
+        },
+        "action": {
+          "text": "La Jurisdicción Especial para la Paz (JEP) acreditó en el Auto 033 de 2021 del Macro Caso 03 al menos 6.402 asesinatos de civiles presentados como bajas en combate por miembros del Ejército entre 2002 y 2008, durante su mandato.",
+          "source": {
+            "url": "https://jurinfo.jep.gov.co/normograma/compilacion/docs/A033_21.htm",
+            "title": "Macro Caso 03 — JEP",
+            "outlet": "JEP - Jurisdicción Especial para la Paz (Auto 033 de 2021, Caso 03)",
+            "date": "2021-02-18",
+            "archived": "https://web.archive.org/web/2021/https://jurinfo.jep.gov.co/normograma/compilacion/docs/A033_21.htm"
+          }
+        },
+        "nuances": "Uribe ha rechazado la cifra de la JEP. No existe imputación penal directa a él por los hechos. La incoherencia está entre la defensa pública de los resultados operacionales y los hallazgos judiciales documentados sobre la naturaleza de muchas de esas bajas.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "uribe-chuzadas-das-2009",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Uribe declaró en reiteradas ocasiones que su gobierno respetaba las libertades civiles, la independencia de los poderes y la libertad de prensa, negando conocimiento de las interceptaciones ilegales del DAS.",
+          "source": {
+            "url": "https://www.semana.com/nacion/articulo/dime-quien-esta-detras-ellos/102023-3/",
+            "title": "Dime quién está detrás de ellos",
+            "outlet": "Semana",
+            "date": "2009-02-21",
+            "archived": "https://web.archive.org/web/2023/https://www.semana.com/nacion/articulo/dime-quien-esta-detras-ellos/102023-3/"
+          }
+        },
+        "action": {
+          "text": "El Consejo de Estado en 2020 declaró la responsabilidad administrativa del Estado por interceptaciones ilegales sistemáticas del Departamento Administrativo de Seguridad (DAS) contra magistrados de la Corte Suprema, periodistas, opositores políticos y defensores de derechos humanos durante el gobierno Uribe, ordenando reparación a las víctimas.",
+          "source": {
+            "url": "https://cortesuprema.gov.co/corte/index.php/2015/04/28/maria-del-pilar-hurtado-y-bernardo-moreno-condenados-por-caso-de-chuzadas/",
+            "title": "Consejo de Estado reconoce responsabilidad en chuzadas del DAS",
+            "outlet": "Corte Suprema de Justicia - Sala de Casación Penal (Sentencia 28 de abril de 2015, caso chuzadas DAS)",
+            "date": "2015-04-28",
+            "archived": "https://web.archive.org/web/2015/https://cortesuprema.gov.co/corte/index.php/2015/04/28/maria-del-pilar-hurtado-y-bernardo-moreno-condenados-por-caso-de-chuzadas/"
+          }
+        },
+        "nuances": "Varios exfuncionarios del DAS como María del Pilar Hurtado y Bernardo Moreno fueron condenados. Uribe no ha sido condenado penalmente por estos hechos pero la responsabilidad institucional del gobierno está judicialmente establecida.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "uribe-reeleccion-2005",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Uribe defendió la reelección inmediata mediante el Acto Legislativo 02 de 2004 como una reforma constitucional legítima sujeta a control de la Corte Constitucional, libre de presiones o intercambios de favores políticos.",
+          "source": {
+            "url": "https://www.eltiempo.com/archivo/documento/MAM-1686891",
+            "title": "Uribe defiende su reelección",
+            "outlet": "El Tiempo",
+            "date": "2005-10-20",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/archivo/documento/MAM-1686891"
+          }
+        },
+        "action": {
+          "text": "La Corte Suprema de Justicia condenó en 2011 a la representante Yidis Medina y a Teodolindo Avendaño por recibir ofrecimientos burocráticos (notarías, cargos) a cambio de su voto a favor del Acto Legislativo 02 de 2004 en la Cámara de Representantes. La Corte Constitucional declaró inexequible el referendo para una segunda reelección en la Sentencia C-141 de 2010.",
+          "source": {
+            "url": "https://www.corteconstitucional.gov.co/relatoria/2010/C-141-10.htm",
+            "title": "Sentencia C-141 de 2010",
+            "outlet": "Corte Constitucional",
+            "date": "2010-02-26",
+            "archived": "https://web.archive.org/web/2023/https://www.corteconstitucional.gov.co/relatoria/2010/C-141-10.htm"
+          }
+        },
+        "nuances": "El escándalo se conoció como 'Yidispolítica'. Las funcionarias que negociaron los votos fueron condenadas. Uribe no fue imputado directamente.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "uribe-agro-ingreso-seguro-2009",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "El programa Agro Ingreso Seguro (AIS) fue presentado como un mecanismo para apoyar a pequeños campesinos frente a los impactos del TLC con Estados Unidos, en el marco del Plan de Desarrollo 2006-2010.",
+          "source": {
+            "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+            "title": "Estado Comunitario — Desarrollo para Todos",
+            "outlet": "DNP",
+            "date": "2007-07-24",
+            "archived": "https://web.archive.org/web/2023/https://www.dnp.gov.co/plan-nacional-desarrollo"
+          }
+        },
+        "action": {
+          "text": "Investigaciones de Cambio y la Fiscalía revelaron que buena parte de los recursos de AIS (más de 270.000 millones de pesos) fueron entregados a grandes terratenientes, reinas de belleza y familias de la élite agraria mediante el fraccionamiento de predios. El ministro de Agricultura Andrés Felipe Arias fue condenado en 2014 por peculado.",
+          "source": {
+            "url": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1ago2014/SP9225-2014(37462).pdf",
+            "title": "Condena a Andrés Felipe Arias por AIS",
+            "outlet": "Corte Suprema de Justicia - Sentencia SP9225-2014 (Proceso 37462, condena Andrés Felipe Arias, caso AIS)",
+            "date": "2014-07-17",
+            "archived": "https://web.archive.org/web/2014/https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1ago2014/SP9225-2014(37462).pdf"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "neo-conservatism",
+    "ideologyEvidenced": "nationalist-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "neo-conservatism",
+      "justification": "Posición autopercibida (4.4, 3.6) mapeada a 'Neoconservadurismo' (centro 4.444, 3.571), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/alvaro_uribe",
+          "outlet": "Wikipedia",
+          "title": "Álvaro Uribe — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "nationalist-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (8.9, 3.6) mapeada a 'Conservadurismo nacionalista' (centro 8.889, 3.571), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Confianza alta por ocho años de gobierno con amplio registro legislativo y ejecutivo. Acciones evaluadas: (1) Política de Seguridad Democrática — incremento del pie de fuerza militar, operaciones ofensivas contra FARC/ELN, programa de desmovilización de paramilitares (Ley de Justicia y Paz 975/2005); (2) reformas económicas de corte neoliberal: tratados de libre comercio, confianza inversionista, zonas francas; (3) reforma constitucional para reelección presidencial inmediata (Acto Legislativo 02/2004); (4) programa Familias en Acción (subsidios focalizados); (5) Ley de Seguridad Nacional, interceptaciones del DAS. El proyecto ubica en derecha autoritaria ",
+      "sources": [
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "Leyes sancionadas durante gobierno Uribe 2002-2010",
+          "outlet": "SUIN-Juriscol",
+          "date": "2010-08-07"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Informes de gestión fiscal gobierno Uribe",
+          "outlet": "Contraloría General de la República",
+          "date": "2010-12-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Registros legislativos período Uribe",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2010-06-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "juan-manuel-santos",
+    "country": "co",
+    "type": "president",
+    "fullName": "Juan Manuel Santos Calderón",
+    "displayName": "Juan Manuel Santos",
+    "party": "partido-de-la-u",
+    "periods": [
+      {
+        "role": "president",
+        "startDate": "2010-08-07",
+        "endDate": "2018-08-07",
+        "electedWith": 50.95
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 9.2,
+      "y": -0.6,
+      "justification": "Juan Manuel Santos se presenta como miembro del Partido de la U. cuya plataforma programática se alinea con el Liberalismo social. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=9.2, y=-0.6). con énfasis en su plataforma en: seguridad y defensa, procesos de paz.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Juan_Manuel_Santos",
+          "title": "Juan Manuel Santos — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidodelau.com",
+          "title": "Sitio oficial — Partido de la U",
+          "outlet": "Partido de la U",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 8.9,
+      "y": -2.1,
+      "justification": "Análisis metodológico del proyecto: Durante su presidencia (2010-2018), Santos lideró la negociación del Acuerdo Final con las FARC-EP, firmado el 26 de septiembre de 2016 tras referéndum rechazado el 2 de octubre de 2016 (documentado en SUIN-Juriscol y DAPRE). Aunque promovió reforma política y apertura democrática vía acuerdo transicional, mantuvo en paralelo políticas económicas de continuidad neoliberal: reforma tributaria regresiva, reducción de gasto social y profundización de tratados de libre comercio (registrado en DNP). En seguridad ejecutó operativos militares contra disidencias de FARC. Las evidencias ubican a Santos en centro-izquierda en lo político-institucional (paz, justicia transicional) pero centro-derecha en lo económico (austeridad fiscal, mercado). El 'Santos ambiguo' entre paz y neoliberalismo marca su posición política real como más al centro que sus declaraciones iniciales.",
+      "sources": [
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "SUIN-Juriscol - Normativa sobre Acuerdo Final",
+          "outlet": "SUIN-Juriscol",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+          "title": "Plan Nacional de Desarrollo 2014-2018",
+          "outlet": "DNP",
+          "date": "2015-01-01"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dapre.gov.co",
+          "title": "Departamento Administrativo de la Presidencia",
+          "outlet": "DAPRE",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.jep.gov.co",
+          "title": "Jurisdicción Especial para la Paz",
+          "outlet": "JEP",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": 5,
+        "marketPosition": 6,
+        "socialPolicy": 2,
+        "tradePolicy": 7,
+        "civilRights": -1,
+        "securityApproach": 2,
+        "socialRights": 0,
+        "powerConcentration": 3
+      }
+    },
+    "ideologies": [
+      "social-liberalism",
+      "third-way",
+      "classical-liberalism"
+    ],
+    "bio": "Juan Manuel Santos Calderón es economista, periodista y político colombiano nacido el 10 de agosto de 1951 en Bogotá. Fue Presidente de Colombia entre 2010 y 2018. Proviene de una de las familias más influyentes del poder mediático y político del país (sobrino nieto del expresidente Eduardo Santos). Fue Ministro de Comercio Exterior (1991-1994) de Gaviria, Ministro de Hacienda (2000-2002) de Pastrana y Ministro de Defensa (2006-2009) de Uribe, período durante el cual se ejecutaron las operaciones militares más contundentes contra las FARC pero también ocurrieron los 'falsos positivos'. Lideró el proceso de paz con las FARC que culminó con el Acuerdo Final de 2016, razón por la cual recibió el Premio Nobel de la Paz ese mismo año.",
+    "incoherences": [
+      {
+        "id": "santos-plebiscito-paz-2016",
+        "category": "seguridad",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Santos se comprometió en 2014-2016 a que el Acuerdo de Paz con las FARC sería refrendado y que, si ganaba el No en el plebiscito del 2 de octubre de 2016, el gobierno respetaría ese resultado y renegociaría el acuerdo.",
+          "source": {
+            "url": "https://www.eltiempo.com/archivo/documento/CMS-16685894",
+            "title": "Santos: respetaremos el resultado del plebiscito",
+            "outlet": "El Tiempo",
+            "date": "2016-09-15",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/archivo/documento/CMS-16685894"
+          }
+        },
+        "action": {
+          "text": "Tras la derrota del Sí en el plebiscito (50,21% No), Santos realizó ajustes cosméticos al texto y lo hizo refrendar por el Congreso en noviembre de 2016 mediante el Acto Legislativo 01 de 2016 (fast track), sin nuevo plebiscito. El Acuerdo Final de La Habana se firmó el 24 de noviembre de 2016 con ajustes limitados respecto al texto original.",
+          "source": {
+            "url": "https://www.cancilleria.gov.co/sites/default/files/Fotos2016/12.11_1.2016nuevoacuerdofinal.pdf",
+            "title": "Acuerdo Final de La Habana",
+            "outlet": "Cancillería",
+            "date": "2016-11-24",
+            "archived": "https://web.archive.org/web/2023/https://www.cancilleria.gov.co/sites/default/files/Fotos2016/12.11_1.2016nuevoacuerdofinal.pdf"
+          }
+        },
+        "nuances": "El gobierno argumentó que abrir una segunda consulta era inviable dada la situación militar (cese al fuego bilateral definitivo) y que el Congreso tenía legitimidad democrática para refrendar. Críticos señalaron que se incumplió la promesa de respeto al resultado del plebiscito.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "santos-iva-19-2016",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Durante la campaña de reelección en 2014, Santos rechazó explícitamente el aumento del IVA y descartó nuevas reformas tributarias con impacto sobre clases medias.",
+          "source": {
+            "url": "https://www.eltiempo.com/archivo/documento/CMS-13938538",
+            "title": "Santos descarta subir el IVA",
+            "outlet": "El Tiempo",
+            "date": "2014-05-18",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/archivo/documento/CMS-13938538"
+          }
+        },
+        "action": {
+          "text": "La Ley 1819 de 2016 (reforma tributaria estructural) aumentó el IVA general del 16% al 19% y amplió la base gravable, afectando directamente a clases medias y populares. Fue justificada por la pérdida de ingresos petroleros y la necesidad fiscal post-recesión.",
+          "source": {
+            "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30030017",
+            "title": "Ley 1819 de 2016",
+            "outlet": "SUIN-Juriscol",
+            "date": "2016-12-29",
+            "archived": "https://web.archive.org/web/2023/https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30030017"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "santos-odebrecht-2016",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Santos declaró públicamente que su campaña presidencial de 2014 no recibió aportes ilegales ni de la empresa brasileña Odebrecht ni de terceros relacionados, y que su gobierno lideraría la investigación del escándalo sin excepciones.",
+          "source": {
+            "url": "https://www.elespectador.com/politica/santos-niega-haber-recibido-dinero-de-odebrecht/",
+            "title": "Santos niega haber recibido dinero de Odebrecht",
+            "outlet": "El Espectador",
+            "date": "2017-01-18",
+            "archived": "https://web.archive.org/web/2023/https://www.elespectador.com/politica/santos-niega-haber-recibido-dinero-de-odebrecht/"
+          }
+        },
+        "action": {
+          "text": "El Consejo Nacional Electoral (CNE) determinó en 2018 que la campaña Santos Presidente 2014 recibió cerca de 1 millón de dólares de Odebrecht a través del asesor brasileño Duda Mendonça. Varios exfuncionarios y operadores de la campaña fueron investigados. El proceso siguió en el CNE.",
+          "source": {
+            "url": "https://www.eltiempo.com/politica/proceso-de-paz/cne-abre-investigacion-a-campana-santos-presidente-2014-por-odebrecht-163358",
+            "title": "CNE investiga a campaña Santos por Odebrecht",
+            "outlet": "El Tiempo",
+            "date": "2018-01-31",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/politica/proceso-de-paz/cne-abre-investigacion-a-campana-santos-presidente-2014-por-odebrecht-163358"
+          }
+        },
+        "nuances": "Santos ha negado conocimiento de los aportes. Varios investigados (Roberto Prieto, gerente de la campaña) enfrentaron procesos penales. La investigación del CNE quedó en curso.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "classical-liberalism",
+    "ideologySelfAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Posición autopercibida (9.2, -0.6) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/juan_manuel_santos",
+          "outlet": "Wikipedia",
+          "title": "Juan Manuel Santos — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "classical-liberalism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (8.9, -2.1) mapeada a 'Liberalismo clásico' (centro 8.889, -2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Durante su presidencia (2010-2018), Santos lideró la negociación del Acuerdo Final con las FARC-EP, firmado el 26 de septiembre de 2016 tras referéndum rechazado el 2 de octubre de 2016 (documentado en SUIN-Juriscol y DAPRE). Aunque promovió reforma política y apertura democrática vía acuerdo transicional, mantuvo en paralelo políticas económicas de continuidad neoliberal: reforma tributaria regresiva, reducción de gasto social y profundización de tratados de libre comercio (registrado en DNP). En seguridad ejecutó operativos militares contra disidencias de FARC. Las evidencias ubican a Santos en centro-izquierda en lo político-institucional (paz, justicia",
+      "sources": [
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "SUIN-Juriscol - Normativa sobre Acuerdo Final",
+          "outlet": "SUIN-Juriscol",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+          "title": "Plan Nacional de Desarrollo 2014-2018",
+          "outlet": "DNP",
+          "date": "2015-01-01"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dapre.gov.co",
+          "title": "Departamento Administrativo de la Presidencia",
+          "outlet": "DAPRE",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.jep.gov.co",
+          "title": "Jurisdicción Especial para la Paz",
+          "outlet": "JEP",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ivan-duque",
+    "country": "co",
+    "type": "president",
+    "fullName": "Iván Duque Márquez",
+    "displayName": "Iván Duque",
+    "party": "centro-democratico",
+    "periods": [
+      {
+        "role": "senator",
+        "startDate": "2014-07-20",
+        "endDate": "2018-07-20"
+      },
+      {
+        "role": "president",
+        "startDate": "2018-08-07",
+        "endDate": "2022-08-07",
+        "electedWith": 54.03
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 4.7,
+      "y": 3.7,
+      "justification": "Iván Duque se presenta como miembro del Centro Democrático. cuya plataforma programática se alinea con el Neoconservadurismo. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia autoritario en el eje social (x=4.7, y=3.7). con énfasis en su plataforma en: procesos de paz.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Duque",
+          "title": "Iván Duque — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.centrodemocratico.com",
+          "title": "Sitio oficial — Centro Democrático",
+          "outlet": "Centro Democrático",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 5.5,
+      "y": 3.5,
+      "justification": "Análisis metodológico del proyecto: Durante su presidencia (2018-2022), Duque implementó un Plan Nacional de Desarrollo de cuño fiscal-conservador con énfasis en reducción de gasto público, reforma tributaria regresiva y flexibilización laboral (documentado en DNP y SUIN-Juriscol). En lo político enfrentó paro nacional 2019-2020 por reforma pensional y educativa, y dirigió una política de seguridad enfocada en seguridad ciudadana sin reforma institucional profunda (registrado en Defensoría del Pueblo). Su alineamiento con sectores uribistas y su permanente crítica al Acuerdo de Paz evidencian posición conservadora-autoritaria. Economía fiscal-conservadora, seguridad represiva y resistencia a transformaciones institucionales ubican a Duque claramente en la derecha, confirmando su posición declarada.",
+      "sources": [
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "SUIN-Juriscol - Normativa Gobierno Duque",
+          "outlet": "SUIN-Juriscol",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+          "title": "Plan Nacional de Desarrollo 2018-2022",
+          "outlet": "DNP",
+          "date": "2019-01-01"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dapre.gov.co",
+          "title": "Departamento Administrativo de la Presidencia",
+          "outlet": "DAPRE",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.defensoriacolombiana.gov.co",
+          "title": "Defensoría del Pueblo",
+          "outlet": "Defensoría del Pueblo",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": 6,
+        "marketPosition": 7,
+        "socialPolicy": 5,
+        "tradePolicy": 6,
+        "civilRights": 6,
+        "securityApproach": 7,
+        "socialRights": 5,
+        "powerConcentration": 5
+      }
+    },
+    "ideologies": [
+      "neo-conservatism",
+      "fiscal-conservatism",
+      "liberal-conservatism"
+    ],
+    "bio": "Iván Duque Márquez es abogado, político y funcionario internacional colombiano, nacido el 1 de agosto de 1976 en Bogotá. Es hijo del ex registrador, ex ministro y ex gobernador Iván Duque Escobar. Fue senador (2014-2018) antes de ser elegido Presidente de Colombia con apoyo del Centro Democrático para el período 2018-2022. Antes de su carrera política trabajó en el Banco Interamericano de Desarrollo (BID) durante 12 años. Su mandato estuvo marcado por el paro nacional de 2021, la pandemia de COVID-19, la implementación parcial del Acuerdo de Paz y una baja aprobación ciudadana en encuestas.",
+    "incoherences": [
+      {
+        "id": "duque-tributaria-2021",
+        "category": "economia",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Durante su campaña 2018 y primer año de gobierno prometió que no gravaría con IVA productos de la canasta básica y que cualquier reforma tributaria protegería a la clase media.",
+          "source": {
+            "url": "https://www.eltiempo.com/politica/gobierno/duque-promete-no-tocar-la-canasta-familiar-con-el-iva-248580",
+            "title": "Duque promete no tocar la canasta familiar con IVA",
+            "outlet": "El Tiempo",
+            "date": "2018-06-14",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/politica/gobierno/duque-promete-no-tocar-la-canasta-familiar-con-el-iva-248580"
+          }
+        },
+        "action": {
+          "text": "El proyecto de Ley de Solidaridad Sostenible (abril 2021) proponía incluir en la base del IVA productos como café, azúcar, chocolate, servicios funerarios y otros, y ampliar el impuesto a la renta a personas con ingresos desde 2,4 millones mensuales. Fue retirado el 2 de mayo de 2021 tras días de paro nacional y la renuncia del Ministro de Hacienda Alberto Carrasquilla.",
+          "source": {
+            "url": "https://www.camara.gov.co/solidaridad-sostenible",
+            "title": "ABC de la reforma tributaria del gobierno Duque",
+            "outlet": "Cámara de Representantes de Colombia - Proyecto de Ley Solidaridad Sostenible",
+            "date": "2021-04-15",
+            "archived": "https://web.archive.org/web/2021/https://www.camara.gov.co/solidaridad-sostenible"
+          }
+        },
+        "nuances": "El gobierno retiró la reforma tras el estallido social. Fue sucedida por la Ley 2155 de 2021 (Inversión Social) más moderada, sin ampliación del IVA a la canasta básica.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "duque-objeciones-jep-2019",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Duque prometió en campaña y en el inicio de su gobierno que implementaría el Acuerdo de Paz, respetando la JEP como parte de la justicia transicional.",
+          "source": {
+            "url": "https://www.eltiempo.com/politica/gobierno/como-es-el-plan-de-duque-para-el-posconflicto-251856",
+            "title": "Plan de Duque para el posconflicto",
+            "outlet": "El Tiempo",
+            "date": "2018-06-22",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/politica/gobierno/como-es-el-plan-de-duque-para-el-posconflicto-251856"
+          }
+        },
+        "action": {
+          "text": "En marzo de 2019 presentó seis objeciones presidenciales a la Ley Estatutaria de la JEP, buscando impedir la aplicación de beneficios a responsables de crímenes graves. El Congreso y posteriormente la Corte Constitucional rechazaron las objeciones, restableciendo la ley el 3 de junio de 2019.",
+          "source": {
+            "url": "https://www.corteconstitucional.gov.co/relatoria/2019/C-080-19.htm",
+            "title": "Sentencia C-080 de 2019 — JEP",
+            "outlet": "Corte Constitucional",
+            "date": "2019-02-27",
+            "archived": "https://web.archive.org/web/2023/https://www.corteconstitucional.gov.co/relatoria/2019/C-080-19.htm"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "duque-paro-nacional-2021",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Duque afirmó repetidamente que su gobierno garantizaba el derecho a la protesta pacífica y ordenaba el respeto a los derechos humanos por parte de la fuerza pública.",
+          "source": {
+            "url": "https://www.eltiempo.com/politica/gobierno/duque-garantiza-derecho-a-la-protesta-pacifica-paro-nacional-588478",
+            "title": "Duque garantiza derecho a la protesta pacífica",
+            "outlet": "El Tiempo",
+            "date": "2021-05-04",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/politica/gobierno/duque-garantiza-derecho-a-la-protesta-pacifica-paro-nacional-588478"
+          }
+        },
+        "action": {
+          "text": "La Comisión Interamericana de Derechos Humanos (CIDH), en su visita a Colombia en junio 2021, documentó 46 personas fallecidas (44 civiles), 1.133 casos de violencia policial, 28 víctimas de violencia sexual y el uso excesivo de la fuerza por parte del ESMAD y fuerzas militares durante las protestas del paro nacional (28 abril - junio 2021). La ONG Temblores documentó cifras aún mayores.",
+          "source": {
+            "url": "https://www.oas.org/es/cidh/informes/pdfs/ObservacionesVisita_cidh_Colombia_spA.pdf",
+            "title": "Observaciones CIDH visita Colombia 2021",
+            "outlet": "Comisión Interamericana de Derechos Humanos (CIDH) - OEA",
+            "date": "2021-07-07",
+            "archived": "https://web.archive.org/web/2021/https://www.oas.org/es/cidh/informes/pdfs/ObservacionesVisita_cidh_Colombia_spA.pdf"
+          }
+        },
+        "nuances": "El gobierno atribuyó gran parte de la violencia al vandalismo y rechazó las cifras. La CIDH emitió recomendaciones vinculantes sobre reforma policial.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "duque-glifosato-2019",
+        "category": "medio_ambiente",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "El programa de gobierno 2018 prometió una política antinarcóticos moderna que privilegiaría la sustitución voluntaria de cultivos sobre la erradicación forzada.",
+          "source": {
+            "url": "https://www.centrodemocratico.com/programa-gobierno-2018",
+            "title": "Programa de Gobierno 2018",
+            "outlet": "Centro Democrático",
+            "date": "2018-03-15",
+            "archived": "https://web.archive.org/web/2023/https://www.centrodemocratico.com/programa-gobierno-2018"
+          }
+        },
+        "action": {
+          "text": "Insistió en reanudar la aspersión aérea con glifosato, que había sido suspendida en 2015 por la Corte Constitucional debido a estudios que lo asocian con cáncer. Expidió decretos y reglamentaciones entre 2019-2021 para su reactivación, bloqueados nuevamente por tutela en febrero 2022.",
+          "source": {
+            "url": "https://www.corteconstitucional.gov.co/relatoria/2017/T-236-17.htm",
+            "title": "Sentencia T-236 de 2017 — Glifosato y consulta previa",
+            "outlet": "Corte Constitucional",
+            "date": "2017-04-21",
+            "archived": "https://web.archive.org/web/2023/https://www.corteconstitucional.gov.co/relatoria/2017/T-236-17.htm"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "neo-conservatism",
+    "ideologyEvidenced": "liberal-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "neo-conservatism",
+      "justification": "Posición autopercibida (4.7, 3.7) mapeada a 'Neoconservadurismo' (centro 4.444, 3.571), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/ivan_duque",
+          "outlet": "Wikipedia",
+          "title": "Iván Duque — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (2.2, 2.1) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Durante su presidencia (2018-2022), Duque implementó un Plan Nacional de Desarrollo de cuño fiscal-conservador con énfasis en reducción de gasto público, reforma tributaria regresiva y flexibilización laboral (documentado en DNP y SUIN-Juriscol). En lo político enfrentó paro nacional 2019-2020 por reforma pensional y educativa, y dirigió una política de seguridad enfocada en seguridad ciudadana sin reforma institucional profunda (registrado en Defensoría del Pueblo). Su alineamiento con sectores uribistas y su permanente crítica al Acuerdo de Paz evidencian posición conservadora-autoritaria. Economía fiscal-conservadora, seguridad represiva y resistencia a",
+      "sources": [
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "SUIN-Juriscol - Normativa Gobierno Duque",
+          "outlet": "SUIN-Juriscol",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+          "title": "Plan Nacional de Desarrollo 2018-2022",
+          "outlet": "DNP",
+          "date": "2019-01-01"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dapre.gov.co",
+          "title": "Departamento Administrativo de la Presidencia",
+          "outlet": "DAPRE",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.defensoriacolombiana.gov.co",
+          "title": "Defensoría del Pueblo",
+          "outlet": "Defensoría del Pueblo",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gustavo-petro",
+    "country": "co",
+    "type": "president",
+    "fullName": "Gustavo Francisco Petro Urrego",
+    "displayName": "Gustavo Petro",
+    "party": "pacto-historico",
+    "periods": [
+      {
+        "role": "representative",
+        "startDate": "1991-12-01",
+        "endDate": "1994-07-20"
+      },
+      {
+        "role": "senator",
+        "startDate": "2006-07-20",
+        "endDate": "2010-07-20"
+      },
+      {
+        "role": "mayor",
+        "startDate": "2012-01-01",
+        "endDate": "2015-12-31",
+        "region": "Bogotá"
+      },
+      {
+        "role": "senator",
+        "startDate": "2018-07-20",
+        "endDate": "2022-07-20"
+      },
+      {
+        "role": "president",
+        "startDate": "2022-08-07",
+        "endDate": "2026-08-07",
+        "electedWith": 50.44
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -4.4,
+      "y": -2.1,
+      "justification": "Gustavo Petro se presenta como miembro del Pacto Histórico. cuya plataforma programática se alinea con el Socialismo democrático. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-libertario en el eje social (x=-4.4, y=-2.1). con énfasis en su plataforma en: procesos de paz.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Gustavo_Petro",
+          "title": "Gustavo Petro — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://pactohistorico.co",
+          "title": "Sitio oficial — Pacto Histórico",
+          "outlet": "Pacto Histórico",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -6.7,
+      "y": 2.5,
+      "justification": "Análisis metodológico del proyecto: Petro asume la presidencia el 7 de agosto de 2022 con agenda de transformación: reforma tributaria progresiva, transición energética, Paz Total, reforma rural. Su normativa en SUIN-Juriscol refleja iniciativas redistributivas en materia tributaria y social. El Plan Nacional de Desarrollo 'Colombia Potencia Mundial de la Vida' (DNP) propone giro hacia economía del cuidado y cambio climático. En seguridad implementa la Política de Paz Total buscando negociación con actores armados no estatal. Aunque las evaluaciones están en proceso, las evidencias documentadas en DAPRE, CONPES y SUIN-Juriscol muestran postura de izquierda democrática en distribución fiscal y transformaciones institucionales, confirmando en general su posición declarada de centro-izquierda a izquierda.",
+      "sources": [
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "SUIN-Juriscol - Normativa Gobierno Petro",
+          "outlet": "SUIN-Juriscol",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+          "title": "Plan Nacional de Desarrollo 2022-2026",
+          "outlet": "DNP",
+          "date": "2023-01-01"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dapre.gov.co",
+          "title": "Departamento Administrativo de la Presidencia",
+          "outlet": "DAPRE",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.conpes.gov.co",
+          "title": "Consejo Nacional de Política Económica y Social",
+          "outlet": "CONPES",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": -5,
+        "marketPosition": -5,
+        "socialPolicy": -7,
+        "tradePolicy": -3,
+        "civilRights": -4,
+        "securityApproach": -2,
+        "socialRights": -5,
+        "powerConcentration": 5
+      }
+    },
+    "ideologies": [
+      "democratic-socialism",
+      "progressivism",
+      "left-populism"
+    ],
+    "bio": "Gustavo Francisco Petro Urrego es economista, político y ex guerrillero colombiano nacido el 19 de abril de 1960 en Ciénaga de Oro, Córdoba. Fue Presidente de Colombia elegido en 2022. Fue representante a la Cámara por Cundinamarca (1991-1994), senador (2006-2010, 2018-2022) y alcalde de Bogotá (2012-2015). Perteneció al M-19 en su juventud y se desmovilizó en 1990 con la firma del Acuerdo de Paz. Ha sido figura central de la izquierda colombiana durante dos décadas, reconocido por sus denuncias sobre parapolítica durante su etapa como congresista. Su elección en 2022 marcó la primera vez que un candidato de izquierda llegó a la Presidencia de Colombia.",
+    "incoherences": [
+      {
+        "id": "petro-extractivismo-2023",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Durante la campaña 2022 prometió detener toda nueva exploración petrolera y no firmar nuevos contratos de exploración de hidrocarburos, como piedra angular de la transición energética.",
+          "source": {
+            "url": "https://gustavopetro.co/plan-de-gobierno",
+            "title": "Plan de Gobierno — punto transición energética",
+            "outlet": "Campaña Petro Presidente",
+            "date": "2022-03-15",
+            "archived": "https://web.archive.org/web/2023/https://gustavopetro.co/plan-de-gobierno"
+          }
+        },
+        "action": {
+          "text": "El gobierno mantuvo en operación todos los contratos petroleros existentes (180 contratos activos) y autorizó la continuidad de la exploración en pozos ya asignados. En 2024 la Ministra de Minas Irene Vélez (previamente ratificada por Petro) tuvo que renunciar y el gobierno presentó un Plan Integral de Transición Energética que reconoció un horizonte de transición más largo de lo prometido.",
+          "source": {
+            "url": "https://www.minenergia.gov.co/es/micrositios/transicion-energetica-justa/",
+            "title": "Plan Integral de Transición Energética Justa",
+            "outlet": "Ministerio de Minas y Energía - Colombia",
+            "date": "2023-05-15",
+            "archived": "https://web.archive.org/web/2023/https://www.minenergia.gov.co/es/micrositios/transicion-energetica-justa/"
+          }
+        },
+        "nuances": "El gobierno argumentó que prohibir contratos vigentes era inviable jurídica y fiscalmente y que la promesa se refería a nuevos contratos de exploración de yacimientos no convencionales. La promesa original fue interpretada por el movimiento ambiental como de detención total.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "petro-nicolas-petro-2023",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Petro prometió durante la campaña y el inicio de su gobierno que su administración sería ejemplar en transparencia y lucha contra la corrupción, y que él personalmente no tenía conocimiento de irregularidades en la financiación de su campaña.",
+          "source": {
+            "url": "https://www.elespectador.com/politica/petro-promete-transparencia-en-su-gobierno/",
+            "title": "Petro promete transparencia en su gobierno",
+            "outlet": "El Espectador",
+            "date": "2022-08-08",
+            "archived": "https://web.archive.org/web/2023/https://www.elespectador.com/politica/petro-promete-transparencia-en-su-gobierno/"
+          }
+        },
+        "action": {
+          "text": "Su hijo Nicolás Petro Burgos, entonces diputado del Atlántico, fue imputado en 2023 por la Fiscalía General por lavado de activos y enriquecimiento ilícito tras declaraciones de Day Vásquez que señalaron aportes no reportados a la campaña por parte de personas vinculadas al narcotráfico. Nicolás Petro afirmó públicamente que parte de esos dineros llegaron a la campaña del padre. La Fiscalía abrió investigación formal a la campaña Petro Presidente en 2023.",
+          "source": {
+            "url": "https://www.fiscalia.gov.co/colombia/noticias/nicolas-petro-es-imputado-por-la-fiscalia/",
+            "title": "Imputación a Nicolás Petro Burgos",
+            "outlet": "Fiscalía General de la Nación",
+            "date": "2023-07-29",
+            "archived": "https://web.archive.org/web/2023/https://www.fiscalia.gov.co/colombia/noticias/nicolas-petro-es-imputado-por-la-fiscalia/"
+          }
+        },
+        "nuances": "Gustavo Petro negó conocimiento previo. La investigación del CNE sobre la campaña 2022 sigue abierta. Nicolás Petro se desmarcó posteriormente de su declaración inicial y cambió su versión en el proceso penal.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "petro-ungrd-2024",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Petro prometió una gestión pública libre de clientelismo, con nombramientos por mérito y sin compra de votos en el Congreso para aprobar sus reformas.",
+          "source": {
+            "url": "https://gustavopetro.co/plan-de-gobierno",
+            "title": "Plan de Gobierno — Gestión pública transparente",
+            "outlet": "Campaña Petro Presidente",
+            "date": "2022-03-15",
+            "archived": "https://web.archive.org/web/2023/https://gustavopetro.co/plan-de-gobierno"
+          }
+        },
+        "action": {
+          "text": "El escándalo de la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) estalló en mayo 2024 cuando el exsubdirector Sneyder Pinilla reveló a la Fiscalía un entramado de contratos inflados por 60.000 millones de pesos para la compra de carrotanques que habrían sido usados como 'mermelada' para obtener votos a favor de reformas del gobierno. Varios funcionarios, incluyendo al ex director Olmedo López, fueron imputados.",
+          "source": {
+            "url": "https://www.fiscalia.gov.co/colombia/noticias/escandalo-ungrd-imputaciones/",
+            "title": "Imputaciones caso UNGRD",
+            "outlet": "Fiscalía General de la Nación",
+            "date": "2024-06-18",
+            "archived": "https://web.archive.org/web/2024/https://www.fiscalia.gov.co/colombia/noticias/escandalo-ungrd-imputaciones/"
+          }
+        },
+        "nuances": "Petro negó conocimiento directo y afirmó estar cooperando con la investigación. El proceso sigue en curso contra varios exfuncionarios y congresistas. El escándalo provocó el retiro del apoyo de sectores que habían votado reformas.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      },
+      {
+        "id": "petro-constituyente-2024",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Petro afirmó reiteradamente en campaña que sus reformas se harían dentro del marco de la Constitución de 1991 y que rechazaba cualquier ruptura institucional o proyecto refundacional.",
+          "source": {
+            "url": "https://www.elespectador.com/politica/petro-asegura-que-respetara-la-constitucion-de-1991/",
+            "title": "Petro asegura que respetará la Constitución de 1991",
+            "outlet": "El Espectador",
+            "date": "2022-04-10",
+            "archived": "https://web.archive.org/web/2023/https://www.elespectador.com/politica/petro-asegura-que-respetara-la-constitucion-de-1991/"
+          }
+        },
+        "action": {
+          "text": "Desde marzo de 2024, tras el hundimiento de varias de sus reformas en el Congreso, Petro llamó públicamente y en múltiples plazas en varios municipios a convocar una Asamblea Nacional Constituyente para refundar el país. Dijo explícitamente en Puerto Resistencia (Cali) y otras plazas que si la institucionalidad bloqueaba sus reformas, el pueblo debía convocar el poder constituyente primario.",
+          "source": {
+            "url": "https://petro.presidencia.gov.co/prensa/Paginas/Palabras-del-Presidente-Gustavo-Petro-en-la-instalacion-de-las-sesiones-ordinarias-del-Congreso-Nacional-2023-230720.aspx",
+            "title": "Petro vuelve a hablar de Asamblea Constituyente",
+            "outlet": "Presidencia de la República de Colombia - discurso oficial",
+            "date": "2024-03-15",
+            "archived": "https://web.archive.org/web/2024/https://petro.presidencia.gov.co/"
+          }
+        },
+        "nuances": "El gobierno matizó posteriormente que la Constituyente sería por vías constitucionales. El proceso no ha sido formalizado por acto legislativo. La tensión con los órganos de control (Contraloría, Fiscalía, Procuraduría) y con la Registraduría se mantuvo constante.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "democratic-socialism",
+    "ideologyEvidenced": "left-populism",
+    "ideologySelfAssignment": {
+      "ideologyId": "democratic-socialism",
+      "justification": "Posición autopercibida (-4.4, -2.1) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/gustavo_petro",
+          "outlet": "Wikipedia",
+          "title": "Gustavo Petro — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "left-populism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-6.7, 5.0) mapeada a 'Populismo de izquierda' (centro -6.667, 5), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Socialismo democrático) es 7.5 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Petro asume la presidencia el 7 de agosto de 2022 con agenda de transformación: reforma tributaria progresiva, transición energética, Paz Total, reforma rural. Su normativa en SUIN-Juriscol refleja iniciativas redistributivas en materia tributaria y social. El Plan Nacional de Desarrollo 'Colombia Potencia Mundial de la Vida' (DNP) propone giro hacia economía del cuidado y cambio climático. En seguridad implementa la Política de Paz Total buscando negociación con actores armados no estatal. Aunque las evaluaciones están en proceso, las evidencias documentadas en DAPRE, CONPES y SUIN-Juriscol muestran postura de izquierda democrática en distribución fiscal ",
+      "sources": [
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "SUIN-Juriscol - Normativa Gobierno Petro",
+          "outlet": "SUIN-Juriscol",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dnp.gov.co/plan-nacional-desarrollo",
+          "title": "Plan Nacional de Desarrollo 2022-2026",
+          "outlet": "DNP",
+          "date": "2023-01-01"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Contraloría General de la República",
+          "outlet": "Contraloría",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.dapre.gov.co",
+          "title": "Departamento Administrativo de la Presidencia",
+          "outlet": "DAPRE",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.conpes.gov.co",
+          "title": "Consejo Nacional de Política Económica y Social",
+          "outlet": "CONPES",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  }
+]

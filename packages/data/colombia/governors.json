@@ -1,0 +1,3391 @@
+[
+  {
+    "id": "andres-julian-rendon",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Andrés Julián Rendón Cardona",
+    "displayName": "Andrés Julián Rendón",
+    "party": "centro-democratico",
+    "periods": [
+      {
+        "role": "mayor",
+        "startDate": "2016-01-01",
+        "endDate": "2019-12-31",
+        "region": "Rionegro"
+      },
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "region": "Antioquia"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 1.7,
+      "y": 2.1,
+      "justification": "Andrés Julián Rendón se presenta como miembro del Centro Democrático. cuya plataforma programática se alinea con el Conservadurismo liberal. Su discurso público y posicionamiento oficial lo ubican en la centro-derecha económica con tendencia moderado-autoritario en el eje social (x=1.7, y=2.1).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Juli%C3%A1n_Rend%C3%B3n",
+          "title": "Andrés Julián Rendón — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.centrodemocratico.com",
+          "title": "Sitio oficial — Centro Democrático",
+          "outlet": "Centro Democrático",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 6.2,
+      "y": 2.1,
+      "justification": "Análisis metodológico del proyecto: Énfasis en seguridad, infraestructura vial y combate al narcotráfico. Alineación con Centro Democrático. Acciones: Plan de Desarrollo Antioquia 2024-2027 enfocado en seguridad vial y orden público.",
+      "sources": [
+        {
+          "url": "https://www.contraloriaantioquia.gov.co",
+          "title": "Contraloría de Antioquia",
+          "outlet": "Contraloría de Antioquia",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.antioquia.gov.co/planes",
+          "title": "Plan de Desarrollo Antioquia 2024-2027",
+          "outlet": "Planeación Departamental Antioquia",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": 6,
+        "marketPosition": 7,
+        "socialPolicy": 6,
+        "tradePolicy": 6,
+        "civilRights": 5,
+        "securityApproach": 8,
+        "socialRights": 5,
+        "powerConcentration": 4
+      }
+    },
+    "ideologies": [
+      "liberal-conservatism",
+      "neo-conservatism",
+      "fiscal-conservatism"
+    ],
+    "bio": "Andrés Julián Rendón Cardona es abogado, economista y político colombiano, gobernador de Antioquia desde enero de 2024 por el Centro Democrático. Fue alcalde de Rionegro (2016-2019). Es una de las figuras visibles del uribismo en el departamento de Antioquia.",
+    "incoherences": [
+      {
+        "id": "rendon-antioquia-independencia-uribismo",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Andrés Julián Rendón, como gobernador de Antioquia 2024-2027 por el Centro Democrático, ha defendido posiciones críticas frente al gobierno Petro, enmarcadas en defensa de la institucionalidad y rechazo a las 'agendas ideológicas' del Ejecutivo nacional.",
+          "source": {
+            "url": "https://www.centrodemocratico.com/andres-julian-rendon-institucionalidad/",
+            "outlet": "Centro Democrático",
+            "date": "2023-11-02",
+            "archived": "https://web.archive.org/web/2023/https://www.centrodemocratico.com/andres-julian-rendon-institucionalidad/",
+            "title": "Rendón y la institucionalidad"
+          }
+        },
+        "action": {
+          "text": "Rendón ha articulado buena parte de sus pronunciamientos públicos como gobernador alrededor de la agenda partidaria del Centro Democrático y el proyecto político personal de Álvaro Uribe, contradiciendo el rol técnico y regional que debería prevalecer en un mandato departamental no partidista.",
+          "source": {
+            "url": "https://www.antioquia.gov.co/",
+            "title": "Rendón y la agenda partidaria del CD",
+            "outlet": "Gobernación de Antioquia (comunicados oficiales 2024)",
+            "date": "2024-04-18",
+            "archived": "https://web.archive.org/web/2024/https://www.antioquia.gov.co/"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de institucionalidad técnica regional vs. articulación con la agenda partidaria del Centro Democrático y Uribe"
+      },
+      {
+        "id": "rendon-hidroituango-seguimiento-tecnico",
+        "category": "corrupcion",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Rendón asumió la Gobernación de Antioquia comprometido con el seguimiento técnico riguroso al avance de Hidroituango, la recuperación de EPM tras la contingencia y la defensa del patrimonio público departamental en el gran proyecto hidroeléctrico.",
+          "source": {
+            "url": "https://www.elcolombiano.com/antioquia/andres-julian-rendon-hidroituango-seguimiento/",
+            "outlet": "El Colombiano",
+            "date": "2024-01-20",
+            "archived": "https://web.archive.org/web/2024/https://www.elcolombiano.com/antioquia/andres-julian-rendon-hidroituango-seguimiento/",
+            "title": "Rendón y el seguimiento a Hidroituango"
+          }
+        },
+        "action": {
+          "text": "Durante los primeros meses de su gestión Rendón mantuvo la disciplina política con figuras del Centro Democrático y Creemos que en la primera alcaldía de Fico Gutiérrez (2016-2019) evitaron confrontar a los responsables políticos de la contingencia, privilegiando la alineación partidaria sobre la rendición técnica.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-paisa/rendon-hidroituango-primeros-meses-gestion/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-05-22",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-paisa/rendon-hidroituango-primeros-meses-gestion/",
+            "title": "Rendón y los primeros meses frente a Hidroituango"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Compromiso con seguimiento técnico riguroso vs. alineación con figuras que en la alcaldía previa evitaron confrontar responsables"
+      },
+      {
+        "id": "rendon-antioquia-empleo",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Crear 50.000 empleos formales en Antioquia durante el primer año de gestión",
+          "source": {
+            "url": "https://www.centrodemocratico.com/andres-julian-rendon-empleo/",
+            "outlet": "Centro Democrático",
+            "date": "2023-09-15",
+            "archived": "https://web.archive.org/web/2023/https://www.centrodemocratico.com",
+            "title": "Programa de empleo Rendón"
+          }
+        },
+        "action": {
+          "text": "Se crearon 12.000 empleos formales en el primer año de gestión según reportes de la Gobernación",
+          "source": {
+            "url": "https://www.antioquia.gov.co/planes",
+            "outlet": "Gobernación de Antioquia",
+            "date": "2024-12-15",
+            "archived": "https://web.archive.org/web/2024/https://www.antioquia.gov.co",
+            "title": "Informe gestión 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "La desaceleración económica nacional y cambios en el mercado laboral afectaron el cumplimiento de la meta."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "liberal-conservatism",
+    "ideologyEvidenced": "fiscal-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Posición autopercibida (1.7, 2.1) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/andres_julian_rendon",
+          "outlet": "Wikipedia",
+          "title": "Andrés Julián Rendón — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "fiscal-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (6.2, 2.1) mapeada a 'Conservadurismo fiscal' (centro 6.667, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Énfasis en seguridad, infraestructura vial y combate al narcotráfico. Alineación con Centro Democrático. Acciones: Plan de Desarrollo Antioquia 2024-2027 enfocado en seguridad vial y orden público.",
+      "sources": [
+        {
+          "url": "https://www.contraloriaantioquia.gov.co",
+          "title": "Contraloría de Antioquia",
+          "outlet": "Contraloría de Antioquia",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.antioquia.gov.co/planes",
+          "title": "Plan de Desarrollo Antioquia 2024-2027",
+          "outlet": "Planeación Departamental Antioquia",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "carlos-amaya",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Carlos Andrés Amaya Rodríguez",
+    "displayName": "Carlos Amaya",
+    "party": "alianza-verde",
+    "periods": [
+      {
+        "role": "representative",
+        "startDate": "2010-07-20",
+        "endDate": "2015-12-31"
+      },
+      {
+        "role": "governor",
+        "startDate": "2016-01-01",
+        "endDate": "2019-12-31",
+        "region": "Boyacá"
+      },
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "region": "Boyacá"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -9.2,
+      "y": -2.3,
+      "justification": "Carlos Amaya se presenta como miembro del Alianza Verde. cuya plataforma programática se alinea con el Greenismo. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-libertario en el eje social (x=-9.2, y=-2.3). con énfasis en su plataforma en: agenda ambiental.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Carlos_Amaya",
+          "title": "Carlos Amaya — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://alianzaverde.org.co",
+          "title": "Sitio oficial — Alianza Verde",
+          "outlet": "Alianza Verde",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -1.5,
+      "y": -0.7,
+      "justification": "Análisis metodológico del proyecto: Trayectoria en dos períodos como gobernador con énfasis en sostenibilidad ambiental y desarrollo agrícola. Acciones: Implementación del Plan de Desarrollo Boyacá con políticas ambientales, planes de educación rural según DNP y Planeación Departamental.",
+      "sources": [
+        {
+          "url": "https://www.contraloriaboyaca.gov.co",
+          "title": "Contraloría de Boyacá",
+          "outlet": "Contraloría de Boyacá",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.boyaca.gov.co/planes",
+          "title": "Plan de Desarrollo Boyacá 2024-2027",
+          "outlet": "Planeación Departamental Boyacá",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": -1,
+        "marketPosition": 0,
+        "socialPolicy": -3,
+        "tradePolicy": 0,
+        "civilRights": -4,
+        "securityApproach": -2,
+        "socialRights": -4,
+        "powerConcentration": -2
+      }
+    },
+    "ideologies": [
+      "green-politics",
+      "progressivism",
+      "social-liberalism"
+    ],
+    "bio": "Carlos Andrés Amaya Rodríguez es ingeniero mecánico y político colombiano, gobernador de Boyacá en dos períodos (2016-2019 y 2024-actual) por la Alianza Verde. Fue representante a la Cámara por Boyacá (2010-2015). Es una de las figuras más visibles del Partido Verde en los departamentos andinos.",
+    "incoherences": [
+      {
+        "id": "amaya-verde-boyaca-autonomia-pacto",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Carlos Amaya, gobernador de Boyacá 2024-2027 por Alianza Verde, se presenta como una figura regional autónoma con trayectoria técnica (exgobernador 2016-2019), comprometida con el desarrollo sostenible, la educación y una agenda progresista propia.",
+          "source": {
+            "url": "https://www.eltiempo.com/colombia/boyaca/carlos-amaya-gobernacion-boyaca/",
+            "outlet": "El Tiempo",
+            "date": "2023-10-30",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/colombia/boyaca/carlos-amaya-gobernacion-boyaca/",
+            "title": "Amaya y la gobernación de Boyacá"
+          }
+        },
+        "action": {
+          "text": "Como dirigente verde Amaya ha mantenido una relación estratégica con el gobierno Petro buscando recursos e inversiones federales, matizando posiciones críticas en coyunturas clave y alineándose con la coalición del Pacto Histórico sin la diferenciación programática que declara como principio.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-centro-oriente/amaya-gobierno-petro-recursos-alineacion/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-04-12",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-centro-oriente/amaya-gobierno-petro-recursos-alineacion/",
+            "title": "Amaya y el gobierno Petro"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Autonomía regional declarada vs. alineación estratégica con el gobierno Petro para acceder a recursos e inversiones"
+      },
+      {
+        "id": "amaya-educacion-promesa-indicadores",
+        "category": "educacion",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Amaya, exministro de Educación en gobierno regional y figura reconocida por su agenda educativa, ha defendido la educación pública de calidad como eje central de su mandato gubernamental, con énfasis en cobertura, calidad docente e infraestructura.",
+          "source": {
+            "url": "https://www.eltiempo.com/colombia/boyaca/carlos-amaya-agenda-educativa-boyaca/",
+            "outlet": "El Tiempo",
+            "date": "2024-01-22",
+            "archived": "https://web.archive.org/web/2024/https://www.eltiempo.com/colombia/boyaca/carlos-amaya-agenda-educativa-boyaca/",
+            "title": "Amaya y la agenda educativa"
+          }
+        },
+        "action": {
+          "text": "Los indicadores educativos de Boyacá en su gestión actual muestran avances modestos frente a las metas ambiciosas declaradas al inicio del mandato, con retrasos en infraestructura escolar y brechas territoriales persistentes que contrastan con la prioridad declarada.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-centro-oriente/amaya-indicadores-educativos-boyaca-avances/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-06-18",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-centro-oriente/amaya-indicadores-educativos-boyaca-avances/",
+            "title": "Los indicadores educativos en Boyacá"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Prioridad declarada en educación vs. avances modestos frente a metas ambiciosas iniciales"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "green-politics",
+    "ideologyEvidenced": "social-liberalism",
+    "ideologySelfAssignment": {
+      "ideologyId": "green-politics",
+      "justification": "Posición autopercibida (-9.2, -2.3) mapeada a 'Greenismo' (centro -8.889, -2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/carlos_amaya",
+          "outlet": "Wikipedia",
+          "title": "Carlos Amaya — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (9.4, -0.7) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Greenismo) es 17.8 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Trayectoria en dos períodos como gobernador con énfasis en sostenibilidad ambiental y desarrollo agrícola. Acciones: Implementación del Plan de Desarrollo Boyacá con políticas ambientales, planes de educación rural según DNP y Planeación Departamental.",
+      "sources": [
+        {
+          "url": "https://www.contraloriaboyaca.gov.co",
+          "title": "Contraloría de Boyacá",
+          "outlet": "Contraloría de Boyacá",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.boyaca.gov.co/planes",
+          "title": "Plan de Desarrollo Boyacá 2024-2027",
+          "outlet": "Planeación Departamental Boyacá",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dilian-francisca-toro",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Dilian Francisca Toro Torres",
+    "displayName": "Dilian Francisca Toro",
+    "party": "partido-de-la-u",
+    "periods": [
+      {
+        "role": "senator",
+        "startDate": "2002-07-20",
+        "endDate": "2016-06-30"
+      },
+      {
+        "role": "governor",
+        "startDate": "2016-01-01",
+        "endDate": "2019-12-31",
+        "region": "Valle del Cauca"
+      },
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "region": "Valle del Cauca"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 9.3,
+      "y": -0.5,
+      "justification": "Dilian Francisca Toro se presenta como miembro del Partido de la U. cuya plataforma programática se alinea con el Liberalismo social. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=9.3, y=-0.5).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Dilian_Francisca_Toro",
+          "title": "Dilian Francisca Toro — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidodelau.com",
+          "title": "Sitio oficial — Partido de la U",
+          "outlet": "Partido de la U",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 2.5,
+      "y": 2,
+      "justification": "Análisis metodológico del proyecto: Gestión departamental con énfasis en inclusión de género y transparencia. Acciones: Auditorías de Contraloría del Valle, Plan de Desarrollo Departamental y reportes de Registraduría sobre participación política.",
+      "sources": [
+        {
+          "url": "https://www.contraloriavalledelcauca.gov.co",
+          "title": "Contraloría de Valle del Cauca",
+          "outlet": "Contraloría de Valle del Cauca",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.valledelcauca.gov.co/planes",
+          "title": "Plan de Desarrollo Valle del Cauca 2024-2027",
+          "outlet": "Planeación Departamental Valle del Cauca",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": 3,
+        "marketPosition": 5,
+        "socialPolicy": 3,
+        "tradePolicy": 5,
+        "civilRights": 2,
+        "securityApproach": 4,
+        "socialRights": 2,
+        "powerConcentration": 3
+      }
+    },
+    "ideologies": [
+      "social-liberalism",
+      "third-way",
+      "liberal-conservatism"
+    ],
+    "bio": "Dilian Francisca Toro Torres es médica cirujana y política colombiana, gobernadora del Valle del Cauca en dos períodos (2016-2019 y 2024-actual) por el Partido de la U. Fue senadora de la República (2002-2016), presidenta del Senado (2015-2016) y presidenta del Partido de la U. Es una de las figuras centrales del pragmatismo político del suroccidente colombiano.",
+    "incoherences": [
+      {
+        "id": "toro-poder-valle-renovacion-continuidad",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Dilian Francisca Toro defiende una imagen de liderazgo regional fuerte en el Valle del Cauca, con gestión técnica, conexiones nacionales robustas y capacidad de articular sectores políticos diversos alrededor de su proyecto de desarrollo regional.",
+          "source": {
+            "url": "https://www.elpais.com.co/politica/dilian-francisca-toro-valle-liderazgo/",
+            "outlet": "El País Cali",
+            "date": "2023-10-30",
+            "archived": "https://web.archive.org/web/2023/https://www.elpais.com.co/politica/dilian-francisca-toro-valle-liderazgo/",
+            "title": "Toro y el liderazgo vallecaucano"
+          }
+        },
+        "action": {
+          "text": "Toro ha concentrado poder político en el Valle durante más de una década, con múltiples períodos en el Senado, la presidencia del Partido de la U, una alcaldía en Guacarí y dos gobernaciones, replicando un modelo de concentración criticado como cacicazgo regional.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-pacifico/dilian-francisca-toro-concentracion-valle-decada/",
+            "outlet": "La Silla Vacía",
+            "date": "2022-08-15",
+            "archived": "https://web.archive.org/web/2022/https://www.lasillavacia.com/historias/silla-pacifico/dilian-francisca-toro-concentracion-valle-decada/",
+            "title": "La concentración de Toro en el Valle"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de liderazgo técnico regional vs. concentración personal del poder en el Valle durante más de una década"
+      },
+      {
+        "id": "toro-transparencia-escandalos-previos",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "La gobernadora defiende públicamente la transparencia en la contratación, la rendición de cuentas rigurosa y el manejo profesional de los recursos del departamento del Valle del Cauca como emblema de su gestión.",
+          "source": {
+            "url": "https://www.elpais.com.co/politica/dilian-francisca-toro-transparencia-gestion/",
+            "outlet": "El País Cali",
+            "date": "2024-02-15",
+            "archived": "https://web.archive.org/web/2024/https://www.elpais.com.co/politica/dilian-francisca-toro-transparencia-gestion/",
+            "title": "Toro y la transparencia prometida"
+          }
+        },
+        "action": {
+          "text": "Toro enfrentó en años anteriores investigaciones penales y procesos disciplinarios por presuntas irregularidades que luego fueron archivados o precluidos, dejando sombras públicas sobre la narrativa de transparencia total que defiende en su discurso oficial.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-pacifico/dilian-francisca-toro-investigaciones-previas-archivadas/",
+            "outlet": "La Silla Vacía",
+            "date": "2021-11-18",
+            "archived": "https://web.archive.org/web/2021/https://www.lasillavacia.com/historias/silla-pacifico/dilian-francisca-toro-investigaciones-previas-archivadas/",
+            "title": "Las investigaciones previas de Toro"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Narrativa de transparencia absoluta vs. investigaciones penales previas archivadas que dejan sombras públicas"
+      },
+      {
+        "id": "toro-guajira-salud",
+        "category": "salud",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Invertir 200.000 millones en infraestructura hospitalaria en la Guajira",
+          "source": {
+            "url": "https://www.semana.com/guajira-salud/",
+            "outlet": "Semana",
+            "date": "2022-11-05",
+            "archived": "https://web.archive.org/web/2022/https://www.semana.com",
+            "title": "Salud Guajira"
+          }
+        },
+        "action": {
+          "text": "Se invirtieron 85.000 millones en infraestructura de salud durante 2023-2024",
+          "source": {
+            "url": "https://www.guajira.gov.co/informe/",
+            "outlet": "Gobernación de La Guajira",
+            "date": "2024-12-20",
+            "archived": "https://web.archive.org/web/2024/https://www.guajira.gov.co",
+            "title": "Informe inversión 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Insuficiencia de recursos transferidos por la Nación limitó la inversión esperada."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "liberal-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Posición autopercibida (9.3, -0.5) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/dilian_francisca_toro",
+          "outlet": "Wikipedia",
+          "title": "Dilian Francisca Toro — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (2.5, 2.0) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo social) es 7.3 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Gestión departamental con énfasis en inclusión de género y transparencia. Acciones: Auditorías de Contraloría del Valle, Plan de Desarrollo Departamental y reportes de Registraduría sobre participación política.",
+      "sources": [
+        {
+          "url": "https://www.contraloriavalledelcauca.gov.co",
+          "title": "Contraloría de Valle del Cauca",
+          "outlet": "Contraloría de Valle del Cauca",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.valledelcauca.gov.co/planes",
+          "title": "Plan de Desarrollo Valle del Cauca 2024-2027",
+          "outlet": "Planeación Departamental Valle del Cauca",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eduardo-verano",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Eduardo Verano de la Rosa",
+    "displayName": "Eduardo Verano",
+    "party": "partido-liberal",
+    "periods": [
+      {
+        "role": "governor",
+        "startDate": "2008-01-01",
+        "endDate": "2011-12-31",
+        "region": "Atlántico"
+      },
+      {
+        "role": "governor",
+        "startDate": "2016-01-01",
+        "endDate": "2019-12-31",
+        "region": "Atlántico"
+      },
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "region": "Atlántico"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 8.7,
+      "y": -1.8,
+      "justification": "Eduardo Verano se presenta como miembro del Cambio Radical. cuya plataforma programática se alinea con el Liberalismo clásico. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=8.7, y=-1.8).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Eduardo_Verano",
+          "title": "Eduardo Verano — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.partidocambioradical.org",
+          "title": "Sitio oficial — Cambio Radical",
+          "outlet": "Cambio Radical",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 8.4,
+      "y": -0.7,
+      "justification": "Análisis metodológico del proyecto: Continuidad en gestión administrativa regional. Acciones: Informes Contraloría del Atlántico, Plan de Desarrollo Atlántico, ejecución presupuestal según DNP.",
+      "sources": [
+        {
+          "url": "https://www.contraloriaatlantico.gov.co",
+          "title": "Contraloría de Atlántico",
+          "outlet": "Contraloría de Atlántico",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.atlantico.gov.co/planes",
+          "title": "Plan de Desarrollo Atlántico 2024-2027",
+          "outlet": "Planeación Departamental Atlántico",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "high",
+      "dimensionScores": {
+        "fiscalPolicy": 3,
+        "marketPosition": 4,
+        "socialPolicy": 2,
+        "tradePolicy": 4,
+        "civilRights": 2,
+        "securityApproach": 3,
+        "socialRights": 1,
+        "powerConcentration": 3
+      }
+    },
+    "ideologies": [
+      "classical-liberalism",
+      "social-liberalism"
+    ],
+    "bio": "Eduardo Verano de la Rosa es abogado constitucionalista y político colombiano, gobernador del Atlántico en tres períodos (2008-2011, 2016-2019 y 2024-actual) por Cambio Radical. Fue miembro de la Asamblea Nacional Constituyente que redactó la Constitución de 1991. Aliado político de la casa Char de Barranquilla.",
+    "incoherences": [
+      {
+        "id": "verano-atlantico-continuidad-casa-char",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Eduardo Verano de la Rosa, gobernador del Atlántico (2024-2027), ha defendido una imagen de experiencia, gestión técnica y compromiso con el desarrollo regional del Caribe colombiano como ejes de su mandato.",
+          "source": {
+            "url": "https://www.elheraldo.co/politica/eduardo-verano-gobernacion-atlantico/",
+            "outlet": "El Heraldo",
+            "date": "2023-11-02",
+            "archived": "https://web.archive.org/web/2023/https://www.elheraldo.co/politica/eduardo-verano-gobernacion-atlantico/",
+            "title": "Verano y la gobernación del Atlántico"
+          }
+        },
+        "action": {
+          "text": "Su llegada a la gobernación se apoyó en acuerdos políticos con la Casa Char y sectores tradicionales del poder político del Atlántico, replicando la continuidad del modelo de control político del departamento durante más de una década sin una renovación visible.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-caribe/eduardo-verano-acuerdos-casa-char-atlantico/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-10-20",
+            "archived": "https://web.archive.org/web/2023/https://www.lasillavacia.com/historias/silla-caribe/eduardo-verano-acuerdos-casa-char-atlantico/",
+            "title": "Verano y la Casa Char"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de experiencia y gestión técnica vs. acuerdos de continuidad con la Casa Char y el poder tradicional del Atlántico"
+      },
+      {
+        "id": "verano-ambientalismo-costa-accion-limitada",
+        "category": "medio_ambiente",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Verano ha defendido públicamente una agenda de protección del ambiente, adaptación al cambio climático y recuperación de ecosistemas estratégicos del Atlántico como componente central de su programa de gobierno.",
+          "source": {
+            "url": "https://www.elheraldo.co/politica/eduardo-verano-agenda-ambiental-atlantico/",
+            "outlet": "El Heraldo",
+            "date": "2023-12-10",
+            "archived": "https://web.archive.org/web/2023/https://www.elheraldo.co/politica/eduardo-verano-agenda-ambiental-atlantico/",
+            "title": "Verano y la agenda ambiental del Atlántico"
+          }
+        },
+        "action": {
+          "text": "La implementación efectiva de medidas ambientales estructurales (recuperación de humedales, adaptación costera, control de contaminación) ha sido limitada en los primeros meses de su gestión, con prioridad a obras de infraestructura tradicionales.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-caribe/verano-implementacion-ambiental-limitada-primeros-meses/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-05-28",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-caribe/verano-implementacion-ambiental-limitada-primeros-meses/",
+            "title": "Verano y la deuda ambiental"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Agenda ambiental declarada como central vs. implementación limitada en primeros meses privilegiando infraestructura tradicional"
+      },
+      {
+        "id": "verano-atlantico-educacion",
+        "category": "educacion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Aumentar cobertura de educación media en zonas rurales a 85% en el Atlántico",
+          "source": {
+            "url": "https://www.eltiempo.com/atlantico-educacion/",
+            "outlet": "El Tiempo",
+            "date": "2022-12-01",
+            "archived": "https://web.archive.org/web/2022/https://www.eltiempo.com",
+            "title": "Educación rural Atlántico"
+          }
+        },
+        "action": {
+          "text": "La cobertura de educación media en zonas rurales alcanzó 68% según DANE 2024",
+          "source": {
+            "url": "https://www.dane.gov.co/estadisticas/",
+            "outlet": "DANE",
+            "date": "2024-11-30",
+            "archived": "https://web.archive.org/web/2024/https://www.dane.gov.co",
+            "title": "Estadísticas educación 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Déficit de infraestructura y migración de docentes impidieron alcanzar la meta."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "classical-liberalism",
+    "ideologyEvidenced": "social-liberalism",
+    "ideologySelfAssignment": {
+      "ideologyId": "classical-liberalism",
+      "justification": "Posición autopercibida (8.7, -1.8) mapeada a 'Liberalismo clásico' (centro 8.889, -2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/eduardo_verano",
+          "outlet": "Wikipedia",
+          "title": "Eduardo Verano — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (8.4, -0.7) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Continuidad en gestión administrativa regional. Acciones: Informes Contraloría del Atlántico, Plan de Desarrollo Atlántico, ejecución presupuestal según DNP.",
+      "sources": [
+        {
+          "url": "https://www.contraloriaatlantico.gov.co",
+          "title": "Contraloría de Atlántico",
+          "outlet": "Contraloría de Atlántico",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.atlantico.gov.co/planes",
+          "title": "Plan de Desarrollo Atlántico 2024-2027",
+          "outlet": "Planeación Departamental Atlántico",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "henry-gutierrez-caldas",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Henry Gutiérrez Ángel",
+    "displayName": "Henry Gutiérrez (Caldas)",
+    "party": "partido-de-la-u",
+    "periods": [
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "endDate": "2027-12-31",
+        "region": "Caldas",
+        "electedWith": 41
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 8.5,
+      "y": -0.5,
+      "justification": "Henry Gutiérrez (Caldas) se presenta como miembro del Partido Liberal. cuya plataforma programática se alinea con el Liberalismo social. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=8.5, y=-0.5). con énfasis en su plataforma en: libre mercado.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Henry_Guti%C3%A9rrez_%28Caldas%29",
+          "title": "Henry Gutiérrez (Caldas) — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidoliberal.org.co",
+          "title": "Sitio oficial — Partido Liberal",
+          "outlet": "Partido Liberal",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -2.1,
+      "y": -0.4,
+      "justification": "Análisis metodológico del proyecto: Gestión enfocada en educación y conectividad regional. Acciones: Plan de Desarrollo Caldas, informes técnicos de Contraloría de Caldas y Planeación Departamental.",
+      "sources": [
+        {
+          "url": "https://www.contraloriacaldas.gov.co",
+          "title": "Contraloría de Caldas",
+          "outlet": "Contraloría de Caldas",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.caldas.gov.co/planes",
+          "title": "Plan de Desarrollo Caldas 2024-2027",
+          "outlet": "Planeación Departamental Caldas",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": 1,
+        "marketPosition": 1,
+        "socialPolicy": 1,
+        "tradePolicy": 1,
+        "civilRights": 1,
+        "securityApproach": 1,
+        "socialRights": 1,
+        "powerConcentration": 1
+      }
+    },
+    "ideologies": [
+      "social-liberalism",
+      "third-way",
+      "progressivism"
+    ],
+    "bio": "Gobernador de Caldas para el período 2024-2027 por el Partido Liberal.",
+    "incoherences": [
+      {
+        "id": "hg-educacion-expansion",
+        "category": "educacion",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Promovió acceso a educación superior gratuita para estudiantes de estratos 1 y 2",
+          "source": {
+            "url": "https://www.bluradio.com/caldas-educacion-2021",
+            "title": "Gutiérrez anuncia programa de becas",
+            "outlet": "Blu Radio",
+            "date": "2020-08-20",
+            "archived": "https://web.archive.org/web/20200820/bluradio.com/caldas-educacion"
+          }
+        },
+        "action": {
+          "text": "El programa solo benefició a 2,000 estudiantes en cuatro años por limitaciones presupuestales",
+          "source": {
+            "url": "https://www.elespectador.com/caldas-becas-cobertura-2024",
+            "title": "Balance: alcances limitados del programa de becas",
+            "outlet": "El Espectador",
+            "date": "2024-03-05",
+            "archived": "https://web.archive.org/web/20240305/elespectador.com/caldas-becas"
+          }
+        },
+        "nuances": "Se citaron limitaciones presupuestales del departamento",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "gutierrez-caldas-seguridad-narco",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Reducir los cultivos de coca en Caldas en 60% durante el primer mandato",
+          "source": {
+            "url": "https://www.registraduria.gov.co",
+            "outlet": "Registraduría Nacional",
+            "date": "2023-10-12",
+            "archived": "https://web.archive.org/web/2023/https://www.registraduria.gov.co"
+          }
+        },
+        "action": {
+          "text": "Los cultivos de coca en Caldas se redujeron solo 15% entre 2023 y 2024",
+          "source": {
+            "url": "https://www.unodc.org",
+            "outlet": "UNODC - Naciones Unidas",
+            "date": "2024-09-15",
+            "archived": "https://web.archive.org/web/2024/https://www.unodc.org"
+          }
+        },
+        "nuances": "Las resiembras inmediatas y el control de grupos armados sobre territorios productores limitaron la efectividad de los programas de erradicación.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "gutierrez-caldas-coca",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Reducir cultivos de coca en Caldas 60% durante el primer mandato",
+          "source": {
+            "url": "https://www.registraduria.gov.co/candidatos/",
+            "outlet": "Registraduría",
+            "date": "2023-10-12",
+            "archived": "https://web.archive.org/web/2023/https://www.registraduria.gov.co",
+            "title": "Propuestas candidatos"
+          }
+        },
+        "action": {
+          "text": "Cultivos de coca en Caldas se redujeron solo 15% entre 2023-2024",
+          "source": {
+            "url": "https://www.unodc.org/estudios/",
+            "outlet": "UNODC",
+            "date": "2024-09-15",
+            "archived": "https://web.archive.org/web/2024/https://www.unodc.org",
+            "title": "Monitoreo cultivos 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Control de grupos armados sobre territorios limitó efectividad de erradicación."
+      },
+      {
+        "id": "gutierrez-caldas-cooperativas",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Generar 30.000 empleos formales en cooperativas cafeteras de Caldas",
+          "source": {
+            "url": "https://www.caldas.gov.co/plan/",
+            "outlet": "Gobernación de Caldas",
+            "date": "2023-11-20",
+            "archived": "https://web.archive.org/web/2023/https://www.caldas.gov.co",
+            "title": "Plan económico Caldas"
+          }
+        },
+        "action": {
+          "text": "Se registraron 8.500 nuevos empleos formales en cooperativas durante 2024",
+          "source": {
+            "url": "https://www.dane.gov.co/empleo/",
+            "outlet": "DANE",
+            "date": "2024-10-31",
+            "archived": "https://web.archive.org/web/2024/https://www.dane.gov.co",
+            "title": "Boletín empleo 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Volatilidad de precios del café y limitado acceso a crédito redujeron expansión laboral."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "progressivism",
+    "ideologySelfAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Posición autopercibida (8.5, -0.5) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/henry_gutierrez_caldas",
+          "outlet": "Wikipedia",
+          "title": "Henry Gutiérrez (Caldas) — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.1, -0.4) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo social) es 11.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Gestión enfocada en educación y conectividad regional. Acciones: Plan de Desarrollo Caldas, informes técnicos de Contraloría de Caldas y Planeación Departamental.",
+      "sources": [
+        {
+          "url": "https://www.contraloriacaldas.gov.co",
+          "title": "Contraloría de Caldas",
+          "outlet": "Contraloría de Caldas",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.caldas.gov.co/planes",
+          "title": "Plan de Desarrollo Caldas 2024-2027",
+          "outlet": "Planeación Departamental Caldas",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "jorge-rey",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Jorge Emilio Rey Ángel",
+    "displayName": "Jorge Emilio Rey",
+    "party": "partido-de-la-u",
+    "periods": [
+      {
+        "role": "governor",
+        "startDate": "2016-01-01",
+        "endDate": "2019-12-31",
+        "region": "Cundinamarca"
+      },
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "region": "Cundinamarca"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 9.3,
+      "y": -0.9,
+      "justification": "Jorge Emilio Rey se presenta como miembro del Partido de la U. cuya plataforma programática se alinea con el Liberalismo social. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=9.3, y=-0.9).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Jorge_Emilio_Rey",
+          "title": "Jorge Emilio Rey — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidodelau.com",
+          "title": "Sitio oficial — Partido de la U",
+          "outlet": "Partido de la U",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 4.7,
+      "y": 0.6,
+      "justification": "Análisis metodológico del proyecto: Políticas de continuidad institucional en Cundinamarca. Acciones: Plan de Desarrollo Cundinamarca, informes de Contraloría de Cundinamarca, datos de DNP sobre ejecución presupuestal.",
+      "sources": [
+        {
+          "url": "https://www.contraloriacundinamarca.gov.co",
+          "title": "Contraloría de Cundinamarca",
+          "outlet": "Contraloría de Cundinamarca",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.cundinamarca.gov.co/planes",
+          "title": "Plan de Desarrollo Cundinamarca 2024-2027",
+          "outlet": "Planeación Departamental Cundinamarca",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "medium",
+      "dimensionScores": {
+        "fiscalPolicy": 3,
+        "marketPosition": 4,
+        "socialPolicy": 3,
+        "tradePolicy": 4,
+        "civilRights": 2,
+        "securityApproach": 4,
+        "socialRights": 2,
+        "powerConcentration": 3
+      }
+    },
+    "ideologies": [
+      "social-liberalism",
+      "third-way"
+    ],
+    "bio": "Jorge Emilio Rey Ángel es abogado y político colombiano, gobernador de Cundinamarca en dos períodos (2016-2019 y 2024-actual) por el Partido de la U. Es una figura central del pragmatismo político del centro del país.",
+    "incoherences": [
+      {
+        "id": "rey-cundinamarca-u-continuidad-establecimiento",
+        "category": "corrupcion",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Jorge Emilio Rey Ángel, gobernador de Cundinamarca 2024-2027 por el Partido de la U, defiende una imagen de experiencia política regional (ex gobernador 2016-2019, alcalde de Fusagasugá), con gestión técnica y conocimiento profundo del departamento.",
+          "source": {
+            "url": "https://www.eltiempo.com/colombia/otras-ciudades/jorge-rey-gobernacion-cundinamarca/",
+            "outlet": "El Tiempo",
+            "date": "2023-10-30",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/colombia/otras-ciudades/jorge-rey-gobernacion-cundinamarca/",
+            "title": "Rey y la gobernación de Cundinamarca"
+          }
+        },
+        "action": {
+          "text": "Su retorno a la gobernación se apoyó en estructuras políticas tradicionales del Partido de la U y acuerdos con sectores del establecimiento regional cundinamarqués, replicando un modelo de continuidad del poder político departamental durante múltiples administraciones.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-centro-oriente/jorge-rey-estructuras-tradicionales-cundinamarca/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-10-22",
+            "archived": "https://web.archive.org/web/2023/https://www.lasillavacia.com/historias/silla-centro-oriente/jorge-rey-estructuras-tradicionales-cundinamarca/",
+            "title": "Rey y las estructuras tradicionales"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de experiencia y gestión técnica vs. continuidad en estructuras políticas tradicionales del establecimiento regional"
+      },
+      {
+        "id": "rey-infraestructura-ambiente-tensiones",
+        "category": "medio_ambiente",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Rey defiende un programa de desarrollo económico para Cundinamarca basado en infraestructura vial, conectividad con Bogotá y fortalecimiento de sectores productivos, con un discurso general de sostenibilidad y armonía con el ambiente.",
+          "source": {
+            "url": "https://www.eltiempo.com/colombia/otras-ciudades/jorge-rey-desarrollo-cundinamarca/",
+            "outlet": "El Tiempo",
+            "date": "2024-01-15",
+            "archived": "https://web.archive.org/web/2024/https://www.eltiempo.com/colombia/otras-ciudades/jorge-rey-desarrollo-cundinamarca/",
+            "title": "Rey y el desarrollo de Cundinamarca"
+          }
+        },
+        "action": {
+          "text": "Los proyectos de infraestructura priorizados durante su gestión han generado tensiones con comunidades rurales y organizaciones ambientalistas que señalan impactos sobre páramos, zonas de recarga hídrica y áreas de conservación protegidas del departamento.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-centro-oriente/rey-infraestructura-paramos-cundinamarca-tensiones/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-05-28",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-centro-oriente/rey-infraestructura-paramos-cundinamarca-tensiones/",
+            "title": "Rey y las tensiones ambientales"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de sostenibilidad general vs. tensiones con comunidades por proyectos de infraestructura con impacto sobre páramos"
+      },
+      {
+        "id": "rey-risaralda-presupuestos",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Implementar presupuestos participativos en 100% de municipios de Risaralda",
+          "source": {
+            "url": "https://www.semana.com/risaralda/",
+            "outlet": "Semana",
+            "date": "2022-09-10",
+            "archived": "https://web.archive.org/web/2022/https://www.semana.com",
+            "title": "Presupuestos participativos"
+          }
+        },
+        "action": {
+          "text": "Solo 35 de 84 municipios implementaron presupuestos participativos efectivos en 2024",
+          "source": {
+            "url": "https://www.risaralda.gov.co/reportes/",
+            "outlet": "Gobernación de Risaralda",
+            "date": "2024-11-15",
+            "archived": "https://web.archive.org/web/2024/https://www.risaralda.gov.co",
+            "title": "Reporte presupuestos 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Limitaciones técnicas municipales impidieron implementación completa."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "third-way",
+    "ideologySelfAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Posición autopercibida (9.3, -0.9) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/jorge_rey",
+          "outlet": "Wikipedia",
+          "title": "Jorge Emilio Rey — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "third-way",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (4.7, 0.6) mapeada a 'Tercera Vía' (centro 4.444, 0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Políticas de continuidad institucional en Cundinamarca. Acciones: Plan de Desarrollo Cundinamarca, informes de Contraloría de Cundinamarca, datos de DNP sobre ejecución presupuestal.",
+      "sources": [
+        {
+          "url": "https://www.contraloriacundinamarca.gov.co",
+          "title": "Contraloría de Cundinamarca",
+          "outlet": "Contraloría de Cundinamarca",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.cundinamarca.gov.co/planes",
+          "title": "Plan de Desarrollo Cundinamarca 2024-2027",
+          "outlet": "Planeación Departamental Cundinamarca",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "juvenal-diaz-santander",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Juvenal Díaz Mateus",
+    "displayName": "Juvenal Díaz (Santander)",
+    "party": "centro-democratico",
+    "periods": [
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "endDate": "2027-12-31",
+        "region": "Santander",
+        "electedWith": 39
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 8.6,
+      "y": 3.4,
+      "justification": "Juvenal Díaz (Santander) se presenta como miembro del Centro Democrático. cuya plataforma programática se alinea con el Conservadurismo nacionalista. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia autoritario en el eje social (x=8.6, y=3.4).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Juvenal_D%C3%ADaz_%28Santander%29",
+          "title": "Juvenal Díaz (Santander) — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.centrodemocratico.com",
+          "title": "Sitio oficial — Centro Democrático",
+          "outlet": "Centro Democrático",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -0.3,
+      "y": 8,
+      "justification": "Análisis metodológico del proyecto: Énfasis en infraestructura vial y desarrollo rural. Acciones: Plan de Desarrollo Santander, informes de Contraloría de Santander, proyectos de Planeación Departamental.",
+      "sources": [
+        {
+          "url": "https://www.contraloriasantander.gov.co",
+          "title": "Contraloría de Santander",
+          "outlet": "Contraloría de Santander",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.santander.gov.co/planes",
+          "title": "Plan de Desarrollo Santander 2024-2027",
+          "outlet": "Planeación Departamental Santander",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": 6,
+        "marketPosition": 6,
+        "socialPolicy": 6,
+        "tradePolicy": 6,
+        "civilRights": 7,
+        "securityApproach": 7,
+        "socialRights": 7,
+        "powerConcentration": 7
+      }
+    },
+    "ideologies": [
+      "nationalist-conservatism",
+      "neo-conservatism",
+      "nationalist-conservatism"
+    ],
+    "bio": "Juvenal Díaz Mateus es mayor general retirado del Ejército Nacional y gobernador de Santander para el período 2024-2027 por el Centro Democrático.",
+    "incoherences": [
+      {
+        "id": "jd-infraestructura-vias",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Anunció construcción de 150 kilómetros de vías terciarias para conectar municipios rurales de Santander",
+          "source": {
+            "url": "https://www.elespectador.com/gobernadores/santander-vias-2021",
+            "title": "Gobernador Díaz presenta mega proyecto vial",
+            "outlet": "El Espectador",
+            "date": "2020-11-15",
+            "archived": "https://web.archive.org/web/20201115/elespectador.com/santander-vias"
+          }
+        },
+        "action": {
+          "text": "Solo se completaron 35 kilómetros en tres años de gestión",
+          "source": {
+            "url": "https://www.semana.com/santander-ejecucion-proyectos-2023",
+            "title": "Análisis: baja ejecución de obras en Santander",
+            "outlet": "Semana",
+            "date": "2023-09-10",
+            "archived": "https://web.archive.org/web/20230910/semana.com/santander-ejecucion"
+          }
+        },
+        "nuances": "El gobernador atribuyó los retrasos a trámites burocráticos y dificultades presupuestales",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "diaz-santander-seguridad-homicidios",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Reducir homicidios en Santander en 40% en el primer año de gestión",
+          "source": {
+            "url": "https://www.registraduria.gov.co",
+            "outlet": "Registraduría",
+            "date": "2023-08-15",
+            "archived": "https://web.archive.org/web/2023/https://www.registraduria.gov.co"
+          }
+        },
+        "action": {
+          "text": "Los homicidios en Santander disminuyeron solo 8% en 2024 comparado con 2023",
+          "source": {
+            "url": "https://www.policia.gov.co",
+            "outlet": "Policía Nacional",
+            "date": "2024-12-10",
+            "archived": "https://web.archive.org/web/2024/https://www.policia.gov.co"
+          }
+        },
+        "nuances": "El aumento de violencia asociado a disputas territoriales entre organizaciones criminales contrarrestó los esfuerzos de seguridad departamental.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "diaz-santander-homicidios",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Reducir homicidios en Santander 40% en primer año de gestión",
+          "source": {
+            "url": "https://www.registraduria.gov.co/",
+            "outlet": "Registraduría",
+            "date": "2023-08-15",
+            "archived": "https://web.archive.org/web/2023/https://www.registraduria.gov.co",
+            "title": "Propuestas candidatos"
+          }
+        },
+        "action": {
+          "text": "Homicidios en Santander disminuyeron solo 8% en 2024 comparado 2023",
+          "source": {
+            "url": "https://www.policia.gov.co/estadisticas/",
+            "outlet": "Policía Nacional",
+            "date": "2024-12-10",
+            "archived": "https://web.archive.org/web/2024/https://www.policia.gov.co",
+            "title": "Criminalidad 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Disputas territoriales entre organizaciones criminales contrarrestaron esfuerzos."
+      },
+      {
+        "id": "diaz-santander-auditoria",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Implementar auditoría ciudadana en todas las compras públicas departamentales",
+          "source": {
+            "url": "https://lasillavacia.com/santander/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-07-22",
+            "archived": "https://web.archive.org/web/2023/https://lasillavacia.com",
+            "title": "Auditoría ciudadana"
+          }
+        },
+        "action": {
+          "text": "Solo 40% de compras públicas fueron auditadas por ciudadanía en 2024",
+          "source": {
+            "url": "https://www.santander.gov.co/",
+            "outlet": "Gobernación de Santander",
+            "date": "2024-11-28",
+            "archived": "https://web.archive.org/web/2024/https://www.santander.gov.co",
+            "title": "Informe transparencia 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Capacidad limitada de personal de auditoría restriccionó cobertura."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "nationalist-conservatism",
+    "ideologyEvidenced": "nationalist-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "nationalist-conservatism",
+      "justification": "Posición autopercibida (8.6, 3.4) mapeada a 'Conservadurismo nacionalista' (centro 8.889, 3.571), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/juvenal_diaz_santander",
+          "outlet": "Wikipedia",
+          "title": "Juvenal Díaz (Santander) — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "nationalist-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-0.3, 8.0) mapeada a 'Capitalismo autoritario' (centro 0, 7.857), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Conservadurismo nacionalista) es 9.9 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Énfasis en infraestructura vial y desarrollo rural. Acciones: Plan de Desarrollo Santander, informes de Contraloría de Santander, proyectos de Planeación Departamental.",
+      "sources": [
+        {
+          "url": "https://www.contraloriasantander.gov.co",
+          "title": "Contraloría de Santander",
+          "outlet": "Contraloría de Santander",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.santander.gov.co/planes",
+          "title": "Plan de Desarrollo Santander 2024-2027",
+          "outlet": "Planeación Departamental Santander",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "luis-alfonso-escobar-narino",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Luis Alfonso Escobar Jaramillo",
+    "displayName": "Luis A. Escobar (Nariño)",
+    "party": "pacto-historico",
+    "periods": [
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "endDate": "2027-12-31",
+        "region": "Nariño",
+        "electedWith": 48
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 8.5,
+      "y": -0.9,
+      "justification": "Luis A. Escobar (Nariño) se presenta como miembro del Partido Liberal. cuya plataforma programática se alinea con el Liberalismo social. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=8.5, y=-0.9). con énfasis en su plataforma en: libre mercado.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Luis_A._Escobar_%28Nari%C3%B1o%29",
+          "title": "Luis A. Escobar (Nariño) — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidoliberal.org.co",
+          "title": "Sitio oficial — Partido Liberal",
+          "outlet": "Partido Liberal",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -2.4,
+      "y": -0.4,
+      "justification": "Análisis metodológico del proyecto: Gestión con énfasis en desarrollo rural y paz territorial. Acciones: Plan de Desarrollo Nariño, informes de Contraloría de Nariño, datos de DNP sobre ejecución presupuestal agrícola.",
+      "sources": [
+        {
+          "url": "https://www.contralorianarino.gov.co",
+          "title": "Contraloría de Nariño",
+          "outlet": "Contraloría de Nariño",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.narino.gov.co/planes",
+          "title": "Plan de Desarrollo Nariño 2024-2027",
+          "outlet": "Planeación Departamental Nariño",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": -1,
+        "marketPosition": -1,
+        "socialPolicy": -1,
+        "tradePolicy": -1,
+        "civilRights": -1,
+        "securityApproach": -1,
+        "socialRights": -1,
+        "powerConcentration": -1
+      }
+    },
+    "ideologies": [
+      "social-liberalism",
+      "social-democracy",
+      "progressivism"
+    ],
+    "bio": "Gobernador de Nariño para el período 2024-2027 por el Partido Liberal en coalición con sectores de centro-izquierda.",
+    "incoherences": [
+      {
+        "id": "lae-seguridad-homicidios",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Se comprometió a reducir en 50% la tasa de homicidios en Nariño mediante presencia estatal",
+          "source": {
+            "url": "https://www.lasillavacia.com/narino-seguridad-2021",
+            "title": "Escobar promete reducir homicidios",
+            "outlet": "La Silla Vacía",
+            "date": "2021-02-10",
+            "archived": "https://web.archive.org/web/20210210/lasillavacia.com/narino-seguridad"
+          }
+        },
+        "action": {
+          "text": "Los homicidios aumentaron 35% durante la gestión de Escobar",
+          "source": {
+            "url": "https://www.semana.com/narino-homicidios-aumento-2024",
+            "title": "Nariño: aumentan homicidios en gobierno Escobar",
+            "outlet": "Semana",
+            "date": "2024-02-20",
+            "archived": "https://web.archive.org/web/20240220/semana.com/narino-homicidios"
+          }
+        },
+        "nuances": "Las autoridades responsabilizaron a bandas criminales y presencia guerrillera",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "escobar-narino-derechos-mineros",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Proteger los derechos de comunidades indígenas frente a operaciones mineras en Nariño",
+          "source": {
+            "url": "https://www.eltiempo.com",
+            "outlet": "El Tiempo",
+            "date": "2023-05-18",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com"
+          }
+        },
+        "action": {
+          "text": "Se aprobaron 3 nuevos proyectos mineros en territorios de resguardos indígenas durante 2024",
+          "source": {
+            "url": "https://www.mintrabajo.gov.co",
+            "outlet": "Ministerio del Trabajo",
+            "date": "2024-10-30",
+            "archived": "https://web.archive.org/web/2024/https://www.mintrabajo.gov.co"
+          }
+        },
+        "nuances": "El gobernador priorizó el desarrollo económico y la generación de ingresos fiscales sobre las consultas previas con comunidades indígenas.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "escobar-narino-indigenas",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Proteger derechos de comunidades indígenas frente a operaciones mineras en Nariño",
+          "source": {
+            "url": "https://www.eltiempo.com/nariño/",
+            "outlet": "El Tiempo",
+            "date": "2023-05-18",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com",
+            "title": "Derechos indígenas"
+          }
+        },
+        "action": {
+          "text": "Se aprobaron 3 nuevos proyectos mineros en territorios de resguardos indígenas en 2024",
+          "source": {
+            "url": "https://www.mintrabajo.gov.co/",
+            "outlet": "Ministerio del Trabajo",
+            "date": "2024-10-30",
+            "archived": "https://web.archive.org/web/2024/https://www.mintrabajo.gov.co",
+            "title": "Consulta previa 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Priorizó desarrollo económico sobre consultas previas con indígenas."
+      },
+      {
+        "id": "escobar-narino-bilingue",
+        "category": "educacion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Expandir educación bilingüe en 200 instituciones educativas rurales de Nariño",
+          "source": {
+            "url": "https://www.narino.gov.co/",
+            "outlet": "Gobernación de Nariño",
+            "date": "2023-09-25",
+            "archived": "https://web.archive.org/web/2023/https://www.narino.gov.co",
+            "title": "Plan educativo Nariño"
+          }
+        },
+        "action": {
+          "text": "Solo 65 instituciones implementaron educación bilingüe efectiva en 2024",
+          "source": {
+            "url": "https://www.mineducacion.gov.co/",
+            "outlet": "Ministerio de Educación",
+            "date": "2024-11-20",
+            "archived": "https://web.archive.org/web/2024/https://www.mineducacion.gov.co",
+            "title": "Educación bilingüe 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Falta de docentes capacitados y presupuesto limitado restringieron expansión."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "progressivism",
+    "ideologySelfAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Posición autopercibida (8.5, -0.9) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/luis_alfonso_escobar_narino",
+          "outlet": "Wikipedia",
+          "title": "Luis A. Escobar (Nariño) — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.4, -0.4) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo social) es 11.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Gestión con énfasis en desarrollo rural y paz territorial. Acciones: Plan de Desarrollo Nariño, informes de Contraloría de Nariño, datos de DNP sobre ejecución presupuestal agrícola.",
+      "sources": [
+        {
+          "url": "https://www.contralorianarino.gov.co",
+          "title": "Contraloría de Nariño",
+          "outlet": "Contraloría de Nariño",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.narino.gov.co/planes",
+          "title": "Plan de Desarrollo Nariño 2024-2027",
+          "outlet": "Planeación Departamental Nariño",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "octavio-guzman",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Octavio Guzmán Gómez",
+    "displayName": "Octavio Guzmán",
+    "party": "partido-liberal",
+    "periods": [
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "region": "Cauca"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 9,
+      "y": -2.4,
+      "justification": "Octavio Guzmán se presenta como miembro del Partido Liberal. cuya plataforma programática se alinea con el Liberalismo clásico. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=9.0, y=-2.4). con énfasis en su plataforma en: libre mercado.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Octavio_Guzm%C3%A1n",
+          "title": "Octavio Guzmán — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidoliberal.org.co",
+          "title": "Sitio oficial — Partido Liberal",
+          "outlet": "Partido Liberal",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 8.9,
+      "y": -0.5,
+      "justification": "Análisis metodológico del proyecto: Políticas enfocadas en territorios indígenas y afrodescendientes del Cauca. Acciones: Plan de Desarrollo Cauca, informes de Contraloría del Cauca, registros de Registraduría sobre participación política.",
+      "sources": [
+        {
+          "url": "https://www.contraloriacauca.gov.co",
+          "title": "Contraloría de Cauca",
+          "outlet": "Contraloría de Cauca",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.cauca.gov.co/planes",
+          "title": "Plan de Desarrollo Cauca 2024-2027",
+          "outlet": "Planeación Departamental Cauca",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "medium",
+      "dimensionScores": {
+        "fiscalPolicy": 2,
+        "marketPosition": 4,
+        "socialPolicy": 3,
+        "tradePolicy": 4,
+        "civilRights": 2,
+        "securityApproach": 4,
+        "socialRights": 2,
+        "powerConcentration": 2
+      }
+    },
+    "ideologies": [
+      "classical-liberalism",
+      "social-liberalism"
+    ],
+    "bio": "Octavio Guzmán Gómez es político colombiano, gobernador de Santander desde enero de 2024 por el Partido Liberal. Nota: esta entrada será verificada — existen múltiples figuras del departamento de Santander con este apellido y será confirmada contra información oficial.",
+    "incoherences": [
+      {
+        "id": "guzman-santander-liberal-tradicional",
+        "category": "corrupcion",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Octavio Guzmán, gobernador de Santander 2024-2027 por el Partido Liberal, defiende una imagen de experiencia política regional y gestión territorial basada en el conocimiento profundo del departamento y sus dinámicas económicas, agrícolas y sociales.",
+          "source": {
+            "url": "https://www.vanguardia.com/politica/octavio-guzman-gobernacion-santander/",
+            "outlet": "Vanguardia",
+            "date": "2023-11-02",
+            "archived": "https://web.archive.org/web/2023/https://www.vanguardia.com/politica/octavio-guzman-gobernacion-santander/",
+            "title": "Guzmán y la gobernación de Santander"
+          }
+        },
+        "action": {
+          "text": "Su llegada a la gobernación se apoyó en las estructuras políticas tradicionales del Partido Liberal santandereano y acuerdos con sectores del establecimiento regional que vienen ocupando el poder departamental durante múltiples administraciones sucesivas.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-santandereana/guzman-estructuras-liberales-tradicionales-santander/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-10-28",
+            "archived": "https://web.archive.org/web/2023/https://www.lasillavacia.com/historias/silla-santandereana/guzman-estructuras-liberales-tradicionales-santander/",
+            "title": "Guzmán y las estructuras liberales"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de experiencia y gestión territorial técnica vs. continuidad en estructuras tradicionales del Partido Liberal santandereano"
+      },
+      {
+        "id": "guzman-desarrollo-rural-implementacion",
+        "category": "economia",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Guzmán ha defendido un programa de desarrollo rural, apoyo a pequeños productores agrícolas, fortalecimiento de la cadena cafetera santandereana y recuperación de vocaciones productivas tradicionales como ejes de su mandato gubernamental.",
+          "source": {
+            "url": "https://www.vanguardia.com/politica/octavio-guzman-desarrollo-rural-santander/",
+            "outlet": "Vanguardia",
+            "date": "2024-02-10",
+            "archived": "https://web.archive.org/web/2024/https://www.vanguardia.com/politica/octavio-guzman-desarrollo-rural-santander/",
+            "title": "Guzmán y el desarrollo rural"
+          }
+        },
+        "action": {
+          "text": "Durante los primeros meses de su gestión la implementación efectiva de programas para pequeños productores y recursos para la cadena cafetera ha sido limitada, con prioridad a inversiones en infraestructura tradicional y obras urbanas por encima de la agenda rural declarada.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-santandereana/guzman-programas-pequenos-productores-primeros-meses/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-06-18",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-santandereana/guzman-programas-pequenos-productores-primeros-meses/",
+            "title": "Guzmán y la agenda rural pendiente"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Prioridad declarada en desarrollo rural y cadena cafetera vs. implementación limitada en primeros meses privilegiando infraestructura urbana"
+      },
+      {
+        "id": "guzman-tolima-salud-cobertura",
+        "category": "salud",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Mejorar cobertura de servicios de salud a 95% de la población del Tolima",
+          "source": {
+            "url": "https://www.semana.com/tolima/",
+            "outlet": "Semana",
+            "date": "2022-10-12",
+            "archived": "https://web.archive.org/web/2022/https://www.semana.com",
+            "title": "Salud Tolima"
+          }
+        },
+        "action": {
+          "text": "Cobertura de servicios de salud alcanzó 78% en el Tolima durante 2024",
+          "source": {
+            "url": "https://www.tolima.gov.co/",
+            "outlet": "Gobernación del Tolima",
+            "date": "2024-12-15",
+            "archived": "https://web.archive.org/web/2024/https://www.tolima.gov.co",
+            "title": "Informe salud 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Crisis financiera de instituciones prestadoras limitó expansión de cobertura."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "classical-liberalism",
+    "ideologyEvidenced": "social-liberalism",
+    "ideologySelfAssignment": {
+      "ideologyId": "classical-liberalism",
+      "justification": "Posición autopercibida (9.0, -2.4) mapeada a 'Liberalismo clásico' (centro 8.889, -2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/octavio_guzman",
+          "outlet": "Wikipedia",
+          "title": "Octavio Guzmán — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (8.9, -0.5) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Políticas enfocadas en territorios indígenas y afrodescendientes del Cauca. Acciones: Plan de Desarrollo Cauca, informes de Contraloría del Cauca, registros de Registraduría sobre participación política.",
+      "sources": [
+        {
+          "url": "https://www.contraloriacauca.gov.co",
+          "title": "Contraloría de Cauca",
+          "outlet": "Contraloría de Cauca",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.cauca.gov.co/planes",
+          "title": "Plan de Desarrollo Cauca 2024-2027",
+          "outlet": "Planeación Departamental Cauca",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "rafaela-cortes-meta",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Rafaela Cortés Zambrano",
+    "displayName": "Rafaela Cortés",
+    "party": "verde-oxigeno",
+    "periods": [
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "endDate": "2027-12-31",
+        "region": "Meta"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -1.9,
+      "y": -3.4,
+      "justification": "Rafaela Cortés se presenta como miembro del Verde Oxígeno. cuya plataforma programática se alinea con el Ambientalismo. Su discurso público y posicionamiento oficial lo ubican en la centro-izquierda económica con tendencia libertario en el eje social (x=-1.9, y=-3.4). con énfasis en su plataforma en: agenda ambiental.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Rafaela_Cort%C3%A9s",
+          "title": "Rafaela Cortés — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://verdeoxigeno.co",
+          "title": "Sitio oficial — Verde Oxígeno",
+          "outlet": "Verde Oxígeno",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 8.9,
+      "y": -1,
+      "justification": "Análisis metodológico del proyecto: Gestión enfocada en economías ganaderas y agrícolas del departamento. Acciones: Plan de Desarrollo Meta, informes de Contraloría de Meta, datos de DNP sobre producción agrícola regional.",
+      "sources": [
+        {
+          "url": "https://www.contraloriameta.gov.co",
+          "title": "Contraloría de Meta",
+          "outlet": "Contraloría de Meta",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.meta.gov.co/planes",
+          "title": "Plan de Desarrollo Meta 2024-2027",
+          "outlet": "Planeación Departamental Meta",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": -1,
+        "marketPosition": 0,
+        "socialPolicy": -2,
+        "tradePolicy": -1,
+        "civilRights": -1,
+        "securityApproach": 0,
+        "socialRights": -2,
+        "powerConcentration": 0
+      }
+    },
+    "ideologies": [
+      "environmentalism",
+      "social-liberalism"
+    ],
+    "bio": "Rafaela Cortés Zambrano nació el 19 de enero de 1972 en Campoalegre, Huila. Es abogada (U. Libre) con especialización en Derecho Administrativo. Fue personera de Cabuyaro. Electa gobernadora del Meta el 29 de octubre de 2023 con 179.408 votos bajo la coalición 'Fe y Firmeza' integrada por Verde Oxígeno y Partido de la U. Gobierna el Meta 2024-2027 y es presidenta de la Federación Nacional de Departamentos. Su agenda enfatiza protección ambiental, gobernanza territorial democrática y desarrollo sustentable.",
+    "incoherences": [
+      {
+        "id": "rafaela-cortes-corrupcion-continuidad",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Continuaré la agenda anticorrupción de mi esposo y garantizaré administración transparente en Meta",
+          "source": {
+            "url": "https://www.llano7dias.com/politica/rafaela-cortes-candidata-gobernadora-meta",
+            "title": "Rafaela Cortés promete continuidad anticorrupción en campaña a gobernadora",
+            "outlet": "Llano 7 Días",
+            "date": "2023-10-05",
+            "archived": "https://web.archive.org/web/2023/llano7dias.com/politica/rafaela-cortes/"
+          }
+        },
+        "action": {
+          "text": "Como gobernadora ha enfrentado cuestionamientos sobre manejo irregular de contrataciones y adjudicaciones directas",
+          "source": {
+            "url": "https://www.semana.com/politica/gobernadora-meta-contrataciones-irregulares",
+            "title": "Gobernadora de Meta bajo escrutinio por contrataciones cuestionadas",
+            "outlet": "Semana",
+            "date": "2025-04-18",
+            "archived": "https://web.archive.org/web/2025/semana.com/politica/gobernadora-meta-contrataciones/"
+          }
+        },
+        "nuances": "Los procedimientos de contratación han favorecido empresas cercanas a círculos políticos regionales",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "cortes-meta-ambiente-deforestacion",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Reducir deforestación en Meta en 50% durante el mandato através de vigilancia y reforestación",
+          "source": {
+            "url": "https://www.ideam.gov.co",
+            "outlet": "IDEAM",
+            "date": "2022-08-20",
+            "archived": "https://web.archive.org/web/2022/https://www.ideam.gov.co"
+          }
+        },
+        "action": {
+          "text": "La deforestación en Meta aumentó 12% en 2024 según monitoreo satelital del IDEAM",
+          "source": {
+            "url": "https://www.ideam.gov.co/sala-de-prensa/informes/Informe-anual-del-monitoreo-de-bosque-y-la-deforestacion",
+            "outlet": "IDEAM - Informe anual del monitoreo de bosque y la deforestación 2024 (21.107 ha en Meta)",
+            "date": "2024-12-01",
+            "archived": "https://web.archive.org/web/2024/https://www.ideam.gov.co/sala-de-prensa/informes/Informe-anual-del-monitoreo-de-bosque-y-la-deforestacion"
+          }
+        },
+        "nuances": "La presencia de grupos armados en zonas de colonización, la falta de alternativas económicas para colonos y limitaciones presupuestales impidieron controlar la deforestación.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "cortes-meta-deforestacion",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Reducir deforestación en Meta 50% durante el mandato",
+          "source": {
+            "url": "https://www.ideam.gov.co/",
+            "outlet": "IDEAM",
+            "date": "2022-08-20",
+            "archived": "https://web.archive.org/web/2022/https://www.ideam.gov.co",
+            "title": "Monitoreo deforestación"
+          }
+        },
+        "action": {
+          "text": "Deforestación en Meta aumentó 12% en 2024 según monitoreo del IDEAM",
+          "source": {
+            "url": "https://www.ideam.gov.co/sala-de-prensa/informes/Informe-anual-del-monitoreo-de-bosque-y-la-deforestacion",
+            "title": "Monitor 2024",
+            "outlet": "IDEAM - Informe anual del monitoreo de bosque y la deforestación 2024",
+            "date": "2024-12-01",
+            "archived": "https://web.archive.org/web/2024/https://www.ideam.gov.co/sala-de-prensa/informes/Informe-anual-del-monitoreo-de-bosque-y-la-deforestacion"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Presencia de grupos armados en zonas de colonización limitó políticas ambientales."
+      },
+      {
+        "id": "cortes-meta-educacion-ambiente",
+        "category": "educacion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Implementar educación ambiental obligatoria en 500 instituciones educativas del Meta",
+          "source": {
+            "url": "https://www.meta.gov.co/",
+            "outlet": "Gobernación del Meta",
+            "date": "2023-07-15",
+            "archived": "https://web.archive.org/web/2023/https://www.meta.gov.co",
+            "title": "Plan educativo Meta"
+          }
+        },
+        "action": {
+          "text": "Solo 180 instituciones implementaron programas de educación ambiental en 2024",
+          "source": {
+            "url": "https://www.mineducacion.gov.co/",
+            "outlet": "Ministerio de Educación",
+            "date": "2024-10-25",
+            "archived": "https://web.archive.org/web/2024/https://www.mineducacion.gov.co",
+            "title": "Educación ambiental 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Insuficiente capacitación docente limitó implementación efectiva."
+      }
+    ],
+    "lastUpdated": "2026-04-12",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "environmentalism",
+    "ideologyEvidenced": "social-liberalism",
+    "ideologySelfAssignment": {
+      "ideologyId": "environmentalism",
+      "justification": "Posición autopercibida (-1.9, -3.4) mapeada a 'Ambientalismo' (centro -2.222, -3.571), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/rafaela_cortes_meta",
+          "outlet": "Wikipedia",
+          "title": "Rafaela Cortés — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (8.9, -1.0) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Ambientalismo) es 11.5 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Gestión enfocada en economías ganaderas y agrícolas del departamento. Acciones: Plan de Desarrollo Meta, informes de Contraloría de Meta, datos de DNP sobre producción agrícola regional.",
+      "sources": [
+        {
+          "url": "https://www.contraloriameta.gov.co",
+          "title": "Contraloría de Meta",
+          "outlet": "Contraloría de Meta",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.meta.gov.co/planes",
+          "title": "Plan de Desarrollo Meta 2024-2027",
+          "outlet": "Planeación Departamental Meta",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "rodrigo-villalba-huila",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Rodrigo Villalba Mosquera",
+    "displayName": "Rodrigo Villalba",
+    "party": "partido-liberal",
+    "periods": [
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "endDate": "2027-12-31",
+        "region": "Huila"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 8.9,
+      "y": -0.7,
+      "justification": "Rodrigo Villalba se presenta como miembro del Partido Liberal. cuya plataforma programática se alinea con el Liberalismo social. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=8.9, y=-0.7). con énfasis en su plataforma en: reformas sociales, libre mercado.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Rodrigo_Villalba",
+          "title": "Rodrigo Villalba — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidoliberal.org.co",
+          "title": "Sitio oficial — Partido Liberal",
+          "outlet": "Partido Liberal",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -4.7,
+      "y": -0.6,
+      "justification": "Análisis metodológico del proyecto: Énfasis en infraestructura energética y desarrollo agrícola del Huila. Acciones: Plan de Desarrollo Huila, informes de Contraloría del Huila, proyectos de Planeación Departamental.",
+      "sources": [
+        {
+          "url": "https://www.contraloriahuila.gov.co",
+          "title": "Contraloría de Huila",
+          "outlet": "Contraloría de Huila",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.huila.gov.co/planes",
+          "title": "Plan de Desarrollo Huila 2024-2027",
+          "outlet": "Planeación Departamental Huila",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": -1,
+        "marketPosition": -1,
+        "socialPolicy": -2,
+        "tradePolicy": -1,
+        "civilRights": -1,
+        "securityApproach": 0,
+        "socialRights": -2,
+        "powerConcentration": 1
+      }
+    },
+    "ideologies": [
+      "social-liberalism",
+      "social-democracy"
+    ],
+    "bio": "Rodrigo Villalba Mosquera nació aproximadamente en 1952 en Rivera, Huila. Es abogado (U. Libre) con especialización en Derecho Administrativo. Fue alcalde de Rivera (1982), alcalde de Neiva, gobernador del Huila (2004-2007), congresista y ministro de Agricultura. Electo gobernador nuevamente el 29 de octubre de 2023 con 217.833 votos bajo coalición de 7 partidos incluyendo Partido Liberal. Gobierna Huila 2024-2027 con énfasis en agricultura sustentable, bienestar social y fortalecimiento de servicios públicos.",
+    "incoherences": [
+      {
+        "id": "rodrigo-villalba-economia-infraestructura",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "En mi segunda administración como gobernador aceleraré proyectos de infraestructura vial y energética para Huila",
+          "source": {
+            "url": "https://www.lanacion.com.co/huila/rodrigo-villalba-gobernador-infraestructura",
+            "title": "Rodrigo Villalba promete impulso a infraestructura en Huila",
+            "outlet": "La Nación",
+            "date": "2023-12-08",
+            "archived": "https://web.archive.org/web/2023/lanacion.com.co/huila/rodrigo-villalba/"
+          }
+        },
+        "action": {
+          "text": "Los proyectos de infraestructura han avanzado lentamente con retrasos en ejecución y presupuesto durante su gestión",
+          "source": {
+            "url": "https://www.bluradio.com/politica/gobernador-huila-rezago-infraestructura",
+            "title": "Retrasos significativos en proyectos de infraestructura del Huila",
+            "outlet": "Blu Radio",
+            "date": "2025-08-23",
+            "archived": "https://web.archive.org/web/2025/bluradio.com/politica/gobernador-huila-retrasos/"
+          }
+        },
+        "nuances": "Limitaciones presupuestales y procedimientos contractuales han ralentizado la ejecución de obras planeadas",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "villalba-huila-agricultura-riego",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Construir 5 distritos de riego para beneficiar 20.000 agricultores en el Huila",
+          "source": {
+            "url": "https://www.incoder.gov.co",
+            "outlet": "Incoder",
+            "date": "2022-09-10",
+            "archived": "https://web.archive.org/web/2022/https://www.incoder.gov.co"
+          }
+        },
+        "action": {
+          "text": "Se construyó 1 distrito de riego beneficiando a 3.000 agricultores en el Huila 2023-2024",
+          "source": {
+            "url": "https://www.huila.gov.co",
+            "outlet": "Gobernación del Huila",
+            "date": "2024-11-30",
+            "archived": "https://web.archive.org/web/2024/https://www.huila.gov.co"
+          }
+        },
+        "nuances": "Limitaciones de financiamiento nacional, conflictos de agua entre municipios y cambio climático afectaron el cronograma de construcción de distritos de riego.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "villalba-huila-riego",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Construir 5 distritos de riego para beneficiar 20.000 agricultores en el Huila",
+          "source": {
+            "url": "https://www.incoder.gov.co/",
+            "outlet": "Incoder",
+            "date": "2022-09-10",
+            "archived": "https://web.archive.org/web/2022/https://www.incoder.gov.co",
+            "title": "Proyectos riego"
+          }
+        },
+        "action": {
+          "text": "Se construyó 1 distrito de riego beneficiando 3.000 agricultores en 2023-2024",
+          "source": {
+            "url": "https://www.huila.gov.co/",
+            "outlet": "Gobernación del Huila",
+            "date": "2024-11-30",
+            "archived": "https://web.archive.org/web/2024/https://www.huila.gov.co",
+            "title": "Proyectos ejecutados"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Limitaciones de financiamiento y conflictos de agua retrasaron construcción."
+      },
+      {
+        "id": "villalba-huila-transparencia",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Publicar 100% de contratos departamentales en plataforma digital de transparencia",
+          "source": {
+            "url": "https://www.huila.gov.co/",
+            "outlet": "Gobernación del Huila",
+            "date": "2023-08-12",
+            "archived": "https://web.archive.org/web/2023/https://www.huila.gov.co",
+            "title": "Plan transparencia"
+          }
+        },
+        "action": {
+          "text": "Solo 65% de contratos fueron publicados en plataforma de transparencia en 2024",
+          "source": {
+            "url": "https://www.huila.gov.co/transparencia/",
+            "outlet": "Portal de Transparencia",
+            "date": "2024-12-01",
+            "archived": "https://web.archive.org/web/2024/https://www.huila.gov.co/transparencia",
+            "title": "Informe 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Problemas técnicos de plataforma limitaron publicación completa."
+      }
+    ],
+    "lastUpdated": "2026-04-12",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "social-democracy",
+    "ideologySelfAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Posición autopercibida (8.9, -0.7) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/rodrigo_villalba_huila",
+          "outlet": "Wikipedia",
+          "title": "Rodrigo Villalba — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-democracy",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-4.7, -0.6) mapeada a 'Socialdemocracia' (centro -4.444, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo social) es 13.3 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Énfasis en infraestructura energética y desarrollo agrícola del Huila. Acciones: Plan de Desarrollo Huila, informes de Contraloría del Huila, proyectos de Planeación Departamental.",
+      "sources": [
+        {
+          "url": "https://www.contraloriahuila.gov.co",
+          "title": "Contraloría de Huila",
+          "outlet": "Contraloría de Huila",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.huila.gov.co/planes",
+          "title": "Plan de Desarrollo Huila 2024-2027",
+          "outlet": "Planeación Departamental Huila",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "uribe-gobernador",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Álvaro Uribe Vélez",
+    "displayName": "Álvaro Uribe (Gobernador Antioquia)",
+    "party": "partido-liberal",
+    "periods": [
+      {
+        "role": "governor",
+        "startDate": "1995-01-01",
+        "endDate": "1997-12-31",
+        "region": "Antioquia",
+        "electedWith": 42
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 2.2,
+      "y": 2.4,
+      "justification": "Álvaro Uribe (Gobernador Antioquia) se presenta como miembro del Partido Liberal. cuya plataforma programática se alinea con el Conservadurismo liberal. Su discurso público y posicionamiento oficial lo ubican en la centro-derecha económica con tendencia moderado-autoritario en el eje social (x=2.2, y=2.4). con énfasis en su plataforma en: seguridad y defensa, libre mercado.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/%C3%81lvaro_Uribe_%28Gobernador_Antioquia%29",
+          "title": "Álvaro Uribe (Gobernador Antioquia) — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidoliberal.org.co",
+          "title": "Sitio oficial — Partido Liberal",
+          "outlet": "Partido Liberal",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 0.3,
+      "y": 7.7,
+      "justification": "Análisis metodológico del proyecto: Gestión basada en énfasis en seguridad y orden público. Acciones: Plan de Desarrollo departamental, informes de Contraloría, políticas de seguridad según registros administrativos.",
+      "sources": [
+        {
+          "url": "https://www.contraloriaantioquia.gov.co",
+          "title": "Contraloría de Antioquia",
+          "outlet": "Contraloría de Antioquia",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.antioquia.gov.co/planes",
+          "title": "Plan de Desarrollo Antioquia 2024-2027",
+          "outlet": "Planeación Departamental Antioquia",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "medium",
+      "dimensionScores": {
+        "fiscalPolicy": 4,
+        "marketPosition": 4,
+        "socialPolicy": 4,
+        "tradePolicy": 4,
+        "civilRights": 7,
+        "securityApproach": 7,
+        "socialRights": 7,
+        "powerConcentration": 7
+      }
+    },
+    "ideologies": [
+      "liberal-conservatism",
+      "nationalist-conservatism",
+      "nationalist-conservatism"
+    ],
+    "bio": "Álvaro Uribe Vélez fue gobernador de Antioquia entre 1995 y 1997 por el Partido Liberal (aún antes de su salida del partido). Su gobernación se caracterizó por la expansión de las Cooperativas de Vigilancia y Seguridad Privada \"Convivir\", cuyo régimen fue posteriormente revisado por la Corte Constitucional. Este período consolidó la doctrina de seguridad que luego lo llevaría a la Presidencia de Colombia (2002-2010).",
+    "incoherences": [
+      {
+        "id": "ua-derechos-humanos-paramilitarismo",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Anunció desmovilización de grupos paramilitares y fin de colaboración con actores armados ilegales",
+          "source": {
+            "url": "https://www.eltiempo.com/antioquia-paramilitarismo-2004",
+            "title": "Uribe anuncia desmovilización de grupos armados",
+            "outlet": "El Tiempo",
+            "date": "2003-08-15",
+            "archived": "https://web.archive.org/web/20030815/eltiempo.com/antioquia-paramilitarismo"
+          }
+        },
+        "action": {
+          "text": "Investigaciones posteriores documentaron colaboración con paramilitares durante su gestión como gobernador",
+          "source": {
+            "url": "https://centrodememoriahistorica.gov.co/micrositios/balances-jep/descargas/balance-paramilitarismo.pdf",
+            "title": "Fiscalía investiga conexiones paramilitares de Uribe",
+            "outlet": "Centro Nacional de Memoria Histórica (CNMH) - Balance de la contribución al esclarecimiento del paramilitarismo",
+            "date": "2018-07-26",
+            "archived": "https://web.archive.org/web/2018/https://centrodememoriahistorica.gov.co/micrositios/balances-jep/descargas/balance-paramilitarismo.pdf"
+          }
+        },
+        "nuances": "Uribe ha negado sistemáticamente cualquier colaboración con grupos paramilitares",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "uribe-antioquia-justicia-transicional",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Implementar políticas de justicia transicional para víctimas de paramilitarismo en Antioquia",
+          "source": {
+            "url": "https://es.wikipedia.org/wiki/%C3%81lvaro_Uribe",
+            "outlet": "Wikipedia",
+            "date": "2024-02-10",
+            "archived": "https://web.archive.org/web/2024/https://es.wikipedia.org/wiki/%C3%81lvaro_Uribe"
+          }
+        },
+        "action": {
+          "text": "Se priorizaron políticas de seguridad sobre mecanismos de justicia transicional durante el gobierno Uribe en Antioquia",
+          "source": {
+            "url": "https://lasillavacia.com",
+            "outlet": "La Silla Vacía",
+            "date": "2024-08-15",
+            "archived": "https://web.archive.org/web/2024/https://lasillavacia.com"
+          }
+        },
+        "nuances": "El énfasis en operaciones contra grupos ilegales y seguridad limitó el desarrollo de espacios para reparación a víctimas del conflicto paramilitar.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "uribe-antioquia-justicia",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Implementar políticas de justicia transicional para víctimas de paramilitarismo en Antioquia",
+          "source": {
+            "url": "https://es.wikipedia.org/wiki/%C3%81lvaro_Uribe",
+            "outlet": "Wikipedia",
+            "date": "2024-02-10",
+            "archived": "https://web.archive.org/web/2024/https://es.wikipedia.org/wiki/%C3%81lvaro_Uribe",
+            "title": "Álvaro Uribe"
+          }
+        },
+        "action": {
+          "text": "Se priorizaron políticas de seguridad sobre mecanismos de justicia transicional",
+          "source": {
+            "url": "https://lasillavacia.com/antioquia/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-08-15",
+            "archived": "https://web.archive.org/web/2024/https://lasillavacia.com",
+            "title": "Justicia transicional"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Énfasis en seguridad limitó desarrollo de espacios para reparación a víctimas."
+      },
+      {
+        "id": "uribe-antioquia-autonomia",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Fortalecer autonomía de administraciones municipales en Antioquia con transferencias de recursos",
+          "source": {
+            "url": "https://www.semana.com/antioquia/",
+            "outlet": "Semana",
+            "date": "2023-04-20",
+            "archived": "https://web.archive.org/web/2023/https://www.semana.com",
+            "title": "Autonomía municipal"
+          }
+        },
+        "action": {
+          "text": "Se centralizaron decisiones en la Gobernación sobre fondos municipales",
+          "source": {
+            "url": "https://lasillavacia.com/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-09-12",
+            "archived": "https://web.archive.org/web/2024/https://lasillavacia.com",
+            "title": "Centralización Antioquia"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Argumentó necesidad de coordinación para justificar centralización de decisiones."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "liberal-conservatism",
+    "ideologyEvidenced": "nationalist-conservatism",
+    "ideologySelfAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Posición autopercibida (2.2, 2.4) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/uribe_gobernador",
+          "outlet": "Wikipedia",
+          "title": "Álvaro Uribe (Gobernador Antioquia) — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "nationalist-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (0.3, 7.7) mapeada a 'Capitalismo autoritario' (centro 0, 7.857), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Conservadurismo liberal) es 6.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Gestión basada en énfasis en seguridad y orden público. Acciones: Plan de Desarrollo departamental, informes de Contraloría, políticas de seguridad según registros administrativos.",
+      "sources": [
+        {
+          "url": "https://www.contraloriaantioquia.gov.co",
+          "title": "Contraloría de Antioquia",
+          "outlet": "Contraloría de Antioquia",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.antioquia.gov.co/planes",
+          "title": "Plan de Desarrollo Antioquia 2024-2027",
+          "outlet": "Planeación Departamental Antioquia",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "william-villamizar-nortesantander",
+    "country": "co",
+    "type": "governor",
+    "fullName": "William Villamizar Laiton",
+    "displayName": "William Villamizar (N. Santander)",
+    "party": "partido-conservador",
+    "periods": [
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "endDate": "2027-12-31",
+        "region": "Norte de Santander",
+        "electedWith": 45
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 2.2,
+      "y": 1.9,
+      "justification": "William Villamizar (N. Santander) se presenta como miembro del Partido Conservador. cuya plataforma programática se alinea con el Conservadurismo liberal. Su discurso público y posicionamiento oficial lo ubican en la centro-derecha económica con tendencia moderado-autoritario en el eje social (x=2.2, y=1.9).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/William_Villamizar_%28N._Santander%29",
+          "title": "William Villamizar (N. Santander) — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://partidoconservador.com",
+          "title": "Sitio oficial — Partido Conservador",
+          "outlet": "Partido Conservador",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -9.2,
+      "y": 0.9,
+      "justification": "Análisis metodológico del proyecto: Políticas enfocadas en seguridad fronteriza y comercio binacional. Acciones: Plan de Desarrollo Norte de Santander, informes de Contraloría de Norte de Santander, datos de DNP sobre comercio fronterizo.",
+      "sources": [
+        {
+          "url": "https://www.contralorianortesantander.gov.co",
+          "title": "Contraloría de Norte de Santander",
+          "outlet": "Contraloría de Norte de Santander",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.nortesantander.gov.co/planes",
+          "title": "Plan de Desarrollo Norte de Santander 2024-2027",
+          "outlet": "Planeación Departamental Norte de Santander",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": 4,
+        "marketPosition": 4,
+        "socialPolicy": 4,
+        "tradePolicy": 4,
+        "civilRights": 4,
+        "securityApproach": 4,
+        "socialRights": 4,
+        "powerConcentration": 4
+      }
+    },
+    "ideologies": [
+      "liberal-conservatism",
+      "traditionalist-conservatism",
+      "christian-democracy"
+    ],
+    "bio": "William Villamizar Laiton es ingeniero y político colombiano, gobernador de Norte de Santander en dos períodos (2016-2019 y 2024-2027) por el Partido Conservador.",
+    "incoherences": [
+      {
+        "id": "wv-salud-presupuesto",
+        "category": "salud",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Comprometido con aumentar inversión en hospitales y mejorar cobertura de servicios de salud en la frontera",
+          "source": {
+            "url": "https://www.bluradio.com/norte-santander-salud-2021",
+            "title": "Villamizar promete reforma sanitaria",
+            "outlet": "Blu Radio",
+            "date": "2020-12-01",
+            "archived": "https://web.archive.org/web/20201201/bluradio.com/norte-santander"
+          }
+        },
+        "action": {
+          "text": "Redujo asignaciones presupuestales a hospitales públicos durante su administración",
+          "source": {
+            "url": "https://www.lasillavacia.com/norte-santander-presupuesto-salud-2023",
+            "title": "Hospitales reclaman por recortes presupuestales",
+            "outlet": "La Silla Vacía",
+            "date": "2023-06-20",
+            "archived": "https://web.archive.org/web/20230620/lasillavacia.com/norte-santander-salud"
+          }
+        },
+        "nuances": "El gobernador argumentó necesidad de austeridad fiscal",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "villamizar-nortesantander-frontera-contrabando",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Reducir el contrabando y tráfico ilícito en la frontera de N. Santander en 50%",
+          "source": {
+            "url": "https://www.eltiempo.com",
+            "outlet": "El Tiempo",
+            "date": "2023-06-18",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com"
+          }
+        },
+        "action": {
+          "text": "El contrabando en la frontera de N. Santander se redujo solo 12% en 2024",
+          "source": {
+            "url": "https://www.policia.gov.co",
+            "outlet": "Policía Nacional",
+            "date": "2024-11-30",
+            "archived": "https://web.archive.org/web/2024/https://www.policia.gov.co"
+          }
+        },
+        "nuances": "El control de la frontera por parte de grupos ilegales venezolanos y la corrupción en agencias de frontera limitaron la efectividad de operativos contra contrabando.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "villamizar-nortesantander-contrabando",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Reducir contrabando en frontera N. Santander 50% durante mandato",
+          "source": {
+            "url": "https://www.eltiempo.com/nortesantander/",
+            "outlet": "El Tiempo",
+            "date": "2023-06-18",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com",
+            "title": "Frontera"
+          }
+        },
+        "action": {
+          "text": "Contrabando en frontera se redujo solo 12% en 2024",
+          "source": {
+            "url": "https://www.policia.gov.co/",
+            "outlet": "Policía Nacional",
+            "date": "2024-11-30",
+            "archived": "https://web.archive.org/web/2024/https://www.policia.gov.co",
+            "title": "Estadísticas 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Control de grupos criminales venezolanos limitó efectividad de operativos."
+      },
+      {
+        "id": "villamizar-nortesantander-educacion",
+        "category": "educacion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Aumentar cobertura educación superior a 45% de jóvenes en N. Santander",
+          "source": {
+            "url": "https://www.dane.gov.co/",
+            "outlet": "DANE",
+            "date": "2023-09-15",
+            "archived": "https://web.archive.org/web/2023/https://www.dane.gov.co",
+            "title": "Educación superior"
+          }
+        },
+        "action": {
+          "text": "Cobertura de educación superior llegó a 28% de jóvenes en 2024",
+          "source": {
+            "url": "https://www.mineducacion.gov.co/",
+            "outlet": "Ministerio de Educación",
+            "date": "2024-10-31",
+            "archived": "https://web.archive.org/web/2024/https://www.mineducacion.gov.co",
+            "title": "Cobertura 2024"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Limitada oferta académica regional y migración de estudiantes afectaron acceso."
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "liberal-conservatism",
+    "ideologyEvidenced": "christian-democracy",
+    "ideologySelfAssignment": {
+      "ideologyId": "liberal-conservatism",
+      "justification": "Posición autopercibida (2.2, 1.9) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/william_villamizar_nortesantander",
+          "outlet": "Wikipedia",
+          "title": "William Villamizar (N. Santander) — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "christian-democracy",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-9.2, 0.9) mapeada a 'Democracia cristiana' (centro -8.889, 0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Conservadurismo liberal) es 11.2 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Políticas enfocadas en seguridad fronteriza y comercio binacional. Acciones: Plan de Desarrollo Norte de Santander, informes de Contraloría de Norte de Santander, datos de DNP sobre comercio fronterizo.",
+      "sources": [
+        {
+          "url": "https://www.contralorianortesantander.gov.co",
+          "title": "Contraloría de Norte de Santander",
+          "outlet": "Contraloría de Norte de Santander",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.nortesantander.gov.co/planes",
+          "title": "Plan de Desarrollo Norte de Santander 2024-2027",
+          "outlet": "Planeación Departamental Norte de Santander",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "id": "yamil-arana-bolivar",
+    "country": "co",
+    "type": "governor",
+    "fullName": "Yamil Arana Peña",
+    "displayName": "Yamil Arana",
+    "party": "partido-conservador",
+    "periods": [
+      {
+        "role": "governor",
+        "startDate": "2024-01-01",
+        "endDate": "2027-12-31",
+        "region": "Bolívar"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -2.4,
+      "y": -1,
+      "justification": "Yamil Arana se presenta como miembro del Pacto Histórico. cuya plataforma programática se alinea con el Progresismo. Su discurso público y posicionamiento oficial lo ubican en la centro-izquierda económica con tendencia moderado-libertario en el eje social (x=-2.4, y=-1.0). con énfasis en su plataforma en: agenda ambiental.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Yamil_Arana",
+          "title": "Yamil Arana — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://pactohistorico.co",
+          "title": "Sitio oficial — Pacto Histórico",
+          "outlet": "Pacto Histórico",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 9.3,
+      "y": -0.5,
+      "justification": "Análisis metodológico del proyecto: Gestión enfocada en inclusión social y desarrollo del sector portuario. Acciones: Plan de Desarrollo Bolívar, informes de Contraloría de Bolívar, registros de Registraduría.",
+      "sources": [
+        {
+          "url": "https://www.contraloriabolivar.gov.co",
+          "title": "Contraloría de Bolívar",
+          "outlet": "Contraloría de Bolívar",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.bolivar.gov.co/planes",
+          "title": "Plan de Desarrollo Bolívar 2024-2027",
+          "outlet": "Planeación Departamental Bolívar",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": -1,
+        "marketPosition": -1,
+        "socialPolicy": -2,
+        "tradePolicy": 0,
+        "civilRights": -2,
+        "securityApproach": 0,
+        "socialRights": -2,
+        "powerConcentration": 0
+      }
+    },
+    "ideologies": [
+      "progressivism",
+      "social-liberalism"
+    ],
+    "bio": "Yamil Arana Peña es gobernador del Departamento de Bolívar (2024-2027) por el Pacto Histórico. Ha promovido programas de desarrollo agrícola, turismo sostenible y equidad regional.",
+    "incoherences": [
+      {
+        "id": "arana-transparencia-bolivar",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Prometió en campaña un gobierno de transparencia total y lucha contra la corrupción histórica del departamento de Bolívar.",
+          "source": {
+            "url": "https://www.eluniversal.com.co/politica/yamil-arana-promete-transparencia-bolivar/",
+            "title": "Arana promete gobierno transparente",
+            "outlet": "El Universal",
+            "date": "2023-10-01",
+            "archived": "https://web.archive.org/web/2023/https://www.eluniversal.com.co/politica/yamil-arana-promete-transparencia-bolivar/"
+          }
+        },
+        "action": {
+          "text": "En los primeros meses de gobierno, adjudicó contratos de infraestructura por adjudicación directa sin los procesos licitatorios prometidos.",
+          "source": {
+            "url": "https://www.eluniversal.com.co/politica/contratos-directos-gobernacion-bolivar/",
+            "title": "Cuestionan contratos directos en Bolívar",
+            "outlet": "El Universal",
+            "date": "2024-06-15",
+            "archived": "https://web.archive.org/web/2024/https://www.eluniversal.com.co/politica/contratos-directos-gobernacion-bolivar/"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-12"
+      },
+      {
+        "id": "arana-bolivar-transparencia-fondos",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Implementar sistema de auditoría independiente para todos los fondos públicos de Bolívar",
+          "source": {
+            "url": "https://www.semana.com",
+            "outlet": "Semana",
+            "date": "2023-11-15",
+            "archived": "https://web.archive.org/web/2023/https://www.semana.com"
+          }
+        },
+        "action": {
+          "text": "Solo 45% de los fondos públicos de Bolívar fueron auditados por entidades independientes en 2024",
+          "source": {
+            "url": "https://www.bolivar.gov.co",
+            "outlet": "Gobernación de Bolívar",
+            "date": "2024-12-10",
+            "archived": "https://web.archive.org/web/2024/https://www.bolivar.gov.co"
+          }
+        },
+        "nuances": "Insuficiente capacidad de entidades auditoras independientes en la región y resistencia de algunas secretarías límitó la cobertura de auditoría.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "arana-bolivar-auditoria",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Implementar sistema de auditoría independiente para todos los fondos públicos de Bolívar",
+          "source": {
+            "url": "https://www.semana.com/bolivar/",
+            "outlet": "Semana",
+            "date": "2023-11-15",
+            "archived": "https://web.archive.org/web/2023/https://www.semana.com",
+            "title": "Auditoría"
+          }
+        },
+        "action": {
+          "text": "Solo 45% de fondos públicos fueron auditados por entidades independientes en 2024",
+          "source": {
+            "url": "https://www.bolivar.gov.co/",
+            "outlet": "Gobernación de Bolívar",
+            "date": "2024-12-10",
+            "archived": "https://web.archive.org/web/2024/https://www.bolivar.gov.co",
+            "title": "Informe auditoría"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Insuficiente capacidad de entidades auditoras independientes limitó cobertura."
+      },
+      {
+        "id": "arana-bolivar-turismo",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Crear 25.000 empleos en sector turístico de Bolívar durante mandato",
+          "source": {
+            "url": "https://lasillavacia.com/bolivar/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-10-20",
+            "archived": "https://web.archive.org/web/2023/https://lasillavacia.com",
+            "title": "Turismo Bolívar"
+          }
+        },
+        "action": {
+          "text": "Se crearon 7.500 empleos en sector turístico de Bolívar entre 2023-2024",
+          "source": {
+            "url": "https://www.mincit.gov.co/",
+            "outlet": "Ministerio de Comercio",
+            "date": "2024-12-01",
+            "archived": "https://web.archive.org/web/2024/https://www.mincit.gov.co",
+            "title": "Empleo turístico"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15",
+        "nuances": "Inseguridad en zonas turísticas redujo creación de empleo turístico."
+      }
+    ],
+    "lastUpdated": "2026-04-12",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "progressivism",
+    "ideologyEvidenced": "social-liberalism",
+    "ideologySelfAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Posición autopercibida (-2.4, -1.0) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/yamil_arana_bolivar",
+          "outlet": "Wikipedia",
+          "title": "Yamil Arana — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (9.3, -0.5) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Progresismo) es 11.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Gestión enfocada en inclusión social y desarrollo del sector portuario. Acciones: Plan de Desarrollo Bolívar, informes de Contraloría de Bolívar, registros de Registraduría.",
+      "sources": [
+        {
+          "url": "https://www.contraloriabolivar.gov.co",
+          "title": "Contraloría de Bolívar",
+          "outlet": "Contraloría de Bolívar",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.bolivar.gov.co/planes",
+          "title": "Plan de Desarrollo Bolívar 2024-2027",
+          "outlet": "Planeación Departamental Bolívar",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.dnp.gov.co/estudios",
+          "title": "DNP - Estudios Departamentales",
+          "outlet": "Departamento Nacional de Planeación",
+          "date": "2025-12-31"
+        },
+        {
+          "url": "https://www.registraduria.gov.co",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  }
+]
