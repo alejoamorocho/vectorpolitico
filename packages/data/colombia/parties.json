@@ -753,8 +753,8 @@
     ],
     "compassPosition": {
       "x": 6.5,
-      "y": 2.5,
-      "justification": "Según sus estatutos, Cambio Radical se define como de centro, radical-liberal, con énfasis en reforma institucional, modernización estatal, participación ciudadana, defensa de pequeña y mediana empresa y economía solidaria. Nota: cae en celda authoritarian-capitalism por limitación del grid; posición refleja perfil pro-mercado moderado-autoritario, no autoritarismo capitalista puro. Se mejorará en Fase 1.5 con subdivisión del grid auth_right inferior.",
+      "y": -1.0,
+      "justification": "Según sus estatutos, Cambio Radical se define como de centro, radical-liberal, con énfasis en reforma institucional, modernización estatal, participación ciudadana, defensa de pequeña y mediana empresa y economía solidaria. Ajuste post-Fase 1.5: reubicado a (6.5, -1.0) en national-liberalism (cuadrante lib_right). El partido es fundamentalmente pro-mercado moderado con dimensión nacionalista de seguridad y desarrollo local (Vargas Lleras), no autoritario-capitalista puro.",
       "sources": [
         {
           "url": "https://www.cambioradical.com.co",
@@ -1047,9 +1047,9 @@
       "social-democracy"
     ],
     "compassPosition": {
-      "x": 0.5,
-      "y": 3.5,
-      "justification": "Según sus estatutos, MIRA se define como de centro-derecha, conservador, con énfasis en valores cristianos, familia tradicional, seguridad, orden público y defensa de libertades religiosas. Nota: cae geométricamente en la celda authoritarian-capitalism por limitación del grid actual (ausencia de celda christian-democracy en cuadrante auth_right). La ideología declarada sigue siendo correcta; se subsanará en Fase 1.5 con reestructuración del grid.",
+      "x": 1.0,
+      "y": 7.0,
+      "justification": "Según sus estatutos, MIRA se define como de centro-derecha, conservador, con énfasis en valores cristianos, familia tradicional, seguridad, orden público y defensa de libertades religiosas. Ajuste post-Fase 1.5: reposicionado a (1.0, 7.0) tras la creación de la celda christian-democracy en auth_right. Refleja mejor el componente de ortodoxia religiosa en socialRights propio del partido.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/MIRA",
@@ -1911,7 +1911,7 @@
     "compassPosition": {
       "x": 5.0,
       "y": 4.0,
-      "justification": "El movimiento se define como de centro-derecha, pragmático, con énfasis en gestión administrativa eficiente, desarrollo regional, autonomía territorial y soluciones locales a problemas nacionales. Nota: cae en celda authoritarian-capitalism por limitación del grid; el populismo personalista de derecha no tiene celda específica, se subsanará en Fase 1.5.",
+      "justification": "El movimiento se define como de centro-derecha, pragmático, con énfasis en gestión administrativa eficiente, desarrollo regional, autonomía territorial y soluciones locales a problemas nacionales. Ajuste post-Fase 1.5: la celda right-populism fue creada en auth_right. El partido cae en nationalist-conservatism con su posición actual (5.0, 4.0) y el grid reestructurado; la celda right-populism existe como referencia para futuros casos.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/Liga_de_Gobernantes_Anticorrupción",
