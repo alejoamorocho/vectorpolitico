@@ -1,10 +1,13 @@
 // apps/web/src/components/compass/CompassSidebar.tsx
-import type { Party } from '@brujula/schema';
+import { useState, useMemo, useRef, useEffect } from 'react';
+import type { Party, EntitySummary } from '@brujula/schema';
+import { entityTypeLabel } from '@/lib/i18n';
 
 export type CompassLayerState = {
   selfPerceived: boolean;
   evidenced: boolean;
   arrows: boolean;
+  parties: boolean;
 };
 
 type Props = {
@@ -15,6 +18,11 @@ type Props = {
   filterParty: string;
   onFilterPartyChange: (v: string) => void;
   parties: Party[];
+  /** Todas las entidades para la búsqueda (sin filtrar por type/party). */
+  searchEntities: EntitySummary[];
+  /** ID de la entidad seleccionada en búsqueda (para hacer focus en el mapa). */
+  searchSelectedId: string | null;
+  onSearchSelect: (id: string | null) => void;
   onFullscreen?: () => void;
   onCollapse?: () => void;
   isFullscreen?: boolean;
@@ -25,6 +33,7 @@ const typeFilterOptions: { value: string; label: string }[] = [
   { value: 'president', label: 'Presidentes' },
   { value: 'vice_president', label: 'Vicepresidentes' },
   { value: 'presidential_candidate', label: 'Candidatos presidenciales' },
+  { value: 'vp_candidate', label: 'Candidatos a vicepresidente' },
   { value: 'senator', label: 'Senadores' },
   { value: 'representative', label: 'Representantes' },
   { value: 'governor', label: 'Gobernadores' },
@@ -39,6 +48,9 @@ export function CompassSidebar({
   filterParty,
   onFilterPartyChange,
   parties,
+  searchEntities,
+  searchSelectedId,
+  onSearchSelect,
   onFullscreen,
   onCollapse,
   isFullscreen = false,
@@ -46,6 +58,39 @@ export function CompassSidebar({
   const toggle = (key: keyof CompassLayerState) => {
     onLayerChange({ ...layers, [key]: !layers[key] });
   };
+
+  const [searchQuery, setSearchQuery] = useState('');
+  const [isSearchOpen, setIsSearchOpen] = useState(false);
+  const searchRef = useRef<HTMLDivElement>(null);
+
+  const normalize = (s: string) =>
+    s
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '');
+
+  const searchResults = useMemo(() => {
+    const q = normalize(searchQuery.trim());
+    if (!q) return [];
+    return searchEntities
+      .filter((e) => normalize(e.displayName).includes(q))
+      .slice(0, 12);
+  }, [searchQuery, searchEntities]);
+
+  // Close dropdown on outside click
+  useEffect(() => {
+    const handler = (e: MouseEvent) => {
+      if (searchRef.current && !searchRef.current.contains(e.target as Node)) {
+        setIsSearchOpen(false);
+      }
+    };
+    document.addEventListener('mousedown', handler);
+    return () => document.removeEventListener('mousedown', handler);
+  }, []);
+
+  const selectedEntity = searchSelectedId
+    ? searchEntities.find((e) => e.id === searchSelectedId)
+    : null;
 
   return (
     <aside className="compass-sidebar" aria-label="Controles del mapa">
@@ -78,6 +123,71 @@ export function CompassSidebar({
         </div>
       </div>
 
+      {/* Buscador */}
+      <div className="compass-sidebar-section" ref={searchRef}>
+        <div className="compass-sidebar-section-title">Buscar</div>
+        <div className="compass-sidebar-search">
+          <input
+            type="search"
+            className="compass-sidebar-search-input"
+            placeholder="Nombre de la figura..."
+            value={searchQuery}
+            onChange={(e) => {
+              setSearchQuery(e.target.value);
+              setIsSearchOpen(true);
+            }}
+            onFocus={() => setIsSearchOpen(true)}
+            aria-label="Buscar figura política"
+          />
+          {searchSelectedId && (
+            <button
+              type="button"
+              className="compass-sidebar-search-clear"
+              onClick={() => {
+                onSearchSelect(null);
+                setSearchQuery('');
+              }}
+              aria-label="Limpiar selección"
+              title="Limpiar"
+            >
+              ×
+            </button>
+          )}
+        </div>
+        {isSearchOpen && searchResults.length > 0 && (
+          <ul className="compass-sidebar-search-results" role="listbox">
+            {searchResults.map((e) => (
+              <li key={e.id} role="option" aria-selected={searchSelectedId === e.id}>
+                <button
+                  type="button"
+                  className="compass-sidebar-search-result"
+                  onClick={() => {
+                    onSearchSelect(e.id);
+                    setSearchQuery(e.displayName);
+                    setIsSearchOpen(false);
+                  }}
+                >
+                  <span className="compass-sidebar-search-name">{e.displayName}</span>
+                  <span className="compass-sidebar-search-type">
+                    {entityTypeLabel(e.type)}
+                  </span>
+                </button>
+              </li>
+            ))}
+          </ul>
+        )}
+        {isSearchOpen && searchQuery.trim() && searchResults.length === 0 && (
+          <p className="compass-sidebar-hint" style={{ marginTop: 6 }}>
+            Sin resultados para "{searchQuery}"
+          </p>
+        )}
+        {selectedEntity && !isSearchOpen && (
+          <p className="compass-sidebar-hint" style={{ marginTop: 6, color: 'var(--ink-soft)' }}>
+            Seleccionado: <strong>{selectedEntity.displayName}</strong>
+          </p>
+        )}
+      </div>
+
       {/* Capas */}
       <div className="compass-sidebar-section">
         <div className="compass-sidebar-section-title">Capas</div>
@@ -107,6 +217,15 @@ export function CompassSidebar({
           />
           <span className="compass-sidebar-arrow" />
           Flechas
+        </label>
+        <label className="compass-sidebar-check">
+          <input
+            type="checkbox"
+            checked={layers.parties}
+            onChange={() => toggle('parties')}
+          />
+          <span className="compass-sidebar-diamond" />
+          Partidos
         </label>
       </div>
 
@@ -159,7 +278,13 @@ export function CompassSidebar({
             <span>Distancia discurso ↔ acción</span>
           </div>
         )}
-        {!layers.selfPerceived && !layers.evidenced && !layers.arrows && (
+        {layers.parties && (
+          <div className="compass-sidebar-guide-item">
+            <span className="compass-sidebar-diamond" />
+            <span>Posición del partido</span>
+          </div>
+        )}
+        {!layers.selfPerceived && !layers.evidenced && !layers.arrows && !layers.parties && (
           <p className="compass-sidebar-hint">
             Active una capa para ver la guía
           </p>

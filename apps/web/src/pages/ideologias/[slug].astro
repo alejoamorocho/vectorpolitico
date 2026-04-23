@@ -27,6 +27,17 @@ const quadrantLabels: Record<string, string> = {
   lib_left: 'Libertario · Izquierda',
   lib_right: 'Libertario · Derecha',
 };
+
+// Resolve related ideology IDs to full objects for linking
+const relatedIdeologies = (ide.relatedIdeologies ?? [])
+  .map((relId) => getIdeologyBySlug(relId))
+  .filter((r): r is NonNullable<typeof r> => r !== undefined);
+
+// Split longDescription into paragraphs for editorial flow
+const longParagraphs = (ide.longDescription ?? '')
+  .split(/\n\s*\n/)
+  .map((p) => p.trim())
+  .filter((p) => p.length > 0);
 ---
 
 <BaseLayout title={ide.name} description={ide.description.slice(0, 160)}>
@@ -45,11 +56,42 @@ const quadrantLabels: Record<string, string> = {
       <p class="section-byline section-byline--sm mt-4" style="font-family: var(--font-mono); font-style: normal;">
         ({ide.x.toFixed(1)}, {ide.y.toFixed(1)}) · {ide.width.toFixed(1)}×{ide.height.toFixed(1)}
       </p>
+      {ide.wikipediaUrl && (
+        <p class="section-byline section-byline--sm" style="margin-top: 0.75rem;">
+          <a href={ide.wikipediaUrl} target="_blank" rel="noopener noreferrer" style="color: var(--ink-soft); text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 3px;">
+            → Wikipedia
+          </a>
+        </p>
+      )}
     </div>
   </div>
 
   <article class="mx-auto max-w-[900px] px-6">
     <p class="dropcap prose-editorial">{ide.description}</p>
+
+    {longParagraphs.length > 0 && (
+      <section style="margin-top: 2rem;">
+        {longParagraphs.map((p) => (
+          <p class="prose-editorial" style="font-family: var(--font-serif); font-size: 18px; line-height: 1.75; color: var(--ink-soft); margin-bottom: 1.25rem;">
+            {p}
+          </p>
+        ))}
+      </section>
+    )}
+
+    {ide.historicalContext && (
+      <>
+        <div class="rule-ornament">
+          <span class="rule-ornament-glyph">⁂</span>
+        </div>
+        <section>
+          <p class="section-kicker mb-3">Contexto histórico</p>
+          <p class="prose-editorial" style="font-family: var(--font-serif); font-size: 18px; line-height: 1.75; color: var(--ink-soft);">
+            {ide.historicalContext}
+          </p>
+        </section>
+      </>
+    )}
 
     {ide.keyThinkers && ide.keyThinkers.length > 0 && (
       <>
@@ -84,6 +126,63 @@ const quadrantLabels: Record<string, string> = {
                 <p style="font-family: var(--font-serif); font-size: 17px; color: var(--ink-soft); margin: 0;">
                   {ex}
                 </p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </>
+    )}
+
+    {relatedIdeologies.length > 0 && (
+      <>
+        <div class="rule-ornament">
+          <span class="rule-ornament-glyph">✦</span>
+        </div>
+        <section>
+          <p class="section-kicker mb-3">Ideologías relacionadas</p>
+          <ul style="list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 8px 12px;">
+            {relatedIdeologies.map((rel) => (
+              <li>
+                <a
+                  href={`/ideologias/${rel.id}`}
+                  style={`display: inline-block; padding: 6px 14px; border: 1px solid var(--rule); color: var(--ink); text-decoration: none; font-family: var(--font-serif); font-size: 15px; font-style: italic; transition: background 150ms ease, border-color 150ms ease;`}
+                  onmouseover="this.style.background='var(--paper-deep)'; this.style.borderColor='var(--ink-faint)';"
+                  onmouseout="this.style.background=''; this.style.borderColor='var(--rule)';"
+                >
+                  {rel.name}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </>
+    )}
+
+    {ide.externalLinks && ide.externalLinks.length > 0 && (
+      <>
+        <div class="rule-ornament">
+          <span class="rule-ornament-glyph">✎</span>
+        </div>
+        <section>
+          <p class="section-kicker mb-3">Lecturas sugeridas</p>
+          <ul style="list-style: none; padding: 0;">
+            {ide.externalLinks.map((link) => (
+              <li class="py-3" style="border-bottom: 1px solid var(--rule);">
+                <a
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style="text-decoration: none; color: var(--ink);"
+                >
+                  <p style="font-family: var(--font-display); font-size: 18px; font-weight: 500; margin: 0; color: var(--ink);">
+                    {link.title}
+                  </p>
+                  {link.outlet && (
+                    <p class="section-byline section-byline--sm" style="margin-top: 4px;">
+                      <em>{link.outlet}</em>
+                    </p>
+                  )}
+                </a>
               </li>
             ))}
           </ul>

@@ -1,12 +1,13 @@
-import { useRef, useState, useMemo, useEffect, useCallback } from 'react';
-import type { Ideology, EntitySummary } from '@brujula/schema';
+import { useRef, useState, useMemo, useEffect, useCallback, type MouseEvent as ReactMouseEvent } from 'react';
+import type { Ideology, EntitySummary, Party } from '@brujula/schema';
 import { entityTypeLabel } from '@/lib/i18n';
 import { createScales } from './lib/projection';
 import { useCompassZoom } from './hooks/useCompassZoom';
 import { useCompassDimensions } from './hooks/useCompassDimensions';
 import { IdeologyGrid } from './layers/IdeologyGrid';
 import { EntityPoints } from './layers/EntityPoints';
-import { Axes } from './layers/Axes';
+import { PartyPoints } from './layers/PartyPoints';
+import { AxisLines, AxisLabels } from './layers/Axes';
 type CompassLayers = {
   grid: boolean;
   axes: boolean;
@@ -15,11 +16,13 @@ type CompassLayers = {
   quadrantLabels: boolean;
   showSelfPerceived?: boolean;
   showEvidenced?: boolean;
+  showParties?: boolean;
 };
 
 type CompassProps = {
   ideologies: Ideology[];
   entities: EntitySummary[];
+  parties?: Party[];
   /** Tamaño fijo opcional. Si no se provee, se adapta al contenedor. */
   fixedSize?: number;
   /** Si true, no permite zoom ni interacción (mini-compass). */
@@ -34,10 +37,12 @@ type CompassProps = {
   onIdeologyClick?: (id: string) => void;
   /** Click en una figura. */
   onEntityClick?: (entityId: string) => void;
+  /** Click en un partido (diamante). */
+  onPartyClick?: (partyId: string) => void;
 };
 
 type TooltipState = {
-  kind: 'entity' | 'ideology';
+  kind: 'entity' | 'ideology' | 'party';
   x: number;
   y: number;
   title: string;
@@ -51,11 +56,13 @@ const DEFAULT_LAYERS: CompassLayers = {
   entities: true,
   arrows: true,
   quadrantLabels: true,
+  showParties: true,
 };
 
 export default function Compass({
   ideologies,
   entities,
+  parties = [],
   fixedSize,
   readOnly = false,
   modalMode = false,
@@ -63,6 +70,7 @@ export default function Compass({
   layers = DEFAULT_LAYERS,
   onIdeologyClick,
   onEntityClick,
+  onPartyClick,
 }: CompassProps) {
   const svgRef = useRef<SVGSVGElement>(null);
   const wrapRef = useRef<HTMLDivElement>(null);
@@ -70,23 +78,14 @@ export default function Compass({
   const size = fixedSize ?? dynamicSize;
 
   const scales = useMemo(() => createScales(size), [size]);
-  const [showScrollHint, setShowScrollHint] = useState(false);
-  const scrollHintTimer = useRef<ReturnType<typeof setTimeout>>();
-
-  const handleScrollHint = useCallback(() => {
-    setShowScrollHint(true);
-    clearTimeout(scrollHintTimer.current);
-    scrollHintTimer.current = setTimeout(() => setShowScrollHint(false), 2000);
-  }, []);
-
-  const { transform, reset, zoomIn, zoomOut } = useCompassZoom(svgRef, {
+  const { transform, isActive, justActivatedRef, reset, zoomIn, zoomOut } = useCompassZoom(svgRef, {
     minScale: 1,
     maxScale: 12,
-    onScrollHint: handleScrollHint,
   });
 
   const [tooltip, setTooltip] = useState<TooltipState>(null);
   const [focusedId, setFocusedId] = useState<string | null>(null);
+  const [focusedPartyId, setFocusedPartyId] = useState<string | null>(null);
 
   useEffect(() => {
     if (focusedId && !entities.some((e) => e.id === focusedId)) {
@@ -137,16 +136,52 @@ export default function Compass({
   const handleEntityClickInternal = useCallback(
     (id: string) => {
       if (readOnly) return;
+      // Suppress navigation on the click that just activated the map
+      if (modalMode && justActivatedRef.current) return;
       onEntityClick?.(id);
     },
-    [readOnly, onEntityClick],
+    [readOnly, modalMode, justActivatedRef, onEntityClick],
   );
 
   const handleIdeologyClickInternal = useCallback(
     (id: string) => {
+      if (modalMode && justActivatedRef.current) return;
       onIdeologyClick?.(id);
     },
-    [onIdeologyClick],
+    [modalMode, justActivatedRef, onIdeologyClick],
+  );
+
+  const handlePartyClickInternal = useCallback(
+    (id: string) => {
+      if (readOnly) return;
+      if (modalMode && justActivatedRef.current) return;
+      onPartyClick?.(id);
+    },
+    [readOnly, modalMode, justActivatedRef, onPartyClick],
+  );
+
+  const handlePartyHover = useCallback(
+    (party: Party | null, ev?: ReactMouseEvent) => {
+      if (!party || !ev) {
+        setTooltip(null);
+        setFocusedPartyId(null);
+        return;
+      }
+      const rect = wrapRef.current?.getBoundingClientRect();
+      if (!rect) return;
+      setFocusedPartyId(party.id);
+      setTooltip({
+        kind: 'party',
+        x: ev.clientX - rect.left,
+        y: ev.clientY - rect.top,
+        title: party.name,
+        subtitle: 'Partido',
+        meta: party.compassPosition
+          ? [`(${party.compassPosition.x.toFixed(1)}, ${party.compassPosition.y.toFixed(1)})`]
+          : undefined,
+      });
+    },
+    [],
   );
 
   const isClickable = !modalMode && !readOnly && !!onExpand;
@@ -156,7 +191,7 @@ export default function Compass({
       ref={containerRef}
       className={`compass-wrap ${isClickable ? 'compass-wrap--clickable' : ''} ${
         modalMode ? 'compass-wrap--modal' : ''
-      }`}
+      } ${isActive ? 'compass-wrap--active' : ''}`}
       style={{ position: 'relative', width: '100%' }}
       onClick={handleContainerClick}
     >
@@ -200,6 +235,11 @@ export default function Compass({
           <g
             transform={`translate(${transform.x},${transform.y}) scale(${transform.k})`}
           >
+            {/* 1. Axis lines — below the grid so cells cover them */}
+            {layers.axes && (
+              <AxisLines scales={scales} size={size} />
+            )}
+            {/* 2. Ideology grid — paints on top of axis lines */}
             {layers.grid && (
               <IdeologyGrid
                 ideologies={ideologies}
@@ -209,13 +249,26 @@ export default function Compass({
                 onIdeologyClick={modalMode ? handleIdeologyClickInternal : undefined}
               />
             )}
+            {/* 3. Axis labels — on top of grid, readable via paint-order halo */}
             {layers.axes && (
-              <Axes
+              <AxisLabels
                 scales={scales}
                 size={size}
                 showQuadrantLabels={layers.quadrantLabels}
               />
             )}
+            {/* 4. Party diamonds — below entity points, above grid */}
+            {layers.showParties && parties.length > 0 && (
+              <PartyPoints
+                parties={parties}
+                scales={scales}
+                zoomK={transform.k}
+                focusedId={focusedPartyId}
+                onHover={handlePartyHover}
+                onClick={handlePartyClickInternal}
+              />
+            )}
+            {/* 5. Entity points — topmost interactive layer */}
             {layers.entities && (
               <EntityPoints
                 entities={entities}
@@ -309,33 +362,13 @@ export default function Compass({
         )}
       </div>
 
-      {/* Scroll hint overlay */}
-      {showScrollHint && (
+      {/* Activation hint — shown when map is inactive in modal mode */}
+      {modalMode && !isActive && (
         <div
-          style={{
-            position: 'absolute',
-            inset: 0,
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            background: 'rgb(26 21 16 / 0.6)',
-            zIndex: 20,
-            pointerEvents: 'none',
-            animation: 'tooltip-in 180ms ease-out',
-          }}
+          className="compass-activation-hint"
         >
-          <p
-            style={{
-              color: '#fdfaf1',
-              fontFamily: 'var(--font-serif)',
-              fontSize: 14,
-              fontStyle: 'italic',
-              background: 'rgb(26 21 16 / 0.85)',
-              padding: '10px 20px',
-              border: '1px solid rgba(212 202 176 / 0.3)',
-            }}
-          >
-            Usa <strong>Ctrl + scroll</strong> para hacer zoom en el mapa
+          <p>
+            Haz click en el mapa para interactuar
           </p>
         </div>
       )}

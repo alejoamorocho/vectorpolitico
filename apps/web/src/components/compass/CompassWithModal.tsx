@@ -10,9 +10,10 @@ type Props = {
 };
 
 const INITIAL_LAYERS: CompassLayerState = {
-  selfPerceived: false,
-  evidenced: false,
-  arrows: false,
+  selfPerceived: true,
+  evidenced: true,
+  arrows: true,
+  parties: true,
 };
 
 export default function CompassWithModal({ ideologies, entities, parties }: Props) {
@@ -21,20 +22,35 @@ export default function CompassWithModal({ ideologies, entities, parties }: Prop
   const [layers, setLayers] = useState<CompassLayerState>(INITIAL_LAYERS);
   const [filterType, setFilterType] = useState('all');
   const [filterParty, setFilterParty] = useState('all');
+  const [searchSelectedId, setSearchSelectedId] = useState<string | null>(null);
 
   const filteredEntities = useMemo(() => {
     return entities.filter((e) => {
+      // When a search result is selected, bypass all other filters for that entity
+      if (searchSelectedId && e.id === searchSelectedId) return true;
       if (filterType !== 'all' && e.type !== filterType) return false;
       if (filterParty !== 'all' && e.party !== filterParty) return false;
       return true;
     });
-  }, [entities, filterType, filterParty]);
+  }, [entities, filterType, filterParty, searchSelectedId]);
 
   // Only show entities if at least one point layer is active
   const visibleEntities = useMemo(() => {
     if (!layers.selfPerceived && !layers.evidenced) return [];
+    // When a search result is selected, show ONLY that entity for focus
+    if (searchSelectedId) {
+      const only = filteredEntities.filter((e) => e.id === searchSelectedId);
+      if (only.length > 0) return only;
+    }
     return filteredEntities;
-  }, [filteredEntities, layers.selfPerceived, layers.evidenced]);
+  }, [filteredEntities, layers.selfPerceived, layers.evidenced, searchSelectedId]);
+
+  // Filter parties based on selected filterParty
+  const visibleParties = useMemo(() => {
+    if (!layers.parties) return [];
+    if (filterParty === 'all') return parties;
+    return parties.filter((p) => p.id === filterParty);
+  }, [parties, filterParty, layers.parties]);
 
   const compassLayers = useMemo(
     () => ({
@@ -45,6 +61,7 @@ export default function CompassWithModal({ ideologies, entities, parties }: Prop
       quadrantLabels: true,
       showSelfPerceived: layers.selfPerceived,
       showEvidenced: layers.evidenced,
+      showParties: layers.parties,
     }),
     [layers],
   );
@@ -80,6 +97,10 @@ export default function CompassWithModal({ ideologies, entities, parties }: Prop
     window.location.href = `/figuras/${id}`;
   };
 
+  const handlePartyClick = (id: string) => {
+    window.location.href = `/partidos/${id}`;
+  };
+
   return (
     <div
       ref={containerRef}
@@ -93,6 +114,9 @@ export default function CompassWithModal({ ideologies, entities, parties }: Prop
         filterParty={filterParty}
         onFilterPartyChange={setFilterParty}
         parties={parties}
+        searchEntities={entities}
+        searchSelectedId={searchSelectedId}
+        onSearchSelect={setSearchSelectedId}
         onFullscreen={enterFullscreen}
         onCollapse={exitFullscreen}
         isFullscreen={isFullscreen}
@@ -101,10 +125,12 @@ export default function CompassWithModal({ ideologies, entities, parties }: Prop
         <Compass
           ideologies={ideologies}
           entities={visibleEntities}
+          parties={visibleParties}
           modalMode={true}
           layers={compassLayers}
           onIdeologyClick={handleIdeologyClick}
           onEntityClick={handleEntityClick}
+          onPartyClick={handlePartyClick}
         />
       </div>
     </div>

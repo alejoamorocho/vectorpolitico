@@ -505,11 +505,42 @@ a:hover { text-decoration-color: var(--ink); }
   touch-action: none;
 }
 
+/* Always show grab cursor on modal compass — single-gesture activate+drag */
 .compass-wrap--modal svg {
   cursor: grab;
 }
 
 .compass-wrap--modal svg:active { cursor: grabbing; }
+
+/* Active state — visible border when map is "selected" for interaction */
+.compass-wrap--active {
+  outline: 2.5px solid var(--accent, #1e3556);
+  outline-offset: -2.5px;
+  z-index: 1;
+}
+
+/* Activation hint overlay */
+.compass-activation-hint {
+  position: absolute;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  pointer-events: none;
+  z-index: 20;
+  animation: tooltip-in 180ms ease-out;
+}
+
+.compass-activation-hint p {
+  color: #fdfaf1;
+  font-family: var(--font-serif);
+  font-size: 13px;
+  font-style: italic;
+  background: rgb(26 21 16 / 0.8);
+  padding: 8px 18px;
+  border: 1px solid rgba(212 202 176 / 0.3);
+  white-space: nowrap;
+  margin: 0;
+}
 
 .compass-cell {
   transition: filter 180ms ease;
@@ -771,6 +802,115 @@ a:hover { text-decoration-color: var(--ink); }
   height: 0;
   border-top: 1.5px solid #3d3d3d;
   flex-shrink: 0;
+}
+
+.compass-sidebar-diamond {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  background: linear-gradient(135deg, #dc2626 50%, #1e40af 50%);
+  border: 1px solid #1a1510;
+  transform: rotate(45deg);
+  flex-shrink: 0;
+  margin-right: 2px;
+}
+
+/* ── Buscador en sidebar ── */
+.compass-sidebar-search {
+  position: relative;
+}
+
+.compass-sidebar-search-input {
+  width: 100%;
+  padding: 7px 28px 7px 10px;
+  font-family: var(--font-serif);
+  font-size: 13px;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  color: var(--ink);
+  outline: none;
+  transition: border-color 150ms ease;
+}
+
+.compass-sidebar-search-input:focus {
+  border-color: var(--ink-mute);
+}
+
+.compass-sidebar-search-input::placeholder {
+  color: var(--ink-faint);
+  font-style: italic;
+}
+
+.compass-sidebar-search-clear {
+  position: absolute;
+  top: 50%;
+  right: 6px;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  color: var(--ink-soft);
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0;
+}
+
+.compass-sidebar-search-clear:hover {
+  color: var(--ink);
+}
+
+.compass-sidebar-search-results {
+  list-style: none;
+  padding: 0;
+  margin: 4px 0 0 0;
+  max-height: 260px;
+  overflow-y: auto;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  box-shadow: var(--shadow-soft);
+}
+
+.compass-sidebar-search-result {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  padding: 7px 10px;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--rule-soft);
+  text-align: left;
+  cursor: pointer;
+  transition: background 120ms ease;
+}
+
+.compass-sidebar-search-result:last-child {
+  border-bottom: none;
+}
+
+.compass-sidebar-search-result:hover {
+  background: var(--paper-deep);
+}
+
+.compass-sidebar-search-name {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 13px;
+  color: var(--ink);
+}
+
+.compass-sidebar-search-type {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-soft);
 }
 
 .compass-sidebar-select {
