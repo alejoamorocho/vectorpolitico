@@ -10,10 +10,10 @@ type Props = {
 };
 
 const INITIAL_LAYERS: CompassLayerState = {
-  selfPerceived: true,
-  evidenced: true,
-  arrows: true,
-  parties: true,
+  selfPerceived: false,
+  evidenced: false,
+  arrows: false,
+  parties: false,
 };
 
 export default function CompassWithModal({ ideologies, entities, parties }: Props) {
