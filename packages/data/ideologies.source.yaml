@@ -230,13 +230,6 @@ quadrants:
               Régimen de Robert Mugabe en Zimbabue: nacionalismo africano, redistribución
               forzosa de tierras y autoritarismo de partido único.
             keyThinkers: ['Robert Mugabe']
-          - id: christian-democracy
-            name: 'Democracia cristiana'
-            nameEn: 'Christian Democracy'
-            weight: 2
-            description: >-
-              Corriente que combina doctrina social católica con política democrática,
-              defendiendo el Estado de bienestar y los valores tradicionales.
           - id: conservative-socialism
             name: 'Socialismo conservador'
             nameEn: 'Conservative Socialism'
@@ -250,13 +243,6 @@ quadrants:
             description: >-
               Movimiento cristiano protestante que aplica principios éticos del Evangelio
               a problemas sociales como pobreza y desigualdad.
-          - id: technocracy
-            name: 'Tecnocracia'
-            nameEn: 'Technocracy'
-            weight: 2
-            description: >-
-              Gobernanza por expertos técnicos y científicos en lugar de políticos
-              electos, con decisiones basadas en datos y eficiencia.
           - id: futurism
             name: 'Futurismo'
             nameEn: 'Futurism'
@@ -265,6 +251,20 @@ quadrants:
               Movimiento italiano de principios del siglo XX que glorificaba la velocidad,
               la tecnología y la violencia revolucionaria, precursor del fascismo.
             keyThinkers: ['Filippo Tommaso Marinetti']
+          - id: liberation-theology
+            name: 'Teología de la Liberación'
+            nameEn: 'Liberation Theology'
+            weight: 3
+            description: >-
+              Corriente teológica cristiana latinoamericana que interpreta la fe desde la
+              realidad de los pobres y oprimidos, promoviendo una transformación social
+              con énfasis en justicia estructural. En Colombia tuvo expresiones en
+              Camilo Torres (sacerdote y líder ELN fundador), el Grupo Golconda, las
+              Comunidades Eclesiales de Base y el obispo Pedro Casaldáliga en contexto
+              fronterizo. Combina compromiso religioso con transformación económica
+              de izquierda.
+            keyThinkers: ['Gustavo Gutiérrez', 'Leonardo Boff', 'Camilo Torres Restrepo']
+            historicalExamples: ['Grupo Golconda (Colombia, 1968)', 'Camilo Torres Restrepo']
 
       - name: populismo-colectivismo
         weight: 3
@@ -573,6 +573,36 @@ quadrants:
               democracia y bienestar del pueblo.
             keyThinkers: ['Sun Yat-sen', 'Chiang Kai-shek']
 
+      - name: democracia-cristiana-y-populismo
+        weight: 3
+        children:
+          - id: christian-democracy
+            name: 'Democracia Cristiana'
+            nameEn: 'Christian Democracy'
+            weight: 3
+            description: >-
+              Corriente política inspirada en la doctrina social de la Iglesia Católica
+              y el cristianismo social. Combina valores tradicionales con programa
+              social moderado y economía de mercado regulada. En Colombia tiene
+              expresión en el Movimiento Independiente de Renovación Absoluta (MIRA),
+              sectores evangélicos como Colombia Justa Libres, y raíces históricas
+              en el Partido Social Conservador. Ideología clave del espectro auth_right
+              moderado.
+            keyThinkers: ['Emmanuel Mounier', 'Jacques Maritain', 'Álvaro Leyva Durán']
+          - id: right-populism
+            name: 'Populismo de Derecha'
+            nameEn: 'Right-wing Populism'
+            weight: 3
+            description: >-
+              Movilización política que combina nacionalismo, oposición a la "élite
+              establecida" y apelación directa al pueblo, con programa económico
+              liberal o mixto y autoritarismo social. En Colombia tiene expresión en
+              la Liga de Gobernantes Anticorrupción (Rodolfo Hernández) y en sectores
+              del uribismo de base. Diferente del nationalist-conservatism por su
+              anti-establecimiento personalista.
+            keyThinkers: ['Alberto Fernández']
+            historicalExamples: ['Rodolfo Hernández (Colombia, 2022)', 'Álvaro Uribe (campañas 2002/2006)']
+
   # ═══════════════════════════════════════════════════════════════════
   # LIB LEFT — verde
   # ═══════════════════════════════════════════════════════════════════
@@ -685,6 +715,20 @@ quadrants:
               Sistema donde los medios son de propiedad social pero operan en mercados
               competitivos mediante cooperativas autogestionadas.
             keyThinkers: ['Oskar Lange']
+          - id: indigenous-communalism
+            name: 'Comunalismo Indígena'
+            nameEn: 'Indigenous Communalism'
+            weight: 3
+            description: >-
+              Sistema de organización política y económica basado en la autonomía
+              territorial, la propiedad colectiva (resguardos), el gobierno propio
+              mediante cabildos y asambleas, y la reciprocidad como principio
+              económico. En Colombia se encarna en organizaciones como el CRIC
+              (Consejo Regional Indígena del Cauca), la ONIC (Organización Nacional
+              Indígena de Colombia), la AICO y la Minga como forma de acción política.
+              Combina economía comunitaria con democracia deliberativa radical.
+            keyThinkers: ['Manuel Quintín Lame', 'Lorenzo Muelas']
+            historicalExamples: ['CRIC (1971-)', 'ONIC (1982-)', 'Minga Indígena 2008/2013/2019']
 
       - name: ecologismo-social
         weight: 3
@@ -980,14 +1024,6 @@ quadrants:
             description: >-
               Libertarismo aplicado a la era digital: criptomonedas, descentralización,
               rechazo a la regulación estatal del ciberespacio.
-          - id: geo-libertarianism
-            name: 'Geolibertarismo'
-            nameEn: 'Geo-Libertarianism'
-            weight: 2
-            description: >-
-              Síntesis libertaria con las ideas de Henry George: impuesto único al
-              valor de la tierra financia un Estado mínimo.
-            keyThinkers: ['Henry George']
           - id: georgism
             name: 'Georgismo'
             nameEn: 'Georgism'
@@ -1080,13 +1116,6 @@ quadrants:
             description: >-
               Visión que combina libre mercado con modificación tecnológica voluntaria
               de la especie humana mediante innovación privada.
-          - id: paleo-libertarianism-2
-            name: 'Paleo-conservadurismo libertario'
-            nameEn: 'Paleo-Libertarian Conservatism'
-            weight: 1
-            description: >-
-              Variante paleo que enfatiza tanto el libre mercado radical como la
-              defensa de tradiciones culturales locales.
           - id: centrelism
             name: 'Centrelismo'
             nameEn: 'Centr-elism'
@@ -1094,6 +1123,20 @@ quadrants:
             description: >-
               Posición política de centro pragmático sin compromiso ideológico fuerte
               con ninguno de los cuadrantes extremos.
+          - id: technocracy
+            name: 'Tecnocracia'
+            nameEn: 'Technocracy'
+            weight: 3
+            description: >-
+              Forma de gobierno o proyecto político basado en la toma de decisiones
+              por expertos técnicos (economistas, ingenieros) antes que por políticos
+              electos. En Colombia tiene expresión en proyectos como el de Sergio
+              Fajardo (Gobernador de Antioquia, alcalde de Medellín), Juan Manuel
+              Galán (Nuevo Liberalismo), y en figuras de centro con perfil técnico
+              (ex-ministros de hacienda, ex-directores del DANE). Enfatiza gobierno
+              basado en evidencia por encima de ideología.
+            keyThinkers: ['Thorstein Veblen', 'Howard Scott']
+            historicalExamples: ['Sergio Fajardo (Medellín 2004-2007)', 'Gobiernos Santos (2010-2018, tecnócratas)']
 
 # ──────────────────────────────────────────────────────────────────────
 # Aplicabilidad por país
@@ -1150,4 +1193,7 @@ applicable_to_country:
     - anarcho-capitalism
     - pink-capitalism
     - paleo-libertarianism
+    - liberation-theology
+    - indigenous-communalism
+    - right-populism
     - national-liberalism
