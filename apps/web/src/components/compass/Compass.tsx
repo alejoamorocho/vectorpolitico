@@ -81,6 +81,8 @@ export default function Compass({
   const { transform, isActive, justActivatedRef, reset, zoomIn, zoomOut } = useCompassZoom(svgRef, {
     minScale: 0.25,
     maxScale: 12,
+    contentWidth: size,
+    contentHeight: size,
   });
 
   const [tooltip, setTooltip] = useState<TooltipState>(null);
