@@ -249,7 +249,7 @@
     ],
     "compassSelfPerceived": {
       "x": 5.5,
-      "y": 2.0,
+      "y": 2,
       "justification": "Se autodefine como demócrata liberal, defensor de la seguridad nacional, la institucionalidad, el libre mercado con reglas claras y la alianza estratégica con Estados Unidos. Promueve una visión centrista-derecha con énfasis en seguridad y competitividad.",
       "sources": [
         {
@@ -709,7 +709,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 4.0,
+      "x": 4,
       "y": 2.5,
       "justification": "Se autodefine como mujer independiente, educadora y gestora pública afrocolombiana, con una agenda centrada en educación, diversidad e inclusión, gobernanza ética y lucha anticorrupción. Se ubica a sí misma en el centro político, con énfasis en buenas prácticas y gestión técnica.",
       "sources": [
@@ -1159,7 +1159,7 @@
     ],
     "compassSelfPerceived": {
       "x": -5.5,
-      "y": -1,
+      "y": -1.5,
       "justification": "Se autodefine como maestro y dirigente sindical al servicio de la educación pública y de los derechos de los trabajadores. En su papel como expresidente de FECODE ha reivindicado la defensa del estatuto docente, la ampliación del sistema público educativo y un Estado con rol activo en garantizar derechos sociales. Se presenta como fórmula vicepresidencial de Carlos Caicedo bajo una plataforma de izquierda democrática, anticorrupción y reforma educativa.",
       "sources": [
         {
@@ -1710,8 +1710,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 4.5,
-      "y": 3.5,
+      "x": 5.5,
+      "y": 4.5,
       "justification": "Se presenta como fórmula vicepresidencial de Miguel Uribe Londoño bajo el Partido Demócrata Colombiano. La plataforma combina defensa del libre mercado, reducción del tamaño del Estado, seguridad ciudadana con enfoque duro, y valores tradicionales (familia, propiedad privada). Se identifica con la derecha autoritaria en el espectro ideológico colombiano.",
       "sources": [
         {
@@ -1723,8 +1723,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 5,
-      "y": 4,
+      "x": 7.5,
+      "y": 5,
       "confidence": "low",
       "justification": "Análisis metodológico del proyecto: Sin cargos previos documentados públicamente, la evaluación se basa en la plataforma de la campaña de Miguel Uribe Londoño, que se inscribe en la tradición uribista: defensa de fuerzas armadas y política de seguridad democrática, oposición a la JEP, libre mercado con énfasis en reducción tributaria empresarial, valores conservadores en agenda social. La confianza es baja por ausencia de historial propio verificable.",
       "sources": [
