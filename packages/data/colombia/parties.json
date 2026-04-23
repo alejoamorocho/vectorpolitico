@@ -752,9 +752,9 @@
       "fiscal-conservatism"
     ],
     "compassPosition": {
-      "x": 6.5,
+      "x": 6.0,
       "y": -1.0,
-      "justification": "Según sus estatutos, Cambio Radical se define como de centro, radical-liberal, con énfasis en reforma institucional, modernización estatal, participación ciudadana, defensa de pequeña y mediana empresa y economía solidaria. Ajuste post-Fase 1.5: reubicado a (6.5, -1.0) en national-liberalism (cuadrante lib_right). El partido es fundamentalmente pro-mercado moderado con dimensión nacionalista de seguridad y desarrollo local (Vargas Lleras), no autoritario-capitalista puro.",
+      "justification": "Según sus estatutos, Cambio Radical se define como de centro, radical-liberal, con énfasis en reforma institucional, modernización estatal, participación ciudadana, defensa de pequeña y mediana empresa y economía solidaria. Reubicado a (6.0, -1.0) en national-liberalism (cuadrante lib_right). El partido es fundamentalmente pro-mercado moderado con dimensión nacionalista de seguridad y desarrollo local (Vargas Lleras), no autoritario-capitalista puro.",
       "sources": [
         {
           "url": "https://www.cambioradical.com.co",
@@ -2052,8 +2052,8 @@
     ],
     "compassPosition": {
       "x": 5.5,
-      "y": 7.5,
-      "justification": "Según sus documentos constitutivos, Salvación Nacional se define como de derecha, conservador, con énfasis en orden público, seguridad, defensa institucional y valores tradicionales.",
+      "y": 6.0,
+      "justification": "Según sus documentos constitutivos, Salvación Nacional se define como de derecha, conservador, con énfasis en orden público, seguridad, defensa institucional y valores tradicionales. Reubicado a (5.5, 6.0) en traditionalist-conservatism (ideología principal declarada) en vez de right-populism — el movimiento es más conservadurismo tradicionalista gomista que populismo personalista de derecha.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/Salvación_Nacional",
