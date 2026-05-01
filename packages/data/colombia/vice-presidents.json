@@ -1,0 +1,516 @@
+[
+  {
+    "id": "marta-lucia-ramirez",
+    "country": "co",
+    "type": "vice_president",
+    "fullName": "Marta Lucía Ramírez de Rincón",
+    "displayName": "Marta Lucía Ramírez",
+    "party": "partido-conservador",
+    "periods": [
+      {
+        "role": "vice_president",
+        "startDate": "2018-08-07",
+        "endDate": "2022-08-07"
+      },
+      {
+        "role": "senator",
+        "startDate": "2006-07-20",
+        "endDate": "2009-07-20"
+      },
+      {
+        "role": "presidential_candidate",
+        "startDate": "2013-06-01",
+        "endDate": "2014-06-15"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": 5.5,
+      "y": 3.8,
+      "justification": "Se autodefine como demócrata cristiana, defensora del libre mercado con responsabilidad social, de la seguridad democrática y de los valores de la familia tradicional. En sus declaraciones oficiales enfatiza el respeto institucional, la equidad de género desde una visión cristiana y la libertad empresarial como motor del desarrollo.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Marta_Luc%C3%ADa_Ram%C3%ADrez",
+          "title": "Marta Lucía Ramírez — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-01-15"
+        },
+        {
+          "url": "https://partidoconservador.com/",
+          "title": "Partido Conservador Colombiano — sitio oficial",
+          "outlet": "Partido Conservador",
+          "date": "2022-06-01"
+        },
+        {
+          "url": "https://web.archive.org/web/2022/https://mlramirez.co",
+          "title": "Sitio de campaña Marta Lucía Ramírez (archivado)",
+          "outlet": "Campaña Marta Lucía Ramírez",
+          "date": "2018-05-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 5.8,
+      "y": 4.2,
+      "confidence": "high",
+      "justification": "Análisis metodológico del proyecto: Como Ministra de Defensa (2002-2003) impulsó la política de Seguridad Democrática y el aumento del pie de fuerza militar. Como senadora (2006-2010) votó favorablemente proyectos de reforma laboral, política fiscal pro-empresa y tratados de libre comercio. Como Vicepresidenta (2018-2022) ejerció la cancillería ad interim (2021-2022) alineando la política exterior con Estados Unidos y la OEA frente a Venezuela, impulsó la Consejería para la Equidad de la Mujer desde una visión conservadora cristiana (oposición al aborto, enfoque en familia), y defendió el pliego presupuestal de su gobierno priorizando gasto en defensa y subsidio empresarial sobre redistribución.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/marta-lucia-ramirez-de-rincon/5046/",
+          "title": "Votaciones Senadora Ramírez 2006-2010",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2010-07-20"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "Decretos y actos administrativos gobierno Duque 2018-2022",
+          "outlet": "SUIN-Juriscol",
+          "date": "2022-08-06"
+        },
+        {
+          "url": "https://www.cancilleria.gov.co",
+          "title": "Declaraciones oficiales como Canciller ad interim 2021-2022",
+          "outlet": "Ministerio de Relaciones Exteriores",
+          "date": "2022-06-01"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Informes de ejecución presupuestal Vicepresidencia 2018-2022",
+          "outlet": "Contraloría General de la República",
+          "date": "2022-12-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados electorales Senado 2006 y Presidencia 2014/2018",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2018-06-17"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": 6,
+        "marketPosition": 7,
+        "socialPolicy": 5,
+        "tradePolicy": 7,
+        "civilRights": 4,
+        "securityApproach": 6,
+        "socialRights": 4,
+        "powerConcentration": 3
+      }
+    },
+    "ideologies": [
+      "social-conservatism",
+      "christian-democracy",
+      "fiscal-conservatism",
+      "liberal-conservatism"
+    ],
+    "ideologySelf": "christian-democracy",
+    "ideologyEvidenced": "social-conservatism",
+    "bio": "Marta Lucía Ramírez de Rincón (1954, Zipaquirá) es abogada de la Universidad Javeriana con especialización en Derecho Comercial y Financiero. Fue Ministra de Comercio Exterior (2002) bajo Andrés Pastrana, Ministra de Defensa Nacional (2002-2003) bajo Álvaro Uribe — la primera mujer en ese cargo en Colombia —, Senadora por el Partido de la U (2006-2010), candidata presidencial del Partido Conservador en 2014 y Vicepresidenta de Colombia (2018-2022) bajo Iván Duque, ejerciendo también como Ministra de Relaciones Exteriores encargada (2021-2022). Su trayectoria combina gestión pública desde cargos ejecutivos con militancia conservadora cristiana y defensa de agenda pro-mercado.",
+    "incoherences": [
+      {
+        "id": "martaluciaramirez-panama-papers-2021",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Durante su gestión como Vicepresidenta ha promovido reiteradamente la lucha contra la corrupción y la transparencia, declarando que 'la transparencia es una prioridad del gobierno' y liderando la Misión de Transparencia.",
+          "source": {
+            "url": "https://web.archive.org/web/2021/https://mlr.vicepresidencia.gov.co/Paginas/Vicepresidenta.aspx",
+            "title": "Sitio oficial Vicepresidencia — gestión Marta Lucía Ramírez",
+            "outlet": "Vicepresidencia de la República",
+            "date": "2019-03-15",
+            "archived": "https://web.archive.org/web/2021/https://mlr.vicepresidencia.gov.co/Paginas/Vicepresidenta.aspx"
+          }
+        },
+        "action": {
+          "text": "En octubre de 2021 los Pandora Papers revelaron que la Vicepresidenta y su familia figuraban como beneficiarios de sociedades offshore en jurisdicciones de baja tributación. Ramírez reconoció la existencia de las estructuras y argumentó que fueron declaradas ante la DIAN, pero la revelación contrastó con su discurso público anti-corrupción y transparencia fiscal.",
+          "source": {
+            "url": "https://offshoreleaks.icij.org/investigations/pandora-papers",
+            "title": "Pandora Papers: Marta Lucía Ramírez y su esposo aparecen en la filtración",
+            "outlet": "ICIJ - International Consortium of Investigative Journalists (Pandora Papers Database)",
+            "date": "2021-10-03",
+            "archived": "https://web.archive.org/web/2021/https://offshoreleaks.icij.org/investigations/pandora-papers"
+          }
+        },
+        "nuances": "La Vicepresidenta defendió la legalidad de las estructuras y su registro ante autoridades tributarias. La incoherencia reside en la distancia entre el discurso público anti-corrupción y la participación en vehículos offshore característicos de la élite económica.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "martaluciaramirez-esmad-paro-2021",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Como Vicepresidenta y defensora de derechos de las mujeres, promovió públicamente el respeto a las libertades fundamentales, la protección de la protesta pacífica y el enfoque de derechos humanos del gobierno.",
+          "source": {
+            "url": "https://web.archive.org/web/2020/https://mlr.vicepresidencia.gov.co/prensa/",
+            "title": "Sala de prensa Vicepresidencia",
+            "outlet": "Vicepresidencia de la República",
+            "date": "2020-12-10",
+            "archived": "https://web.archive.org/web/2020/https://mlr.vicepresidencia.gov.co/prensa/"
+          }
+        },
+        "action": {
+          "text": "Durante el Paro Nacional 2021 el gobierno del que fue Vicepresidenta mantuvo el uso del ESMAD en condiciones que HRW, la CIDH, la ONU y la Defensoría del Pueblo documentaron como violaciones graves de derechos humanos — muertes, lesiones oculares, detenciones arbitrarias, violencia sexual. Ramírez no se apartó públicamente de estas decisiones y defendió la acción de la fuerza pública.",
+          "source": {
+            "url": "https://www.ohchr.org/es/2019/07/un-human-rights-report-venezuela-urges-immediate-measures-halt-and-remedy-grave-rights",
+            "title": "Colombia: Brutalidad policial durante las protestas",
+            "outlet": "OACNUDH - Oficina del Alto Comisionado de Naciones Unidas para los Derechos Humanos",
+            "date": "2021-06-25",
+            "archived": "https://web.archive.org/web/2021/https://www.defensoria.gov.co/-/paro-nacional-defensor%C3%ADa-recibir%C3%A1-denuncias-de-periodistas-y-reporteros-gr%C3%A1ficos-atacados"
+          }
+        },
+        "nuances": "La responsabilidad directa sobre el mando de la fuerza pública recae en el Ministerio de Defensa y la Presidencia, no en la Vicepresidencia. La incoherencia es de posicionamiento público y respaldo político a decisiones cuestionadas.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "martaluciaramirez-equidad-mujer-aborto-2018",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Como cabeza de la Alta Consejería para la Equidad de la Mujer (2018-2022) declaró que promovería la igualdad de género, la autonomía y la participación política de las mujeres.",
+          "source": {
+            "url": "https://web.archive.org/web/2019/https://www.equidadmujer.gov.co",
+            "title": "Consejería Presidencial para la Equidad de la Mujer",
+            "outlet": "Vicepresidencia de la República",
+            "date": "2019-03-08",
+            "archived": "https://web.archive.org/web/2019/https://www.equidadmujer.gov.co"
+          }
+        },
+        "action": {
+          "text": "Mantuvo una posición pública de rechazo al aborto incluso en las tres causales avaladas por la Corte Constitucional desde 2006 (Sentencia C-355/06), y se opuso a la Sentencia C-055/22 que despenalizó el aborto hasta la semana 24, calificando el fallo como un 'retroceso' para la familia. Esto contradice el estándar internacional de autonomía reproductiva que acompaña a las agendas de equidad de género.",
+          "source": {
+            "url": "https://www.corteconstitucional.gov.co/relatoria/2022/C-055-22.htm",
+            "title": "Sentencia C-055 de 2022 — despenalización del aborto hasta la semana 24",
+            "outlet": "Corte Constitucional de Colombia",
+            "date": "2022-02-21",
+            "archived": "https://web.archive.org/web/2022/https://www.corteconstitucional.gov.co/relatoria/2022/C-055-22.htm"
+          }
+        },
+        "nuances": "La postura es consistente con su ideología cristiana-conservadora declarada. La incoherencia es entre el rol institucional de 'equidad de la mujer' — que a nivel internacional incluye derechos reproductivos — y su agenda personal conservadora.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      }
+    ],
+    "lastUpdated": "2026-04-15",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelfAssignment": {
+      "ideologyId": "christian-democracy",
+      "justification": "Posición autopercibida (5.5, 3.8) mapeada a 'Democracia cristiana' (centro -8.889, 0.714), la ideología del mismo cuadrante más cercana. Se autodefine como demócrata cristiana, defensora del libre mercado con responsabilidad social, de la seguridad democrática y de los valores de la familia tradicional. En sus declaraciones oficiales enfatiza el respeto institucional, la equidad de género desde una visión cristiana y la libertad empresarial como motor del desarrollo.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Marta_Luc%C3%ADa_Ram%C3%ADrez",
+          "title": "Marta Lucía Ramírez — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-01-15"
+        },
+        {
+          "url": "https://partidoconservador.com/",
+          "title": "Partido Conservador Colombiano — sitio oficial",
+          "outlet": "Partido Conservador",
+          "date": "2022-06-01"
+        },
+        {
+          "url": "https://web.archive.org/web/2022/https://mlramirez.co",
+          "title": "Sitio de campaña Marta Lucía Ramírez (archivado)",
+          "outlet": "Campaña Marta Lucía Ramírez",
+          "date": "2018-05-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-conservatism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (5.8, 4.2) mapeada a 'Conservadurismo social' (centro 4.444, 2.143), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Democracia cristiana) es 13.4 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Como Ministra de Defensa (2002-2003) impulsó la política de Seguridad Democrática y el aumento del pie de fuerza militar. Como senadora (2006-2010) votó favorablemente proyectos de reforma laboral, política fiscal pro-empresa y tratados de libre comercio. Como Vicepresidenta (2018-2022) ejerció la cancillería ad interim (2021-2022) alineando la política exterior con Estados Unidos y la OEA frente a Venezuela, impulsó la Consejería para la Equidad de la Mujer desde una visión conservadora cristiana (oposición al aborto, enfoque en familia), y defendió el pliego presupuestal de su gobierno priorizando gasto en defensa y subsidio empresarial sobre redistribuc",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/marta-lucia-ramirez-de-rincon/5046/",
+          "title": "Votaciones Senadora Ramírez 2006-2010",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2010-07-20"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "Decretos y actos administrativos gobierno Duque 2018-2022",
+          "outlet": "SUIN-Juriscol",
+          "date": "2022-08-06"
+        },
+        {
+          "url": "https://www.cancilleria.gov.co",
+          "title": "Declaraciones oficiales como Canciller ad interim 2021-2022",
+          "outlet": "Ministerio de Relaciones Exteriores",
+          "date": "2022-06-01"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Informes de ejecución presupuestal Vicepresidencia 2018-2022",
+          "outlet": "Contraloría General de la República",
+          "date": "2022-12-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados electorales Senado 2006 y Presidencia 2014/2018",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2018-06-17"
+        }
+      ]
+    }
+  },
+  {
+    "id": "francia-marquez",
+    "country": "co",
+    "type": "vice_president",
+    "fullName": "Francia Elena Márquez Mina",
+    "displayName": "Francia Márquez",
+    "party": "pacto-historico",
+    "periods": [
+      {
+        "role": "vice_president",
+        "startDate": "2022-08-07"
+      },
+      {
+        "role": "presidential_candidate",
+        "startDate": "2021-06-01",
+        "endDate": "2022-03-13"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -5.8,
+      "y": -5.2,
+      "justification": "Se autodefine como feminista negra antirracista, ambientalista, defensora de derechos humanos y 'mujer del pueblo'. Ha declarado representar a 'los nadies y nadies' — comunidades negras, indígenas, campesinas, mujeres, personas LGBTIQ+ y territorios históricamente marginados. Su agenda declarada es el 'Vivir Sabroso' como paradigma alternativo de desarrollo y política de cuidados.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Francia_M%C3%A1rquez",
+          "title": "Francia Márquez — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-02-01"
+        },
+        {
+          "url": "https://www.igualdad.gov.co/",
+          "title": "Ministerio de Igualdad y Equidad — sitio oficial",
+          "outlet": "Ministerio de Igualdad",
+          "date": "2024-01-15"
+        },
+        {
+          "url": "https://web.archive.org/web/2022/https://soyfrancia.com",
+          "title": "Sitio de campaña Francia Márquez (archivado)",
+          "outlet": "Campaña Francia Márquez",
+          "date": "2022-03-10"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -4.5,
+      "y": -3.8,
+      "confidence": "medium",
+      "justification": "Análisis metodológico del proyecto: Como Vicepresidenta y Ministra de Igualdad (2022-presente) impulsó la creación y entrada en funcionamiento del Ministerio de Igualdad y Equidad (Ley 2281 de 2023), una estructura sin precedentes en Colombia orientada a políticas diferenciales para mujeres, afros, indígenas, campesinos y diversidades. Ha respaldado los proyectos centrales del gobierno Petro: reforma tributaria 2022 progresiva, reforma pensional, política de 'paz total' y transición energética. Simultáneamente enfrentó críticas por ejecución presupuestal baja del Ministerio de Igualdad en su primer año, por el uso de aeronaves de la fuerza pública, y por tensiones internas con el presidente sobre la conducción del gabinete. La evidencia legislativa y administrativa la ubica en izquierda progresista pero con menor concentración autoritaria de poder que el promedio presidencial.",
+      "sources": [
+        {
+          "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=203244",
+          "title": "Ley 2281 de 2023 — Ministerio de Igualdad y Equidad",
+          "outlet": "Función Pública",
+          "date": "2023-01-04"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Informes de gestión presupuestal Ministerio de Igualdad 2023-2024",
+          "outlet": "Contraloría General de la República",
+          "date": "2024-07-01"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "Decretos y actos administrativos Ministerio de Igualdad 2022-2024",
+          "outlet": "SUIN-Juriscol",
+          "date": "2024-12-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados consulta Pacto Histórico 2022 y Presidencia 2022",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2022-06-19"
+        },
+        {
+          "url": "https://www.goldmanprize.org/recipient/francia-marquez/",
+          "title": "Goldman Environmental Prize 2018 — Francia Márquez",
+          "outlet": "Goldman Environmental Prize",
+          "date": "2018-04-23"
+        }
+      ],
+      "dimensionScores": {
+        "fiscalPolicy": -5,
+        "marketPosition": -4,
+        "socialPolicy": -6,
+        "tradePolicy": -3,
+        "civilRights": -6,
+        "securityApproach": -2,
+        "socialRights": -7,
+        "powerConcentration": 0
+      }
+    },
+    "ideologies": [
+      "democratic-socialism",
+      "eco-socialism",
+      "progressivism",
+      "left-populism"
+    ],
+    "ideologySelf": "eco-socialism",
+    "ideologyEvidenced": "democratic-socialism",
+    "bio": "Francia Elena Márquez Mina (1981, Suárez, Cauca) es abogada de la Universidad Santiago de Cali, líder social y ambientalista afrocolombiana. Saltó a visibilidad internacional al organizar en 2014 la 'Marcha de los Turbantes' que movilizó a mujeres afro del norte del Cauca contra la minería ilegal en sus territorios; por ese trabajo recibió el Premio Goldman en 2018, considerado el 'Nobel ambiental'. Precandidata presidencial en la consulta del Pacto Histórico de 2022, obtuvo el segundo lugar y fue escogida como fórmula vicepresidencial de Gustavo Petro. Es la primera mujer afrocolombiana en ejercer la Vicepresidencia de Colombia (2022-presente) y primera Ministra de Igualdad y Equidad desde la creación de la cartera en 2023.",
+    "incoherences": [
+      {
+        "id": "franciamarquez-helicoptero-fac-2023",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "En campaña y desde su vicepresidencia ha enfatizado la austeridad, el cuidado de lo público y la crítica al uso de recursos estatales para privilegios de las élites: 'no puede haber privilegios para unos pocos mientras el pueblo aguanta hambre'.",
+          "source": {
+            "url": "https://web.archive.org/web/2022/https://soyfrancia.com/propuestas",
+            "title": "Propuestas de campaña Francia Márquez 2022",
+            "outlet": "Campaña Francia Márquez",
+            "date": "2022-03-01",
+            "archived": "https://web.archive.org/web/2022/https://soyfrancia.com/propuestas"
+          }
+        },
+        "action": {
+          "text": "En 2023 se documentó el uso recurrente de aeronaves de la Fuerza Aérea Colombiana para desplazamientos oficiales y privados de la Vicepresidenta. Aunque el uso se justificó en protocolos de seguridad por amenazas documentadas, el costo y frecuencia contrastaron con el discurso de austeridad, especialmente en viajes con componente personal.",
+          "source": {
+            "url": "https://www.semana.com/politica/articulo/los-viajes-oficiales-y-personales-de-francia-marquez-en-aviones-de-la-fuerza-aerea/",
+            "title": "Los viajes oficiales y personales de Francia Márquez en aviones de la Fuerza Aérea",
+            "outlet": "Semana",
+            "date": "2023-08-18",
+            "archived": "https://web.archive.org/web/2023/https://www.semana.com/politica/articulo/los-viajes-oficiales-y-personales-de-francia-marquez-en-aviones-de-la-fuerza-aerea/"
+          }
+        },
+        "nuances": "Existen protocolos de seguridad que justifican el uso de transporte militar para altos funcionarios con amenazas. La Unidad Nacional de Protección confirmó amenazas contra Márquez. La incoherencia es de narrativa: el discurso de austeridad y 'los nadies' choca con el uso rutinario de recursos militares de alto costo.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "franciamarquez-ejecucion-ministerio-igualdad-2023",
+        "category": "economia",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Prometió que el Ministerio de Igualdad sería el 'instrumento material' para transformar las condiciones de vida de las mujeres, comunidades étnicas y territorios históricamente excluidos, con programas de implementación rápida.",
+          "source": {
+            "url": "https://web.archive.org/web/2023/https://www.igualdad.gov.co/prensa/",
+            "title": "Sala de prensa Ministerio de Igualdad",
+            "outlet": "Ministerio de Igualdad",
+            "date": "2023-02-15",
+            "archived": "https://web.archive.org/web/2023/https://www.igualdad.gov.co/prensa/"
+          }
+        },
+        "action": {
+          "text": "En su primer año de operación el Ministerio de Igualdad ejecutó un porcentaje bajo de su presupuesto asignado, con demoras en la contratación del equipo técnico y en la territorialización de programas, situación documentada por la Contraloría y por medios especializados en seguimiento a ejecución presupuestal.",
+          "source": {
+            "url": "https://www.larepublica.co/economia/el-ministerio-de-la-igualdad-de-francia-marquez-ha-ejecutado-menos-de-20-de-su-presupuesto",
+            "title": "Ejecución presupuestal del Ministerio de Igualdad en 2023",
+            "outlet": "La República",
+            "date": "2023-11-20",
+            "archived": "https://web.archive.org/web/2023/https://www.larepublica.co/economia/el-ministerio-de-la-igualdad-de-francia-marquez-ha-ejecutado-menos-de-20-de-su-presupuesto"
+          }
+        },
+        "nuances": "La creación de una cartera nueva desde cero enfrenta obstáculos administrativos reales (nómina, sedes, contratación, articulación interinstitucional). La incoherencia es entre la expectativa creada por el discurso transformador y el ritmo real de ejecución.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      },
+      {
+        "id": "franciamarquez-casa-dapa-2022",
+        "category": "corrupcion",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Ha construido su narrativa política sobre la pertenencia a los 'nadies y nadies' y sobre representar a comunidades afro y campesinas que resisten el despojo territorial, con un ethos de vida comunitaria en el territorio ancestral.",
+          "source": {
+            "url": "https://web.archive.org/web/2022/https://soyfrancia.com/quien-soy",
+            "title": "Quién soy — Campaña Francia Márquez",
+            "outlet": "Campaña Francia Márquez",
+            "date": "2022-04-15",
+            "archived": "https://web.archive.org/web/2022/https://soyfrancia.com/quien-soy"
+          }
+        },
+        "action": {
+          "text": "En 2022, tras asumir la vicepresidencia, Francia Márquez se hospedó en una finca en DAPA (Valle del Cauca) por razones de seguridad. Fact-checkers verificaron que fue en calidad de arriendo con cargo al presupuesto de protección de la vicepresidencia, no una compra personal como se difundió. La inversión en protección se justificó por el nivel de amenaza contra su vida documentado por la UNP.",
+          "source": {
+            "url": "https://www.elpais.com.co/valle/francia-marquez-confirmo-que-compro-una-casa-en-dapa-yumbo-esta-son-los-detalles.html",
+            "title": "Francia Márquez confirmó la compra de casa en Dapa, Yumbo",
+            "outlet": "El País (Cali)",
+            "date": "2022-09-30",
+            "archived": "https://web.archive.org/web/2022/https://www.elpais.com.co/valle/francia-marquez-confirmo-que-compro-una-casa-en-dapa-yumbo-esta-son-los-detalles.html"
+          }
+        },
+        "nuances": "Las amenazas documentadas contra la Vicepresidenta y su familia justifican decisiones de relocalización por seguridad. La incoherencia registrada es narrativa, no ética-legal: la distancia entre el relato de 'mujer del territorio ancestral' y la decisión práctica de residir en Dapa.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      }
+    ],
+    "lastUpdated": "2026-04-15",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelfAssignment": {
+      "ideologyId": "eco-socialism",
+      "justification": "Posición autopercibida (-5.8, -5.2) mapeada a 'Ecosocialismo' (centro -4.444, -3.571), la ideología del mismo cuadrante más cercana. Se autodefine como feminista negra antirracista, ambientalista, defensora de derechos humanos y 'mujer del pueblo'. Ha declarado representar a 'los nadies y nadies' — comunidades negras, indígenas, campesinas, mujeres, personas LGBTIQ+ y territorios históricamente marginados. Su agenda declarada es el 'Vivir Sabroso' como paradigma alternativo de desarrollo y política de cuidados.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Francia_M%C3%A1rquez",
+          "title": "Francia Márquez — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2024-02-01"
+        },
+        {
+          "url": "https://www.igualdad.gov.co/",
+          "title": "Ministerio de Igualdad y Equidad — sitio oficial",
+          "outlet": "Ministerio de Igualdad",
+          "date": "2024-01-15"
+        },
+        {
+          "url": "https://web.archive.org/web/2022/https://soyfrancia.com",
+          "title": "Sitio de campaña Francia Márquez (archivado)",
+          "outlet": "Campaña Francia Márquez",
+          "date": "2022-03-10"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "democratic-socialism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-4.5, -3.8) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Como Vicepresidenta y Ministra de Igualdad (2022-presente) impulsó la creación y entrada en funcionamiento del Ministerio de Igualdad y Equidad (Ley 2281 de 2023), una estructura sin precedentes en Colombia orientada a políticas diferenciales para mujeres, afros, indígenas, campesinos y diversidades. Ha respaldado los proyectos centrales del gobierno Petro: reforma tributaria 2022 progresiva, reforma pensional, política de 'paz total' y transición energética. Simultáneamente enfrentó críticas por ejecución presupuestal baja del Ministerio de Igualdad en su primer año, por el uso de aeronaves de la fuerza pública, y por tensiones internas con el presidente ",
+      "sources": [
+        {
+          "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=203244",
+          "title": "Ley 2281 de 2023 — Ministerio de Igualdad y Equidad",
+          "outlet": "Función Pública",
+          "date": "2023-01-04"
+        },
+        {
+          "url": "https://www.contraloria.gov.co",
+          "title": "Informes de gestión presupuestal Ministerio de Igualdad 2023-2024",
+          "outlet": "Contraloría General de la República",
+          "date": "2024-07-01"
+        },
+        {
+          "url": "https://www.suin-juriscol.gov.co",
+          "title": "Decretos y actos administrativos Ministerio de Igualdad 2022-2024",
+          "outlet": "SUIN-Juriscol",
+          "date": "2024-12-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/-Historico-de-Resultados-Electorales-.html",
+          "title": "Resultados consulta Pacto Histórico 2022 y Presidencia 2022",
+          "outlet": "Registraduría Nacional del Estado Civil",
+          "date": "2022-06-19"
+        },
+        {
+          "url": "https://www.goldmanprize.org/recipient/francia-marquez/",
+          "title": "Goldman Environmental Prize 2018 — Francia Márquez",
+          "outlet": "Goldman Environmental Prize",
+          "date": "2018-04-23"
+        }
+      ]
+    }
+  }
+]

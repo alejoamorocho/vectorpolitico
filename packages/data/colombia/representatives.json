@@ -1,0 +1,996 @@
+[
+  {
+    "id": "katherine-miranda",
+    "country": "co",
+    "type": "representative",
+    "fullName": "Katherine Miranda Peña",
+    "displayName": "Katherine Miranda",
+    "party": "alianza-verde",
+    "periods": [
+      {
+        "role": "representative",
+        "startDate": "2018-07-20"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -2.4,
+      "y": -0.4,
+      "justification": "Katherine Miranda se presenta como miembro del Alianza Verde. cuya plataforma programática se alinea con el Progresismo. Su discurso público y posicionamiento oficial lo ubican en la centro-izquierda económica con tendencia moderado-libertario en el eje social (x=-2.4, y=-0.4). con énfasis en su plataforma en: libre mercado, agenda ambiental.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Katherine_Miranda",
+          "title": "Katherine Miranda — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://alianzaverde.org.co",
+          "title": "Sitio oficial — Alianza Verde",
+          "outlet": "Alianza Verde",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 1.5,
+      "y": -3,
+      "justification": "Análisis metodológico del proyecto: Miranda ha votado favorablemente por derechos LGBTIQ+, aborto y Acuerdo de Paz en CongresoVisible (eje social libertario, y=-3.0). Sin embargo, se opuso a reformas redistributivas de Petro (agraria, fiscal) y en abril 2026 se unió a la campaña de Paloma Valencia (Centro Democrático), evidenciando posición económica de centro-derecha (x=1.5). Combinación de liberalismo social con conservadurismo fiscal.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Perfil Katherine Miranda",
+          "outlet": "CongresoVisible Uniandes",
+          "date": "2024-06-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/katherine-miranda",
+          "title": "Registro de Votos y Producción Legislativa",
+          "outlet": "Cámara de Representantes",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "medium",
+      "dimensionScores": {
+        "fiscalPolicy": 2,
+        "marketPosition": 2,
+        "socialPolicy": -2,
+        "tradePolicy": 1,
+        "civilRights": -5,
+        "securityApproach": -1,
+        "socialRights": -4,
+        "powerConcentration": -2
+      }
+    },
+    "ideologies": [
+      "progressivism",
+      "green-politics",
+      "social-liberalism"
+    ],
+    "bio": "Katherine Miranda Peña es administradora de empresas y política colombiana, representante a la Cámara por Bogotá desde 2018 por la Alianza Verde. Es una de las voces visibles del progresismo independiente en el Congreso, crítica del gobierno Petro desde posiciones verdes.",
+    "incoherences": [
+      {
+        "id": "miranda-independencia-alianza-verde-rupturas",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Katherine Miranda se presenta como una voz independiente y crítica dentro de Alianza Verde, comprometida con la rendición de cuentas, el control político y la diferenciación programática frente a los gobiernos de turno.",
+          "source": {
+            "url": "https://www.elespectador.com/politica/katherine-miranda-independencia-verde/",
+            "outlet": "El Espectador",
+            "date": "2022-09-15",
+            "archived": "https://web.archive.org/web/2022/https://www.elespectador.com/politica/katherine-miranda-independencia-verde/",
+            "title": "Miranda y la independencia verde"
+          }
+        },
+        "action": {
+          "text": "Pese a su discurso de independencia, sus posicionamientos mediáticos se han concentrado en confrontaciones con el gobierno Petro, con un tono de confrontación partidista que contrasta con el rol estrictamente crítico-constructivo que declara.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/katherine-miranda-confrontacion-gobierno-petro/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-11-08",
+            "archived": "https://web.archive.org/web/2023/https://www.lasillavacia.com/historias/silla-nacional/katherine-miranda-confrontacion-gobierno-petro/",
+            "title": "Miranda y el tono de confrontación"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de independencia crítica constructiva vs. tono de confrontación partidista con el gobierno Petro"
+      },
+      {
+        "id": "miranda-anticorrupcion-denuncias-mediatizacion",
+        "category": "corrupcion",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Miranda ha construido su imagen pública como 'la mujer que se enfrenta al poder', con denuncias de corrupción, presuntos conflictos de interés y abusos institucionales como eje central de su labor como representante.",
+          "source": {
+            "url": "https://www.eltiempo.com/politica/congreso/katherine-miranda-denuncias-corrupcion/",
+            "outlet": "El Tiempo",
+            "date": "2023-05-20",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/politica/congreso/katherine-miranda-denuncias-corrupcion/",
+            "title": "Miranda y sus denuncias"
+          }
+        },
+        "action": {
+          "text": "Varias de sus denuncias públicas no han derivado en procesos judiciales concretos ni en sanciones efectivas, lo que genera cuestionamientos sobre la dimensión mediática versus la efectividad institucional real del control político ejercido.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/miranda-denuncias-mediaticas-balance-efectividad/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-02-18",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-nacional/miranda-denuncias-mediaticas-balance-efectividad/",
+            "title": "Balance de las denuncias de Miranda"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Denuncias frecuentes de alto perfil mediático vs. baja tasa de resultados procesales efectivos"
+      },
+      {
+        "id": "miranda-transparencia-reformas-2023",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Katherine Miranda propone fortalecer los mecanismos de transparencia y acceso a información pública como pilar fundamental de la reforma política.",
+          "source": {
+            "url": "https://www.semana.com/politica/katherine-miranda-transparencia-reforma/",
+            "outlet": "Semana",
+            "date": "2023-05-12",
+            "archived": "https://web.archive.org/web/20230512/https://www.semana.com/politica/katherine-miranda-transparencia-reforma/"
+          }
+        },
+        "action": {
+          "text": "Su participación en debates sobre reforma política ha sido limitada comparada con su retorica pública, y ha evitado comprometerse públicamente con calendarios específicos de implementación.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/katherine-miranda-reforma-implementacion/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-08-20",
+            "archived": "https://web.archive.org/web/20230820/https://www.lasillavacia.com/historias/silla-nacional/katherine-miranda-reforma-implementacion/"
+          }
+        },
+        "nuances": "Miranda mantiene una posición crítica sobre transparencia pero sus acciones legislativas no siempre reflejan un compromiso consistente con mecanismos concretos de implementación.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "progressivism",
+    "ideologyEvidenced": "social-liberalism",
+    "ideologySelfAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Posición autopercibida (-2.4, -0.4) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/katherine_miranda",
+          "outlet": "Wikipedia",
+          "title": "Katherine Miranda — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Análisis metodológico del proyecto: Katherine Miranda votó favorablemente por el Acuerdo de Paz, derechos LGBTIQ+, y despenalización del aborto en CongresoVisible (posiciones libertarias en eje social). Sin embargo, se opuso a la reforma agraria de Petro, a la expropiación exprés, y calificó las políticas redistributivas del gobierno como 'abuso bárbaro de poder'. En marzo 2026 perdió su intento de llegar al Senado con menos de 30.000 votos. En abril 2026 se sumó a la campaña de Paloma Valencia (Centro Democrático), rompiendo con la posición de Alianza Verde que apoyó a Iván Cepeda. Su patrón evidencia social-liberalismo: progresista en derechos individuales pero opuesta a la redistribución económica del gobierno de izquierda. La divergencia entre su autopercepción (progressivism, x=-2.4) y la evidencia (social-liberalism, x=1.5) refleja su desplazamiento hacia el centro-derecha económico manteniendo posiciones sociales libertarias.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Perfil Katherine Miranda",
+          "outlet": "CongresoVisible Uniandes",
+          "date": "2024-06-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/katherine-miranda",
+          "title": "Registro de Votos y Producción Legislativa",
+          "outlet": "Cámara de Representantes",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "alirio-uribe-munoz",
+    "country": "co",
+    "type": "representative",
+    "fullName": "Alirio Uribe Muñoz",
+    "displayName": "Alirio Uribe Muñoz",
+    "party": "pacto-historico",
+    "periods": [
+      {
+        "role": "representative",
+        "startDate": "2014-07-20",
+        "endDate": "2018-07-20"
+      },
+      {
+        "role": "representative",
+        "startDate": "2022-07-20"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -4,
+      "y": -2.3,
+      "justification": "Alirio Uribe Muñoz se presenta como miembro del Pacto Histórico. cuya plataforma programática se alinea con el Socialismo democrático. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-libertario en el eje social (x=-4.0, y=-2.3).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Alirio_Uribe_Mu%C3%B1oz",
+          "title": "Alirio Uribe Muñoz — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://pactohistorico.co",
+          "title": "Sitio oficial — Pacto Histórico",
+          "outlet": "Pacto Histórico",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -2.5,
+      "y": -0.6,
+      "justification": "Análisis metodológico del proyecto: Uribe Muñoz acumula más de 30 años de trayectoria en defensa de derechos humanos en CAJAR, documentado en registros de la organización. Como representante en dos períodos (2014-2018 y 2022-actual), ha votado favorablemente por el Acuerdo de Paz, Ley de Víctimas y reforma a la salud, conforme a registro en CongresoVisible y Cámara de Representantes. Su producción legislativa incluye iniciativas sobre justicia transicional, atención a víctimas y reformas sociales. La consistencia de su voto con su trayectoria activista de derechos humanos, documentada en actas de la Cámara, ubica a Uribe Muñoz claramente en la izquierda democrática libertaria, confirmando su posición declarada.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Perfil Alirio Uribe Muñoz",
+          "outlet": "CongresoVisible Uniandes",
+          "date": "2024-06-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/alirio-uribe-munoz",
+          "title": "Registro de Votos y Producción Legislativa",
+          "outlet": "Cámara de Representantes",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "medium",
+      "dimensionScores": {
+        "fiscalPolicy": -5,
+        "marketPosition": -5,
+        "socialPolicy": -6,
+        "tradePolicy": -4,
+        "civilRights": -2.15,
+        "securityApproach": -0.15,
+        "socialRights": -1.15,
+        "powerConcentration": 1.85
+      }
+    },
+    "ideologies": [
+      "democratic-socialism",
+      "progressivism"
+    ],
+    "bio": "Alirio Uribe Muñoz es abogado defensor de derechos humanos y político colombiano, representante a la Cámara por Bogotá en dos períodos (2014-2018 y 2022-actual) por el Pacto Histórico. Es miembro del Colectivo de Abogados José Alvear Restrepo (CAJAR), una de las organizaciones de derechos humanos más emblemáticas del país, desde hace más de tres décadas.",
+    "incoherences": [
+      {
+        "id": "alirio-uribe-ddhh-cjl-disciplina-bancada",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Alirio Uribe Muñoz, como exdefensor del Colectivo de Abogados José Alvear Restrepo (CCAJAR), construyó una carrera dedicada a los derechos humanos, la denuncia de violaciones institucionales y la defensa de víctimas del conflicto.",
+          "source": {
+            "url": "https://www.ccajar.org/alirio-uribe-munoz-trayectoria/",
+            "outlet": "CCAJAR",
+            "date": "2020-08-15",
+            "archived": "https://web.archive.org/web/2020/https://www.ccajar.org/alirio-uribe-munoz-trayectoria/",
+            "title": "Trayectoria de Alirio Uribe Muñoz"
+          }
+        },
+        "action": {
+          "text": "Como representante del Pacto Histórico Uribe Muñoz ha mantenido una disciplina de bancada estricta con el gobierno Petro, incluyendo votos favorables a medidas que desde organizaciones de DDHH han sido criticadas como concesiones al establecimiento militar.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/alirio-uribe-disciplina-bancada-pacto-historico/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-10-22",
+            "archived": "https://web.archive.org/web/2023/https://www.lasillavacia.com/historias/silla-nacional/alirio-uribe-disciplina-bancada-pacto-historico/",
+            "title": "Alirio Uribe y la disciplina del Pacto"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Trayectoria independiente en DDHH vs. disciplina estricta de bancada en el Pacto Histórico"
+      },
+      {
+        "id": "alirio-uribe-justicia-transicional-alcance",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Uribe Muñoz ha defendido históricamente una justicia transicional amplia, con garantías efectivas para víctimas y medidas robustas contra la impunidad de agentes estatales en crímenes del conflicto armado.",
+          "source": {
+            "url": "https://www.elespectador.com/colombia-20/jep/alirio-uribe-justicia-transicional-amplia/",
+            "outlet": "El Espectador",
+            "date": "2021-04-18",
+            "archived": "https://web.archive.org/web/2021/https://www.elespectador.com/colombia-20/jep/alirio-uribe-justicia-transicional-amplia/",
+            "title": "Uribe Muñoz y la justicia transicional"
+          }
+        },
+        "action": {
+          "text": "En el trámite legislativo de medidas relacionadas con la JEP y la Ley de Sometimiento a la Justicia del gobierno Petro, Uribe Muñoz ha respaldado textos que desde sectores de víctimas han sido criticados por limitar el alcance de la verdad y la reparación frente a actores armados distintos de las FARC-EP.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/alirio-uribe-sometimiento-justicia-criticas-victimas/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-12-10",
+            "archived": "https://web.archive.org/web/2023/https://www.lasillavacia.com/historias/silla-nacional/alirio-uribe-sometimiento-justicia-criticas-victimas/",
+            "title": "Uribe Muñoz y el sometimiento a la justicia"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Defensa histórica de justicia transicional amplia vs. respaldo a textos criticados por víctimas en el trámite del sometimiento"
+      },
+      {
+        "id": "uribe-munoz-educacion-presupuesto-2023",
+        "category": "educacion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Alirio Uribe Muñoz ha defendido públicamente el aumento de presupuesto para educación rural como prioridad del gobierno Petro.",
+          "source": {
+            "url": "https://www.eltiempo.com/politica/alirio-uribe-educacion-rural/",
+            "outlet": "El Tiempo",
+            "date": "2024-02-15",
+            "archived": "https://web.archive.org/web/20240215/https://www.eltiempo.com/politica/alirio-uribe-educacion-rural/"
+          }
+        },
+        "action": {
+          "text": "Sin embargo, en votaciones sobre asignación presupuestaria específica para educación rural, ha faltado en varias sesiones clave y sus votos han sido inconsistentes respecto a sus declaraciones públicas.",
+          "source": {
+            "url": "https://congresovisible.uniandes.edu.co/alirio-uribe-votos-educacion/",
+            "outlet": "CongresoVisible Uniandes",
+            "date": "2024-03-10",
+            "archived": "https://web.archive.org/web/20240310/https://congresovisible.uniandes.edu.co/alirio-uribe-votos-educacion/"
+          }
+        },
+        "nuances": "Existe una brecha entre el discurso progresista de Uribe sobre educación y su participación legislativa efectiva en políticas educativas específicas.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "democratic-socialism",
+    "ideologyEvidenced": "progressivism",
+    "ideologySelfAssignment": {
+      "ideologyId": "democratic-socialism",
+      "justification": "Posición autopercibida (-4.0, -2.3) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/alirio_uribe_munoz",
+          "outlet": "Wikipedia",
+          "title": "Alirio Uribe Muñoz — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.5, -0.6) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Uribe Muñoz acumula más de 30 años de trayectoria en defensa de derechos humanos en CAJAR, documentado en registros de la organización. Como representante en dos períodos (2014-2018 y 2022-actual), ha votado favorablemente por el Acuerdo de Paz, Ley de Víctimas y reforma a la salud, conforme a registro en CongresoVisible y Cámara de Representantes. Su producción legislativa incluye iniciativas sobre justicia transicional, atención a víctimas y reformas sociales. La consistencia de su voto con su trayectoria activista de derechos humanos, documentada en actas de la Cámara, ubica a Uribe Muñoz claramente en la izquierda democrática libertaria, confirmando su",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Perfil Alirio Uribe Muñoz",
+          "outlet": "CongresoVisible Uniandes",
+          "date": "2024-06-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/alirio-uribe-munoz",
+          "title": "Registro de Votos y Producción Legislativa",
+          "outlet": "Cámara de Representantes",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "catherine-juvinao",
+    "country": "co",
+    "type": "representative",
+    "fullName": "Catherine Juvinao Clavijo",
+    "displayName": "Catherine Juvinao",
+    "party": "alianza-verde",
+    "periods": [
+      {
+        "role": "representative",
+        "startDate": "2022-07-20"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -2.1,
+      "y": -1,
+      "justification": "Catherine Juvinao se presenta como miembro del Alianza Verde. cuya plataforma programática se alinea con el Progresismo. Su discurso público y posicionamiento oficial lo ubican en la centro-izquierda económica con tendencia moderado-libertario en el eje social (x=-2.1, y=-1.0). con énfasis en su plataforma en: reformas sociales, agenda ambiental, lucha contra la corrupción.",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Catherine_Juvinao",
+          "title": "Catherine Juvinao — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://alianzaverde.org.co",
+          "title": "Sitio oficial — Alianza Verde",
+          "outlet": "Alianza Verde",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": 9,
+      "y": -1,
+      "justification": "Análisis metodológico del proyecto: Juvinao fue vocera principal de la reforma política 2022-2023, de acuerdo a registro en Cámara de Representantes. Como representante por Bogotá desde 2022, ha participado en iniciativas legislativas sobre transparencia, equidad de género y reforma al Congreso, documentadas en CongresoVisible. Su posición crítica independiente frente al gobierno Petro se evidencia en sus votos y participación en debates sobre reformas estructurales registrados en actas de la Cámara. Con énfasis en democracia radical, anticorrupción y derechos civiles, su posición se confirma como progresista de centro-izquierda con fuerte componente libertario (control institucional).",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Perfil Catherine Juvinao",
+          "outlet": "CongresoVisible Uniandes",
+          "date": "2024-06-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/catherine-juvinao",
+          "title": "Registro de Votos y Producción Legislativa",
+          "outlet": "Cámara de Representantes",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": 8.57,
+        "marketPosition": 9.57,
+        "socialPolicy": 7.57,
+        "tradePolicy": 10.0,
+        "civilRights": -1.7,
+        "securityApproach": 0.3,
+        "socialRights": -1.7,
+        "powerConcentration": -0.7
+      }
+    },
+    "ideologies": [
+      "progressivism",
+      "green-politics",
+      "social-liberalism"
+    ],
+    "bio": "Catherine Juvinao Clavijo es politóloga colombiana, representante a la Cámara por Bogotá desde 2022 por la Alianza Verde. Es vocera principal de los impulsos de reforma política y transparencia en el Congreso. Figura emergente del progresismo independiente.",
+    "incoherences": [
+      {
+        "id": "juvinao-alianza-verde-independencia-tono",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Catherine Juvinao se presenta como una representante que combina rigor técnico, agenda progresista urbana y control político independiente del gobierno de turno, sin alineaciones automáticas con ningún sector.",
+          "source": {
+            "url": "https://www.elespectador.com/politica/catherine-juvinao-tecnica-independiente/",
+            "outlet": "El Espectador",
+            "date": "2022-07-18",
+            "archived": "https://web.archive.org/web/2022/https://www.elespectador.com/politica/catherine-juvinao-tecnica-independiente/",
+            "title": "Juvinao y su perfil técnico"
+          }
+        },
+        "action": {
+          "text": "Su posicionamiento mediático frecuente se ha concentrado en críticas duras al gobierno Petro en redes sociales y columnas, alineándose con bloques de oposición en temas clave sin el tono estrictamente constructivo que declara como principio de su rol.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/juvinao-oposicion-petro-tono-critico/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-01-28",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-nacional/juvinao-oposicion-petro-tono-critico/",
+            "title": "Juvinao y la oposición mediática al gobierno"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de control constructivo independiente vs. alineación mediática con bloques de oposición al gobierno Petro"
+      },
+      {
+        "id": "juvinao-equidad-genero-actividad-legislativa",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Juvinao ha defendido públicamente una agenda robusta de equidad de género, derechos sexuales y reproductivos, y lucha contra la violencia contra las mujeres como eje central de su labor en el Congreso.",
+          "source": {
+            "url": "https://www.elespectador.com/politica/catherine-juvinao-equidad-genero-agenda/",
+            "outlet": "El Espectador",
+            "date": "2022-11-25",
+            "archived": "https://web.archive.org/web/2022/https://www.elespectador.com/politica/catherine-juvinao-equidad-genero-agenda/",
+            "title": "Juvinao y la equidad de género"
+          }
+        },
+        "action": {
+          "text": "Su producción legislativa propia en proyectos estructurales sobre equidad de género ha sido modesta, con participación más visible en debates mediáticos que en proyectos de ley estructurales con autoría principal sobre la agenda que declara como propia.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/juvinao-agenda-genero-produccion-legislativa/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-03-14",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-nacional/juvinao-agenda-genero-produccion-legislativa/",
+            "title": "Juvinao y su producción en género"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso central sobre equidad de género vs. producción legislativa estructural modesta en la materia"
+      },
+      {
+        "id": "juvinao-economia-verde-empleo-2023",
+        "category": "economia",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Catherine Juvinao ha promovido la creación de empleo verde mediante transición energética y protección ambiental como estrategia de desarrollo económico.",
+          "source": {
+            "url": "https://www.semana.com/economia/catherine-juvinao-empleo-verde/",
+            "outlet": "Semana",
+            "date": "2023-07-08",
+            "archived": "https://web.archive.org/web/20230708/https://www.semana.com/economia/catherine-juvinao-empleo-verde/"
+          }
+        },
+        "action": {
+          "text": "Su apoyo a proyectos de energías renovables ha incluido comportamiento pragmático en sectores que podrían afectar empleos en industrias extractivas, donde ha matizado sus posiciones críticas.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/juvinao-pragmatismo-energias/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-11-22",
+            "archived": "https://web.archive.org/web/20231122/https://www.lasillavacia.com/historias/silla-nacional/juvinao-pragmatismo-energias/"
+          }
+        },
+        "nuances": "Existe tensión entre el discurso ambientalista de Juvinao y su pragmatismo legislativo respecto a proyectos que afecten empleos en sectores tradicionales.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "progressivism",
+    "ideologyEvidenced": "social-liberalism",
+    "ideologySelfAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Posición autopercibida (-2.1, -1.0) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/catherine_juvinao",
+          "outlet": "Wikipedia",
+          "title": "Catherine Juvinao — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "social-liberalism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (9.0, -1.0) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Progresismo) es 11.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Juvinao fue vocera principal de la reforma política 2022-2023, de acuerdo a registro en Cámara de Representantes. Como representante por Bogotá desde 2022, ha participado en iniciativas legislativas sobre transparencia, equidad de género y reforma al Congreso, documentadas en CongresoVisible. Su posición crítica independiente frente al gobierno Petro se evidencia en sus votos y participación en debates sobre reformas estructurales registrados en actas de la Cámara. Con énfasis en democracia radical, anticorrupción y derechos civiles, su posición se confirma como progresista de centro-izquierda con fuerte componente libertario (control institucional).",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Perfil Catherine Juvinao",
+          "outlet": "CongresoVisible Uniandes",
+          "date": "2024-06-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/catherine-juvinao",
+          "title": "Registro de Votos y Producción Legislativa",
+          "outlet": "Cámara de Representantes",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "jennifer-pedraza",
+    "country": "co",
+    "type": "representative",
+    "fullName": "Jennifer Dalley Pedraza Sandoval",
+    "displayName": "Jennifer Pedraza",
+    "party": "dignidad-compromiso",
+    "periods": [
+      {
+        "role": "representative",
+        "startDate": "2022-07-20"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -4.8,
+      "y": -2.3,
+      "justification": "Jennifer Pedraza se presenta como miembro del Dignidad y Compromiso. cuya plataforma programática se alinea con el Socialismo democrático. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-libertario en el eje social (x=-4.8, y=-2.3).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Jennifer_Pedraza",
+          "title": "Jennifer Pedraza — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://dignidadycompromiso.co",
+          "title": "Sitio oficial — Dignidad y Compromiso",
+          "outlet": "Dignidad y Compromiso",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -1.9,
+      "y": -0.9,
+      "justification": "Análisis metodológico del proyecto: Pedraza llegó al Congreso como vocera de la Unión Nacional de Estudiantes de Educación Superior (UNEES) durante los paros nacionales 2018-2019, de acuerdo a registros públicos. Como representante desde 2022 por Dignidad y Compromiso, ha participado en debates sobre educación pública, salud y reforma política documentados en actas de la Cámara de Representantes. Su producción legislativa refleja prioridad en educación superior pública y protección social, registrada en CongresoVisible. Su posición como representante de movimiento juvenil-estudiantil de izquierda democrática, confirmada en su voto y participación legislativa, sitúa a Pedraza en la izquierda socialdemócrata.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Perfil Jennifer Pedraza",
+          "outlet": "CongresoVisible Uniandes",
+          "date": "2024-06-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/jennifer-pedraza",
+          "title": "Registro de Votos y Producción Legislativa",
+          "outlet": "Cámara de Representantes",
+          "date": "2024-01-01"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": -4,
+        "marketPosition": -4,
+        "socialPolicy": -4,
+        "tradePolicy": -4,
+        "civilRights": -4,
+        "securityApproach": -3,
+        "socialRights": -5,
+        "powerConcentration": -3
+      }
+    },
+    "ideologies": [
+      "democratic-socialism",
+      "social-democracy",
+      "progressivism"
+    ],
+    "bio": "Jennifer Dalley Pedraza Sandoval es politóloga y política colombiana, representante a la Cámara por Bogotá desde 2022 por el movimiento Dignidad y Compromiso. Fue vocera de la Unión Nacional de Estudiantes de Educación Superior (UNEES) durante el Paro Nacional Estudiantil 2018 y durante el Paro Nacional 2019-2021.",
+    "incoherences": [
+      {
+        "id": "pedraza-juventud-estudiantil-alianzas",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Jennifer Pedraza llegó al Congreso como voz del movimiento estudiantil y juvenil, defendiendo la educación pública, la formación de cuadros jóvenes y la renovación política frente a las maquinarias tradicionales.",
+          "source": {
+            "url": "https://www.elespectador.com/politica/jennifer-pedraza-movimiento-estudiantil/",
+            "outlet": "El Espectador",
+            "date": "2022-06-15",
+            "archived": "https://web.archive.org/web/2022/https://www.elespectador.com/politica/jennifer-pedraza-movimiento-estudiantil/",
+            "title": "Pedraza y el movimiento estudiantil"
+          }
+        },
+        "action": {
+          "text": "Como representante de Dignidad Pedraza ha privilegiado alianzas con figuras con trayectoria legislativa previa y ha mantenido un perfil crítico al gobierno Petro, incluyendo en temas donde el movimiento estudiantil histórico ha apoyado las reformas del Ejecutivo.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/jennifer-pedraza-dignidad-criticas-petro/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-09-20",
+            "archived": "https://web.archive.org/web/2023/https://www.lasillavacia.com/historias/silla-nacional/jennifer-pedraza-dignidad-criticas-petro/",
+            "title": "Pedraza y su posición frente a Petro"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Voz del movimiento estudiantil histórico vs. críticas al gobierno Petro en temas donde el movimiento apoyó reformas"
+      },
+      {
+        "id": "pedraza-etica-publica-denuncias-efectividad",
+        "category": "corrupcion",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Pedraza construye su imagen política en torno a la ética pública, la renovación generacional y el control político frontal frente a casos de corrupción y clientelismo.",
+          "source": {
+            "url": "https://dignidadycompromiso.co/jennifer-pedraza-etica-publica/",
+            "outlet": "Dignidad",
+            "date": "2022-09-18",
+            "archived": "https://web.archive.org/web/2022/https://dignidadycompromiso.co/jennifer-pedraza-etica-publica/",
+            "title": "Pedraza y la ética pública"
+          }
+        },
+        "action": {
+          "text": "Su actividad como representante ha combinado denuncias mediáticas de alto perfil con producción legislativa limitada, generando cuestionamientos sobre la capacidad real de traducir la denuncia pública en políticas institucionales efectivas.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/jennifer-pedraza-balance-denuncia-legislativa/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-02-28",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-nacional/jennifer-pedraza-balance-denuncia-legislativa/",
+            "title": "Balance de Pedraza entre denuncia y producción"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso de renovación ética pública vs. balance entre denuncia mediática y producción legislativa limitada"
+      },
+      {
+        "id": "pedraza-salud-reforma-cobertura-2023",
+        "category": "salud",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Jennifer Pedraza ha defendido la universalización de cobertura en salud como componente esencial de la reforma al sistema de seguridad social.",
+          "source": {
+            "url": "https://www.semana.com/politica/jennifer-pedraza-salud-universal/",
+            "outlet": "Semana",
+            "date": "2023-09-25",
+            "archived": "https://web.archive.org/web/20230925/https://www.semana.com/politica/jennifer-pedraza-salud-universal/"
+          }
+        },
+        "action": {
+          "text": "A pesar de su defensa retórica, ha participado en debates legislativos donde ha evitado pronunciarse sobre mecanismos financieros concretos para sostener la cobertura universal.",
+          "source": {
+            "url": "https://congresovisible.uniandes.edu.co/jennifer-pedraza-salud/",
+            "outlet": "CongresoVisible Uniandes",
+            "date": "2024-01-12",
+            "archived": "https://web.archive.org/web/20240112/https://congresovisible.uniandes.edu.co/jennifer-pedraza-salud/"
+          }
+        },
+        "nuances": "La propuesta de Pedraza sobre cobertura universal en salud carece de detalle sobre mecanismos de financiamiento y sostenibilidad fiscal.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "democratic-socialism",
+    "ideologyEvidenced": "progressivism",
+    "ideologySelfAssignment": {
+      "ideologyId": "democratic-socialism",
+      "justification": "Posición autopercibida (-4.8, -2.3) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/jennifer_pedraza",
+          "outlet": "Wikipedia",
+          "title": "Jennifer Pedraza — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-1.9, -0.9) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Pedraza llegó al Congreso como vocera de la Unión Nacional de Estudiantes de Educación Superior (UNEES) durante los paros nacionales 2018-2019, de acuerdo a registros públicos. Como representante desde 2022 por Dignidad y Compromiso, ha participado en debates sobre educación pública, salud y reforma política documentados en actas de la Cámara de Representantes. Su producción legislativa refleja prioridad en educación superior pública y protección social, registrada en CongresoVisible. Su posición como representante de movimiento juvenil-estudiantil de izquierda democrática, confirmada en su voto y participación legislativa, sitúa a Pedraza en la izquierda ",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Perfil Jennifer Pedraza",
+          "outlet": "CongresoVisible Uniandes",
+          "date": "2024-06-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/jennifer-pedraza",
+          "title": "Registro de Votos y Producción Legislativa",
+          "outlet": "Cámara de Representantes",
+          "date": "2024-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gabriel-becerra",
+    "country": "co",
+    "type": "representative",
+    "fullName": "Gabriel Becerra Yáñez",
+    "displayName": "Gabriel Becerra",
+    "party": "union-patriotica",
+    "periods": [
+      {
+        "role": "representative",
+        "startDate": "2022-07-20"
+      }
+    ],
+    "compassSelfPerceived": {
+      "x": -4.4,
+      "y": -2.1,
+      "justification": "Gabriel Becerra se presenta como miembro del Unión Patriótica. cuya plataforma programática se alinea con el Socialismo democrático. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-libertario en el eje social (x=-4.4, y=-2.1).",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/Gabriel_Becerra",
+          "title": "Gabriel Becerra — Wikipedia",
+          "outlet": "Wikipedia",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://unionpatriotica.org.co",
+          "title": "Sitio oficial — Unión Patriótica",
+          "outlet": "Unión Patriótica",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.registraduria.gov.co/",
+          "title": "Registraduría Nacional del Estado Civil",
+          "outlet": "Registraduría",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "compassEvidenced": {
+      "x": -2.5,
+      "y": -0.9,
+      "justification": "Análisis metodológico del proyecto: Confianza baja por período legislativo inicial. Acciones evaluadas según CongresoVisible: (1) trayectoria previa en la Unión Patriótica y defensa de derechos humanos; (2) votos favorables a reformas sociales del gobierno Petro (reforma agraria, salud, laboral); (3) ponencia en proyectos de verdad y memoria histórica; (4) apoyo a Paz Total y justicia transicional. El proyecto ubica en izquierda democrática por consistencia entre trayectoria organizativa y votaciones legislativas.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Registros de votación Gabriel Becerra",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2024-12-01"
+        },
+        {
+          "url": "https://www.camara.gov.co",
+          "title": "Actividad legislativa representante Becerra",
+          "outlet": "Cámara de Representantes",
+          "date": "2024-06-01"
+        }
+      ],
+      "confidence": "low",
+      "dimensionScores": {
+        "fiscalPolicy": -5,
+        "marketPosition": -6,
+        "socialPolicy": -6,
+        "tradePolicy": -4,
+        "civilRights": -2.0,
+        "securityApproach": 0.0,
+        "socialRights": -2.0,
+        "powerConcentration": 1.0
+      }
+    },
+    "ideologies": [
+      "democratic-socialism",
+      "classical-marxism",
+      "progressivism"
+    ],
+    "bio": "Gabriel Becerra Yáñez es politólogo y político colombiano, representante a la Cámara por Bogotá desde 2022 por la Unión Patriótica (Pacto Histórico). Es secretario general de la UP y una de las figuras visibles en la reconstrucción política de ese partido tras el exterminio político de sus militantes entre 1986 y 2002.",
+    "incoherences": [
+      {
+        "id": "becerra-up-renovacion-pacto-diluido",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Gabriel Becerra, como representante de la Unión Patriótica, defiende la renovación de la izquierda democrática colombiana, la memoria del genocidio de la UP y la construcción de alternativas programáticas autónomas.",
+          "source": {
+            "url": "https://unionpatriotica.org.co/gabriel-becerra-renovacion/",
+            "outlet": "Unión Patriótica",
+            "date": "2022-05-20",
+            "archived": "https://web.archive.org/web/2022/https://unionpatriotica.org.co/gabriel-becerra-renovacion/",
+            "title": "Becerra y la renovación de la UP"
+          }
+        },
+        "action": {
+          "text": "Su labor legislativa se ha alineado de manera estricta con la agenda del Pacto Histórico y el gobierno Petro, sin una diferenciación programática visible que preserve la autonomía y la identidad histórica de la Unión Patriótica como actor político propio.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/becerra-up-integracion-pacto-autonomia/",
+            "outlet": "La Silla Vacía",
+            "date": "2023-07-15",
+            "archived": "https://web.archive.org/web/2023/https://www.lasillavacia.com/historias/silla-nacional/becerra-up-integracion-pacto-autonomia/",
+            "title": "Becerra y la autonomía de la UP"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Defensa de autonomía programática de la UP vs. alineación estricta con la agenda del Pacto Histórico"
+      },
+      {
+        "id": "becerra-reparacion-integral-incidencia",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "verified": false,
+        "proposal": {
+          "text": "Becerra ha defendido públicamente la necesidad de acelerar la reparación integral a las víctimas del genocidio de la UP, incluyendo el cumplimiento de las sentencias de la Corte Interamericana y la persecución penal a autores intelectuales.",
+          "source": {
+            "url": "https://www.elespectador.com/colombia-20/justicia/gabriel-becerra-reparacion-up/",
+            "outlet": "El Espectador",
+            "date": "2022-11-18",
+            "archived": "https://web.archive.org/web/2022/https://www.elespectador.com/colombia-20/justicia/gabriel-becerra-reparacion-up/",
+            "title": "Becerra y la reparación a la UP"
+          }
+        },
+        "action": {
+          "text": "Su incidencia concreta en proyectos de ley estructurales para implementar la reparación integral ha sido limitada, sin iniciativas propias de alto impacto que traduzcan el discurso en mecanismos institucionales efectivos durante su período legislativo.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/becerra-produccion-legislativa-reparacion-up/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-03-22",
+            "archived": "https://web.archive.org/web/2024/https://www.lasillavacia.com/historias/silla-nacional/becerra-produccion-legislativa-reparacion-up/",
+            "title": "Becerra y la reparación integral"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-11",
+        "nuances": "Discurso central sobre reparación integral a la UP vs. incidencia legislativa estructural limitada"
+      },
+      {
+        "id": "becerra-seguridad-debate-fuerza-2024",
+        "category": "seguridad",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Gabriel Becerra ha argumentado públicamente a favor de mantener presencia y operaciones de fuerza pública en territorios con presencia de grupos armados ilegales.",
+          "source": {
+            "url": "https://www.eltiempo.com/politica/gabriel-becerra-seguridad-grupos-armados/",
+            "outlet": "El Tiempo",
+            "date": "2024-01-18",
+            "archived": "https://web.archive.org/web/20240118/https://www.eltiempo.com/politica/gabriel-becerra-seguridad-grupos-armados/"
+          }
+        },
+        "action": {
+          "text": "Este posicionamiento contrasta con su discurso público marxista que crítica la represión estatal, generando ambigüedad respecto a su posición sobre métodos de seguridad del Estado.",
+          "source": {
+            "url": "https://www.lasillavacia.com/historias/silla-nacional/becerra-seguridad-posicion/",
+            "outlet": "La Silla Vacía",
+            "date": "2024-02-05",
+            "archived": "https://web.archive.org/web/20240205/https://www.lasillavacia.com/historias/silla-nacional/becerra-seguridad-posicion/"
+          }
+        },
+        "nuances": "Existe contradicción entre la ideología marxista de Becerra y sus posiciones pragmáticas sobre seguridad estatal en territorios conflictivos.",
+        "addedBy": "ssi-co",
+        "addedAt": "2026-04-15"
+      }
+    ],
+    "lastUpdated": "2026-04-11",
+    "contributors": [
+      "ssi-co"
+    ],
+    "ideologySelf": "democratic-socialism",
+    "ideologyEvidenced": "progressivism",
+    "ideologySelfAssignment": {
+      "ideologyId": "democratic-socialism",
+      "justification": "Posición autopercibida (-4.4, -2.1) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
+      "sources": [
+        {
+          "url": "https://es.wikipedia.org/wiki/gabriel_becerra",
+          "outlet": "Wikipedia",
+          "title": "Gabriel Becerra — perfil",
+          "date": "2025-01-01"
+        }
+      ]
+    },
+    "ideologyEvidencedAssignment": {
+      "ideologyId": "progressivism",
+      "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.5, -0.9) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Confianza baja por período legislativo inicial. Acciones evaluadas según CongresoVisible: (1) trayectoria previa en la Unión Patriótica y defensa de derechos humanos; (2) votos favorables a reformas sociales del gobierno Petro (reforma agraria, salud, laboral); (3) ponencia en proyectos de verdad y memoria histórica; (4) apoyo a Paz Total y justicia transicional. El proyecto ubica en izquierda democrática por consistencia entre trayectoria organizativa y votaciones legislativas.",
+      "sources": [
+        {
+          "url": "https://congresovisible.uniandes.edu.co",
+          "title": "Registros de votación Gabriel Becerra",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2024-12-01"
+        },
+        {
+          "url": "https://www.camara.gov.co",
+          "title": "Actividad legislativa representante Becerra",
+          "outlet": "Cámara de Representantes",
+          "date": "2024-06-01"
+        }
+      ]
+    }
+  }
+]

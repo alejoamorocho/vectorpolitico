@@ -831,14 +831,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": -2,
-        "marketPosition": -1,
-        "socialPolicy": -3,
-        "tradePolicy": 0,
-        "civilRights": -2,
-        "securityApproach": 0,
-        "socialRights": -3,
-        "powerConcentration": 1
+        "fiscalPolicy": -7.0,
+        "marketPosition": -6.0,
+        "socialPolicy": -8.0,
+        "tradePolicy": -5.0,
+        "civilRights": 1.45,
+        "securityApproach": 3.45,
+        "socialRights": 0.45,
+        "powerConcentration": 4.45
       }
     },
     "ideologies": [
@@ -1021,14 +1021,14 @@
       ],
       "confidence": "low",
       "dimensionScores": {
-        "fiscalPolicy": 7,
-        "marketPosition": 7,
-        "socialPolicy": 7,
-        "tradePolicy": 7,
-        "civilRights": 7,
-        "securityApproach": 7,
-        "socialRights": 7,
-        "powerConcentration": 7
+        "fiscalPolicy": 2.2,
+        "marketPosition": 2.2,
+        "socialPolicy": 2.2,
+        "tradePolicy": 2.2,
+        "civilRights": 3.6,
+        "securityApproach": 3.6,
+        "socialRights": 3.6,
+        "powerConcentration": 3.6
       }
     },
     "ideologies": [
@@ -1440,10 +1440,10 @@
       ],
       "confidence": "high",
       "dimensionScores": {
-        "fiscalPolicy": 5,
-        "marketPosition": 7,
-        "socialPolicy": 4,
-        "tradePolicy": 7,
+        "fiscalPolicy": 1.65,
+        "marketPosition": 3.65,
+        "socialPolicy": 0.65,
+        "tradePolicy": 3.65,
         "civilRights": 5,
         "securityApproach": 7,
         "socialRights": 4,
@@ -3482,14 +3482,14 @@
       ],
       "confidence": "high",
       "dimensionScores": {
-        "fiscalPolicy": 5,
-        "marketPosition": 5,
-        "socialPolicy": 3,
-        "tradePolicy": 4,
-        "civilRights": 2,
-        "securityApproach": 4,
-        "socialRights": 2,
-        "powerConcentration": 4
+        "fiscalPolicy": 8.3,
+        "marketPosition": 8.3,
+        "socialPolicy": 6.3,
+        "tradePolicy": 7.3,
+        "civilRights": 6.6,
+        "securityApproach": 8.6,
+        "socialRights": 6.6,
+        "powerConcentration": 8.6
       }
     },
     "ideologies": [
@@ -4286,10 +4286,10 @@
         "marketPosition": 7,
         "socialPolicy": 5,
         "tradePolicy": 6,
-        "civilRights": 5,
-        "securityApproach": 7,
-        "socialRights": 5,
-        "powerConcentration": 5
+        "civilRights": 1.3,
+        "securityApproach": 3.3,
+        "socialRights": 1.3,
+        "powerConcentration": 1.3
       }
     },
     "ideologies": [
