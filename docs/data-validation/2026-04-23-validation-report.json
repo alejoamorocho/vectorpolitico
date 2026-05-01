@@ -1,0 +1,776 @@
+{
+  "threshold": 3.0,
+  "summary": {
+    "total_politicians": 110,
+    "with_warnings": 44,
+    "no_warnings": 66,
+    "cells_distribution_self": {
+      "libertarian-socialism": 35,
+      "clientelism-cacicazgo": 12,
+      "technocracy": 10,
+      "nationalist-conservatism": 8,
+      "fiscal-conservatism": 6,
+      "liberal-conservatism": 5,
+      "developmentalism": 5,
+      "third-way": 4,
+      "christian-libertarianism": 4,
+      "neo-conservatism": 3,
+      "syndicalism": 3,
+      "gandhism": 3,
+      "traditionalist-conservatism": 2,
+      "maoism": 2,
+      "eco-socialism": 2,
+      "national-liberalism": 2,
+      "right-populism": 1,
+      "christian-democracy": 1,
+      "green-politics": 1,
+      "authoritarian-capitalism": 1
+    },
+    "cells_distribution_evidenced": {
+      "libertarian-socialism": 37,
+      "developmentalism": 15,
+      "securitarian-right": 7,
+      "leninism": 7,
+      "neo-conservatism": 7,
+      "liberal-conservatism": 4,
+      "clientelism-cacicazgo": 4,
+      "nationalist-conservatism": 4,
+      "technocracy": 4,
+      "traditionalist-conservatism": 3,
+      "green-politics": 3,
+      "right-populism": 3,
+      "fiscal-conservatism": 3,
+      "national-liberalism": 2,
+      "christian-libertarianism": 1,
+      "progressive-conservatism": 1,
+      "orthodox-marxism": 1,
+      "syndicalism": 1,
+      "eco-socialism": 1,
+      "pink-capitalism": 1,
+      "christian-democracy": 1
+    }
+  },
+  "warnings": [
+    {
+      "id": "alvaro-uribe",
+      "type": "president",
+      "issues": [
+        "y=3.6 se desvía 4.35 del promedio ponderado de scores (7.95). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 8.9,
+        "y": 3.6,
+        "cell": "liberal-conservatism",
+        "x_avg": 7.1,
+        "y_avg": 7.95,
+        "x_delta": 1.8,
+        "y_delta": 4.35
+      }
+    },
+    {
+      "id": "juan-manuel-santos",
+      "type": "president",
+      "issues": [
+        "x=8.9 se desvía 4.00 del promedio ponderado de scores (4.90). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 8.9,
+        "y": -2.1,
+        "cell": "christian-libertarianism",
+        "x_avg": 4.9,
+        "y_avg": 0.8,
+        "x_delta": 4.0,
+        "y_delta": 2.9
+      }
+    },
+    {
+      "id": "gustavo-petro",
+      "type": "president",
+      "issues": [
+        "y=2.5 se desvía 4.45 del promedio ponderado de scores (-1.95). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -6.7,
+        "y": 2.5,
+        "cell": "leninism",
+        "x_avg": -5.1,
+        "y_avg": -1.95,
+        "x_delta": 1.6,
+        "y_delta": 4.45
+      }
+    },
+    {
+      "id": "daniel-quintero",
+      "type": "presidential_candidate",
+      "issues": [
+        "x=-6.4 se desvía 5.00 del promedio ponderado de scores (-1.40). Umbral: 3.0.",
+        "y=2.3 se desvía 3.45 del promedio ponderado de scores (-1.15). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -6.4,
+        "y": 2.3,
+        "cell": "leninism",
+        "x_avg": -1.4,
+        "y_avg": -1.15,
+        "x_delta": 5.0,
+        "y_delta": 3.45
+      }
+    },
+    {
+      "id": "enrique-gomez-candidato-2022",
+      "type": "presidential_candidate",
+      "issues": [
+        "x=2.2 se desvía 4.80 del promedio ponderado de scores (7.00). Umbral: 3.0.",
+        "y=3.6 se desvía 3.40 del promedio ponderado de scores (7.00). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 2.2,
+        "y": 3.6,
+        "cell": "progressive-conservatism",
+        "x_avg": 7.0,
+        "y_avg": 7.0,
+        "x_delta": 4.8,
+        "y_delta": 3.4
+      }
+    },
+    {
+      "id": "german-vargas-lleras",
+      "type": "presidential_candidate",
+      "issues": [
+        "x=2.5 se desvía 3.35 del promedio ponderado de scores (5.85). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 2.5,
+        "y": 2.3,
+        "cell": "clientelism-cacicazgo",
+        "x_avg": 5.85,
+        "y_avg": 5.05,
+        "x_delta": 3.35,
+        "y_delta": 2.75
+      }
+    },
+    {
+      "id": "rodolfo-hernandez",
+      "type": "presidential_candidate",
+      "issues": [
+        "x=7.5 se desvía 3.30 del promedio ponderado de scores (4.20). Umbral: 3.0.",
+        "y=7.5 se desvía 4.60 del promedio ponderado de scores (2.90). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 7.5,
+        "y": 7.5,
+        "cell": "right-populism",
+        "x_avg": 4.2,
+        "y_avg": 2.9,
+        "x_delta": 3.3,
+        "y_delta": 4.6
+      }
+    },
+    {
+      "id": "vicky-davila",
+      "type": "presidential_candidate",
+      "issues": [
+        "y=1.8 se desvía 3.70 del promedio ponderado de scores (5.50). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 6.8,
+        "y": 1.8,
+        "cell": "securitarian-right",
+        "x_avg": 6.0,
+        "y_avg": 5.5,
+        "x_delta": 0.8,
+        "y_delta": 3.7
+      }
+    },
+    {
+      "id": "aida-avella",
+      "type": "senator",
+      "issues": [
+        "x=-2.2 se desvía 4.30 del promedio ponderado de scores (-6.50). Umbral: 3.0.",
+        "y=-0.7 se desvía 5.00 del promedio ponderado de scores (-5.70). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -2.2,
+        "y": -0.7,
+        "cell": "libertarian-socialism",
+        "x_avg": -6.5,
+        "y_avg": -5.7,
+        "x_delta": 4.3,
+        "y_delta": 5.0
+      }
+    },
+    {
+      "id": "alexander-lopez-maya",
+      "type": "senator",
+      "issues": [
+        "y=1 se desvía 5.35 del promedio ponderado de scores (-4.35). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -4.5,
+        "y": 1,
+        "cell": "leninism",
+        "x_avg": -5.6,
+        "y_avg": -4.35,
+        "x_delta": 1.1,
+        "y_delta": 5.35
+      }
+    },
+    {
+      "id": "angelica-lozano",
+      "type": "senator",
+      "issues": [
+        "y=-1 se desvía 4.10 del promedio ponderado de scores (-5.10). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -2,
+        "y": -1,
+        "cell": "libertarian-socialism",
+        "x_avg": -1.65,
+        "y_avg": -5.1,
+        "x_delta": 0.35,
+        "y_delta": 4.1
+      }
+    },
+    {
+      "id": "ariel-avila",
+      "type": "senator",
+      "issues": [
+        "y=-0.7 se desvía 3.40 del promedio ponderado de scores (-4.10). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -4.4,
+        "y": -0.7,
+        "cell": "libertarian-socialism",
+        "x_avg": -1.95,
+        "y_avg": -4.1,
+        "x_delta": 2.45,
+        "y_delta": 3.4
+      }
+    },
+    {
+      "id": "armando-benedetti-senador",
+      "type": "senator",
+      "issues": [
+        "x=1.5 se desvía 3.65 del promedio ponderado de scores (-2.15). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 1.5,
+        "y": -1,
+        "cell": "fiscal-conservatism",
+        "x_avg": -2.15,
+        "y_avg": -2.9,
+        "x_delta": 3.65,
+        "y_delta": 1.9
+      }
+    },
+    {
+      "id": "david-luna",
+      "type": "senator",
+      "issues": [
+        "y=-1.5 se desvía 4.30 del promedio ponderado de scores (2.80). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 6,
+        "y": -1.5,
+        "cell": "national-liberalism",
+        "x_avg": 4.3,
+        "y_avg": 2.8,
+        "x_delta": 1.7,
+        "y_delta": 4.3
+      }
+    },
+    {
+      "id": "gustavo-bolivar",
+      "type": "senator",
+      "issues": [
+        "y=2 se desvía 6.70 del promedio ponderado de scores (-4.70). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -5,
+        "y": 2,
+        "cell": "leninism",
+        "x_avg": -4.65,
+        "y_avg": -4.7,
+        "x_delta": 0.35,
+        "y_delta": 6.7
+      }
+    },
+    {
+      "id": "gustavo-petro-senador",
+      "type": "senator",
+      "issues": [
+        "y=1.5 se desvía 3.50 del promedio ponderado de scores (-2.00). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -4,
+        "y": 1.5,
+        "cell": "leninism",
+        "x_avg": -6.0,
+        "y_avg": -2.0,
+        "x_delta": 2.0,
+        "y_delta": 3.5
+      }
+    },
+    {
+      "id": "humberto-de-la-calle",
+      "type": "senator",
+      "issues": [
+        "y=-0.4 se desvía 3.65 del promedio ponderado de scores (-4.05). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -2.1,
+        "y": -0.4,
+        "cell": "libertarian-socialism",
+        "x_avg": -0.7,
+        "y_avg": -4.05,
+        "x_delta": 1.4,
+        "y_delta": 3.65
+      }
+    },
+    {
+      "id": "isabel-zuleta",
+      "type": "senator",
+      "issues": [
+        "x=-2.4 se desvía 3.55 del promedio ponderado de scores (-5.95). Umbral: 3.0.",
+        "y=-0.4 se desvía 4.30 del promedio ponderado de scores (-4.70). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -2.4,
+        "y": -0.4,
+        "cell": "libertarian-socialism",
+        "x_avg": -5.95,
+        "y_avg": -4.7,
+        "x_delta": 3.55,
+        "y_delta": 4.3
+      }
+    },
+    {
+      "id": "ivan-cepeda",
+      "type": "senator",
+      "issues": [
+        "x=-2.1 se desvía 3.55 del promedio ponderado de scores (-5.65). Umbral: 3.0.",
+        "y=-1 se desvía 4.45 del promedio ponderado de scores (-5.45). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -2.1,
+        "y": -1,
+        "cell": "libertarian-socialism",
+        "x_avg": -5.65,
+        "y_avg": -5.45,
+        "x_delta": 3.55,
+        "y_delta": 4.45
+      }
+    },
+    {
+      "id": "ivan-name",
+      "type": "senator",
+      "issues": [
+        "x=-3 se desvía 3.55 del promedio ponderado de scores (0.55). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -3,
+        "y": -2.5,
+        "cell": "libertarian-socialism",
+        "x_avg": 0.55,
+        "y_avg": -0.8,
+        "x_delta": 3.55,
+        "y_delta": 1.7
+      }
+    },
+    {
+      "id": "jonathan-pulido-hernandez",
+      "type": "senator",
+      "issues": [
+        "x=7 se desvía 3.20 del promedio ponderado de scores (3.80). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 7,
+        "y": 2,
+        "cell": "securitarian-right",
+        "x_avg": 3.8,
+        "y_avg": 3.8,
+        "x_delta": 3.2,
+        "y_delta": 1.8
+      }
+    },
+    {
+      "id": "julian-gallo-senador",
+      "type": "senator",
+      "issues": [
+        "y=1 se desvía 6.15 del promedio ponderado de scores (-5.15). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -6,
+        "y": 1,
+        "cell": "leninism",
+        "x_avg": -6.0,
+        "y_avg": -5.15,
+        "x_delta": 0.0,
+        "y_delta": 6.15
+      }
+    },
+    {
+      "id": "maria-fernanda-cabal",
+      "type": "senator",
+      "issues": [
+        "y=3.7 se desvía 3.40 del promedio ponderado de scores (7.10). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 8.6,
+        "y": 3.7,
+        "cell": "liberal-conservatism",
+        "x_avg": 7.8,
+        "y_avg": 7.1,
+        "x_delta": 0.8,
+        "y_delta": 3.4
+      }
+    },
+    {
+      "id": "maria-jose-pizarro",
+      "type": "senator",
+      "issues": [
+        "y=-0.7 se desvía 5.00 del promedio ponderado de scores (-5.70). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -2.7,
+        "y": -0.7,
+        "cell": "libertarian-socialism",
+        "x_avg": -4.9,
+        "y_avg": -5.7,
+        "x_delta": 2.2,
+        "y_delta": 5.0
+      }
+    },
+    {
+      "id": "miguel-uribe-turbay",
+      "type": "senator",
+      "issues": [
+        "y=2 se desvía 3.75 del promedio ponderado de scores (5.75). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 6.4,
+        "y": 2,
+        "cell": "securitarian-right",
+        "x_avg": 6.0,
+        "y_avg": 5.75,
+        "x_delta": 0.4,
+        "y_delta": 3.75
+      }
+    },
+    {
+      "id": "paola-holguin",
+      "type": "senator",
+      "issues": [
+        "y=3.7 se desvía 4.30 del promedio ponderado de scores (8.00). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 7,
+        "y": 3.7,
+        "cell": "neo-conservatism",
+        "x_avg": 8.0,
+        "y_avg": 8.0,
+        "x_delta": 1.0,
+        "y_delta": 4.3
+      }
+    },
+    {
+      "id": "roy-barreras-senador",
+      "type": "senator",
+      "issues": [
+        "y=-0.1 se desvía 4.10 del promedio ponderado de scores (-4.20). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -4.5,
+        "y": -0.1,
+        "cell": "libertarian-socialism",
+        "x_avg": -3.15,
+        "y_avg": -4.2,
+        "x_delta": 1.35,
+        "y_delta": 4.1
+      }
+    },
+    {
+      "id": "temistocles-ortega",
+      "type": "senator",
+      "issues": [
+        "x=4.1 se desvía 4.35 del promedio ponderado de scores (-0.25). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 4.1,
+        "y": 0.9,
+        "cell": "developmentalism",
+        "x_avg": -0.25,
+        "y_avg": -1.05,
+        "x_delta": 4.35,
+        "y_delta": 1.95
+      }
+    },
+    {
+      "id": "alirio-uribe-munoz",
+      "type": "representative",
+      "issues": [
+        "y=-0.6 se desvía 4.85 del promedio ponderado de scores (-5.45). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -2.5,
+        "y": -0.6,
+        "cell": "libertarian-socialism",
+        "x_avg": -4.95,
+        "y_avg": -5.45,
+        "x_delta": 2.45,
+        "y_delta": 4.85
+      }
+    },
+    {
+      "id": "catherine-juvinao",
+      "type": "representative",
+      "issues": [
+        "x=9 se desvía 10.40 del promedio ponderado de scores (-1.40). Umbral: 3.0.",
+        "y=-1 se desvía 3.30 del promedio ponderado de scores (-4.30). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 9,
+        "y": -1,
+        "cell": "technocracy",
+        "x_avg": -1.4,
+        "y_avg": -4.3,
+        "x_delta": 10.4,
+        "y_delta": 3.3
+      }
+    },
+    {
+      "id": "gabriel-becerra",
+      "type": "representative",
+      "issues": [
+        "y=-0.9 se desvía 4.00 del promedio ponderado de scores (-4.90). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -2.5,
+        "y": -0.9,
+        "cell": "libertarian-socialism",
+        "x_avg": -5.2,
+        "y_avg": -4.9,
+        "x_delta": 2.7,
+        "y_delta": 4.0
+      }
+    },
+    {
+      "id": "andres-julian-rendon",
+      "type": "governor",
+      "issues": [
+        "y=2.1 se desvía 3.45 del promedio ponderado de scores (5.55). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 6.2,
+        "y": 2.1,
+        "cell": "securitarian-right",
+        "x_avg": 6.25,
+        "y_avg": 5.55,
+        "x_delta": 0.05,
+        "y_delta": 3.45
+      }
+    },
+    {
+      "id": "eduardo-verano",
+      "type": "governor",
+      "issues": [
+        "x=8.4 se desvía 5.10 del promedio ponderado de scores (3.30). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 8.4,
+        "y": -0.7,
+        "cell": "technocracy",
+        "x_avg": 3.3,
+        "y_avg": 2.2,
+        "x_delta": 5.1,
+        "y_delta": 2.9
+      }
+    },
+    {
+      "id": "henry-gutierrez-caldas",
+      "type": "governor",
+      "issues": [
+        "x=-2.1 se desvía 3.10 del promedio ponderado de scores (1.00). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -2.1,
+        "y": -0.4,
+        "cell": "libertarian-socialism",
+        "x_avg": 1.0,
+        "y_avg": 1.0,
+        "x_delta": 3.1,
+        "y_delta": 1.4
+      }
+    },
+    {
+      "id": "juvenal-diaz-santander",
+      "type": "governor",
+      "issues": [
+        "y=2 se desvía 5.00 del promedio ponderado de scores (7.00). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 3.5,
+        "y": 2,
+        "cell": "developmentalism",
+        "x_avg": 6.0,
+        "y_avg": 7.0,
+        "x_delta": 2.5,
+        "y_delta": 5.0
+      }
+    },
+    {
+      "id": "octavio-guzman",
+      "type": "governor",
+      "issues": [
+        "x=8.9 se desvía 5.55 del promedio ponderado de scores (3.35). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 8.9,
+        "y": -0.5,
+        "cell": "technocracy",
+        "x_avg": 3.35,
+        "y_avg": 2.5,
+        "x_delta": 5.55,
+        "y_delta": 3.0
+      }
+    },
+    {
+      "id": "rodrigo-villalba-huila",
+      "type": "governor",
+      "issues": [
+        "x=-4.7 se desvía 3.45 del promedio ponderado de scores (-1.25). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -4.7,
+        "y": -0.6,
+        "cell": "libertarian-socialism",
+        "x_avg": -1.25,
+        "y_avg": -0.6,
+        "x_delta": 3.45,
+        "y_delta": 0.0
+      }
+    },
+    {
+      "id": "uribe-gobernador",
+      "type": "governor",
+      "issues": [
+        "x=0.3 se desvía 3.70 del promedio ponderado de scores (4.00). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 0.3,
+        "y": 7.7,
+        "cell": "christian-democracy",
+        "x_avg": 4.0,
+        "y_avg": 7.0,
+        "x_delta": 3.7,
+        "y_delta": 0.7
+      }
+    },
+    {
+      "id": "alejandro-eder",
+      "type": "mayor",
+      "issues": [
+        "x=7.2 se desvía 3.10 del promedio ponderado de scores (4.10). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 7.2,
+        "y": 2.1,
+        "cell": "securitarian-right",
+        "x_avg": 4.1,
+        "y_avg": 2.55,
+        "x_delta": 3.1,
+        "y_delta": 0.45
+      }
+    },
+    {
+      "id": "alex-char",
+      "type": "mayor",
+      "issues": [
+        "x=1.9 se desvía 3.40 del promedio ponderado de scores (5.30). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 1.9,
+        "y": 2.3,
+        "cell": "clientelism-cacicazgo",
+        "x_avg": 5.3,
+        "y_avg": 3.65,
+        "x_delta": 3.4,
+        "y_delta": 1.35
+      }
+    },
+    {
+      "id": "claudia-lopez",
+      "type": "mayor",
+      "issues": [
+        "y=-1 se desvía 3.10 del promedio ponderado de scores (-4.10). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -1.5,
+        "y": -1,
+        "cell": "libertarian-socialism",
+        "x_avg": -0.9,
+        "y_avg": -4.1,
+        "x_delta": 0.6,
+        "y_delta": 3.1
+      }
+    },
+    {
+      "id": "dumek-turbay",
+      "type": "mayor",
+      "issues": [
+        "x=9 se desvía 6.15 del promedio ponderado de scores (2.85). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 9,
+        "y": -0.4,
+        "cell": "technocracy",
+        "x_avg": 2.85,
+        "y_avg": 2.25,
+        "x_delta": 6.15,
+        "y_delta": 2.65
+      }
+    },
+    {
+      "id": "jaime-andres-beltran",
+      "type": "mayor",
+      "issues": [
+        "x=8.6 se desvía 3.85 del promedio ponderado de scores (4.75). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": 8.6,
+        "y": 3.4,
+        "cell": "liberal-conservatism",
+        "x_avg": 4.75,
+        "y_avg": 5.35,
+        "x_delta": 3.85,
+        "y_delta": 1.95
+      }
+    },
+    {
+      "id": "petro-alcalde-bogota",
+      "type": "mayor",
+      "issues": [
+        "y=2.5 se desvía 4.50 del promedio ponderado de scores (-2.00). Umbral: 3.0."
+      ],
+      "evidenced": {
+        "x": -6.5,
+        "y": 2.5,
+        "cell": "leninism",
+        "x_avg": -6.0,
+        "y_avg": -2.0,
+        "x_delta": 0.5,
+        "y_delta": 4.5
+      }
+    }
+  ],
+  "by_file_counts": {
+    "presidents.json": 7,
+    "vice-presidents.json": 2,
+    "candidates.json": 24,
+    "vp-candidates.json": 12,
+    "senators.json": 33,
+    "representatives.json": 5,
+    "governors.json": 14,
+    "mayors.json": 13
+  }
+}
