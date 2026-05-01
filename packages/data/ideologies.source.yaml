@@ -430,14 +430,58 @@ quadrants:
       - name: imperialismo-colonialismo
         weight: 3
         children:
+          - id: clientelism-cacicazgo
+            name: 'Clientelismo / Cacicazgo'
+            nameEn: 'Clientelist Politics'
+            weight: 2
+            description: >-
+              Política basada en redes locales de poder personalista, intercambio
+              de favores estatales por lealtad política y liderazgos regionales
+              hereditarios. En Colombia tiene expresión histórica en el gamonalismo
+              (caciques rurales del siglo XX), las maquinarias regionales de Casa
+              Char en el Caribe, los clanes Gnecco-Lozada-Aguilar y otras casas
+              políticas costeñas o santandereanas. Se diferencia del conservadurismo
+              tradicionalista por su pragmatismo no-ideológico.
+            historicalExamples: ['Casa Char (Atlántico)', 'Gamonalismo histórico colombiano', 'Clan Gnecco (Magdalena)']
+          - id: developmentalism
+            name: 'Desarrollismo'
+            nameEn: 'Developmentalism'
+            weight: 2
+            description: >-
+              Programa de transformación económica con un Estado activo en
+              infraestructura, planificación industrial y mercado regulado.
+              Inspirado en la CEPAL y la experiencia desarrollista latinoamericana,
+              combina pragmatismo pro-mercado con intervención estatal selectiva.
+              En Colombia se expresa en proyectos como el de Germán Vargas Lleras
+              (Cambio Radical, infraestructura como motor) y en sectores del
+              santismo orientados a APP y modernización.
+            keyThinkers: ['Raúl Prebisch', 'Celso Furtado']
+            historicalExamples: ['Vargas Lleras (Cambio Radical)', 'Plan Nacional de Desarrollo Santos II']
+          - id: securitarian-right
+            name: 'Derecha Securitaria'
+            nameEn: 'Securitarian Right'
+            weight: 2
+            description: >-
+              Posición de derecha cuyo eje articulador es el orden público y la
+              seguridad como prioridad central, sin necesariamente adherir a un
+              programa económico extremo o a valores tradicionalistas estrictos.
+              En Colombia tiene expresión en figuras tecnócratas con énfasis en
+              seguridad como Juan Carlos Pinzón, sectores moderados del uribismo
+              post-conflicto y candidaturas que privilegian "mano dura institucional"
+              sobre el revanchismo paleo-conservador.
+            historicalExamples: ['Juan Carlos Pinzón', 'Sectores moderados del uribismo post-2018']
           - id: authoritarian-capitalism
             name: 'Capitalismo autoritario'
             nameEn: 'Authoritarian Capitalism'
-            weight: 3
+            weight: 1
             description: >-
               Sistema que combina economía de mercado con fuerte control político
               autoritario sin democracia liberal ni garantías civiles robustas.
-            historicalExamples: ['Singapur', 'China contemporánea']
+              Modelo asociado al desarrollo de Asia oriental (Singapur, China
+              contemporánea, Corea del Sur bajo Park Chung-hee). En Colombia es
+              referencia teórica más que aplicada — pocos actores políticos
+              defienden explícitamente este modelo.
+            historicalExamples: ['Singapur', 'China contemporánea', 'Corea del Sur (Park Chung-hee)']
           - id: imperialism
             name: 'Imperialismo'
             nameEn: 'Imperialism'
@@ -1170,6 +1214,9 @@ applicable_to_country:
     - liberal-conservatism
     - progressive-conservatism
     - authoritarian-capitalism
+    - clientelism-cacicazgo
+    - developmentalism
+    - securitarian-right
     # lib_left
     - democratic-socialism
     - social-democracy

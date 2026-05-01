@@ -241,19 +241,73 @@
     "description": "Síntesis entre liberalismo económico y conservadurismo social moderado. Mercados libres dentro de un marco institucional tradicional."
   },
   {
-    "id": "authoritarian-capitalism",
-    "name": "Capitalismo autoritario",
-    "nameEn": "Authoritarian Capitalism",
-    "x": 5.0,
+    "id": "clientelism-cacicazgo",
+    "name": "Clientelismo / Cacicazgo",
+    "nameEn": "Clientelist Politics",
+    "x": 1.429,
     "y": 1.667,
-    "width": 10.0,
+    "width": 2.857,
     "height": 3.333,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Sistema que combina economía de mercado con fuerte control político autoritario sin democracia liberal ni garantías civiles robustas.",
+    "description": "Política basada en redes locales de poder personalista, intercambio de favores estatales por lealtad política y liderazgos regionales hereditarios. En Colombia tiene expresión histórica en el gamonalismo (caciques rurales del siglo XX), las maquinarias regionales de Casa Char en el Caribe, los clanes Gnecco-Lozada-Aguilar y otras casas políticas costeñas o santandereanas. Se diferencia del conservadurismo tradicionalista por su pragmatismo no-ideológico.",
+    "historicalExamples": [
+      "Casa Char (Atlántico)",
+      "Gamonalismo histórico colombiano",
+      "Clan Gnecco (Magdalena)"
+    ]
+  },
+  {
+    "id": "developmentalism",
+    "name": "Desarrollismo",
+    "nameEn": "Developmentalism",
+    "x": 4.286,
+    "y": 1.667,
+    "width": 2.857,
+    "height": 3.333,
+    "quadrant": "auth_right",
+    "color": "#2563eb",
+    "description": "Programa de transformación económica con un Estado activo en infraestructura, planificación industrial y mercado regulado. Inspirado en la CEPAL y la experiencia desarrollista latinoamericana, combina pragmatismo pro-mercado con intervención estatal selectiva. En Colombia se expresa en proyectos como el de Germán Vargas Lleras (Cambio Radical, infraestructura como motor) y en sectores del santismo orientados a APP y modernización.",
+    "keyThinkers": [
+      "Raúl Prebisch",
+      "Celso Furtado"
+    ],
+    "historicalExamples": [
+      "Vargas Lleras (Cambio Radical)",
+      "Plan Nacional de Desarrollo Santos II"
+    ]
+  },
+  {
+    "id": "securitarian-right",
+    "name": "Derecha Securitaria",
+    "nameEn": "Securitarian Right",
+    "x": 7.143,
+    "y": 1.667,
+    "width": 2.857,
+    "height": 3.333,
+    "quadrant": "auth_right",
+    "color": "#2563eb",
+    "description": "Posición de derecha cuyo eje articulador es el orden público y la seguridad como prioridad central, sin necesariamente adherir a un programa económico extremo o a valores tradicionalistas estrictos. En Colombia tiene expresión en figuras tecnócratas con énfasis en seguridad como Juan Carlos Pinzón, sectores moderados del uribismo post-conflicto y candidaturas que privilegian \"mano dura institucional\" sobre el revanchismo paleo-conservador.",
+    "historicalExamples": [
+      "Juan Carlos Pinzón",
+      "Sectores moderados del uribismo post-2018"
+    ]
+  },
+  {
+    "id": "authoritarian-capitalism",
+    "name": "Capitalismo autoritario",
+    "nameEn": "Authoritarian Capitalism",
+    "x": 9.286,
+    "y": 1.667,
+    "width": 1.429,
+    "height": 3.333,
+    "quadrant": "auth_right",
+    "color": "#2563eb",
+    "description": "Sistema que combina economía de mercado con fuerte control político autoritario sin democracia liberal ni garantías civiles robustas. Modelo asociado al desarrollo de Asia oriental (Singapur, China contemporánea, Corea del Sur bajo Park Chung-hee). En Colombia es referencia teórica más que aplicada — pocos actores políticos defienden explícitamente este modelo.",
     "historicalExamples": [
       "Singapur",
-      "China contemporánea"
+      "China contemporánea",
+      "Corea del Sur (Park Chung-hee)"
     ]
   },
   {
