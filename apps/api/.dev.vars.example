@@ -1,0 +1,16 @@
+# ──────────────────────────────────────────────────────────────
+# Brújula Política API — .dev.vars (EJEMPLO)
+# ──────────────────────────────────────────────────────────────
+#
+# Copia este archivo a `.dev.vars` (que está en .gitignore).
+# Estos valores son inyectados por `wrangler dev` en el runtime local
+# del Worker como si fueran secrets de producción.
+#
+# NUNCA commitees `.dev.vars`. NUNCA pongas secrets en wrangler.toml.
+# ──────────────────────────────────────────────────────────────
+
+# Opcional en dev (el Worker no lo usa aún, pero se reserva para features futuras)
+ANTHROPIC_API_KEY=sk-ant-REPLACE_ME
+
+# Opcional — observabilidad
+SENTRY_DSN=

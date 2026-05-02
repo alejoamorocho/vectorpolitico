@@ -1,0 +1,73 @@
+# ──────────────────────────────────────────────────────────────────────
+# Brújula Política API — Cloudflare Worker + Hono
+# ──────────────────────────────────────────────────────────────────────
+#
+# IMPORTANTE: Este archivo NO contiene secrets. Solo bindings y vars
+# públicas. Todos los secrets (ANTHROPIC_API_KEY, etc.) se gestionan con
+# `wrangler secret put`. Ver: docs/contributing/SECURITY.md
+#
+# Antes de deployar: reemplazar los placeholders PEGAR_* con los IDs
+# reales obtenidos con los comandos del Setup (docs/CLOUDFLARE_SETUP.md).
+# ──────────────────────────────────────────────────────────────────────
+
+name = "brujula-politica-api"
+main = "src/index.ts"
+compatibility_date = "2025-09-01"
+compatibility_flags = ["nodejs_compat"]
+
+# account_id se puede omitir si usas wrangler login / CLOUDFLARE_ACCOUNT_ID env var
+# account_id = "PEGAR_CLOUDFLARE_ACCOUNT_ID"
+
+workers_dev = true
+
+[observability]
+enabled = true
+
+# ─── Producción (default environment) ────────────────────────────────
+[[d1_databases]]
+binding = "DB"
+database_name = "brujula-politica"
+database_id = "PEGAR_D1_DATABASE_ID_PROD"
+migrations_dir = "migrations"
+
+[[r2_buckets]]
+binding = "ASSETS"
+bucket_name = "brujula-politica-assets"
+
+[[kv_namespaces]]
+binding = "CACHE"
+id = "PEGAR_KV_ID_CACHE_PROD"
+
+[[kv_namespaces]]
+binding = "RATELIMIT"
+id = "PEGAR_KV_ID_RATELIMIT_PROD"
+
+[vars]
+ENVIRONMENT = "production"
+ALLOWED_ORIGINS = "https://brujula-politica-web.pages.dev"
+
+# ─── Staging environment ─────────────────────────────────────────────
+[env.staging]
+name = "brujula-politica-api-staging"
+
+[[env.staging.d1_databases]]
+binding = "DB"
+database_name = "brujula-politica-staging"
+database_id = "PEGAR_D1_DATABASE_ID_STAGING"
+migrations_dir = "migrations"
+
+[[env.staging.r2_buckets]]
+binding = "ASSETS"
+bucket_name = "brujula-politica-assets-staging"
+
+[[env.staging.kv_namespaces]]
+binding = "CACHE"
+id = "PEGAR_KV_ID_CACHE_STAGING"
+
+[[env.staging.kv_namespaces]]
+binding = "RATELIMIT"
+id = "PEGAR_KV_ID_RATELIMIT_STAGING"
+
+[env.staging.vars]
+ENVIRONMENT = "staging"
+ALLOWED_ORIGINS = "*"

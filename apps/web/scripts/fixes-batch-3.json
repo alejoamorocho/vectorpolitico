@@ -1,0 +1,319 @@
+{
+  "fixed": {
+    "samper-proceso8000-1995": {
+      "url": "https://www.eltiempo.com/archivo/documento/MAM-527586",
+      "outlet": "Archivo judicial - sentencia Juzgado / prensa oficial archivo",
+      "date": "1996-10-03",
+      "archived": "https://web.archive.org/web/2020/https://www.eltiempo.com/archivo/documento/MAM-527586",
+      "_note": "MARGINAL: no se pudo localizar URL directa de la sentencia de la Corte Suprema de Justicia / resolución Cámara de Representantes en suin-juriscol.gov.co ni en Gaceta del Congreso digitalizada. Se sugiere reemplazar por registro en la relatoria CSJ si se encuentra."
+    },
+    "petro-extractivismo-2023": {
+      "url": "https://www.minenergia.gov.co/es/micrositios/transicion-energetica-justa/",
+      "outlet": "Ministerio de Minas y Energía - Colombia",
+      "date": "2023-05-15",
+      "archived": "https://web.archive.org/web/2023/https://www.minenergia.gov.co/es/micrositios/transicion-energetica-justa/"
+    },
+    "petro-constituyente-2024": {
+      "url": "https://petro.presidencia.gov.co/prensa/Paginas/Palabras-del-Presidente-Gustavo-Petro-en-la-instalacion-de-las-sesiones-ordinarias-del-Congreso-Nacional-2023-230720.aspx",
+      "outlet": "Presidencia de la República de Colombia - discurso oficial",
+      "date": "2024-03-15",
+      "archived": "https://web.archive.org/web/2024/https://petro.presidencia.gov.co/",
+      "_note": "PARCIAL: El discurso específico de Puerto Resistencia (Cali) marzo 15 2024 no aparece como nota independiente indexable en presidencia.gov.co. El sitio oficial confirma la posición sobre constituyente en múltiples discursos. Como fuente primaria del acto, el tweet oficial @petrogustavo (https://x.com/petrogustavo/status/1768996004211126451) contiene el video del discurso publicado por el propio presidente."
+    },
+    "duque-tributaria-2021": {
+      "url": "https://www.camara.gov.co/solidaridad-sostenible",
+      "outlet": "Cámara de Representantes de Colombia - Proyecto de Ley Solidaridad Sostenible",
+      "date": "2021-04-15",
+      "archived": "https://web.archive.org/web/2021/https://www.camara.gov.co/solidaridad-sostenible"
+    },
+    "duque-paro-nacional-2021": {
+      "url": "https://www.oas.org/es/cidh/informes/pdfs/ObservacionesVisita_cidh_Colombia_spA.pdf",
+      "outlet": "Comisión Interamericana de Derechos Humanos (CIDH) - OEA",
+      "date": "2021-07-07",
+      "archived": "https://web.archive.org/web/2021/https://www.oas.org/es/cidh/informes/pdfs/ObservacionesVisita_cidh_Colombia_spA.pdf",
+      "_note": "La URL previa tenía error de capitalización ('colombia' y 'spa' en minúsculas). URL oficial correcta con capitalización del servidor OAS."
+    },
+    "au-seguridad-democracia": {
+      "url": "https://www.jep.gov.co/macrocasos/caso03.html",
+      "outlet": "Jurisdicción Especial para la Paz (JEP) - Caso 03",
+      "date": "2021-02-18",
+      "archived": "https://web.archive.org/web/2021/https://www.jep.gov.co/macrocasos/caso03.html"
+    },
+    "alvaro-uribe-senador-seguridad-2024": {
+      "url": "https://www.jep.gov.co/macrocasos/caso03.html",
+      "outlet": "Jurisdicción Especial para la Paz (JEP) - Caso 03, Auto 033 de 2021",
+      "date": "2021-02-18",
+      "archived": "https://web.archive.org/web/2021/https://www.jep.gov.co/macrocasos/caso03.html"
+    },
+    "gustavo-petro-senador-economia-2024": {
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2277_2022.html",
+      "outlet": "Secretaría del Senado de Colombia - Ley 2277 de 2022 (Reforma Tributaria)",
+      "date": "2022-12-13",
+      "archived": "https://web.archive.org/web/2023/http://www.secretariasenado.gov.co/senado/basedoc/ley_2277_2022.html"
+    },
+    "gustavo-petro-senador-seguridad-2025": {
+      "url": "https://www.unodc.org/documents/crop-monitoring/Colombia/Colombia_informe_monitoreo_2023.pdf",
+      "outlet": "UNODC - Oficina de Naciones Unidas contra la Droga y el Delito - Informe Monitoreo Cultivos de Coca 2023",
+      "date": "2024-10-18",
+      "archived": "https://web.archive.org/web/2024/https://www.unodc.org/documents/crop-monitoring/Colombia/Colombia_informe_monitoreo_2023.pdf"
+    },
+    "bolivar-outsider-renuncia-recurso": {
+      "url": "https://prosperidadsocial.gov.co/Noticias/vamos-a-trabajar-por-darle-oportunidades-a-la-gente-gustavo-bolivar-nuevo-director-de-prosperidad-social/",
+      "outlet": "Departamento Administrativo para la Prosperidad Social (DPS) - Comunicado oficial",
+      "date": "2024-03-05",
+      "archived": "https://web.archive.org/web/2024/https://prosperidadsocial.gov.co/Noticias/vamos-a-trabajar-por-darle-oportunidades-a-la-gente-gustavo-bolivar-nuevo-director-de-prosperidad-social/",
+      "_note": "CORRECCIÓN DE FECHA: el warning original indicaba 2023-08-14. Bolívar renunció al Senado en 2023 pero su posesión como director del DPS fue el 5 de marzo de 2024. La fecha y los hechos deben corregirse en el contenido original."
+    }
+  },
+  "unfindable": [
+    {
+      "id": "samper-proceso8000-1995",
+      "reason": "Fixable parcial - ver entrada en 'fixed'. No se localiza URL directa en SUIN-Juriscol ni Gaceta del Congreso digitalizada de 1996 para la Resolución de Preclusión de la Cámara (12 junio 1996) ni sentencia CSJ contra Botero/Medina.",
+      "suggestion": "Buscar en relatoria.cortesuprema.gov.co 'Botero Zea enriquecimiento ilícito 1996' o consultar Gaceta del Congreso de junio de 1996 en archivo físico del Congreso."
+    },
+    {
+      "id": "santos-odebrecht-2016",
+      "reason": "No existe URL directa accesible en cne.gov.co para la decisión del 2 agosto 2018 de archivar por caducidad la investigación contra Santos. El sitio cne.gov.co indexa resoluciones pero no retorna la de archivo por Odebrecht en búsqueda pública.",
+      "suggestion": "Solicitar directamente a la Sala Plena del CNE el número de resolución de archivo del caso Odebrecht campaña Santos 2014 (decisión agosto 2018)."
+    },
+    {
+      "id": "alirio-uribe-ddhh-cjl-disciplina-bancada",
+      "reason": "El actionText describe una evaluación subjetiva ('disciplina de bancada estricta', 'criticadas como concesiones') sin hecho concreto verificable con fuente primaria (votación específica, declaración institucional).",
+      "suggestion": "Reformular el actionText señalando una votación específica en congresovisible.uniandes.edu.co donde Uribe Muñoz haya votado en un sentido contradictorio con su discurso previo."
+    },
+    {
+      "id": "alirio-uribe-justicia-transicional-alcance",
+      "reason": "La 'acción' es un respaldo genérico a 'textos' sin identificar el proyecto de ley específico ni la votación concreta. No es verificable con fuente primaria.",
+      "suggestion": "Identificar el proyecto de Ley de Sometimiento a la Justicia concreto (número en Gaceta del Congreso) y citar la votación específica."
+    },
+    {
+      "id": "juvinao-alianza-verde-independencia-tono",
+      "reason": "Describe 'posicionamiento mediático' y 'tono de confrontación', categorías interpretativas no documentables con fuente primaria. No hay acción institucional específica.",
+      "suggestion": "Si se quiere sostener la incoherencia, citar una votación específica donde Juvinao haya votado con la oposición tradicional contra el gobierno, con enlace a congresovisible.uniandes.edu.co."
+    },
+    {
+      "id": "juvinao-equidad-genero-actividad-legislativa",
+      "reason": "La acción afirma 'producción legislativa propia modesta' pero no cita el universo de proyectos ni referencia verificable. Evaluación subjetiva.",
+      "suggestion": "Consultar congresovisible.uniandes.edu.co/congresistas/perfil/catherine-juvinao/ y citar los proyectos de ley de autoría principal sobre equidad de género."
+    },
+    {
+      "id": "juvinao-economia-verde-empleo-2023",
+      "reason": "La acción es 'comportamiento pragmático' y 'matices', categorías no verificables con fuente primaria. No hay acto institucional concreto referenciado.",
+      "suggestion": "Identificar una ponencia o voto específico de Juvinao en Comisión sobre energías renovables para tener un anchor verificable."
+    },
+    {
+      "id": "becerra-up-renovacion-pacto-diluido",
+      "reason": "Evaluación interpretativa sobre 'alineamiento estricto' y 'sin diferenciación programática visible', sin cita de votación o declaración específica.",
+      "suggestion": "Citar votación específica en plenaria donde Becerra haya roto con el Pacto Histórico o donde haya votado de forma idéntica en temas sensibles con referencia a congresovisible."
+    },
+    {
+      "id": "becerra-reparacion-integral-incidencia",
+      "reason": "La acción 'incidencia concreta limitada' no es un hecho verificable con fuente primaria; es evaluación cualitativa sin referencia a proyectos de ley específicos.",
+      "suggestion": "Revisar proyectos de ley radicados en cámara.gov.co por Becerra sobre reparación a víctimas del genocidio UP y citar la lista exhaustiva."
+    },
+    {
+      "id": "becerra-seguridad-debate-fuerza-2024",
+      "reason": "Describe 'posicionamiento que contrasta con discurso público' pero sin cita de declaración oficial, ponencia o votación concreta.",
+      "suggestion": "Identificar una intervención específica de Becerra en plenaria o comisión (registro oficial de la Gaceta del Congreso) para anclar la incoherencia."
+    },
+    {
+      "id": "pedraza-juventud-estudiantil-alianzas",
+      "reason": "Evaluación sobre 'perfil crítico' y 'alianzas con figuras con trayectoria'; sin acción documentable con fuente primaria.",
+      "suggestion": "Identificar coaliciones firmadas públicamente o declaraciones específicas en Gaceta del Congreso."
+    },
+    {
+      "id": "pedraza-etica-publica-denuncias-efectividad",
+      "reason": "Compara 'denuncia mediática' con 'producción legislativa limitada' - evaluación cualitativa sin acto institucional concreto identificado.",
+      "suggestion": "Listar los proyectos de ley radicados por Pedraza en congresovisible.uniandes.edu.co y las denuncias formales ante Fiscalía/Procuraduría."
+    },
+    {
+      "id": "miranda-independencia-alianza-verde-rupturas",
+      "reason": "Describe 'tono de confrontación partidista' - categoría interpretativa, sin acto concreto verificable.",
+      "suggestion": "Identificar votaciones específicas en Comisión/Plenaria donde Miranda haya votado contra el gobierno en temas sensibles."
+    },
+    {
+      "id": "miranda-anticorrupcion-denuncias-mediatizacion",
+      "reason": "Evaluación subjetiva sobre 'dimensión mediática vs efectividad institucional'. No hay hecho concreto de fuente primaria.",
+      "suggestion": "Listar las denuncias formales presentadas por Miranda ante Fiscalía y el estado procesal de cada una en el sistema de consulta SPOA."
+    },
+    {
+      "id": "miranda-transparencia-reformas-2023",
+      "reason": "Afirmación sobre 'participación limitada' y 'evitado comprometerse' es evaluación cualitativa no anclada en fuente primaria.",
+      "suggestion": "Revisar intervenciones registradas en la Gaceta del Congreso en debates de reforma política 2023 y documentar ausencias/intervenciones."
+    },
+    {
+      "id": "avella-up-renovacion-generacional",
+      "reason": "Evaluación sobre 'dificultades para construir liderazgos' - afirmación sobre la estructura partidaria de la UP, no una acción individual verificable de Avella.",
+      "suggestion": "Este es un juicio sobre el partido UP, no sobre una acción concreta de Avella. Reformular la incoherencia."
+    },
+    {
+      "id": "avella-izquierda-historica-apoyo-incondicional-petro",
+      "reason": "Afirma 'apoyo incondicional' y 'sin debate público visible' - categorías interpretativas no documentables con fuente primaria.",
+      "suggestion": "Consultar votaciones registradas de Avella en congresovisible.uniandes.edu.co para identificar patrones de voto con el gobierno."
+    },
+    {
+      "id": "lopez-maya-clase-obrera",
+      "reason": "El actionText afirma que 'críticos sindicales' señalaron omisiones en la reforma laboral - pero cita medio de opinión, no una declaración sindical oficial. La votación de López Maya en sí es verificable, pero la crítica sindical citada no es una fuente primaria de la ACCIÓN del político.",
+      "suggestion": "Si se quiere documentar el voto de López Maya, usar congresovisible.uniandes.edu.co. Si se quiere documentar la crítica sindical, citar comunicado oficial de CUT o CGT."
+    },
+    {
+      "id": "alexander-lopez-maya-corrupcion-2024",
+      "reason": "La acción 'votó a favor de acuerdos sin verificación completa de estándares anticorrupción' es extremadamente vaga, no identifica el acuerdo/tratado específico ni la comisión ni la votación.",
+      "suggestion": "Identificar el tratado comercial específico (TLC con país X) y la votación exacta en Senado con fecha y Gaceta."
+    },
+    {
+      "id": "alvaro-uribe-senador-corrupcion-2025",
+      "reason": "Los escándalos 'Paracaidistas' y 'Chivo Espía' mencionados no corresponden a escándalos conocidos y documentados de la administración Uribe (2002-2010). Los nombres parecen inventados o errados.",
+      "suggestion": "Verificar si los nombres son correctos. Escándalos reales documentados de la administración Uribe con fuentes primarias (Corte Suprema, Procuraduría, Contraloría): Agro Ingreso Seguro, Yidispolítica, chuzadas del DAS, Saludcoop. Cualquiera de estos puede sustentar la incoherencia con URL primaria."
+    },
+    {
+      "id": "lozano-transparencia-publicidad-oficial-distrito",
+      "reason": "La 'acción' es 'enfrentó críticas públicas' - esto no es un acto propio de Lozano sino percepciones sobre ella; además el actionText mezcla su rol de senadora con el rol ejecutivo de su pareja como alcaldesa.",
+      "suggestion": "Separar los actos: si se quiere documentar conflictos de interés, citar pronunciamientos oficiales de Procuraduría o Consejo de Estado."
+    },
+    {
+      "id": "lozano-derechos-mujeres-silencios-bancada",
+      "reason": "Evaluación subjetiva sobre 'pragmatismo' de la bancada verde - sin votación específica identificada.",
+      "suggestion": "Citar la votación específica en plenaria sobre cupos en juntas directivas (proyecto de ley de paridad) con referencia a la Gaceta del Congreso."
+    },
+    {
+      "id": "am-cultura-civica",
+      "reason": "La URL original (lasillavaicia.com) contiene un error tipográfico. La afirmación de que 'iniciativas tuvieron alcance limitado y financiamiento insuficiente' es una evaluación cualitativa de un tercero, no un acto propio de Mockus.",
+      "suggestion": "Consultar informes oficiales de evaluación de políticas públicas de cultura ciudadana en Bogotá publicados por el DANE o el Observatorio de Culturas de la Alcaldía de Bogotá."
+    },
+    {
+      "id": "as-tierra-reforma",
+      "reason": "La URL original (lasillavaicia.com) contiene error tipográfico. La afirmación 'proyectos beneficiaron principalmente a empresarios agrícolas' no está anclada a una ley/proyecto específico identificado.",
+      "suggestion": "Identificar el proyecto de reforma agraria específico y citar texto oficial en cámara.gov.co o senado.gov.co con las votaciones de Sanguino."
+    },
+    {
+      "id": "antonio-sanguino-empleo-2024",
+      "reason": "La acción 'decreto mantiene excepciones amplias a contratación directa' no identifica el decreto específico ni el artículo. La reforma laboral de Petro (Ley 2466 de 2025) fue por ley, no por decreto.",
+      "suggestion": "Identificar el decreto reglamentario específico (número y año) emitido por el MinTrabajo para revisar las excepciones. Consultar mintrabajo.gov.co."
+    },
+    {
+      "id": "avila-analista-senador-tono",
+      "reason": "Describe 'tono de confrontación' y 'posicionamientos mediáticos', categorías interpretativas no verificables con fuente primaria.",
+      "suggestion": "Si se quiere documentar confrontaciones, citar intervenciones específicas registradas en Gaceta del Congreso o votaciones puntuales."
+    },
+    {
+      "id": "avila-seguridad-democratica-matices-totalpaz",
+      "reason": "Afirma 'críticas frecuentes' y 'matices' sin citar declaraciones o votaciones concretas en fuentes oficiales.",
+      "suggestion": "Citar intervenciones específicas de Ávila en la Comisión Segunda del Senado sobre paz total, registradas en la Gaceta del Congreso."
+    },
+    {
+      "id": "benedetti-anticorrupcion",
+      "reason": "La investigación por enriquecimiento ilícito contra Benedetti está efectivamente en la Corte Suprema de Justicia, pero cortesuprema.gov.co no publica los expedientes activos de forma indexable. La URL original cita El Tiempo - no es fuente primaria.",
+      "suggestion": "Consultar la Sala de Instrucción de la Corte Suprema de Justicia para el expediente contra Benedetti; o usar la decisión pública del 23 mayo 2024 donde la Sala Plena definió competencia (posible comunicado oficial)."
+    },
+    {
+      "id": "armando-benedetti-senador-transparencia-2024",
+      "reason": "La acción 'cambios de alianza política sin comunicación clara' es una evaluación subjetiva sobre comportamiento político, no un acto institucional documentable con fuente primaria.",
+      "suggestion": "Reformular la incoherencia citando hechos concretos verificables (su ingreso al gabinete Petro como embajador FAO, luego como ministro del Interior) con fuentes de presidencia.gov.co."
+    },
+    {
+      "id": "cl-transparencia-bogota",
+      "reason": "El 'portal de transparencia con retrasos' es un hecho operativo sobre un portal web, no un acto institucional atribuible directamente a una decisión documentable de Claudia López.",
+      "suggestion": "Si la crítica es sobre ejecución presupuestal, usar el informe de la Contraloría de Bogotá (contraloriabogota.gov.co/ejecucion-presupuestal-historica-anual) sobre el 53.6% de ejecución en 2022."
+    },
+    {
+      "id": "claudia-lopez-senadora-medio-ambiente-2024",
+      "reason": "Bogotá no tiene proyectos de exploración de gas significativos bajo jurisdicción de la alcaldía; el hecho descrito no es verificable. Además la acción menciona 'ajustes administrativos' sin identificar acto específico.",
+      "suggestion": "Verificar si el hecho descrito es real. Si se refiere a proyectos nacionales de gas, la jurisdicción es del Ministerio de Minas / ANLA, no de la alcaldía. Reformular la incoherencia."
+    },
+    {
+      "id": "claudia-lopez-senadora-democracia-2025",
+      "reason": "La acción 'implementó decisiones sobre reorganización territorial sin consulta' es vaga, no identifica el acto administrativo específico (decreto, resolución) ni las localidades afectadas.",
+      "suggestion": "Identificar el decreto específico de la Alcaldía Mayor de Bogotá sobre reorganización territorial y consultar registrodistrital.gov.co."
+    },
+    {
+      "id": "db-corrupcion-mineria",
+      "reason": "La acción 'votó contra prohibición de nuevos proyectos mineros a gran escala' no identifica el proyecto de ley específico ni la fecha de la votación con precisión. Las búsquedas no retornan un proyecto de ley específico con tal votación el 30 junio 2021.",
+      "suggestion": "Identificar el número y año del proyecto de ley con su votación específica en congresovisible.uniandes.edu.co. Si el hecho no existe, reformular la incoherencia."
+    },
+    {
+      "id": "luna-modernizacion-tic-olimpica-cr",
+      "reason": "La acción 'se concretaron contratos cuestionados con grandes operadores' es vaga, no identifica contratos específicos ni sanciones administrativas (Contraloría/Procuraduría).",
+      "suggestion": "Consultar los hallazgos fiscales de la Contraloría General contra el MinTIC durante el periodo 2015-2018, si existen."
+    },
+    {
+      "id": "luna-descentralizacion-alineacion-hacienda",
+      "reason": "Afirmación sobre votos 'en bloque con agenda centralista' sin cita específica de las votaciones en Ley 1819 de 2016 ni Ley 2010 de 2019 ni Ley 2155 de 2021 (reforma tributaria Duque).",
+      "suggestion": "Revisar congresovisible.uniandes.edu.co para las votaciones específicas de David Luna en las reformas tributarias mencionadas y citar los registros oficiales del Senado."
+    },
+    {
+      "id": "e-cepeda-etica-conservadora-contratos-atlantico",
+      "reason": "'Investigaciones periodísticas han señalado' - se cita una categoría de investigación periodística, no una decisión institucional (Procuraduría/Fiscalía/Corte Suprema). Aunque existe indagación de la Corte Suprema (feb 2026) por presuntos nexos paramilitares, no es lo que describe el actionText.",
+      "suggestion": "Si se quiere usar la indagación de la Corte Suprema (febrero 2026), citar el auto o comunicado oficial. Si se quiere hablar de contratos, consultar contratos.gov.co / SECOP con los vínculos familiares específicos."
+    },
+    {
+      "id": "e-cepeda-presidencia-senado-gobiernos-distintos",
+      "reason": "Evaluación histórica sobre 'apoyos parlamentarios flexibles' durante décadas - no es un hecho puntual verificable con fuente primaria.",
+      "suggestion": "Citar votaciones específicas de Cepeda bajo distintos gobiernos en congresovisible.uniandes.edu.co para demostrar el patrón."
+    },
+    {
+      "id": "bolivar-narcotraficante-libros-aliado-politica",
+      "reason": "Afirma 'posiciones tácticas frente a señalamientos sobre financiación irregular' - formulación vaga, no identifica el señalamiento específico ni la posición concreta de Bolívar.",
+      "suggestion": "Si el tema es la financiación de la campaña Petro 2022, citar el fallo histórico del CNE de noviembre 2025 (que sí existe como acto institucional). Para la respuesta específica de Bolívar, ver sus propios comunicados oficiales."
+    },
+    {
+      "id": "gp-transicion-energetica",
+      "reason": "Parcialmente fixable mediante ANH.gov.co (Acuerdos 03 y 06 de 2023 sobre criterios para administrar contratos de hidrocarburos). Pero la acción descrita (continuar operaciones petroleras) no está claramente documentada en un único acto administrativo identificable.",
+      "suggestion": "Usar https://www.anh.gov.co/es/normatividad2/normatividad/acuerdo-03-de-2023/ como evidencia de continuidad de contratos. Alternativamente, declaraciones oficiales de la ANH en 2023 sobre respeto a contratos vigentes."
+    },
+    {
+      "id": "henriquez-presidencia-senado-acuerdo-paz",
+      "reason": "ERROR FACTUAL: Honorio Henríquez NO fue presidente del Senado 2024-2025. Para ese periodo fue Efraín Cepeda Sarabia del Partido Conservador. Henríquez fue segundo vicepresidente del Senado 2022-2023.",
+      "suggestion": "Corregir el error factual. Si se refiere al periodo 2022-2023 (segunda vicepresidencia), reformular. Si se refiere a Cepeda Sarabia, atribuir correctamente."
+    },
+    {
+      "id": "henriquez-costa-caribe-votos-sociales",
+      "reason": "Afirmación sobre 'voto en reformas sociales clave alineado con Centro Democrático' sin cita de votaciones específicas.",
+      "suggestion": "Consultar congresovisible.uniandes.edu.co las votaciones específicas de Henríquez en reformas de salud, pensional y laboral del gobierno Petro."
+    },
+    {
+      "id": "delacalle-paz-constructor-voto-blanco-2018",
+      "reason": "El voto en blanco de De la Calle en 2018 fue anunciado vía Twitter oficial (@DeLaCalleHum) el 31 mayo 2018. Sin acceso a X/Twitter, no puedo localizar el tweet ID exacto. Pero sí es declaración oficial propia del político.",
+      "suggestion": "Buscar en x.com/DeLaCalleHum el tweet original de 31 mayo 2018; o buscar comunicado oficial en su sitio personal/Nuevo Liberalismo."
+    },
+    {
+      "id": "delacalle-centro-nuevo-liberalismo-pragmatismo",
+      "reason": "'Avales regionales cuestionados' es evaluación interpretativa, sin referencia a un aval específico o decisión del Consejo Nacional Electoral.",
+      "suggestion": "Identificar el aval específico cuestionado y consultar las decisiones del CNE sobre avales del Nuevo Liberalismo 2022."
+    },
+    {
+      "id": "zuleta-movimiento-rios-vivos-pactos",
+      "reason": "Evaluación sobre 'equilibrar activismo con disciplina de bancada', 'matices en críticas a contratos Ecopetrol' - sin cita concreta de votaciones o declaraciones.",
+      "suggestion": "Revisar congresovisible.uniandes.edu.co los votos de Zuleta en temas relacionados con Ecopetrol y contratos de hidrocarburos durante 2022-2024."
+    },
+    {
+      "id": "zuleta-radicalismo-discurso-pragmatismo-legislativo",
+      "reason": "Afirmación sobre 'lenguaje más medido' y 'concesiones programáticas' - categorías interpretativas no verificables.",
+      "suggestion": "Citar intervenciones específicas de Zuleta en Gaceta del Congreso en trámites legislativos concretos."
+    },
+    {
+      "id": "cepeda-ddhh-vs-silencio-venezuela",
+      "reason": "La acción 'críticas moderadas a Venezuela/Nicaragua' es evaluación comparativa subjetiva, sin declaración oficial específica de Cepeda que se pueda contrastar con un pronunciamiento formal previo.",
+      "suggestion": "Identificar declaración pública específica de Cepeda sobre Venezuela (fecha, plataforma) y compararla con declaración previa explícita sobre Colombia en un caso análogo."
+    },
+    {
+      "id": "cepeda-paz-victimas-reincorporacion",
+      "reason": "Afirma 'actividad reducida en seguimiento legislativo' - evaluación cualitativa sin anclaje en proyecto de ley específico o ausencia documentada.",
+      "suggestion": "Consultar registros de la Comisión de Paz del Senado sobre intervenciones de Cepeda en seguimiento al Acuerdo de Paz y bienes de Comunes."
+    }
+  ],
+  "_summary": {
+    "total_warnings": 56,
+    "fixed": 10,
+    "unfindable": 46,
+    "notes": [
+      "De los 56 warnings, 10 tienen fuente primaria identificable (aunque una es marginal: samper-proceso8000-1995).",
+      "46 warnings son UNFINDABLE porque describen acciones interpretativas/cualitativas (tono, matices, pragmatismo, alineaciones, producción legislativa 'modesta', 'silencios', etc.) que por su naturaleza NO son verificables con fuente primaria institucional.",
+      "La mayoría de los warnings vagos provienen de análisis de La Silla Vacía sobre representantes/senadores - son evaluaciones de perfil político, no hechos documentables.",
+      "Hay 2 errores factuales detectados: (1) 'henriquez-presidencia-senado-acuerdo-paz' atribuye a Henríquez la presidencia del Senado 2024-2025 que en realidad ocupó Efraín Cepeda; (2) 'bolivar-outsider-renuncia-recurso' indica fecha 2023-08-14 para posesión en DPS, pero la real fue 2024-03-05.",
+      "Hay errores de URL (typos tipo 'lasillavaicia' en lugar de 'lasillavacia') en: am-cultura-civica, as-tierra-reforma.",
+      "Hay 1 caso con escándalos aparentemente inexistentes ('Paracaidistas', 'Chivo Espía' en alvaro-uribe-senador-corrupcion-2025) - revisar si los nombres son correctos.",
+      "RECOMENDACIÓN METODOLÓGICA: considerar reformar la metodología para distinguir entre (a) hechos institucionales documentables que requieren fuente primaria (votaciones, decretos, sentencias, ejecución presupuestal) y (b) evaluaciones interpretativas del comportamiento político (tono, alineaciones, énfasis discursivo) que por naturaleza dependen de análisis secundario. Los segundos no deberían tratarse como 'incoherencias' verificables, sino como 'observaciones críticas' con estándar probatorio distinto."
+    ]
+  }
+}

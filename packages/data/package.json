@@ -1,0 +1,18 @@
+{
+  "name": "@brujula/data",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Fuente de verdad de datos: ideologías, partidos, figuras políticas",
+  "license": "Apache-2.0",
+  "type": "module",
+  "exports": {
+    "./ideologies.json": "./ideologies.json",
+    "./colombia/parties.json": "./colombia/parties.json",
+    "./colombia/presidents.json": "./colombia/presidents.json",
+    "./colombia/senators.json": "./colombia/senators.json",
+    "./colombia/representatives.json": "./colombia/representatives.json",
+    "./colombia/candidates.json": "./colombia/candidates.json",
+    "./colombia/governors.json": "./colombia/governors.json",
+    "./colombia/mayors.json": "./colombia/mayors.json"
+  }
+}

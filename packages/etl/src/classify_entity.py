@@ -169,10 +169,25 @@ Responde ÚNICAMENTE con un objeto JSON válido, sin texto adicional, sin markdo
 
 # ── Funciones principales ─────────────────────────────────────────────────────
 
-def classify_entity(entity_raw: dict) -> dict:
+def _check_dimension_coherence(classification: dict, entity_type: str) -> tuple[float, float]:
+    """Calcula |delta x| y |delta y| entre coord reportada y promedio de scores.
+
+    Si |delta| > VERIFICATION_THRESHOLD el LLM se contradijo a sí mismo.
+    """
+    weights = DIMENSION_WEIGHTS.get(entity_type, DIMENSION_WEIGHTS["senator"])
+    evid = classification.get("evidenced", {})
+    scores = evid.get("dimensionScores", {})
+    x_avg = sum((scores.get(d) or 0) * w for d, w in weights["x"].items())
+    y_avg = sum((scores.get(d) or 0) * w for d, w in weights["y"].items())
+    x_reported = evid.get("x", 0)
+    y_reported = evid.get("y", 0)
+    return abs(x_reported - x_avg), abs(y_reported - y_avg)
+
+
+def classify_entity(entity_raw: dict, max_retries: int = 1) -> dict:
     """
     Clasifica una figura política usando Claude API.
-    
+
     Args:
         entity_raw: dict con campos:
           - name: nombre completo
@@ -181,32 +196,69 @@ def classify_entity(entity_raw: dict) -> dict:
           - proposals: lista de propuestas/promesas documentadas con fuente
           - actions: lista de acciones ejecutadas con fuente
           - votingRecord: (opcional) historial de votaciones
-    
+        max_retries: si la primera clasificación tiene incoherencia entre
+          x|y reportado y dimensionScores, reintentar con feedback explícito
+          al modelo (default: 1 retry).
+
     Returns:
         dict con compassSelfPerceived, compassEvidenced, ideologies, nuances
     """
     client = anthropic.Anthropic()
-    
+
     entity_data_str = json.dumps(entity_raw, ensure_ascii=False, indent=2)
     prompt = CLASSIFICATION_PROMPT.format(entity_data=entity_data_str)
-    
-    print(f"  → Clasificando: {entity_raw.get('name', 'Sin nombre')}...")
-    
-    message = client.messages.create(
-        model="claude-opus-4-6",
-        max_tokens=4000,
-        messages=[{"role": "user", "content": prompt}]
-    )
-    
-    response_text = message.content[0].text.strip()
-    
-    # Limpiar posibles marcadores de código
-    if response_text.startswith("```"):
-        response_text = response_text.split("```")[1]
-        if response_text.startswith("json"):
-            response_text = response_text[4:]
-    
-    classification = json.loads(response_text)
+    entity_type = entity_raw.get("type", "president")
+
+    print(f"  -> Clasificando: {entity_raw.get('name', 'Sin nombre')}...", file=sys.stderr)
+
+    classification: dict = {}
+    for attempt in range(max_retries + 1):
+        messages: list[dict] = [{"role": "user", "content": prompt}]
+
+        # En el reintento, anotar el problema detectado en el primer intento
+        if attempt > 0:
+            x_delta, y_delta = _check_dimension_coherence(classification, entity_type)
+            issues = []
+            if x_delta > VERIFICATION_THRESHOLD:
+                issues.append(f"x={classification['evidenced']['x']} no coincide con el promedio ponderado de tus dimensionScores X (delta {x_delta:.2f})")
+            if y_delta > VERIFICATION_THRESHOLD:
+                issues.append(f"y={classification['evidenced']['y']} no coincide con el promedio ponderado de tus dimensionScores Y (delta {y_delta:.2f})")
+            feedback = (
+                "Tu clasificación anterior tenía incoherencia interna: "
+                + "; ".join(issues)
+                + ". Recalcula manteniendo coherencia: si los dimensionScores reflejan la realidad, "
+                  "el x/y final debe ser el promedio ponderado de esos scores. Devuelve solo el JSON, sin texto adicional."
+            )
+            print(f"  -> Reintentando (feedback: {feedback[:120]}...)", file=sys.stderr)
+            messages = [
+                {"role": "user", "content": prompt},
+                {"role": "assistant", "content": json.dumps(classification, ensure_ascii=False)},
+                {"role": "user", "content": feedback},
+            ]
+
+        message = client.messages.create(
+            model="claude-opus-4-6",
+            max_tokens=4000,
+            messages=messages,
+        )
+        response_text = message.content[0].text.strip()
+
+        # Limpiar posibles marcadores de código
+        if response_text.startswith("```"):
+            response_text = response_text.split("```")[1]
+            if response_text.startswith("json"):
+                response_text = response_text[4:]
+
+        classification = json.loads(response_text)
+
+        # Si no hay incoherencia o no hay scores, terminamos
+        evid = classification.get("evidenced", {})
+        if not evid.get("dimensionScores"):
+            break
+        x_delta, y_delta = _check_dimension_coherence(classification, entity_type)
+        if x_delta <= VERIFICATION_THRESHOLD and y_delta <= VERIFICATION_THRESHOLD:
+            break  # coherente, salimos del loop
+
     return classification
 
 

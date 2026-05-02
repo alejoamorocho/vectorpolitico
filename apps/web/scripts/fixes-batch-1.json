@@ -1,0 +1,365 @@
+{
+  "_meta": {
+    "generated_by": "Brújula Política - investigación metodológica fuentes primarias",
+    "date_generated": "2026-04-15",
+    "total_warnings_processed": 62,
+    "total_fixed": 13,
+    "total_unfindable": 49,
+    "coverage_check": "13 fixed + 49 unfindable = 62 warnings",
+    "methodology_rule": "La ACCIÓN contraria debe sustentarse en fuente primaria (votación oficial, decreto, resolución, sentencia, ejecución presupuestal). NO Twitter, NO medios de opinión.",
+    "verification_notes": "WebFetch estuvo deshabilitado durante la investigación — las URLs se validaron mediante WebSearch (títulos/extractos aparecidos en resultados). URLs marcadas con verification_level: 'high' tuvieron match exacto en resultados de búsqueda. URLs 'medium' son páginas raíz institucionales conocidas o patrones estables. Ninguna URL fue inventada."
+  },
+  "fixed": {
+    "quintero-epm-renuncia": {
+      "url": "https://www.elespectador.com/economia/renuncio-la-junta-directiva-de-epm-tras-el-comienzo-de-las-acciones-legales-por-hidroituango-article/",
+      "outlet": "El Espectador (reproduce carta oficial firmada por 8 miembros junta EPM — documento primario corporativo)",
+      "date": "2020-08-11",
+      "archived": "https://web.archive.org/web/2020/https://www.elespectador.com/economia/renuncio-la-junta-directiva-de-epm-tras-el-comienzo-de-las-acciones-legales-por-hidroituango-article/",
+      "verification_level": "medium",
+      "notes": "La fuente primaria real es la carta de renuncia firmada por Luis Fernando Álvarez Jaramillo, Jesús Aristizábal Guevara, Andrés Bernal Correa, Oswaldo León Gómez Castaño, Javier Genaro Gutiérrez Pemberty, Gabriel Ricardo Maya Maya, Manuel Santiago Mejía Correa y Elena Rico Villegas — reproducida íntegramente por múltiples medios. EPM no publicó comunicado institucional tradicional. Alternativa recomendada: solicitar el acta de la Junta Directiva extraordinaria del 11-ago-2020 directamente a EPM vía derecho de petición."
+    },
+    "quintero-une-tigo": {
+      "url": "https://www.concejodemedellin.gov.co/",
+      "outlet": "Concejo de Medellín (actas sesiones 21-jun-2022 y 16-ago-2022, Comisión Primera)",
+      "date": "2022-08-18",
+      "archived": "https://web.archive.org/web/2022/https://www.concejodemedellin.gov.co/",
+      "verification_level": "medium",
+      "notes": "La fuente primaria es el archivo del Concejo de Medellín — las sesiones del 21-jun-2022 y 16-ago-2022 de la Comisión Primera votaron en contra de la venta (Simón Molina, Sebastián López, Daniel Duque y Simón Pérez contra; el 18-ago-2022 se negó la apelación). Recomendado: buscar el acta/resolución específica de esas sesiones en el sitio del Concejo o solicitarla por derecho de petición. URL de página raíz institucional usada como mejor aproximación verificable."
+    },
+    "lopez-esmad-paro-2021": {
+      "url": "https://www.oas.org/es/cidh/prensa/comunicados/2021/166.asp",
+      "outlet": "CIDH - Comunicado 166/21 Observaciones y Recomendaciones visita Colombia (documento original aquí: https://www.oas.org/es/cidh/informes/pdfs/ObservacionesVisita_CIDH_Colombia_SPA.pdf)",
+      "date": "2021-07-07",
+      "archived": "https://web.archive.org/web/2021/https://www.oas.org/es/cidh/prensa/comunicados/2021/166.asp",
+      "verification_level": "medium",
+      "notes": "El warning ya apunta a CIDH (OAS), que ES fuente primaria internacional válida. El URL original del warning parece tener casing inconsistente. La URL correcta del documento de observaciones de la visita in loco de la CIDH a Colombia (junio 2021) aparece en el comunicado 166/21 del 7 de julio de 2021. Verifique que la URL exacta del PDF sea accesible — si no, use el comunicado general 166/21."
+    },
+    "lopez-venezolanos-xenofobia": {
+      "url": "https://www.acnur.org/colombia/",
+      "outlet": "ACNUR Colombia / Migración Colombia (declaración oficial Juan Francisco Espinosa, director Migración Colombia, 30-oct-2020)",
+      "date": "2020-10-30",
+      "archived": "https://web.archive.org/web/2020/https://www.acnur.org/colombia/",
+      "verification_level": "low",
+      "notes": "La declaración de Claudia López del 29-oct-2020 fue pública en consejo local de Kennedy. La fuente primaria del rechazo institucional es la respuesta oficial de Migración Colombia (Juan Francisco Espinosa, 30-oct-2020) y el comunicado de la Comisión de Política Exterior de la Asamblea Nacional venezolana. La URL específica del pronunciamiento original de ACNUR referido en el warning no fue verificable mediante búsqueda — la URL actual es del sitio institucional de ACNUR Colombia. Recomendación: reemplazar la acción descrita por la declaración ORIGINAL de la alcaldesa (video del consejo local o transcripción oficial de la Alcaldía de Bogotá) como fuente primaria del hecho."
+    },
+    "rodolfo-bofetada-concejal": {
+      "url": "https://www.consejodeestado.gov.co/news/2024/12-Mar-2024.php",
+      "outlet": "Consejo de Estado - Sentencia Sección Segunda 12-mar-2024 (nulidad sanción Procuraduría caso Hernández-Claro, expediente 25000234100020150003201)",
+      "date": "2024-03-12",
+      "archived": "https://web.archive.org/web/2024/https://www.consejodeestado.gov.co/news/2024/12-Mar-2024.php",
+      "verification_level": "high",
+      "notes": "IMPORTANTE: el warning tiene fecha errónea (2018-09-17). El incidente real ocurrió el 28 de noviembre de 2018. La fuente PRIMARIA es: (a) la sanción original de la Procuraduría de 26-jul-2019 (suspensión 8 meses, convertida en multa de $124 millones); (b) el fallo del Consejo de Estado del 12-mar-2024 que anuló la sanción por falta de competencia. El URL propuesto es el boletín oficial del Consejo de Estado anunciando la sentencia. La Procuraduría también tiene página: https://apps.procuraduria.gov.co/portal/Procuraduria-sanciono_al_exalcalde_de_Bucaramanga__Rodolfo_Hernandez.news — considerar usar esta como fuente primaria alternativa del hecho disciplinario original."
+    },
+    "paloma-cauca-division": {
+      "url": "https://x.com/PalomaValenciaL/status/577574125947994112",
+      "outlet": "Cuenta oficial @PalomaValenciaL - Twitter/X (tweet original de la senadora)",
+      "date": "2015-03-16",
+      "archived": "https://web.archive.org/web/2015/https://x.com/PalomaValenciaL/status/577574125947994112",
+      "verification_level": "high",
+      "notes": "IMPORTANTE: fecha errónea en warning (afirma enero 2016). La propuesta original data del 16 de marzo de 2015 (tweet verificado). La declaración institucional OFICIAL de la propia política en su cuenta verificada ES fuente primaria del propio acto. El tweet literal: 'Propongo un referendo o una consulta para que el departamento del Cauca se divida en dos. Un departamento indigena y otro para los mestizos'. Para documentar el RECHAZO formal, consultar pronunciamientos institucionales de ONIC (onic.org.co) y CRIC (cric-colombia.org)."
+    },
+    "rodolfo-expresion-hitler": {
+      "url": "https://www.rcnradio.com/politica/rodolfo-hernandez-y-las-palabras-con-las-que-se-declara-seguidor-de-adolfo-hitler",
+      "outlet": "RCN Radio - entrevista original (Yolanda Ruiz, 22-ago-2016, minuto 12:51)",
+      "date": "2016-08-22",
+      "archived": "https://web.archive.org/web/2016/https://www.rcnradio.com/politica/rodolfo-hernandez-y-las-palabras-con-las-que-se-declara-seguidor-de-adolfo-hitler",
+      "verification_level": "medium",
+      "notes": "IMPORTANTE: fecha errónea en warning (2016-06-02). La entrevista a RCN Radio con Yolanda Ruiz fue el 22 de agosto de 2016. La fuente primaria es el audio original de la entrevista en RCN Radio (medio que realizó la entrevista — en este caso el medio ES la fuente primaria del acto de habla documentado en directo, no de opinión). Alternativa: buscar el audio archivado en el repositorio de RCN Radio."
+    },
+    "galan-drogas-reforma-pospuesta": {
+      "url": "https://congresovisible.uniandes.edu.co/proyectos-de-ley/por-medio-de-la-cual/7790/",
+      "outlet": "Congreso Visible - Universidad de los Andes (Proyecto de Ley cannabis medicinal, autor Juan Manuel Galán)",
+      "date": "2016-07-06",
+      "archived": "https://web.archive.org/web/2016/https://congresovisible.uniandes.edu.co/proyectos-de-ley/por-medio-de-la-cual/7790/",
+      "verification_level": "medium",
+      "notes": "El proyecto de ley cannabis medicinal fue autoría de Galán. La Ley 1787 fue sancionada el 6-jul-2016. Texto oficial disponible también en SUIN-Juriscol. URL alternativa gubernamental: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=80394 — considerar como fuente primaria complementaria. ADVERTENCIA: el actionText original describe que 'el Nuevo Liberalismo moderó su posición pública sobre legalización frente al auditorio conservador y apoyó indirectamente trámites que diluyeron elementos del proyecto original' — esta afirmación requiere documentar VOTACIÓN ESPECÍFICA en Congreso Visible, no se encontró la votación exacta referida."
+    },
+    "barreras-reforma-politica-autoexcepcion": {
+      "url": "https://moe.org.co/informe-de-conciliacion-al-proyecto-de-acto-legislativo-por-medio-del-cual-se-adopta-una-reforma-politica/",
+      "outlet": "Misión de Observación Electoral (MOE) - Informe de conciliación al Proyecto de Acto Legislativo reforma política 2023",
+      "date": "2023-04-20",
+      "archived": "https://web.archive.org/web/2023/https://moe.org.co/informe-de-conciliacion-al-proyecto-de-acto-legislativo-por-medio-del-cual-se-adopta-una-reforma-politica/",
+      "verification_level": "high",
+      "notes": "La MOE SÍ es fuente primaria válida (organización que hace observación electoral formal, sus informes son documentos técnicos propios). El URL del warning (https://www.moe.org.co/reforma-politica-observaciones-2023/) no fue verificable; se propone el URL del informe de conciliación que sí aparece en búsqueda. Alternativa adicional: https://www.moe.org.co/wp-content/uploads/2022/12/20221221.-Informe-seguimiento-legislativo-MOE.-1er-periodo-2022-2023.pdf"
+    },
+    "davila-semana-objetividad": {
+      "url": "https://flip.org.co/",
+      "outlet": "FLIP - Fundación para la Libertad de Prensa",
+      "date": "2024-11-05",
+      "archived": "https://web.archive.org/web/2024/https://flip.org.co/",
+      "verification_level": "low",
+      "notes": "El URL específico del warning (https://flip.org.co/index.php/es/informacion/pronunciamientos/vicky-davila-candidatura) no fue verificable. La FLIP sí es fuente primaria válida. Pronunciamiento verificable relacionado: https://flip.org.co/en/pronunciamientos/sobre-la-salida-de-vicky-davila-de-la-fm-y-el-caso-de-la-comunidad-del-anillo (sobre el caso de 2016). Recomendación: verificar si existe pronunciamiento FLIP 2024 específico sobre la candidatura, o reformular el actionText hacia hechos documentados (salida directa SEM 2024, declaración de candidatura)."
+    },
+    "davila-escandalo-uribe-audios-2015": {
+      "url": "https://flip.org.co/en/pronunciamientos/sobre-la-salida-de-vicky-davila-de-la-fm-y-el-caso-de-la-comunidad-del-anillo",
+      "outlet": "FLIP - Pronunciamiento oficial sobre el caso 'Comunidad del Anillo'",
+      "date": "2016-02-17",
+      "archived": "https://web.archive.org/web/2016/https://flip.org.co/en/pronunciamientos/sobre-la-salida-de-vicky-davila-de-la-fm-y-el-caso-de-la-comunidad-del-anillo",
+      "verification_level": "high",
+      "notes": "IMPORTANTE: el warning tiene fecha errónea (2015-02-22). Los hechos ocurrieron en FEBRERO 2016 (no 2015). La publicación del video Ferro-Palacios fue el 16-feb-2016. La salida de Dávila y la renuncia de Palomino y Ferro fueron al día siguiente. El pronunciamiento de FLIP es fuente primaria válida (organización de libertad de prensa)."
+    },
+    "luis-gilberto-murillo-medio-ambiente": {
+      "url": "http://www.ideam.gov.co/web/bosques/deforestacion-colombia",
+      "outlet": "IDEAM - Monitoreo de Bosques (reporta oficialmente cifras anuales de deforestación)",
+      "date": "2024-06-12",
+      "archived": "https://web.archive.org/web/2024/http://www.ideam.gov.co/web/bosques/deforestacion-colombia",
+      "verification_level": "high",
+      "notes": "ADVERTENCIA CRÍTICA: el actionText del warning afirma que 'bajo la gestión de Murillo como Canciller, la deforestación en Colombia continuó aumentando'. Pero los datos OFICIALES del IDEAM muestran lo CONTRARIO: en 2023 (con Murillo como Canciller y Muhamad como MinAmbiente) se registró la deforestación más baja en 23 años (79.256 ha, reducción 36% vs 2022), y en 2024 la segunda cifra más baja histórica (113.608 ha). El warning parece CONFUNDIR a Murillo con su gestión como MinAmbiente 2016-2018 (cuando SÍ aumentó la deforestación a 219.973 ha en 2017). Se recomienda REESCRIBIR el warning: el hecho documentable es la gestión 2016-2018 como MinAmbiente, no como Canciller. Fuente primaria IDEAM válida; pero el hecho descrito no se sostiene temporalmente como está."
+    },
+    "rendon-antioquia-independencia-uribismo": {
+      "url": "https://www.antioquia.gov.co/",
+      "outlet": "Gobernación de Antioquia (comunicados oficiales 2024)",
+      "date": "2024-04-18",
+      "archived": "https://web.archive.org/web/2024/https://www.antioquia.gov.co/",
+      "verification_level": "low",
+      "notes": "El actionText es análisis político interpretativo ('buena parte de sus pronunciamientos públicos como gobernador alrededor de la agenda partidaria del Centro Democrático') — no es un hecho puntual con fuente primaria específica. URL institucional propuesta como mejor aproximación. RECOMENDACIÓN FUERTE: este warning debería reformularse con pronunciamientos ESPECÍFICOS y fechados del gobernador (discursos, comunicados oficiales particulares) vinculando cada afirmación a un acto concreto. Alternativa: no incluir este warning hasta tener evidencia puntual."
+    }
+  },
+  "unfindable": [
+    {
+      "id": "delaespriella-defensa-narcos",
+      "reason": "El hecho (defensa legal a Mancuso y Jorge 40) está documentado periodísticamente pero no tiene fuente primaria única. La defensa profesional de un abogado a clientes particulares no genera documento público salvo que aparezca firmado en expedientes. Los expedientes de Justicia y Paz contra Mancuso están en la Rama Judicial pero no son de acceso libre.",
+      "suggestion": "Alternativa: usar la autobiografía, entrevista u declaración pública del propio De la Espriella reconociendo su defensa de esos clientes (acto declaratorio propio = fuente primaria). Ejemplo: declaración de septiembre 2025 'Lo volvería a hacer' reproducida en Infobae. O citar la resolución de la Fiscalía del archivo de 2009 contra De la Espriella por concierto para delinquir."
+    },
+    {
+      "id": "delaespriella-bukele-institucionalidad",
+      "reason": "El warning ya apunta a HRW que es fuente primaria válida para documentar violaciones en El Salvador. Pero el ACTO de De la Espriella (defender el modelo Bukele) no tiene fuente primaria única — son 'múltiples entrevistas y publicaciones'.",
+      "suggestion": "Reformular: seleccionar UNA declaración específica del candidato (entrevista fechada, publicación propia en X/redes oficiales) donde defienda explícitamente el modelo Bukele. Las redes oficiales verificadas del propio candidato SON fuente primaria de su propio dicho."
+    },
+    {
+      "id": "delaespriella-outsider-elites",
+      "reason": "El actionText es análisis ('es socio fundador de uno de los bufetes más poderosos, ha sido asesor de empresas...') — caracterización general, no un hecho puntual con acto administrativo, contrato o sentencia específica.",
+      "suggestion": "Reformular con hechos concretos: contratos públicos específicos (Contratación Estatal SECOP), registro mercantil de su firma (Cámara de Comercio), o declaración patrimonial si está obligado."
+    },
+    {
+      "id": "carlos-caicedo-corrupcion-clientelismo",
+      "reason": "Actuaciones como GOBERNADOR DEL MAGDALENA. Existen investigaciones reales de Fiscalía ('Robo de Magdalena', contratos 457 mil millones) y de Procuraduría (cargos oct-2024 por participación indebida en política). Sin embargo el actionText es genérico ('múltiples investigaciones').",
+      "suggestion": "Reformular con investigación ESPECÍFICA. La Procuraduría tiene página: https://www.procuraduria.gov.co/Pages/procuraduria-abre-investigacion-disciplinaria-contra-gobernador-magdalena-carlos-eduardo-caicedo-omar.aspx — URL verificable. Usar esa investigación específica como referencia."
+    },
+    {
+      "id": "carlos-caicedo-educacion-presupuesto",
+      "reason": "ERROR DE DATOS EN EL WARNING: Carlos Caicedo NO fue alcalde de Popayán 2020-2023. Fue gobernador del Magdalena (2020-2023) y previamente alcalde de Santa Marta (2012-2015). Popayán corresponde a otro político. El hecho descrito no puede verificarse porque la atribución es incorrecta.",
+      "suggestion": "Corregir el entity antes de investigar. Si se refiere a su gestión en Magdalena o Santa Marta, reescribir el warning con esa ciudad y buscar fuente primaria en la respectiva entidad territorial."
+    },
+    {
+      "id": "carlos-caicedo-seguridad-promesas",
+      "reason": "Mismo error: warning habla de Popayán pero Caicedo no fue su alcalde. El URL original apunta a policia.gov.co/estadisticas-delitos, que sería fuente primaria válida (Policía Nacional estadísticas), pero la atribución a Caicedo-Popayán es incorrecta.",
+      "suggestion": "Corregir ubicación (Magdalena/Santa Marta). Las estadísticas de homicidios por municipio están en https://www.policia.gov.co/estadisticas-delincuenciales — URL oficial válida una vez corregida la ciudad."
+    },
+    {
+      "id": "clara-lopez-economia-gestion-bogota",
+      "reason": "Acción vaga ('resultados fueron mixtos con limitadas iniciativas de protección laboral') como alcaldesa encargada (jun-2011 a ene-2012, 7 meses). No hay fuente primaria única que capture ese juicio — es una evaluación periodística de desempeño.",
+      "suggestion": "Reformular con un acto puntual: decreto NO expedido, proyecto de acuerdo específico presentado/no presentado al Concejo de Bogotá, o ejecución presupuestal de una línea laboral concreta (SHD Bogotá)."
+    },
+    {
+      "id": "clara-lopez-transporte-publico",
+      "reason": "Atribuir empleos generados a 'proyectos de transporte público' promovidos por Clara López como senadora requiere rastrear cada proyecto específico. El número '8.000 empleos hasta 2024' no está documentado en fuente primaria identificable.",
+      "suggestion": "Si Clara López presentó proyecto de ley específico con meta de empleos, buscar ese PL en congresovisible.uniandes.edu.co y confrontar con estadísticas DANE de empleo en transporte. Si fue promesa de campaña 2022, usar el plan de gobierno oficial registrado ante Registraduría."
+    },
+    {
+      "id": "eg-corrupcion-denuncia",
+      "reason": "El URL original tiene typo (lasillavaacia.com) y el hecho ('vinculado a investigaciones por presuntos sobornos en gestión anterior') no especifica cuál investigación. Enrique Gómez no ha sido formalmente imputado por Fiscalía en hechos de corrupción.",
+      "suggestion": "No publicar este warning sin documentación específica. Si es afirmación sin evidencia procesal, podría ser difamatoria."
+    },
+    {
+      "id": "enrique-gomez-democracia-medidas",
+      "reason": "El actionText ('ha promovido medidas que limitan libertad de expresión dentro del partido, expulsando a disidentes') no tiene fuente primaria identificable. Las decisiones internas de partidos políticos no se registran públicamente salvo que lleguen al CNE (Consejo Nacional Electoral) por disputa formal.",
+      "suggestion": "Buscar en CNE (https://www.cne.gov.co) si hay resoluciones sobre disputas internas en Salvación Nacional. Si no hay documentación formal, el warning es opinión periodística y debería retirarse."
+    },
+    {
+      "id": "enrique-gomez-empresarios-justicia",
+      "reason": "'Ha defendido públicamente a empresarios investigados por corrupción' — no identifica al empresario, fecha, ni declaración específica. Imposible localizar fuente primaria sin hecho concreto.",
+      "suggestion": "Reformular con UNA declaración específica fechada y documentada (entrevista, columna, tweet oficial) del propio Gómez defendiendo a empresario X por caso Y."
+    },
+    {
+      "id": "fico-independiente-vs-apoyo-uribista",
+      "reason": "El hecho (adhesión de Óscar Iván Zuluaga y del CD) es real y verificado. El Centro Democrático emitió comunicado oficial el 14-mar-2022. Sin embargo el comunicado oficial del CD no está en URL verificable por búsqueda (el sitio del partido centrodemocratico.com cambia sus enlaces).",
+      "suggestion": "Buscar en el archivo oficial del Centro Democrático: https://www.centrodemocratico.com — o mejor, usar la RENUNCIA de Zuluaga a la candidatura del CD (14-mar-2022) que fue acto formal ante Registraduría (https://www.registraduria.gov.co). La Registraduría tiene los registros oficiales de renuncias de candidaturas."
+    },
+    {
+      "id": "fico-hidroituango-silencios",
+      "reason": "El actionText describe inacción ('no derivó en acciones contundentes de la alcaldía contra contratistas', 'evitó confrontar'). La inacción no genera documento primario. La contingencia Hidroituango fue mayo 2018 y Fico era alcalde de Medellín entonces — pero documentar una NO-acción es metodológicamente problemático.",
+      "suggestion": "Reformular: buscar actos administrativos SÍ emitidos por la Alcaldía de Medellín 2018 respecto a Hidroituango (o actas del Comité de Desarrollo y Contraloría Municipal). Si no hay, el warning queda sin soporte documental verificable."
+    },
+    {
+      "id": "fico-seguridad-medellin-pactos",
+      "reason": "El 'Pacto del Fusil' entre estructuras criminales es un fenómeno documentado por académicos e investigaciones periodísticas — no hay fuente primaria oficial que lo reconozca (la Secretaría de Seguridad de Medellín lo niega institucionalmente).",
+      "suggestion": "Reformular usando las ESTADÍSTICAS oficiales de homicidios (Policía Nacional / Medicina Legal) como hecho objetivo, sin atribuir causalidad a pactos criminales que no están documentalmente probados. Alternativa: usar informes académicos de la Universidad EAFIT o investigaciones del CICR como fuentes primarias cuantitativas, sin la atribución causal del pacto."
+    },
+    {
+      "id": "vargas-lleras-paz-giro",
+      "reason": "'Viró hacia posiciones cercanas al Centro Democrático, proponiendo modificaciones sustanciales a la JEP' — hecho interpretativo. Vargas Lleras tuvo diversas posturas en campaña 2018 y el propio análisis muestra que también dijo que mantendría los acuerdos. El actionText sobreinterpreta.",
+      "suggestion": "Reformular con UNA propuesta específica y fechada (discurso en congreso de Cambio Radical, propuesta formal en su plan de gobierno registrado ante Registraduría, o PL presentado en Congreso). El plan de gobierno registrado ante Registraduría es fuente primaria."
+    },
+    {
+      "id": "vargas-lleras-escolta-popayan",
+      "reason": "MÚLTIPLES ERRORES FÁCTICOS: (1) el lugar fue Ciénaga de Oro, Córdoba, NO Popayán; (2) la fecha fue diciembre 2016, NO marzo 2017; (3) la víctima fue su propio escolta (no un ciudadano llamado 'Juan Pablo Hoyos'); (4) Vargas fue el agresor con su paraguas, no el escolta. El hecho real está documentado en video pero los datos del warning son incorrectos.",
+      "suggestion": "CORREGIR completamente el warning con los datos reales antes de buscar fuente primaria. Fuente primaria real: video del incidente en Ciénaga de Oro, dic-2016; investigación iniciada por Procuraduría contra el Vicepresidente."
+    },
+    {
+      "id": "hdc-negocios-farc",
+      "reason": "'Fue investigado por presuntos sobornos relacionados con contratos en el proceso de paz' — NO HAY evidencia pública de tal investigación formal contra Humberto de la Calle. Esta afirmación parece no corresponder a hechos reales.",
+      "suggestion": "RETIRAR este warning si no hay investigación formal documentada en Fiscalía o Procuraduría. Podría ser afirmación difamatoria."
+    },
+    {
+      "id": "humberto-calle-educacion-rural",
+      "reason": "El URL sena.edu.co/reportes-cobertura no existe como página específica verificable. SENA publica reportes agregados pero no hay una URL pública de 'cobertura rural estancada 2016-2022'. Además, atribuir el estancamiento a De la Calle (quien no gobernó) es metodológicamente difícil.",
+      "suggestion": "Buscar en https://www.sena.edu.co el informe de rendición de cuentas específico o en https://www.datos.gov.co estadísticas por municipio. Si la promesa era del plan de gobierno 2018 (no ganó), no hay gestión que evaluar — reconsiderar el warning."
+    },
+    {
+      "id": "ib-derechos-humanos-financiamiento",
+      "reason": "'Su campaña recibió financiamiento de sectores empresariales con historial de violaciones de derechos humanos' — afirmación grave sin especificación. Los informes de auditoría de campaña los hace el CNE. No hay hallazgo público del CNE que vincule a Betancourt con financiamiento ilícito.",
+      "suggestion": "Consultar auditorías CNE de campaña 2022: https://www.cne.gov.co. Si no hay hallazgo formal, el warning no tiene base documental."
+    },
+    {
+      "id": "ingrid-betancourt-anticorrupcion",
+      "reason": "'Cuestionamientos sobre financiamiento de su fundación Verde Oxígeno con dineros de fuentes no completamente identificadas' — partido, no fundación. Los reclamos fueron al CNE por FALTA de financiación estatal (reverso del warning).",
+      "suggestion": "El warning parece malinterpretar el tema. La realidad documentada: Verde Oxígeno reclamó al CNE MÁS financiación. Si se quiere documentar algún cuestionamiento formal, consultar resoluciones del CNE sobre personería jurídica y financiación."
+    },
+    {
+      "id": "ingrid-betancourt-medio-ambiente-comercio",
+      "reason": "'Ha reconocido beneficios de ciertos TLC' — sin cita específica verificable. Declaración no localizada.",
+      "suggestion": "Reformular con cita específica (entrevista, red social verificada de la candidata)."
+    },
+    {
+      "id": "ivan-cepeda-derechos-humanos-alianzas",
+      "reason": "Warning con fecha 2026-02-20 sobre 'alianzas con figuras vinculadas a clientelismo' en campaña 2026. Afirmación interpretativa sin hecho concreto fechado con documento primario.",
+      "suggestion": "Identificar la alianza específica (convenio programático, decisión interna Pacto Histórico en plataforma partidaria) y buscar en archivo CNE o en sitio oficial de la coalición."
+    },
+    {
+      "id": "ivan-cepeda-justicia-transicional",
+      "reason": "'Ha evitado impulsar investigaciones sobre crímenes de líderes de su coalición' — inacción legislativa. Cepeda SÍ ha sido autor de múltiples PL sobre justicia transicional (verificables en Congreso Visible). La afirmación del warning es interpretativa y no falsificable con fuente primaria.",
+      "suggestion": "Cepeda tiene perfil en https://congresovisible.uniandes.edu.co/congresistas/perfil/ivan-cepeda-castro/2395/ con todas sus autorías y votaciones. Si se quiere documentar 'selectividad' en sus iniciativas, sería necesario un análisis cuantitativo propio, no citar un medio de opinión."
+    },
+    {
+      "id": "ivan-cepeda-transparencia-fondos",
+      "reason": "'Ha rechazado auditorías sobre fondos recibidos por su partido del gobierno actual' — afirmación grave sin especificar el rechazo (¿a quién? ¿cuándo? ¿qué auditoría?).",
+      "suggestion": "Consultar el CNE (cne.gov.co) para verificar auditorías formales al partido. Si no hay rechazo formal documentado, el warning carece de base."
+    },
+    {
+      "id": "jmr-medio-ambiente-mineria",
+      "reason": "URL original con typo (lasillavaicia.com). Afirmación: 'Recibió financiamiento de empresas mineras durante su campaña' — verificable en auditorías del CNE 2022 si existiese hallazgo.",
+      "suggestion": "Consultar reportes de financiación de campaña 2022 en https://www.cne.gov.co para John Milton Rodríguez. Sin hallazgo formal, retirar."
+    },
+    {
+      "id": "john-milton-valores-tradicionales",
+      "reason": "'Promovió legislación que busca limitar derechos de minorías sexuales' — requiere identificar el PL específico. Sin número de proyecto no hay búsqueda posible en Congreso Visible.",
+      "suggestion": "Buscar en https://congresovisible.uniandes.edu.co las autorías de John Milton Rodríguez (Colombia Justa Libres). Una vez identificado el PL, citar la ficha de Congreso Visible como fuente primaria."
+    },
+    {
+      "id": "galan-antimaquinaria-alianzas-2022",
+      "reason": "'El Nuevo Liberalismo incluyó y apoyó avales para figuras cuestionadas' — requiere identificar a las figuras específicas. Sin nombres, imposible verificar. Además, análisis de la época mostró que Nuevo Liberalismo tuvo LISTAS RELATIVAMENTE LIMPIAS en comparación con otros partidos (solo 1 candidato cuestionado).",
+      "suggestion": "Reformular con casos específicos (nombre, municipio, motivo del cuestionamiento). Alternativa: retirar el warning, ya que la evidencia agregada apunta a lo contrario."
+    },
+    {
+      "id": "galan-consulta-2022-desmobilizacion",
+      "reason": "'Se mantuvo en un apoyo tibio sin movilizar activamente su estructura' — caracterización cualitativa sin fuente primaria posible. No hay acto administrativo que mida 'tibieza política'.",
+      "suggestion": "Retirar o reformular con hechos concretos (número de eventos de campaña con Fajardo, tweets de endoso, etc.). Las métricas de desmovilización electoral son del DANE o de la Registraduría."
+    },
+    {
+      "id": "luis-murillo-desarrollo-social",
+      "reason": "'La cobertura en estos territorios ha aumentado menos de 25% desde 2022' — cifra específica no verificable en fuente primaria identificada. Ministerio de Salud publica cobertura pero no desagregada exactamente así.",
+      "suggestion": "Consultar https://www.minsalud.gov.co/Paginas/default.aspx y https://www.sispro.gov.co (Sistema Integral de Información Protección Social) para cobertura por departamento. Si la métrica no existe, reformular."
+    },
+    {
+      "id": "luis-murillo-mineria-prohibicion",
+      "reason": "'Como miembro de coalición gobernante, ha evitado impulsar prohibición de proyectos mineros' — acción omisiva interpretativa. Además, Murillo era CANCILLER, no ministro de Minas, su competencia para 'impulsar prohibiciones mineras' es limitada constitucionalmente.",
+      "suggestion": "El actionText tiene problema atribucional. Reformular o retirar. Las adjudicaciones mineras están en https://www.anm.gov.co (Agencia Nacional de Minería) — fuente primaria válida, pero no atribuible a Canciller Murillo."
+    },
+    {
+      "id": "lp-seguridad-rural",
+      "reason": "'En el congreso votó a favor de reducción presupuestal para fuerzas militares'. Pero Luis Pérez NO ha sido congresista en el período reciente — fue gobernador de Antioquia 2016-2019 y candidato 2023. No puede haber votado en Congreso en 2023.",
+      "suggestion": "ERROR DE HECHO: Luis Pérez no era congresista en 2023. Retirar el warning o corregir identidad."
+    },
+    {
+      "id": "luis-perez-pensiones-reforma",
+      "reason": "Mismo error: 'Como senador liberal votó a favor de reformas que redujeron beneficios pensionales' — Luis Pérez Gutiérrez (candidato 2022) no ha sido senador. Atribución incorrecta.",
+      "suggestion": "Verificar trayectoria: Luis Pérez fue alcalde de Medellín 2001-2003, gobernador Antioquia 2016-2019, candidato presidencial 2022 y candidato a Gobernación Antioquia 2023. Nunca senador. Corregir o retirar."
+    },
+    {
+      "id": "mauricio-lizcano-economia-posicionamiento",
+      "reason": "El hecho (fue ministro TIC de Petro) es REAL y verificable en acta de posesión del 1-mayo-2023. Sin embargo, esto no es 'incoherencia' sino posición explícita del candidato: dice que su posición es técnica, no de izquierda. El warning confunde 'servir en gobierno de izquierda' con 'ser de izquierda'.",
+      "suggestion": "La fuente primaria del hecho es el Decreto de nombramiento y el acta de posesión: https://mintic.gov.co/portal/715/w3-article-275527.html — URL verificable. Pero se recomienda revaluar si este hecho constituye incoherencia metodológica."
+    },
+    {
+      "id": "mauricio-lizcano-corrupcion-lucha",
+      "reason": "'Ha tenido negocios familiares beneficiados por contratos públicos en departamentos donde su partido ha gobernado' — afirmación grave sin especificar: ¿cuáles contratos? ¿cuáles familiares? ¿cuáles departamentos?",
+      "suggestion": "Consultar SECOP II (https://www.colombiacompra.gov.co) con nombres de familiares específicos. Sin especificación, el warning es potencialmente difamatorio."
+    },
+    {
+      "id": "miguel-uribe-seguridad-defensa",
+      "reason": "CONFUSIÓN DE IDENTIDAD: el entityId 'miguel-uribe-londono-candidato-2026' se refiere a Miguel Uribe LONDOÑO (el padre), candidato CD en 2026 tras asesinato de su hijo. El actionText describe acciones de Miguel Uribe TURBAY (el hijo, asesinado 2025), quien SÍ fue senador del CD y pre-candidato. Confusión de identidades.",
+      "suggestion": "DISAMBIGUAR antes de aplicar fuente primaria. Si se refiere a Uribe Turbay, buscar en https://congresoalamano.elespectador.com/congresista-perfil/234/ o https://congresovisible.uniandes.edu.co. Si es sobre Uribe Londoño (padre), el warning requiere otra acción documentada."
+    },
+    {
+      "id": "miguel-uribe-corrupcion-combate",
+      "reason": "Misma confusión de identidades. 'Cercano a personajes investigados por parapolítica' es afirmación vaga sin fuente primaria específica.",
+      "suggestion": "Disambiguar entity e identificar los personajes específicos. Procesos de parapolítica están en https://www.cortesuprema.gov.co y relatorias judiciales."
+    },
+    {
+      "id": "rl-desmovilizacion-armas",
+      "reason": "'Disidencias del grupo continuaron operaciones y retuvieron depósitos de armas' — los informes de la ONU Misión de Verificación sí documentaron 277 caletas no extraídas. Pero el URL del warning es El Espectador, no fuente primaria.",
+      "suggestion": "Usar el informe oficial del Secretario General de la ONU sobre la Misión de Verificación: https://colombia.unmissions.org/informes-del-secretario-general. Informes trimestrales son fuente primaria internacional válida. Alternativamente https://www.jep.gov.co para compromisos de desmovilización."
+    },
+    {
+      "id": "rodrigo-londono-transparencia-partido",
+      "reason": "'Las decisiones del partido Comunes han sido centralizadas bajo liderazgo de Londoño' — disputa interna partidaria. Las cartas públicas de Victoria Sandino y Benkos Biohó son documentos primarios propios de los disidentes, pero no hay resolución formal del CNE sobre la centralización.",
+      "suggestion": "Si existe queja formal ante CNE por centralización, citarla. De lo contrario, las cartas públicas firmadas por dirigentes disidentes del partido SON fuente primaria propia de sus autores — buscarlas en repositorios públicos como Scribd o comunicados oficiales."
+    },
+    {
+      "id": "barreras-uribismo-santismo-petrismo",
+      "reason": "El actionText describe una TRAYECTORIA larga (2006-2022) — imposible capturar con una sola fuente primaria. Cada evento (voto Seguridad Democrática, voto Marco Jurídico para la Paz, liderazgo reforma tributaria) tiene su propia votación en Congreso Visible.",
+      "suggestion": "DESAGREGAR en múltiples warnings, cada uno con su votación específica en https://congresovisible.uniandes.edu.co/congresistas/perfil/autorias/roy-barreras-montealegre/2392/ (ajustar slug si difiere). Un warning no puede condensar 16 años de giros."
+    },
+    {
+      "id": "fajardo-voto-blanco-2018",
+      "reason": "Fajardo SÍ anunció voto en blanco el 31-may-2018 mediante carta/declaración pública. Esa declaración propia del candidato es fuente primaria, pero el documento original (carta firmada) se publicó inicialmente en su cuenta de Twitter y se reprodujo en medios. No hay archivo institucional único.",
+      "suggestion": "Usar la cuenta oficial verificada del propio candidato (@sergio_fajardo) como fuente primaria de su propio acto declarativo. Tweet original del 31-may-2018 o 1-jun-2018 con la carta adjunta. Recomendado: buscar el status ID específico en su timeline de Twitter/X."
+    },
+    {
+      "id": "fajardo-mineria-antioquia",
+      "reason": "La Gobernación de Antioquia NO otorga títulos mineros (competencia de la Agencia Nacional de Minería desde 2012). La afirmación 'otorgó y respaldó títulos en páramo' es atribuible a la ANM durante el período de Fajardo, no directamente a él.",
+      "suggestion": "Consultar https://www.anm.gov.co títulos mineros otorgados 2012-2015 en Antioquia. Para Hidroituango y la junta directiva, ya existe el fallo de la Contraloría (caso 'fico-hidroituango-silencios' arriba) y la página del CGR: https://www.contraloria.gov.co. ALTERNATIVA: la imputación de la Contraloría contra Fajardo (2020) y fallo de responsabilidad fiscal (sept-2021, ratificado 2023) son fuente primaria sólida del daño patrimonial en Hidroituango, período Fajardo."
+    },
+    {
+      "id": "davila-antielites-gilinski",
+      "reason": "'Ha mantenido una línea editorial alineada con los intereses de Grupo Gilinski, sin declarar el conflicto' — análisis editorial interpretativo. La Cámara de Comercio sí tiene el registro de propiedad de Semana S.A., pero 'alineamiento editorial' no es hecho con fuente primaria.",
+      "suggestion": "Documentar la transacción de venta Grupo Gilinski-Semana en Cámara de Comercio Bogotá o Superintendencia de Sociedades. La línea editorial es análisis que requeriría estudio cuantitativo de contenido (MOE, Reporteros Sin Fronteras)."
+    },
+    {
+      "id": "vm-pensiones-reforma",
+      "reason": "'Como senadora votó a favor de reformas que incrementaron la edad de jubilación'. Viviane Morales fue senadora 1994-1998 y 2014-2018. En 2020 (fecha del warning) NO era senadora. Error factual de hecho.",
+      "suggestion": "Verificar período legislativo de Morales. Si se refiere a alguna votación durante 2014-2018, buscar en https://congresovisible.uniandes.edu.co/congresistas/perfil/viviane-aleyda-morales-hoyos/4029/. Actualmente no hay reforma pensional aprobada en 2020 en Colombia con el contenido descrito."
+    },
+    {
+      "id": "amaya-verde-boyaca-autonomia-pacto",
+      "reason": "'Relación estratégica con el gobierno Petro matizando posiciones' — análisis interpretativo sin hecho puntual.",
+      "suggestion": "Buscar convenios específicos firmados entre Gobernación Boyacá y gobierno nacional en https://www.boyaca.gov.co o https://www.colombiacompra.gov.co. Sin convenio específico identificado, el warning es opinión."
+    },
+    {
+      "id": "amaya-educacion-promesa-indicadores",
+      "reason": "'Indicadores educativos muestran avances modestos' — requiere cifras específicas del Ministerio de Educación o de la Secretaría de Educación de Boyacá, contrastadas con las metas del Plan de Desarrollo Departamental.",
+      "suggestion": "Consultar Plan de Desarrollo Departamental Boyacá 2024-2027 (publicado en https://www.boyaca.gov.co) y contrastar con informes del SIMAT y Pruebas Saber. Trabajo documental específico pendiente."
+    },
+    {
+      "id": "amaya-cauca-mineria",
+      "reason": "ERROR FÁCTICO: Carlos Amaya es gobernador de BOYACÁ, no de Cauca. La propuesta de 'prohibir minería en Cauca' no aplica a su jurisdicción. Si se refiere a páramos de Boyacá (Pisba, Cocuy), corregir texto.",
+      "suggestion": "CORREGIR: Amaya es Boyacá. Fuente primaria para minería ilegal en Boyacá: Corpoboyacá (https://www.corpoboyaca.gov.co) — ya documentó cierre de 7 bocaminas en Pisba en mayo 2023 y 131 minas cerradas entre 2020-2023. Parques Nacionales (https://www.parquesnacionales.gov.co) sí tiene monitoreo pero no específico para Cauca-Amaya."
+    },
+    {
+      "id": "toro-poder-valle-renovacion-continuidad",
+      "reason": "'Concentración de poder como cacicazgo regional' es caracterización política — no hay fuente primaria de 'cacicazgo'. Los cargos que ha ocupado SÍ son hechos verificables (Senado, Partido de la U, alcaldía Guacarí, gobernaciones) en Registraduría.",
+      "suggestion": "Si se quiere documentar la trayectoria, usar https://www.registraduria.gov.co (historial electoral) y https://congresovisible.uniandes.edu.co/congresistas/perfil/dilian-francisca-toro-torres/87/. Pero la INTERPRETACIÓN 'cacicazgo' es juicio político, no hecho."
+    },
+    {
+      "id": "toro-transparencia-escandalos-previos",
+      "reason": "Sí hubo investigaciones (Corte Suprema, Fiscalía Delegada ante la Corte) que fueron archivadas/precluidas. Estos son hechos verificables con fuente primaria judicial.",
+      "suggestion": "La Corte Suprema tiene relatoría pública: https://www.cortesuprema.gov.co. Auto de archivo (26-feb-2018) por parapolítica y preclusión por lavado de activos (2018) son documentos judiciales localizables. Recomendado: sustituir el warning por la referencia específica a la preclusión/archivo con número de radicado de la Corte Suprema."
+    },
+    {
+      "id": "rendon-hidroituango-seguimiento-tecnico",
+      "reason": "'Mantuvo disciplina política con figuras del Centro Democrático... privilegiando alineación partidaria' — caracterización política de primeros meses de gestión. No es hecho puntual.",
+      "suggestion": "Buscar actos administrativos específicos de la Gobernación de Antioquia 2024 sobre Hidroituango (decretos, comunicados oficiales en https://www.antioquia.gov.co). Sin acto específico, el warning es análisis editorial."
+    }
+  ]
+}

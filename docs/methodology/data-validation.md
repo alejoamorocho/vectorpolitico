@@ -78,11 +78,34 @@ El clasificador del pipeline ETL (`packages/etl/src/classify_entity.py`) incluye
 
 Esto detecta el bug en el momento de generar el dato, no después. La próxima clasificación masiva no requerirá auditoría post-hoc.
 
+## Análisis semántico fino (la opción correcta)
+
+El fix automático mantiene coherencia matemática pero pierde el detalle dimensional. La solución correcta es que un agente IA reanalice cada caso aplicando conocimiento factual público:
+
+```
+scripts/apply_semantic_scores.py
+```
+
+Hardcoded los `dimensionScores` propuestos por 4 agentes IA paralelos que evaluaron los 110 políticos colombianos por tipo de cargo (presidents, candidates, senators, reps+govs+mayors). Cada agente analizó las 8 dimensiones desde:
+
+- Trayectoria pública documentada (alcaldías, senaturías, ministerios, declaraciones)
+- Afiliación partidaria y disciplina de bancada
+- Casos específicos de relevancia ideológica (Seguridad Democrática para Uribe, agenda LGBTIQ+ para Claudia López, etc.)
+
+Tras aplicar el análisis semántico, **3 casos requieren ajuste de coordenadas** porque los scores semánticos contradicen las coords previas:
+
+- **alvaro-uribe** (president): scores Y promedian 7.7 (autoritario fuerte por Seguridad Democrática + chuzadas DAS + reelección). Coord ajustada de y=3.6 a y=7.5 → cae en `right-populism` (fila superior auth_right).
+- **gustavo-petro** (president): scores Y promedian -2.7 (libertario por DDHH + Paz Total + agenda LGBTI+, ponderado contra concentración=5). Coord ajustada de y=2.5 a y=-2.7.
+- **juan-manuel-santos**: x ajustado de 8.9 a 5.6, y de -2.1 a 1.3 (centro pragmático con elementos auth_right por Plan Colombia heredado).
+
+Estos ajustes implementan el principio: **la metodología semántica manda; la coord se deriva del análisis dimensional**.
+
 ## Reportes históricos
 
 Los reportes JSON guardados en `docs/data-validation/` documentan el estado del dataset en momentos clave:
 
 - `2026-04-23-validation-report.json` — primer corrida del validador. 110 políticos, 44 warnings (40% del dataset).
-- `2026-04-23-validation-report-after-fix.json` — tras aplicar `fix_validation_warnings.py`. 110 políticos, 0 warnings.
+- `2026-04-23-validation-report-after-fix.json` — tras aplicar `fix_validation_warnings.py`. 110 políticos, 0 warnings (matemáticamente).
+- `2026-04-23-validation-report-after-semantic.json` — tras aplicar `apply_semantic_scores.py` y los 3 ajustes de coord. 110 políticos, 0 warnings (semánticamente).
 
 Estos archivos son auditables y permiten reconstruir el razonamiento detrás de cada commit de corrección.

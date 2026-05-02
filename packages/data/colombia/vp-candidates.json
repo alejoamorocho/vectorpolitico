@@ -302,9 +302,9 @@
         "fiscalPolicy": 5,
         "marketPosition": 6,
         "socialPolicy": 4,
-        "tradePolicy": 6,
+        "tradePolicy": 7,
         "civilRights": 3,
-        "securityApproach": 7,
+        "securityApproach": 8,
         "socialRights": 3,
         "powerConcentration": 4
       }
@@ -754,14 +754,14 @@
         }
       ],
       "dimensionScores": {
-        "fiscalPolicy": 3,
-        "marketPosition": 3,
+        "fiscalPolicy": 4,
+        "marketPosition": 4,
         "socialPolicy": 2,
-        "tradePolicy": 2,
+        "tradePolicy": 3,
         "civilRights": 1,
-        "securityApproach": 2,
+        "securityApproach": 3,
         "socialRights": 2,
-        "powerConcentration": 1
+        "powerConcentration": 2
       }
     },
     "ideologies": [
@@ -1201,7 +1201,7 @@
         "socialPolicy": -7,
         "tradePolicy": -4,
         "civilRights": -1,
-        "securityApproach": -1,
+        "securityApproach": -2,
         "socialRights": -2,
         "powerConcentration": 1
       }
@@ -1736,13 +1736,13 @@
         }
       ],
       "dimensionScores": {
-        "fiscalPolicy": 6,
+        "fiscalPolicy": 7,
         "marketPosition": 7,
-        "socialPolicy": 4,
-        "tradePolicy": 5,
-        "civilRights": 4,
-        "securityApproach": 6,
-        "socialRights": 3,
+        "socialPolicy": 5,
+        "tradePolicy": 6,
+        "civilRights": 5,
+        "securityApproach": 7,
+        "socialRights": 5,
         "powerConcentration": 5
       }
     },

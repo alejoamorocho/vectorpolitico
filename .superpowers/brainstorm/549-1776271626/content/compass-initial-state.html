@@ -1,0 +1,166 @@
+<h2>Estado inicial del Compass: ¿Qué ve el usuario al llegar?</h2>
+<p class="subtitle">El mapa político es lo primero que impacta. ¿Cómo debe verse antes de que el usuario interactúe?</p>
+
+<div class="cards">
+  <!-- Option A: Solo grid de ideologías -->
+  <div class="card" data-choice="a" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:20px;background:#f5efe2;">
+      <svg viewBox="0 0 400 400" width="100%" style="max-height:320px;display:block;margin:auto;">
+        <defs>
+          <style>
+            .ax-label { font-family: 'Georgia', serif; font-size: 11px; fill: #6b5f4e; }
+            .ax-line { stroke: #1a1510; stroke-width: 1.2; }
+            .q-label { font-family: 'Georgia', serif; font-size: 8px; fill-opacity: 0.35; }
+          </style>
+        </defs>
+        <!-- Quadrant backgrounds -->
+        <rect x="0" y="0" width="200" height="200" fill="#ebd9d9" opacity="0.5"/>
+        <rect x="200" y="0" width="200" height="200" fill="#d9dfe8" opacity="0.5"/>
+        <rect x="0" y="200" width="200" height="200" fill="#d9e3dc" opacity="0.5"/>
+        <rect x="200" y="200" width="200" height="200" fill="#ebddb9" opacity="0.5"/>
+
+        <!-- Ideology cells (simplified representation) -->
+        <rect x="10" y="10" width="60" height="45" fill="#ebd9d9" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <text x="40" y="36" text-anchor="middle" font-family="Georgia" font-size="6" fill="#5c1818" opacity="0.7">Marxismo-Leninismo</text>
+        <rect x="75" y="10" width="55" height="45" fill="#ebd9d9" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <text x="102" y="36" text-anchor="middle" font-family="Georgia" font-size="6" fill="#5c1818" opacity="0.7">Estalinismo</text>
+        <rect x="135" y="10" width="60" height="45" fill="#ebd9d9" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <text x="165" y="36" text-anchor="middle" font-family="Georgia" font-size="6" fill="#5c1818" opacity="0.7">Socialismo</text>
+
+        <rect x="205" y="10" width="60" height="45" fill="#d9dfe8" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <text x="235" y="36" text-anchor="middle" font-family="Georgia" font-size="6" fill="#1a2e4f" opacity="0.7">Conservadurismo</text>
+        <rect x="270" y="10" width="60" height="45" fill="#d9dfe8" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <text x="300" y="36" text-anchor="middle" font-family="Georgia" font-size="6" fill="#1a2e4f" opacity="0.7">Fascismo</text>
+        <rect x="335" y="10" width="55" height="45" fill="#d9dfe8" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <text x="362" y="36" text-anchor="middle" font-family="Georgia" font-size="6" fill="#1a2e4f" opacity="0.7">Teocracia</text>
+
+        <rect x="10" y="210" width="60" height="45" fill="#d9e3dc" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <text x="40" y="236" text-anchor="middle" font-family="Georgia" font-size="6" fill="#1d3a26" opacity="0.7">Progresismo</text>
+        <rect x="75" y="210" width="55" height="45" fill="#d9e3dc" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <text x="102" y="236" text-anchor="middle" font-family="Georgia" font-size="6" fill="#1d3a26" opacity="0.7">Soc. Democrático</text>
+
+        <rect x="205" y="210" width="60" height="45" fill="#ebddb9" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <text x="235" y="236" text-anchor="middle" font-family="Georgia" font-size="6" fill="#4a3608" opacity="0.7">Liberalismo</text>
+        <rect x="270" y="210" width="60" height="45" fill="#ebddb9" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <text x="300" y="236" text-anchor="middle" font-family="Georgia" font-size="6" fill="#4a3608" opacity="0.7">Libertarismo</text>
+
+        <!-- Axes -->
+        <line x1="200" y1="5" x2="200" y2="395" class="ax-line"/>
+        <line x1="5" y1="200" x2="395" y2="200" class="ax-line"/>
+
+        <!-- Axis labels -->
+        <text x="200" y="398" text-anchor="middle" class="ax-label" font-style="italic">Libertario</text>
+        <text x="200" y="12" text-anchor="middle" class="ax-label" font-style="italic">Autoritario</text>
+        <text x="8" y="203" text-anchor="start" class="ax-label" font-style="italic">Izq.</text>
+        <text x="392" y="203" text-anchor="end" class="ax-label" font-style="italic">Der.</text>
+
+        <!-- NO dots, NO lines, NO circles -->
+
+        <!-- Subtle text -->
+        <text x="200" y="185" text-anchor="middle" font-family="Georgia" font-size="10" fill="#a69a85" font-style="italic">
+          Use los filtros para explorar
+        </text>
+      </svg>
+    </div>
+    <div class="card-body">
+      <h3>A — Solo el mapa de ideologías</h3>
+      <p>Limpio y educativo. El usuario ve el terreno ideológico primero, luego usa filtros para "poblar" el mapa con figuras. Invita a explorar sin abrumar.</p>
+    </div>
+  </div>
+
+  <!-- Option B: Grid + puntos sin líneas -->
+  <div class="card" data-choice="b" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:20px;background:#f5efe2;">
+      <svg viewBox="0 0 400 400" width="100%" style="max-height:320px;display:block;margin:auto;">
+        <defs>
+          <style>
+            .ax-label2 { font-family: 'Georgia', serif; font-size: 11px; fill: #6b5f4e; }
+          </style>
+        </defs>
+        <!-- Quadrant backgrounds -->
+        <rect x="0" y="0" width="200" height="200" fill="#ebd9d9" opacity="0.5"/>
+        <rect x="200" y="0" width="200" height="200" fill="#d9dfe8" opacity="0.5"/>
+        <rect x="0" y="200" width="200" height="200" fill="#d9e3dc" opacity="0.5"/>
+        <rect x="200" y="200" width="200" height="200" fill="#ebddb9" opacity="0.5"/>
+
+        <!-- Some ideology cells -->
+        <rect x="10" y="10" width="60" height="45" fill="#ebd9d9" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <rect x="75" y="10" width="55" height="45" fill="#ebd9d9" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <rect x="205" y="10" width="60" height="45" fill="#d9dfe8" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <rect x="10" y="210" width="60" height="45" fill="#d9e3dc" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+        <rect x="205" y="210" width="60" height="45" fill="#ebddb9" stroke="#d4cab0" stroke-width="0.5" rx="1"/>
+
+        <!-- Axes -->
+        <line x1="200" y1="5" x2="200" y2="395" stroke="#1a1510" stroke-width="1.2"/>
+        <line x1="5" y1="200" x2="395" y2="200" stroke="#1a1510" stroke-width="1.2"/>
+
+        <text x="200" y="398" text-anchor="middle" class="ax-label2" font-style="italic">Libertario</text>
+        <text x="200" y="12" text-anchor="middle" class="ax-label2" font-style="italic">Autoritario</text>
+        <text x="8" y="203" text-anchor="start" class="ax-label2" font-style="italic">Izq.</text>
+        <text x="392" y="203" text-anchor="end" class="ax-label2" font-style="italic">Der.</text>
+
+        <!-- ONLY self-perceived dots (blue), no lines, no ellipses -->
+        <circle cx="120" cy="80" r="5" fill="#1e3556" stroke="#fdfaf1" stroke-width="1.5"/>
+        <circle cx="90" cy="160" r="5" fill="#1e3556" stroke="#fdfaf1" stroke-width="1.5"/>
+        <circle cx="150" cy="130" r="5" fill="#1e3556" stroke="#fdfaf1" stroke-width="1.5"/>
+        <circle cx="75" cy="220" r="5" fill="#1e3556" stroke="#fdfaf1" stroke-width="1.5"/>
+        <circle cx="110" cy="250" r="5" fill="#1e3556" stroke="#fdfaf1" stroke-width="1.5"/>
+        <circle cx="280" cy="90" r="5" fill="#1e3556" stroke="#fdfaf1" stroke-width="1.5"/>
+        <circle cx="310" cy="150" r="5" fill="#1e3556" stroke="#fdfaf1" stroke-width="1.5"/>
+        <circle cx="250" cy="300" r="5" fill="#1e3556" stroke="#fdfaf1" stroke-width="1.5"/>
+        <circle cx="330" cy="280" r="5" fill="#1e3556" stroke="#fdfaf1" stroke-width="1.5"/>
+        <circle cx="170" cy="310" r="5" fill="#1e3556" stroke="#fdfaf1" stroke-width="1.5"/>
+
+        <!-- Hover example: name tag -->
+        <rect x="108" y="60" width="80" height="18" rx="3" fill="#1a1510" opacity="0.85"/>
+        <text x="148" y="73" text-anchor="middle" font-family="Georgia" font-size="8" fill="#fdfaf1">Gustavo Petro</text>
+      </svg>
+    </div>
+    <div class="card-body">
+      <h3>B — Puntos de autopercepción solamente</h3>
+      <p>Muestra dónde dicen estar las figuras (un solo punto azul por persona). Sin líneas, sin flechas, sin círculos de confianza. Limpio pero con datos visibles desde el inicio.</p>
+    </div>
+  </div>
+
+  <!-- Option C: Totalmente vacío -->
+  <div class="card" data-choice="c" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:20px;background:#f5efe2;">
+      <svg viewBox="0 0 400 400" width="100%" style="max-height:320px;display:block;margin:auto;">
+        <!-- Quadrant backgrounds only -->
+        <rect x="0" y="0" width="200" height="200" fill="#ebd9d9" opacity="0.4"/>
+        <rect x="200" y="0" width="200" height="200" fill="#d9dfe8" opacity="0.4"/>
+        <rect x="0" y="200" width="200" height="200" fill="#d9e3dc" opacity="0.4"/>
+        <rect x="200" y="200" width="200" height="200" fill="#ebddb9" opacity="0.4"/>
+
+        <!-- Axes -->
+        <line x1="200" y1="5" x2="200" y2="395" stroke="#1a1510" stroke-width="1.2"/>
+        <line x1="5" y1="200" x2="395" y2="200" stroke="#1a1510" stroke-width="1.2"/>
+
+        <text x="200" y="398" text-anchor="middle" font-family="Georgia" font-size="11" fill="#6b5f4e" font-style="italic">Libertario</text>
+        <text x="200" y="12" text-anchor="middle" font-family="Georgia" font-size="11" fill="#6b5f4e" font-style="italic">Autoritario</text>
+        <text x="8" y="203" text-anchor="start" font-family="Georgia" font-size="11" fill="#6b5f4e" font-style="italic">Izquierda</text>
+        <text x="392" y="203" text-anchor="end" font-family="Georgia" font-size="11" fill="#6b5f4e" font-style="italic">Derecha</text>
+
+        <!-- Quadrant labels -->
+        <text x="100" y="100" text-anchor="middle" font-family="Georgia" font-size="13" fill="#5c1818" opacity="0.25">Izquierda</text>
+        <text x="100" y="115" text-anchor="middle" font-family="Georgia" font-size="13" fill="#5c1818" opacity="0.25">Autoritaria</text>
+        <text x="300" y="100" text-anchor="middle" font-family="Georgia" font-size="13" fill="#1a2e4f" opacity="0.25">Derecha</text>
+        <text x="300" y="115" text-anchor="middle" font-family="Georgia" font-size="13" fill="#1a2e4f" opacity="0.25">Autoritaria</text>
+        <text x="100" y="300" text-anchor="middle" font-family="Georgia" font-size="13" fill="#1d3a26" opacity="0.25">Izquierda</text>
+        <text x="100" y="315" text-anchor="middle" font-family="Georgia" font-size="13" fill="#1d3a26" opacity="0.25">Libertaria</text>
+        <text x="300" y="300" text-anchor="middle" font-family="Georgia" font-size="13" fill="#4a3608" opacity="0.25">Derecha</text>
+        <text x="300" y="315" text-anchor="middle" font-family="Georgia" font-size="13" fill="#4a3608" opacity="0.25">Libertaria</text>
+
+        <!-- CTA -->
+        <rect x="130" y="180" width="140" height="30" rx="4" fill="#1a1510" opacity="0.08"/>
+        <text x="200" y="200" text-anchor="middle" font-family="Georgia" font-size="10" fill="#6b5f4e" font-style="italic">
+          Seleccione filtros para explorar →
+        </text>
+      </svg>
+    </div>
+    <div class="card-body">
+      <h3>C — Solo ejes y cuadrantes</h3>
+      <p>Máxima limpieza. Solo los 4 cuadrantes con sus nombres y los ejes. Sin celdas de ideología, sin puntos. Todo se agrega a través de filtros. El mapa es un lienzo en blanco.</p>
+    </div>
+  </div>
+</div>

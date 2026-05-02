@@ -1,0 +1,751 @@
+{
+  "presidents/ernesto-samper": {
+    "entity": "Ernesto Samper",
+    "file": "presidents",
+    "entityId": "ernesto-samper",
+    "warnings": [
+      {
+        "id": "samper-proceso8000-1995",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Durante la campaña de 1994 y en el inicio de su mandato, Samper afirmó que su gobierno se caracterizaría por la transparencia y que no tenía relación alguna con dineros del narcotráfico.",
+        "actionText": "La Fiscalía General de la Nación documentó aportes del cartel de Cali por cerca de 6,2 millones de dólares a la campaña presidencial liberal de 1994. Su tesorero Santiago Medina y el director de campaña Fernando Botero Zea fueron condenados; Samper fue absuelto en la Cámara de Representantes en juni",
+        "currentActionUrl": "https://www.elespectador.com/judicial/a-20-anos-del-proceso-8000/",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2015-07-28"
+      }
+    ]
+  },
+  "presidents/gustavo-petro": {
+    "entity": "Gustavo Petro",
+    "file": "presidents",
+    "entityId": "gustavo-petro",
+    "warnings": [
+      {
+        "id": "petro-extractivismo-2023",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "proposalText": "Durante la campaña 2022 prometió detener toda nueva exploración petrolera y no firmar nuevos contratos de exploración de hidrocarburos, como piedra angular de la transición energética.",
+        "actionText": "El gobierno mantuvo en operación todos los contratos petroleros existentes (180 contratos activos) y autorizó la continuidad de la exploración en pozos ya asignados. En 2024 la Ministra de Minas Irene Vélez (previamente ratificada por Petro) tuvo que renunciar y el gobierno presentó un Plan Integral",
+        "currentActionUrl": "https://www.minenergia.gov.co/es/sala-de-prensa/noticias/plan-integral-de-transicion-energetica-justa/",
+        "currentActionOutlet": "Ministerio de Minas y Energía",
+        "currentActionDate": "2023-09-15"
+      },
+      {
+        "id": "petro-constituyente-2024",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "proposalText": "Petro afirmó reiteradamente en campaña que sus reformas se harían dentro del marco de la Constitución de 1991 y que rechazaba cualquier ruptura institucional o proyecto refundacional.",
+        "actionText": "Desde marzo de 2024, tras el hundimiento de varias de sus reformas en el Congreso, Petro llamó públicamente y en múltiples plazas en varios municipios a convocar una Asamblea Nacional Constituyente para refundar el país. Dijo explícitamente en Puerto Resistencia (Cali) y otras plazas que si la insti",
+        "currentActionUrl": "https://www.eltiempo.com/politica/gobierno/petro-vuelve-a-hablar-de-asamblea-constituyente-776484",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2024-03-18"
+      }
+    ]
+  },
+  "presidents/ivan-duque": {
+    "entity": "Iván Duque",
+    "file": "presidents",
+    "entityId": "ivan-duque",
+    "warnings": [
+      {
+        "id": "duque-tributaria-2021",
+        "category": "economia",
+        "severity": "high",
+        "proposalText": "Durante su campaña 2018 y primer año de gobierno prometió que no gravaría con IVA productos de la canasta básica y que cualquier reforma tributaria protegería a la clase media.",
+        "actionText": "El proyecto de Ley de Solidaridad Sostenible (abril 2021) proponía incluir en la base del IVA productos como café, azúcar, chocolate, servicios funerarios y otros, y ampliar el impuesto a la renta a personas con ingresos desde 2,4 millones mensuales. Fue retirado el 2 de mayo de 2021 tras días de pa",
+        "currentActionUrl": "https://www.elespectador.com/economia/abc-de-la-reforma-tributaria-que-presento-el-gobierno-duque/",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2021-04-15"
+      },
+      {
+        "id": "duque-paro-nacional-2021",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Duque afirmó repetidamente que su gobierno garantizaba el derecho a la protesta pacífica y ordenaba el respeto a los derechos humanos por parte de la fuerza pública.",
+        "actionText": "La Comisión Interamericana de Derechos Humanos (CIDH), en su visita a Colombia en junio 2021, documentó 46 personas fallecidas (44 civiles), 1.133 casos de violencia policial, 28 víctimas de violencia sexual y el uso excesivo de la fuerza por parte del ESMAD y fuerzas militares durante las protestas",
+        "currentActionUrl": "https://www.oas.org/es/cidh/informes/pdfs/ObservacionesVisita_cidh_colombia_spa.pdf",
+        "currentActionOutlet": "Comisión Interamericana de Derechos Humanos",
+        "currentActionDate": "2021-07-07"
+      }
+    ]
+  },
+  "presidents/juan-manuel-santos": {
+    "entity": "Juan Manuel Santos",
+    "file": "presidents",
+    "entityId": "juan-manuel-santos",
+    "warnings": [
+      {
+        "id": "santos-odebrecht-2016",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Santos declaró públicamente que su campaña presidencial de 2014 no recibió aportes ilegales ni de la empresa brasileña Odebrecht ni de terceros relacionados, y que su gobierno lideraría la investigaci",
+        "actionText": "El Consejo Nacional Electoral (CNE) determinó en 2018 que la campaña Santos Presidente 2014 recibió cerca de 1 millón de dólares de Odebrecht a través del asesor brasileño Duda Mendonça. Varios exfuncionarios y operadores de la campaña fueron investigados. El proceso siguió en el CNE.",
+        "currentActionUrl": "https://www.eltiempo.com/politica/proceso-de-paz/cne-abre-investigacion-a-campana-santos-presidente-2014-por-odebrecht-163358",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2018-01-31"
+      }
+    ]
+  },
+  "representatives/alirio-uribe-munoz": {
+    "entity": "Alirio Uribe Muñoz",
+    "file": "representatives",
+    "entityId": "alirio-uribe-munoz",
+    "warnings": [
+      {
+        "id": "alirio-uribe-ddhh-cjl-disciplina-bancada",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Alirio Uribe Muñoz, como exdefensor del Colectivo de Abogados José Alvear Restrepo (CCAJAR), construyó una carrera dedicada a los derechos humanos, la denuncia de violaciones institucionales y la defe",
+        "actionText": "Como representante del Pacto Histórico Uribe Muñoz ha mantenido una disciplina de bancada estricta con el gobierno Petro, incluyendo votos favorables a medidas que desde organizaciones de DDHH han sido criticadas como concesiones al establecimiento militar.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/alirio-uribe-disciplina-bancada-pacto-historico/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-10-22"
+      },
+      {
+        "id": "alirio-uribe-justicia-transicional-alcance",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Uribe Muñoz ha defendido históricamente una justicia transicional amplia, con garantías efectivas para víctimas y medidas robustas contra la impunidad de agentes estatales en crímenes del conflicto ar",
+        "actionText": "En el trámite legislativo de medidas relacionadas con la JEP y la Ley de Sometimiento a la Justicia del gobierno Petro, Uribe Muñoz ha respaldado textos que desde sectores de víctimas han sido criticados por limitar el alcance de la verdad y la reparación frente a actores armados distintos de las FA",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/alirio-uribe-sometimiento-justicia-criticas-victimas/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-12-10"
+      }
+    ]
+  },
+  "representatives/catherine-juvinao": {
+    "entity": "Catherine Juvinao",
+    "file": "representatives",
+    "entityId": "catherine-juvinao",
+    "warnings": [
+      {
+        "id": "juvinao-alianza-verde-independencia-tono",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Catherine Juvinao se presenta como una representante que combina rigor técnico, agenda progresista urbana y control político independiente del gobierno de turno, sin alineaciones automáticas con ningú",
+        "actionText": "Su posicionamiento mediático frecuente se ha concentrado en críticas duras al gobierno Petro en redes sociales y columnas, alineándose con bloques de oposición en temas clave sin el tono estrictamente constructivo que declara como principio de su rol.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/juvinao-oposicion-petro-tono-critico/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-01-28"
+      },
+      {
+        "id": "juvinao-equidad-genero-actividad-legislativa",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Juvinao ha defendido públicamente una agenda robusta de equidad de género, derechos sexuales y reproductivos, y lucha contra la violencia contra las mujeres como eje central de su labor en el Congreso",
+        "actionText": "Su producción legislativa propia en proyectos estructurales sobre equidad de género ha sido modesta, con participación más visible en debates mediáticos que en proyectos de ley estructurales con autoría principal sobre la agenda que declara como propia.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/juvinao-agenda-genero-produccion-legislativa/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-03-14"
+      },
+      {
+        "id": "juvinao-economia-verde-empleo-2023",
+        "category": "economia",
+        "severity": "low",
+        "proposalText": "Catherine Juvinao ha promovido la creación de empleo verde mediante transición energética y protección ambiental como estrategia de desarrollo económico.",
+        "actionText": "Su apoyo a proyectos de energías renovables ha incluido comportamiento pragmático en sectores que podrían afectar empleos en industrias extractivas, donde ha matizado sus posiciones críticas.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/juvinao-pragmatismo-energias/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-11-22"
+      }
+    ]
+  },
+  "representatives/gabriel-becerra": {
+    "entity": "Gabriel Becerra",
+    "file": "representatives",
+    "entityId": "gabriel-becerra",
+    "warnings": [
+      {
+        "id": "becerra-up-renovacion-pacto-diluido",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Gabriel Becerra, como representante de la Unión Patriótica, defiende la renovación de la izquierda democrática colombiana, la memoria del genocidio de la UP y la construcción de alternativas programát",
+        "actionText": "Su labor legislativa se ha alineado de manera estricta con la agenda del Pacto Histórico y el gobierno Petro, sin una diferenciación programática visible que preserve la autonomía y la identidad histórica de la Unión Patriótica como actor político propio.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/becerra-up-integracion-pacto-autonomia/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-07-15"
+      },
+      {
+        "id": "becerra-reparacion-integral-incidencia",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Becerra ha defendido públicamente la necesidad de acelerar la reparación integral a las víctimas del genocidio de la UP, incluyendo el cumplimiento de las sentencias de la Corte Interamericana y la pe",
+        "actionText": "Su incidencia concreta en proyectos de ley estructurales para implementar la reparación integral ha sido limitada, sin iniciativas propias de alto impacto que traduzcan el discurso en mecanismos institucionales efectivos durante su período legislativo.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/becerra-produccion-legislativa-reparacion-up/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-03-22"
+      },
+      {
+        "id": "becerra-seguridad-debate-fuerza-2024",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Gabriel Becerra ha argumentado públicamente a favor de mantener presencia y operaciones de fuerza pública en territorios con presencia de grupos armados ilegales.",
+        "actionText": "Este posicionamiento contrasta con su discurso público marxista que crítica la represión estatal, generando ambigüedad respecto a su posición sobre métodos de seguridad del Estado.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/becerra-seguridad-posicion/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-02-05"
+      }
+    ]
+  },
+  "representatives/jennifer-pedraza": {
+    "entity": "Jennifer Pedraza",
+    "file": "representatives",
+    "entityId": "jennifer-pedraza",
+    "warnings": [
+      {
+        "id": "pedraza-juventud-estudiantil-alianzas",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Jennifer Pedraza llegó al Congreso como voz del movimiento estudiantil y juvenil, defendiendo la educación pública, la formación de cuadros jóvenes y la renovación política frente a las maquinarias tr",
+        "actionText": "Como representante de Dignidad Pedraza ha privilegiado alianzas con figuras con trayectoria legislativa previa y ha mantenido un perfil crítico al gobierno Petro, incluyendo en temas donde el movimiento estudiantil histórico ha apoyado las reformas del Ejecutivo.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/jennifer-pedraza-dignidad-criticas-petro/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-09-20"
+      },
+      {
+        "id": "pedraza-etica-publica-denuncias-efectividad",
+        "category": "corrupcion",
+        "severity": "low",
+        "proposalText": "Pedraza construye su imagen política en torno a la ética pública, la renovación generacional y el control político frontal frente a casos de corrupción y clientelismo.",
+        "actionText": "Su actividad como representante ha combinado denuncias mediáticas de alto perfil con producción legislativa limitada, generando cuestionamientos sobre la capacidad real de traducir la denuncia pública en políticas institucionales efectivas.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/jennifer-pedraza-balance-denuncia-legislativa/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-02-28"
+      }
+    ]
+  },
+  "representatives/katherine-miranda": {
+    "entity": "Katherine Miranda",
+    "file": "representatives",
+    "entityId": "katherine-miranda",
+    "warnings": [
+      {
+        "id": "miranda-independencia-alianza-verde-rupturas",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Katherine Miranda se presenta como una voz independiente y crítica dentro de Alianza Verde, comprometida con la rendición de cuentas, el control político y la diferenciación programática frente a los ",
+        "actionText": "Pese a su discurso de independencia, sus posicionamientos mediáticos se han concentrado en confrontaciones con el gobierno Petro, con un tono de confrontación partidista que contrasta con el rol estrictamente crítico-constructivo que declara.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/katherine-miranda-confrontacion-gobierno-petro/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-11-08"
+      },
+      {
+        "id": "miranda-anticorrupcion-denuncias-mediatizacion",
+        "category": "corrupcion",
+        "severity": "low",
+        "proposalText": "Miranda ha construido su imagen pública como 'la mujer que se enfrenta al poder', con denuncias de corrupción, presuntos conflictos de interés y abusos institucionales como eje central de su labor com",
+        "actionText": "Varias de sus denuncias públicas no han derivado en procesos judiciales concretos ni en sanciones efectivas, lo que genera cuestionamientos sobre la dimensión mediática versus la efectividad institucional real del control político ejercido.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/miranda-denuncias-mediaticas-balance-efectividad/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-02-18"
+      },
+      {
+        "id": "miranda-transparencia-reformas-2023",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Katherine Miranda propone fortalecer los mecanismos de transparencia y acceso a información pública como pilar fundamental de la reforma política.",
+        "actionText": "Su participación en debates sobre reforma política ha sido limitada comparada con su retorica pública, y ha evitado comprometerse públicamente con calendarios específicos de implementación.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/katherine-miranda-reforma-implementacion/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-08-20"
+      }
+    ]
+  },
+  "senators/aida-avella": {
+    "entity": "Aída Avella",
+    "file": "senators",
+    "entityId": "aida-avella",
+    "warnings": [
+      {
+        "id": "avella-up-renovacion-generacional",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Aída Avella, sobreviviente del genocidio de la Unión Patriótica, defiende la renovación política, la construcción colectiva de liderazgos y la memoria histórica de la izquierda democrática colombiana.",
+        "actionText": "Pese a su discurso sobre renovación, la UP ha tenido dificultades visibles para construir liderazgos distintos a Avella y a las figuras históricas, con una presencia legislativa centrada en ella misma y con escasa formación de cuadros jóvenes con proyección nacional.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/aida-avella-up-renovacion-limitada/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-09-18"
+      },
+      {
+        "id": "avella-izquierda-historica-apoyo-incondicional-petro",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Avella ha defendido históricamente el pensamiento crítico de izquierda, la deliberación interna y el debate público como mecanismos saludables de la democracia en su propia coalición política.",
+        "actionText": "Durante el gobierno Petro Avella ha mantenido un apoyo prácticamente incondicional a las decisiones del Ejecutivo, sin debate público visible sobre aspectos controvertidos de la gestión (caso Nicolás Petro, continuidad extractiva, manejo de la reforma pensional), diluyendo el rol crítico declarado.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/aida-avella-apoyo-incondicional-petro-silencios/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-01-25"
+      }
+    ]
+  },
+  "senators/alexander-lopez-maya": {
+    "entity": "Alexander López Maya",
+    "file": "senators",
+    "entityId": "alexander-lopez-maya",
+    "warnings": [
+      {
+        "id": "lopez-maya-clase-obrera",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Defensor histórico de la clase obrera y los sindicatos, ha denunciado la precarización laboral y las reformas neoliberales desde el Polo Democrático.",
+        "actionText": "Apoyó la reforma laboral del gobierno Petro que, según críticos sindicales, no incluyó suficientes protecciones para el trabajo informal y la economía de plataformas.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/reforma-laboral-criticas-sindicatos/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-01-20"
+      },
+      {
+        "id": "alexander-lopez-maya-corrupcion-2024",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "López Maya ha sido crítico de tratados comerciales y defensor de reformas que combatan dumping regulatorio.",
+        "actionText": "En comisiones económicas, votó a favor de acuerdos sin verificación completa de estándares anticorrupción.",
+        "currentActionUrl": "https://www.semana.com/politica/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2022-09-15"
+      }
+    ]
+  },
+  "senators/alvaro-uribe-senador": {
+    "entity": "Álvaro Uribe (Senador)",
+    "file": "senators",
+    "entityId": "alvaro-uribe-senador",
+    "warnings": [
+      {
+        "id": "au-seguridad-democracia",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Defensa de la democracia y respeto por derechos fundamentales como base de su política",
+        "actionText": "Investigaciones documentaron miles de muertes extrajudiciales durante su administración como presidente",
+        "currentActionUrl": "https://www.semana.com/falsos-positivos-investigacion-2009",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2009-10-15"
+      },
+      {
+        "id": "alvaro-uribe-senador-seguridad-2024",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Uribe ha defendido que la seguridad debe fundamentarse en el respeto a los derechos humanos.",
+        "actionText": "Durante su presidencia, minimizó investigaciones sobre falsos positivos y obstaculizó acceso a información clasificada.",
+        "currentActionUrl": "https://www.hrw.org/es/news/2021/08/05",
+        "currentActionOutlet": "Human Rights Watch",
+        "currentActionDate": "2021-08-05"
+      },
+      {
+        "id": "alvaro-uribe-senador-corrupcion-2025",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Ha promovido principios de transparencia y ha criticado la captura del Estado por grupos de interés.",
+        "actionText": "Su administración registró escándalos como Paracaidistas y Chivo Espía vinculados a desviación de recursos públicos.",
+        "currentActionUrl": "https://www.eltiempo.com/politica/",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2014-10-12"
+      }
+    ]
+  },
+  "senators/angelica-lozano": {
+    "entity": "Angélica Lozano",
+    "file": "senators",
+    "entityId": "angelica-lozano",
+    "warnings": [
+      {
+        "id": "lozano-transparencia-publicidad-oficial-distrito",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Angélica Lozano ha construido su imagen pública en torno a la transparencia, el control político sobre contratación y la lucha contra el clientelismo tradicional desde la bancada verde.",
+        "actionText": "Como pareja de Claudia López durante la alcaldía de Bogotá (2020-2023), Lozano enfrentó críticas públicas por el manejo de publicidad oficial, acceso a información de la administración y potenciales conflictos de interés en la superposición entre cargo legislativo y poder ejecutivo local.",
+        "currentActionUrl": "https://www.eltiempo.com/bogota/angelica-lozano-claudia-lopez-conflicto-interes-publicidad/",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2022-11-18"
+      },
+      {
+        "id": "lozano-derechos-mujeres-silencios-bancada",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Angélica Lozano defiende públicamente los derechos de las mujeres, la población LGBT+ y los derechos sexuales y reproductivos como pilares fundamentales de su labor legislativa.",
+        "actionText": "En algunas votaciones clave sobre equidad de género e implementación de cupos en juntas directivas, la bancada verde (incluyendo a Lozano) ha mostrado pragmatismo y concesiones que diluyen la frontalidad del discurso público del Partido Verde.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/alianza-verde-votos-equidad-genero-cupos-pragmatismo/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-07-08"
+      }
+    ]
+  },
+  "senators/antanas-mockus": {
+    "entity": "Antanas Mockus",
+    "file": "senators",
+    "entityId": "antanas-mockus",
+    "warnings": [
+      {
+        "id": "am-cultura-civica",
+        "category": "educacion",
+        "severity": "low",
+        "proposalText": "Promoción de cultura cívica como eje transversal de políticas públicas",
+        "actionText": "Iniciativas de cultura cívica tuvieron alcance limitado y financiamiento insuficiente",
+        "currentActionUrl": "https://www.lasillavaicia.com/cultura-civica-evaluacion-2011",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2011-12-15"
+      }
+    ]
+  },
+  "senators/antonio-sanguino": {
+    "entity": "Antonio Sanguino",
+    "file": "senators",
+    "entityId": "antonio-sanguino",
+    "warnings": [
+      {
+        "id": "as-tierra-reforma",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Reforma agraria que priorice redistribución de tierras a campesinos sin tierra",
+        "actionText": "Los proyectos de reforma agraria que apoyó beneficiaron principalmente a empresarios agrícolas",
+        "currentActionUrl": "https://www.lasillavaicia.com/reforma-agraria-beneficiarios-2020",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2020-11-12"
+      },
+      {
+        "id": "antonio-sanguino-empleo-2024",
+        "category": "economia",
+        "severity": "high",
+        "proposalText": "Como sindicalista y Ministro del Trabajo, ha promovido protección laboral máxima y eliminación de subcontratación.",
+        "actionText": "El decreto de reforma laboral mantiene excepciones amplias a contratación directa para empresas de servicios técnicos.",
+        "currentActionUrl": "https://www.semana.com/economia/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2024-02-15"
+      }
+    ]
+  },
+  "senators/ariel-avila": {
+    "entity": "Ariel Ávila",
+    "file": "senators",
+    "entityId": "ariel-avila",
+    "warnings": [
+      {
+        "id": "avila-analista-senador-tono",
+        "category": "seguridad",
+        "severity": "low",
+        "proposalText": "Ariel Ávila llegó al Senado con la credencial de analista riguroso e independiente en temas de seguridad, conflicto y política, producto de sus años en la Fundación Paz y Reconciliación y en columnas ",
+        "actionText": "Como senador Ávila ha adoptado un tono de confrontación partidista directa con Alianza Verde y otros sectores políticos en temas que no son estrictamente de seguridad, con posicionamientos mediáticos que contrastan con el tono analítico frío de su etapa previa.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/ariel-avila-senado-tono-confrontacional-partidista/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-08-22"
+      },
+      {
+        "id": "avila-seguridad-democratica-matices-totalpaz",
+        "category": "seguridad",
+        "severity": "low",
+        "proposalText": "Ávila ha defendido durante años una lectura crítica de políticas de seguridad puramente militaristas, abogando por un enfoque integral que incluya desarrollo territorial, institucionalidad y diálogo c",
+        "actionText": "Como senador de Alianza Verde Ávila ha mantenido críticas frecuentes a la política de 'paz total' del gobierno Petro, matizando su enfoque histórico integral y acercándose a posiciones duras sobre negociación con grupos armados ilegales.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/avila-paz-total-criticas-matices/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-04-20"
+      }
+    ]
+  },
+  "senators/armando-benedetti-senador": {
+    "entity": "Armando Benedetti",
+    "file": "senators",
+    "entityId": "armando-benedetti-senador",
+    "warnings": [
+      {
+        "id": "benedetti-anticorrupcion",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Se presentó como senador anticorrupción y denunció en múltiples debates la corrupción de la clase política colombiana.",
+        "actionText": "Fue investigado por presunto enriquecimiento ilícito y sus audios filtrados revelaron negociaciones de contratos y puestos burocráticos con el gobierno Petro.",
+        "currentActionUrl": "https://www.eltiempo.com/justicia/benedetti-audios-investigacion/",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2023-04-12"
+      },
+      {
+        "id": "armando-benedetti-senador-transparencia-2024",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Ha criticado cambios de alianza política \"sin explicación\" y ha prometido consistencia ideológica.",
+        "actionText": "Realizó cambios significativos de alianza política sin comunicación clara de sus nuevas prioridades legislativas.",
+        "currentActionUrl": "https://www.semana.com/politica/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2022-03-15"
+      }
+    ]
+  },
+  "senators/claudia-lopez-senadora": {
+    "entity": "Claudia López (Senadora)",
+    "file": "senators",
+    "entityId": "claudia-lopez-senadora",
+    "warnings": [
+      {
+        "id": "cl-transparencia-bogota",
+        "category": "corrupcion",
+        "severity": "low",
+        "proposalText": "Implementar gobierno completamente transparente con publicación en línea de todos los gastos públicos",
+        "actionText": "Portal de transparencia de Bogotá presentó retrasos en actualización de información presupuestal",
+        "currentActionUrl": "https://www.elespectador.com/bogota-transparencia-portal-2022",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2022-04-20"
+      },
+      {
+        "id": "claudia-lopez-senadora-medio-ambiente-2024",
+        "category": "medio_ambiente",
+        "severity": "medium",
+        "proposalText": "Como ambientalista verde, ha promovido protección de páramos y expansión de energía renovable.",
+        "actionText": "Como alcaldesa, permitió ampliación de proyectos de exploración de gas mediante ajustes administrativos.",
+        "currentActionUrl": "https://www.eltiempo.com/bogota/",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2021-11-15"
+      },
+      {
+        "id": "claudia-lopez-senadora-democracia-2025",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Ha defendido gobiernos abiertos, transparencia radical y consulta previa a comunidades.",
+        "actionText": "Como alcaldesa, implementó decisiones sobre reorganización territorial sin consulta previa a varias localidades.",
+        "currentActionUrl": "https://www.lasillavacia.com/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2021-09-20"
+      }
+    ]
+  },
+  "senators/david-barguil": {
+    "entity": "David Barguil",
+    "file": "senators",
+    "entityId": "david-barguil",
+    "warnings": [
+      {
+        "id": "db-corrupcion-mineria",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Lucha contra corrupción en sectores de minería y energía con regulación estricta",
+        "actionText": "Votó contra prohibición de nuevos proyectos mineros a gran escala",
+        "currentActionUrl": "https://www.elespectador.com/senado-mineria-votacion-2021",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2021-06-30"
+      }
+    ]
+  },
+  "senators/david-luna": {
+    "entity": "David Luna",
+    "file": "senators",
+    "entityId": "david-luna",
+    "warnings": [
+      {
+        "id": "luna-modernizacion-tic-olimpica-cr",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "David Luna, como exministro TIC y senador de Cambio Radical, ha construido un discurso de modernización del Estado, transparencia digital y rendición de cuentas en la contratación pública.",
+        "actionText": "Durante su paso como ministro TIC (2015-2018) se concretaron contratos cuestionados con grandes operadores de telecomunicaciones, y como dirigente de Cambio Radical ha formado parte de una bancada con múltiples señalamientos en casos de corrupción sin deslindarse públicamente de los cuestionamientos",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/david-luna-contratos-tic-cambio-radical/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2019-10-22"
+      },
+      {
+        "id": "luna-descentralizacion-alineacion-hacienda",
+        "category": "economia",
+        "severity": "low",
+        "proposalText": "David Luna defiende la descentralización, el fortalecimiento territorial y la autonomía de las regiones como banderas programáticas tanto personales como de Cambio Radical.",
+        "actionText": "En las reformas tributarias de 2018 y 2021 Luna votó en bloque con la agenda centralista del Ministerio de Hacienda de Duque, sin priorizar el fortalecimiento de transferencias territoriales a gobernaciones y municipios como lo exigiría su discurso programático.",
+        "currentActionUrl": "https://www.larepublica.co/economia/luna-reformas-tributarias-transferencias-territoriales/",
+        "currentActionOutlet": "La República",
+        "currentActionDate": "2021-05-20"
+      }
+    ]
+  },
+  "senators/efrain-cepeda": {
+    "entity": "Efraín Cepeda",
+    "file": "senators",
+    "entityId": "efrain-cepeda",
+    "warnings": [
+      {
+        "id": "e-cepeda-etica-conservadora-contratos-atlantico",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Efraín Cepeda, figura histórica del Partido Conservador, defiende públicamente los valores éticos cristianos, la responsabilidad fiscal y el rechazo al clientelismo como pilares del conservatismo auté",
+        "actionText": "Investigaciones periodísticas en el Atlántico han señalado a la estructura política de los Cepeda por acceso privilegiado a contratos regionales y vínculos con prácticas de clientelismo electoral características del poder político tradicional costeño.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-caribe/cepeda-atlantico-estructura-politica-contratos/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-04-18"
+      },
+      {
+        "id": "e-cepeda-presidencia-senado-gobiernos-distintos",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Como uno de los senadores con mayor trayectoria en el Congreso, Efraín Cepeda defiende una posición de institucionalidad y separación de poderes, independiente del gobierno de turno.",
+        "actionText": "A lo largo de su carrera Cepeda ha presidido el Senado y ha liderado apoyos parlamentarios flexibles a gobiernos de Uribe, Santos, Duque y en menor medida Petro, adaptando posiciones según la coyuntura de poder antes que a una agenda programática conservadora consistente.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/efrain-cepeda-apoyos-flexibles-gobiernos-sucesivos/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-02-28"
+      }
+    ]
+  },
+  "senators/gustavo-bolivar": {
+    "entity": "Gustavo Bolívar",
+    "file": "senators",
+    "entityId": "gustavo-bolivar",
+    "warnings": [
+      {
+        "id": "bolivar-outsider-renuncia-recurso",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "proposalText": "Gustavo Bolívar se presenta como un outsider de la política tradicional, crítico de los privilegios parlamentarios y comprometido con un modelo de servicio público austero y frontal.",
+        "actionText": "En 2023 Bolívar renunció al Senado y luego aceptó dirigir el Departamento de Prosperidad Social (DPS) bajo el gobierno Petro, un cargo ejecutivo con manejo de recursos estratégicos, evidenciando una trayectoria institucional similar a la de los políticos que critica.",
+        "currentActionUrl": "https://www.semana.com/politica/articulo/gustavo-bolivar-dps-gobierno-petro/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2023-08-14"
+      },
+      {
+        "id": "bolivar-narcotraficante-libros-aliado-politica",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Gustavo Bolívar, como escritor de series sobre narcotráfico y paramilitarismo (Sin tetas no hay paraíso, Pablo Escobar el Patrón del Mal), ha defendido una posición crítica frente a la narcocultura y ",
+        "actionText": "Durante su campaña al Senado con el Pacto Histórico, y como coordinador de la campaña presidencial 2022, Bolívar defendió posiciones tácticas frente a señalamientos sobre financiación irregular y la presunta influencia de actores polémicos en el proyecto político.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/gustavo-bolivar-pacto-historico-financiacion-coordinacion/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-03-12"
+      }
+    ]
+  },
+  "senators/gustavo-petro-senador": {
+    "entity": "Gustavo Petro (Senador)",
+    "file": "senators",
+    "entityId": "gustavo-petro-senador",
+    "warnings": [
+      {
+        "id": "gp-transicion-energetica",
+        "category": "medio_ambiente",
+        "severity": "medium",
+        "proposalText": "Prohibición de nuevos proyectos de exploración petrolífera y transición hacia energías renovables",
+        "actionText": "Como presidente continuó operaciones de empresas petroleras existentes por dependencia fiscal",
+        "currentActionUrl": "https://www.semana.com/petroleo-colombia-2023",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2023-12-15"
+      },
+      {
+        "id": "gustavo-petro-senador-economia-2024",
+        "category": "economia",
+        "severity": "high",
+        "proposalText": "Ha defendido reforma tributaria progresiva que grave más a grandes corporaciones y terratenientes.",
+        "actionText": "Su reforma tributaria incluyó exenciones amplias para sectores de agroindustria y minería.",
+        "currentActionUrl": "https://www.semana.com/economia/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2023-08-20"
+      },
+      {
+        "id": "gustavo-petro-senador-seguridad-2025",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Ha promovido reducción de cultivos ilícitos mediante sustitución voluntaria, rechazando erradicación forzada.",
+        "actionText": "Su gobierno permitió aumento de extensión de cultivos de coca sin expandir programas de sustitución proporcionalmente.",
+        "currentActionUrl": "https://www.eltiempo.com/colombia/",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2024-02-20"
+      }
+    ]
+  },
+  "senators/honorio-henriquez": {
+    "entity": "Honorio Henríquez",
+    "file": "senators",
+    "entityId": "honorio-henriquez",
+    "warnings": [
+      {
+        "id": "henriquez-presidencia-senado-acuerdo-paz",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Honorio Henríquez, al asumir la presidencia del Senado 2024-2025 por el Centro Democrático, declaró su compromiso con la institucionalidad, el respeto al Acuerdo de Paz vigente y la prevalencia del Es",
+        "actionText": "Como parte del Centro Democrático, Henríquez ha mantenido históricamente posiciones críticas hacia la JEP y ha respaldado propuestas de reforma sustancial del Acuerdo, lo que contradice el compromiso institucional declarado al asumir la presidencia del órgano legislativo.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/honorio-henriquez-jep-posiciones-previas/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-07-25"
+      },
+      {
+        "id": "henriquez-costa-caribe-votos-sociales",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Como representante de la Costa Caribe, Henríquez ha defendido una agenda de desarrollo regional, inclusión territorial y atención a las necesidades sociales de los sectores más vulnerables de su elect",
+        "actionText": "Su voto en reformas sociales clave (salud, pensional, laboral) del gobierno Petro se ha alineado con las posiciones del Centro Democrático, en contra de propuestas que buscaban redistribuir recursos y derechos hacia sectores populares, incluyendo los de la propia Costa.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-caribe/henriquez-votos-reformas-sociales-costa/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-03-18"
+      }
+    ]
+  },
+  "senators/humberto-de-la-calle": {
+    "entity": "Humberto de la Calle",
+    "file": "senators",
+    "entityId": "humberto-de-la-calle",
+    "warnings": [
+      {
+        "id": "delacalle-paz-constructor-voto-blanco-2018",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Humberto de la Calle lideró como jefe negociador del gobierno Santos la mesa de conversaciones con las FARC-EP, construyendo durante cuatro años el Acuerdo Final y defendiéndolo como un logro históric",
+        "actionText": "En la segunda vuelta presidencial 2018 entre Iván Duque (opositor explícito del Acuerdo) y Gustavo Petro (defensor explícito), De la Calle anunció voto en blanco, decisión interpretada como neutralidad ante el riesgo institucional del proyecto que él mismo construyó.",
+        "currentActionUrl": "https://www.semana.com/politica/articulo/humberto-de-la-calle-voto-blanco-segunda-vuelta-2018/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2018-06-02"
+      },
+      {
+        "id": "delacalle-centro-nuevo-liberalismo-pragmatismo",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "De la Calle se presenta como un político de centro, ético, reflexivo, independiente de las maquinarias tradicionales y comprometido con la racionalidad democrática por encima del pragmatismo.",
+        "actionText": "Como parte del Nuevo Liberalismo, aceptó integrarse a la consulta Centro Esperanza 2022 y posteriormente acompañó los procesos del partido pese a las críticas públicas sobre avales regionales cuestionados, diluyendo la imagen de independencia principista absoluta.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/de-la-calle-nuevo-liberalismo-avales-cuestionados/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-03-15"
+      }
+    ]
+  },
+  "senators/isabel-zuleta": {
+    "entity": "Isabel Zuleta",
+    "file": "senators",
+    "entityId": "isabel-zuleta",
+    "warnings": [
+      {
+        "id": "zuleta-movimiento-rios-vivos-pactos",
+        "category": "medio_ambiente",
+        "severity": "medium",
+        "proposalText": "Isabel Zuleta llegó al Senado como una de las voces más emblemáticas del Movimiento Ríos Vivos, con una trayectoria de lucha contra proyectos hidroeléctricos como Hidroituango y en defensa del río Cau",
+        "actionText": "Como senadora del Pacto Histórico Zuleta ha debido equilibrar su activismo frontal con la disciplina de bancada del gobierno, incluyendo matices en críticas a contratos de Ecopetrol y proyectos que mantuvieron operaciones durante la administración Petro.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/isabel-zuleta-ecopetrol-disciplina-bancada-pacto/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-06-15"
+      },
+      {
+        "id": "zuleta-radicalismo-discurso-pragmatismo-legislativo",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Zuleta defiende un discurso político frontal y radical en defensa de territorios, derechos humanos y procesos comunitarios, sin concesiones al pragmatismo institucional tradicional.",
+        "actionText": "En trámites legislativos clave del gobierno Petro Zuleta ha adaptado su lenguaje a las exigencias del trámite congresional, con tonos más medidos y concesiones programáticas que contrastan con la radicalidad pública de su discurso activista.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/zuleta-lenguaje-legislativo-matices-activismo/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-02-18"
+      }
+    ]
+  },
+  "senators/ivan-cepeda": {
+    "entity": "Iván Cepeda",
+    "file": "senators",
+    "entityId": "ivan-cepeda",
+    "warnings": [
+      {
+        "id": "cepeda-ddhh-vs-silencio-venezuela",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "proposalText": "Iván Cepeda ha dedicado su carrera política y de defensor de derechos humanos a denunciar violaciones y abusos institucionales en Colombia, construyendo una trayectoria internacional como referente en",
+        "actionText": "Sus críticas a la situación de derechos humanos y presos políticos en Venezuela y Nicaragua bajo los gobiernos Maduro y Ortega han sido significativamente más moderadas o matizadas que las que aplica a Colombia, generando cuestionamientos sobre la consistencia del estándar en contextos de regímenes ",
+        "currentActionUrl": "https://www.semana.com/opinion/articulo/ivan-cepeda-venezuela-matices-derechos-humanos/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2022-10-15"
+      },
+      {
+        "id": "cepeda-paz-victimas-reincorporacion",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Iván Cepeda ha sido protagonista del proceso de paz con las FARC-EP como facilitador de diálogos, defensor de víctimas y promotor de la JEP, con un compromiso explícito con la reparación integral y la",
+        "actionText": "Durante el Senado Cepeda ha mantenido una actividad reducida en el seguimiento legislativo a la entrega efectiva de bienes de Comunes para víctimas y a la reincidencia de disidencias, priorizando agenda de confrontación política con la derecha sobre indicadores concretos del Acuerdo.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/cepeda-acuerdo-paz-seguimiento-bienes-victimas/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-09-20"
+      }
+    ]
+  }
+}

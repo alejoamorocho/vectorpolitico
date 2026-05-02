@@ -1,0 +1,610 @@
+{
+  "senators/ivan-name": {
+    "entity": "Iván Name",
+    "file": "senators",
+    "entityId": "ivan-name",
+    "warnings": [
+      {
+        "id": "name-anticorrupcion-ungrd-caso",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Iván Name, como presidente del Senado 2023-2024 y dirigente de Alianza Verde, defendió públicamente la lucha contra la corrupción, la transparencia en la contratación pública y el control político fir",
+        "actionText": "En 2024 el senador fue señalado en el caso UNGRD por supuesto recibimiento de recursos a cambio de votos en reformas del gobierno Petro, derivado de testimonios entregados a la Fiscalía por exdirectivos de la Unidad Nacional para la Gestión del Riesgo de Desastres.",
+        "currentActionUrl": "https://www.semana.com/nacion/articulo/ivan-name-ungrd-sobornos-reforma-petro/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2024-05-09"
+      },
+      {
+        "id": "name-verde-ambientalismo-poca-agenda",
+        "category": "medio_ambiente",
+        "severity": "low",
+        "proposalText": "Como dirigente de Alianza Verde, Iván Name se identifica con la agenda ambientalista del partido, la transición energética y la protección territorial frente a proyectos extractivos.",
+        "actionText": "Su producción legislativa en temas ambientales ha sido modesta, sin proyectos de ley estructurales propios ni iniciativas de alto impacto durante su amplia trayectoria en el Senado, contradiciendo la identidad ambientalista declarada por el partido.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/ivan-name-produccion-legislativa-ambiental-balance/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-10-12"
+      }
+    ]
+  },
+  "senators/jonathan-pulido-hernandez": {
+    "entity": "Jota Pe Hernández",
+    "file": "senators",
+    "entityId": "jonathan-pulido-hernandez",
+    "warnings": [
+      {
+        "id": "jota-pe-independiente-verde-bancada",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Jonathan 'Jota Pe' Pulido se presenta como una voz ciudadana independiente, outsider de la política tradicional, crítico de todas las maquinarias y comprometido con la rendición de cuentas y la transp",
+        "actionText": "Pese a su discurso outsider, llegó al Senado por Alianza Verde y forma parte formal de una bancada con sus propias dinámicas partidarias, acuerdos coalicionales y disciplinas de voto que contradicen parcialmente la imagen de independencia absoluta declarada.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/jota-pe-alianza-verde-disciplina-bancada/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-11-20"
+      },
+      {
+        "id": "jota-pe-tono-redes-debate-legislativo",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Pulido privilegia un estilo comunicacional directo y frontal en redes sociales, con videos, denuncias públicas y mensajes virales como herramienta de control político y pedagogía ciudadana.",
+        "actionText": "Su producción legislativa en proyectos de ley propios y debates parlamentarios de profundidad técnica ha sido modesta, priorizando la comunicación de impacto inmediato sobre el trabajo institucional estructural que exige su rol como senador.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/jota-pe-produccion-legislativa-balance/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-05-14"
+      }
+    ]
+  },
+  "senators/jorge-robledo": {
+    "entity": "Jorge Enrique Robledo",
+    "file": "senators",
+    "entityId": "jorge-robledo",
+    "warnings": [
+      {
+        "id": "robledo-oposicion-antipetro-alianzas-centro",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Jorge Enrique Robledo construyó durante décadas una imagen de opositor ético al establecimiento neoliberal colombiano, independiente de gobiernos y partidos tradicionales.",
+        "actionText": "En la campaña 2022 Robledo se convirtió en uno de los principales críticos públicos de Gustavo Petro, fundando Dignidad y acompañando la consulta Centro Esperanza con figuras con trayectoria en partidos tradicionales, contradiciendo la imagen histórica de independencia absoluta.",
+        "currentActionUrl": "https://www.semana.com/politica/articulo/jorge-robledo-centro-esperanza-critica-petro/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2022-02-18"
+      },
+      {
+        "id": "robledo-proyecto-personalista-dignidad",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Robledo defiende un modelo de construcción política basado en la organización colectiva, la deliberación programática y la diferenciación ideológica frente a proyectos personalistas.",
+        "actionText": "Dignidad y Compromiso ha funcionado de manera pública como una plataforma donde la voz y la línea política de Robledo concentran el peso programático y comunicacional, con escasa renovación de liderazgos públicos diferentes al fundador.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/dignidad-robledo-liderazgo-concentrado/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-04-10"
+      }
+    ]
+  },
+  "senators/jose-obdulio-gaviria-senador": {
+    "entity": "José Obdulio Gaviria",
+    "file": "senators",
+    "entityId": "jose-obdulio-gaviria-senador",
+    "warnings": [
+      {
+        "id": "gaviria-democracia-autoritarismo",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Se presenta como defensor de la democracia y las instituciones contra el 'castro-chavismo' y las amenazas a la libertad.",
+        "actionText": "Defendió la política de seguridad democrática incluyendo los falsos positivos y ha respaldado medidas que restringen la protesta social y los derechos de la oposición.",
+        "currentActionUrl": "https://www.elespectador.com/politica/jose-obdulio-gaviria-seguridad-democratica/",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2021-11-10"
+      }
+    ]
+  },
+  "senators/julian-gallo-senador": {
+    "entity": "Julián Gallo",
+    "file": "senators",
+    "entityId": "julian-gallo-senador",
+    "warnings": [
+      {
+        "id": "gallo-paz-reincorporacion",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Como firmante del Acuerdo de Paz, promovió la reincorporación total de excombatientes y la no repetición del conflicto armado.",
+        "actionText": "Más de 300 excombatientes de FARC han sido asesinados desde la firma del acuerdo y el partido Comunes no ha logrado impulsar legislación efectiva para su protección.",
+        "currentActionUrl": "https://www.elespectador.com/colombia-20/excombatientes-farc-asesinados-cifras/",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2024-11-20"
+      }
+    ]
+  },
+  "senators/luis-fernando-velasco": {
+    "entity": "Luis Fernando Velasco",
+    "file": "senators",
+    "entityId": "luis-fernando-velasco",
+    "warnings": [
+      {
+        "id": "lfv-educacion-rural",
+        "category": "educacion",
+        "severity": "low",
+        "proposalText": "Inversión prioritaria en educación rural para cerrar brecha de cobertura y calidad",
+        "actionText": "Presupuesto para educación rural fue reducido durante legislatura en que Velasco fue congresista",
+        "currentActionUrl": "https://www.bluradio.com/presupuesto-educacion-rural-2018",
+        "currentActionOutlet": "Blu Radio",
+        "currentActionDate": "2018-05-10"
+      }
+    ]
+  },
+  "senators/maria-fernanda-cabal": {
+    "entity": "María Fernanda Cabal",
+    "file": "senators",
+    "entityId": "maria-fernanda-cabal",
+    "warnings": [
+      {
+        "id": "cabal-libertad-empresa-vs-proteccionismo-agro",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "María Fernanda Cabal defiende la libertad de empresa, la competencia abierta y la reducción de aranceles como motores de productividad, siguiendo una ortodoxia económica liberal clásica coherente con ",
+        "actionText": "En asuntos relacionados con el sector agropecuario, ganadero y TLCs específicos que afectan intereses de la Federación Colombiana de Ganaderos (FEDEGAN) —de la que fue directiva— Cabal ha defendido aranceles, subsidios y protecciones sectoriales contrarias a su ortodoxia liberal general.",
+        "currentActionUrl": "https://www.larepublica.co/economia/cabal-ganaderos-proteccionismo-agropecuario/",
+        "currentActionOutlet": "La República",
+        "currentActionDate": "2021-07-15"
+      },
+      {
+        "id": "cabal-institucionalidad-vs-ataques-corte-jep",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Cabal se presenta como defensora del Estado de Derecho, la separación de poderes y la institucionalidad democrática frente a supuestos abusos del Ejecutivo y otros actores.",
+        "actionText": "La senadora ha protagonizado ataques públicos reiterados contra magistrados de la Corte Constitucional, la Fiscalía y la JEP cuando sus decisiones contradicen las posiciones del Centro Democrático, promoviendo además propuestas de reforma o liquidación de la JEP.",
+        "currentActionUrl": "https://www.elespectador.com/politica/maria-fernanda-cabal-ataques-jep-corte-constitucional/",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2023-05-18"
+      }
+    ]
+  },
+  "senators/maria-jose-pizarro": {
+    "entity": "María José Pizarro",
+    "file": "senators",
+    "entityId": "maria-jose-pizarro",
+    "warnings": [
+      {
+        "id": "pizarro-memoria-sectarismo",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "María José Pizarro, hija del líder asesinado del M-19 Carlos Pizarro, ha defendido la memoria histórica, el pluralismo democrático y la construcción de consensos amplios como ejes de su labor política",
+        "actionText": "En debates parlamentarios recientes Pizarro ha protagonizado confrontaciones sectarias con senadores de oposición, con un tono que contrasta con la construcción de consensos que declara como objetivo, polarizando en lugar de articular.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/maria-jose-pizarro-debates-confrontacion-sectaria/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-11-10"
+      },
+      {
+        "id": "pizarro-ambientalismo-gobierno-petro",
+        "category": "medio_ambiente",
+        "severity": "low",
+        "proposalText": "María José Pizarro ha defendido una agenda ambientalista fuerte coherente con los planteamientos del Pacto Histórico sobre transición energética, protección de la Amazonía y freno al extractivismo.",
+        "actionText": "Su actividad legislativa en temas ambientales estructurales (páramos, consulta previa minera, delimitación de áreas protegidas) ha sido modesta, sin proyectos de ley propios de alto impacto, priorizando otras agendas sobre la ambiental declarada.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/pizarro-actividad-legislativa-ambiental-balance/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-08-25"
+      }
+    ]
+  },
+  "senators/miguel-uribe-turbay": {
+    "entity": "Miguel Uribe Turbay",
+    "file": "senators",
+    "entityId": "miguel-uribe-turbay",
+    "warnings": [
+      {
+        "id": "miguel-uribe-seguridad-vs-atentado",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Miguel Uribe Turbay defendió con énfasis una agenda de seguridad basada en el fortalecimiento de la fuerza pública, la lucha contra el narcotráfico y el rechazo a la 'paz total' del gobierno Petro por",
+        "actionText": "En 2025 Miguel Uribe Turbay fue víctima de un atentado mortal que evidenció las fallas estructurales del esquema de seguridad del Estado para funcionarios amenazados, incluyendo dirigentes del Centro Democrático que él mismo criticó como insuficiente tras múltiples años de denuncias.",
+        "currentActionUrl": "https://www.elespectador.com/politica/miguel-uribe-turbay-atentado-esquema-seguridad/",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2025-06-08"
+      },
+      {
+        "id": "miguel-uribe-renovacion-trayectoria-familiar",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Miguel Uribe Turbay se presentó como una voz de renovación generacional dentro del Centro Democrático, con vocación de modernizar el mensaje del partido hacia nuevos electorados urbanos y jóvenes.",
+        "actionText": "Su trayectoria política estaba profundamente ligada a dos linajes familiares del poder político colombiano (nieto del presidente Julio César Turbay e hijo de Diana Turbay), con participación temprana en estructuras tradicionales del Partido Liberal y luego el Centro Democrático.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/miguel-uribe-turbay-linaje-familiar-politico/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-08-12"
+      }
+    ]
+  },
+  "senators/nadia-blel": {
+    "entity": "Nadia Blel",
+    "file": "senators",
+    "entityId": "nadia-blel",
+    "warnings": [
+      {
+        "id": "blel-salud-region",
+        "category": "salud",
+        "severity": "medium",
+        "proposalText": "Impulsó la reforma a la salud y prometió mejorar la cobertura hospitalaria en la Costa Caribe desde el Senado.",
+        "actionText": "Votó en contra de artículos clave de la reforma a la salud del gobierno Petro que buscaban eliminar la intermediación de las EPS, alineándose con los intereses del sector privado de salud.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/reforma-salud-votacion-senado/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-06-12"
+      }
+    ]
+  },
+  "senators/paloma-valencia": {
+    "entity": "Paloma Valencia",
+    "file": "senators",
+    "entityId": "paloma-valencia",
+    "warnings": [
+      {
+        "id": "pv-victimas-reparacion",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "proposalText": "Aprobación de mecanismos ágiles para reparación integral de víctimas del conflicto armado",
+        "actionText": "Posteriormente votó contra ampliación de presupuesto para Fondo de Reparación a Víctimas",
+        "currentActionUrl": "https://www.lasillavaicia.com/votacion-fondo-reparacion-2012",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2012-09-20"
+      },
+      {
+        "id": "paloma-valencia-economia-2024",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Ha defendido emprendimiento y reducción de cargas tributarias sobre pequeñas y medianas empresas.",
+        "actionText": "Sus iniciativas incluyeron exenciones amplias para empresas de parientes cercanos, según investigaciones.",
+        "currentActionUrl": "https://www.semana.com/politica/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2021-10-15"
+      },
+      {
+        "id": "paloma-valencia-transparencia-2025",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Ha sido vocal sobre transparencia gubernamental y ha criticado que funcionarios oculten información pública.",
+        "actionText": "No reveló completamente fuentes de financiamiento de actividades políticas locales.",
+        "currentActionUrl": "https://www.lasillavacia.com/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2020-06-15"
+      }
+    ]
+  },
+  "senators/paola-holguin": {
+    "entity": "Paola Holguín",
+    "file": "senators",
+    "entityId": "paola-holguin",
+    "warnings": [
+      {
+        "id": "ph-justicia-transicional",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Promotora de justicia transicional incluyente que reconozca verdad y garantice no repetición",
+        "actionText": "Como ministra de relaciones exteriores limitó cooperación con órganos internacionales de derechos humanos",
+        "currentActionUrl": "https://www.semana.com/paola-holguin-derechos-humanos-2017",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2017-03-25"
+      }
+    ]
+  },
+  "senators/roy-barreras-senador": {
+    "entity": "Roy Barreras",
+    "file": "senators",
+    "entityId": "roy-barreras-senador",
+    "warnings": [
+      {
+        "id": "barreras-paz-pragmatismo",
+        "category": "relaciones_exteriores",
+        "severity": "high",
+        "proposalText": "Fue uno de los principales defensores del proceso de paz con las FARC y la implementación del Acuerdo de La Habana como senador del Partido de la U.",
+        "actionText": "Pasó de ser aliado del uribismo (2006-2014) a impulsor de la paz con Santos (2014-2018) a presidente del Senado con Petro (2022-2023), adaptando su discurso a cada gobierno de turno.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/roy-barreras-camaleon-politico/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-08-20"
+      }
+    ]
+  },
+  "senators/temistocles-ortega": {
+    "entity": "Temístocles Ortega",
+    "file": "senators",
+    "entityId": "temistocles-ortega",
+    "warnings": [
+      {
+        "id": "ortega-descentralizacion",
+        "category": "economia",
+        "severity": "low",
+        "proposalText": "Abogó por mayor descentralización fiscal y autonomía para los departamentos, criticando el centralismo bogotano.",
+        "actionText": "Votó a favor del Plan Nacional de Desarrollo que mantuvo la estructura centralista de transferencias sin ampliaciones significativas al SGP.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/plan-desarrollo-centralizacion/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-05-20"
+      }
+    ]
+  },
+  "senators/wilson-arias": {
+    "entity": "Wilson Arias",
+    "file": "senators",
+    "entityId": "wilson-arias",
+    "warnings": [
+      {
+        "id": "arias-mineria-transicion",
+        "category": "medio_ambiente",
+        "severity": "medium",
+        "proposalText": "Ha sido crítico férreo de la minería a gran escala y defensor de la transición energética y la consulta previa de comunidades.",
+        "actionText": "Como senador del Pacto Histórico, no se opuso a la continuidad de contratos mineros existentes durante el gobierno Petro que afectan territorios indígenas en el Cauca.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/mineria-cauca-contratos-petro/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-07-10"
+      }
+    ]
+  },
+  "vice-presidents/francia-marquez": {
+    "entity": "Francia Márquez",
+    "file": "vice-presidents",
+    "entityId": "francia-marquez",
+    "warnings": [
+      {
+        "id": "franciamarquez-helicoptero-fac-2023",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "En campaña y desde su vicepresidencia ha enfatizado la austeridad, el cuidado de lo público y la crítica al uso de recursos estatales para privilegios de las élites: 'no puede haber privilegios para u",
+        "actionText": "En 2023 se documentó el uso recurrente de aeronaves de la Fuerza Aérea Colombiana para desplazamientos oficiales y privados de la Vicepresidenta. Aunque el uso se justificó en protocolos de seguridad por amenazas documentadas, el costo y frecuencia contrastaron con el discurso de austeridad, especia",
+        "currentActionUrl": "https://www.semana.com/politica/articulo/los-viajes-oficiales-y-personales-de-francia-marquez-en-aviones-de-la-fuerza-aerea/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2023-08-18"
+      },
+      {
+        "id": "franciamarquez-ejecucion-ministerio-igualdad-2023",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Prometió que el Ministerio de Igualdad sería el 'instrumento material' para transformar las condiciones de vida de las mujeres, comunidades étnicas y territorios históricamente excluidos, con programa",
+        "actionText": "En su primer año de operación el Ministerio de Igualdad ejecutó un porcentaje bajo de su presupuesto asignado, con demoras en la contratación del equipo técnico y en la territorialización de programas, situación documentada por la Contraloría y por medios especializados en seguimiento a ejecución pr",
+        "currentActionUrl": "https://www.larepublica.co/economia/el-ministerio-de-la-igualdad-de-francia-marquez-ha-ejecutado-menos-de-20-de-su-presupuesto",
+        "currentActionOutlet": "La República",
+        "currentActionDate": "2023-11-20"
+      },
+      {
+        "id": "franciamarquez-casa-dapa-2022",
+        "category": "corrupcion",
+        "severity": "low",
+        "proposalText": "Ha construido su narrativa política sobre la pertenencia a los 'nadies y nadies' y sobre representar a comunidades afro y campesinas que resisten el despojo territorial, con un ethos de vida comunitar",
+        "actionText": "En 2022 se reportó que adquirió una vivienda en Dapa, Yumbo (Valle del Cauca), zona de sectores medios-altos del occidente colombiano. El hecho por sí mismo no constituye corrupción — es un bien lícito adquirido con ingresos declarados —, pero generó debate público por su distancia narrativa con el ",
+        "currentActionUrl": "https://www.elpais.com.co/valle/francia-marquez-confirmo-que-compro-una-casa-en-dapa-yumbo-esta-son-los-detalles.html",
+        "currentActionOutlet": "El País (Cali)",
+        "currentActionDate": "2022-09-30"
+      }
+    ]
+  },
+  "vice-presidents/marta-lucia-ramirez": {
+    "entity": "Marta Lucía Ramírez",
+    "file": "vice-presidents",
+    "entityId": "marta-lucia-ramirez",
+    "warnings": [
+      {
+        "id": "martaluciaramirez-panama-papers-2021",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Durante su gestión como Vicepresidenta ha promovido reiteradamente la lucha contra la corrupción y la transparencia, declarando que 'la transparencia es una prioridad del gobierno' y liderando la Misi",
+        "actionText": "En octubre de 2021 los Pandora Papers revelaron que la Vicepresidenta y su familia figuraban como beneficiarios de sociedades offshore en jurisdicciones de baja tributación. Ramírez reconoció la existencia de las estructuras y argumentó que fueron declaradas ante la DIAN, pero la revelación contrast",
+        "currentActionUrl": "https://www.elespectador.com/investigacion/pandora-papers-marta-lucia-ramirez-y-su-esposo-aparecen-en-la-filtracion/",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2021-10-04"
+      },
+      {
+        "id": "martaluciaramirez-esmad-paro-2021",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Como Vicepresidenta y defensora de derechos de las mujeres, promovió públicamente el respeto a las libertades fundamentales, la protección de la protesta pacífica y el enfoque de derechos humanos del ",
+        "actionText": "Durante el Paro Nacional 2021 el gobierno del que fue Vicepresidenta mantuvo el uso del ESMAD en condiciones que HRW, la CIDH, la ONU y la Defensoría del Pueblo documentaron como violaciones graves de derechos humanos — muertes, lesiones oculares, detenciones arbitrarias, violencia sexual. Ramírez n",
+        "currentActionUrl": "https://www.hrw.org/es/news/2021/06/09/colombia-brutalidad-policial-durante-las-protestas",
+        "currentActionOutlet": "Human Rights Watch",
+        "currentActionDate": "2021-06-09"
+      }
+    ]
+  },
+  "vp-candidates/angela-maria-robledo": {
+    "entity": "Ángela María Robledo",
+    "file": "vp-candidates",
+    "entityId": "angela-maria-robledo",
+    "warnings": [
+      {
+        "id": "angelarobledo-doble-militancia-2018",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "En su trayectoria política defendió el respeto al régimen de partidos, la institucionalidad democrática y la claridad de la representación política.",
+        "actionText": "Siendo Representante electa por el Partido Verde, aceptó la fórmula vicepresidencial de Gustavo Petro (Colombia Humana) en 2018 sin renunciar previamente a su curul. El Consejo de Estado declaró la pérdida de investidura por doble militancia en 2019, decisión luego anulada parcialmente pero que evid",
+        "currentActionUrl": "https://www.eltiempo.com/politica/partidos-politicos/angela-maria-robledo-pierde-investidura-413672",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2019-09-13"
+      },
+      {
+        "id": "angelarobledo-silencio-venezuela-2018",
+        "category": "relaciones_exteriores",
+        "severity": "low",
+        "proposalText": "Como defensora de derechos humanos y de la autodeterminación democrática, ha sostenido que toda vulneración de libertades civiles debe ser denunciada sin sesgos ideológicos.",
+        "actionText": "Durante la campaña presidencial 2018 y el deterioro democrático en Venezuela bajo Nicolás Maduro, la fórmula Petro-Robledo evitó pronunciamientos críticos contundentes sobre la violación de derechos humanos documentada por la OEA, HRW y la OACNUDH, enfocándose en criticar la injerencia extranjera.",
+        "currentActionUrl": "https://www.ohchr.org/es/countries/venezuela-bolivarian-republic",
+        "currentActionOutlet": "OACNUDH",
+        "currentActionDate": "2019-07-04"
+      },
+      {
+        "id": "angelarobledo-acuerdo-paz-implementacion-2018",
+        "category": "seguridad",
+        "severity": "low",
+        "proposalText": "Defendió una implementación integral y rápida del Acuerdo de Paz de La Habana como eje de la transformación democrática del país, incluyendo la reforma rural integral.",
+        "actionText": "La coalición Petro-Robledo criticó simultáneamente al gobierno Santos por implementación 'insuficiente' del Acuerdo y a Duque por 'hacer trizas' el Acuerdo, pero no presentó una hoja de ruta detallada con cronogramas y costos fiscales realistas para la reforma rural integral (RRI) y el programa de s",
+        "currentActionUrl": "https://www.kroc.nd.edu/research/peace-accords/peace-accord-matrix-implementation-database/",
+        "currentActionOutlet": "University of Notre Dame - Kroc Institute",
+        "currentActionDate": "2020-06-01"
+      }
+    ]
+  },
+  "vp-candidates/clara-lopez-obregon": {
+    "entity": "Clara López Obregón",
+    "file": "vp-candidates",
+    "entityId": "clara-lopez-obregon",
+    "warnings": [
+      {
+        "id": "claralopez-migracion-partidos-2018",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Ha defendido consistentemente el fortalecimiento del sistema de partidos, la disciplina programática y la claridad ideológica como condiciones de una democracia sana.",
+        "actionText": "Ha transitado en menos de una década por Polo Democrático, Partido Liberal, diplomacia del gobierno Duque (Embajada España), y luego Pacto Histórico, manteniendo cargos públicos en cada transición. Estas migraciones, aunque legales, debilitan la narrativa de disciplina programática que ella misma de",
+        "currentActionUrl": "https://www.elespectador.com/politica/clara-lopez-del-polo-al-pacto-historico-su-recorrido-politico/",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2022-03-18"
+      },
+      {
+        "id": "claralopez-embajada-duque-2020",
+        "category": "corrupcion",
+        "severity": "low",
+        "proposalText": "Construyó su imagen pública como opositora de los gobiernos de derecha y del uribismo, posicionándose como defensora de un proyecto progresista frente a la 'derecha dura'.",
+        "actionText": "Aceptó en 2020 la Embajada de Colombia en España ofrecida por el gobierno de Iván Duque, un ejecutivo al que había criticado en campaña por 'hacer trizas' el Acuerdo de Paz y por alineamiento con sectores del uribismo.",
+        "currentActionUrl": "https://www.eltiempo.com/politica/gobierno/clara-lopez-es-la-nueva-embajadora-de-colombia-en-espana-523378",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2020-08-26"
+      }
+    ]
+  },
+  "vp-candidates/juan-carlos-pinzon": {
+    "entity": "Juan Carlos Pinzón",
+    "file": "vp-candidates",
+    "entityId": "juan-carlos-pinzon",
+    "warnings": [
+      {
+        "id": "juancarlospinzon-falsos-positivos-2014",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Como Ministro de Defensa sostuvo públicamente el compromiso del Ministerio con los derechos humanos, la justicia transicional y la investigación plena de violaciones cometidas por miembros de la fuerz",
+        "actionText": "Durante su gestión impulsó un marco jurídico (el 'Marco Jurídico para la Paz' y el Fuero Penal Militar ampliado en 2014/2015) que la JEP y organizaciones como HRW señalaron como riesgo de impunidad para violaciones graves como las ejecuciones extrajudiciales ('falsos positivos'), que ya alcanzaban m",
+        "currentActionUrl": "https://www.hrw.org/es/news/2013/10/21/colombia-plan-de-ampliacion-del-fuero-penal-militar-propicia-la-impunidad",
+        "currentActionOutlet": "Human Rights Watch",
+        "currentActionDate": "2013-10-21"
+      },
+      {
+        "id": "juancarlospinzon-formula-vargas-2018",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Ha enfatizado en su trayectoria la transparencia, la disciplina institucional y la separación entre la vida pública y los intereses privados — propios de un profesional formado en asuntos de seguridad",
+        "actionText": "Aceptó ser fórmula vicepresidencial de Germán Vargas Lleras, quien había sido Vicepresidente durante el gobierno Santos y enfrentaba cuestionamientos por la ejecución discrecional de recursos de infraestructura ('mermelada' en el Programa de Vivienda Gratuita y en el Fondo Adaptación), sin deslindar",
+        "currentActionUrl": "https://www.semana.com/nacion/articulo/vargas-lleras-y-los-cuestionamientos-por-manejo-de-recursos/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2018-04-20"
+      },
+      {
+        "id": "juancarlospinzon-plan-colombia-soberania-2015",
+        "category": "relaciones_exteriores",
+        "severity": "low",
+        "proposalText": "Defendió una política exterior basada en la soberanía nacional, la cooperación respetuosa y el interés colombiano como eje rector de las relaciones con otros Estados.",
+        "actionText": "Como Embajador en Washington impulsó la continuidad del Plan Colombia bajo el esquema 'Paz Colombia' con fuerte condicionalidad de DEA/DOS en asuntos de cultivos ilícitos y glifosato, aceptando marcos de cooperación con alto peso de la agenda antidrogas estadounidense sobre los objetivos del post-co",
+        "currentActionUrl": "https://www.congress.gov/bill/114th-congress/house-bill/5293",
+        "currentActionOutlet": "U.S. Congress",
+        "currentActionDate": "2016-07-01"
+      }
+    ]
+  },
+  "vp-candidates/juan-daniel-oviedo": {
+    "entity": "Juan Daniel Oviedo",
+    "file": "vp-candidates",
+    "entityId": "juan-daniel-oviedo",
+    "warnings": [
+      {
+        "id": "juan-daniel-oviedo-polarizacion-2026",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "No es derecha ni izquierda, no es Uribe ni Petro",
+        "actionText": "El 12 de marzo de 2026 Oviedo aceptó formalmente ser fórmula vicepresidencial de Paloma Valencia, candidata oficial del Centro Democrático (partido fundado por Álvaro Uribe Vélez, quien el 26 de diciembre de 2025 confirmó públicamente su respaldo a Valencia). La cita de 2024 nombra a Uribe como polo",
+        "currentActionUrl": "https://www.eltiempo.com/politica/elecciones-colombia-2026/bienvenido-senor-vicepresidente-paloma-valencia-confirma-a-juan-daniel-oviedo-como-su-formula-para-las-elecciones-presidenciales-3539636",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2026-03-12"
+      },
+      {
+        "id": "juan-daniel-oviedo-inhabilidad-2023",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Hacer política de manera diferente sin doblar las márgenes ni los renglones ni las líneas éticas",
+        "actionText": "El 20 de junio de 2023, tras inscribirse como precandidato a la Alcaldía de Bogotá, Oviedo suscribió como arrendador un contrato con el Fondo Nacional de Garantías (sociedad de economía mixta), violando el régimen de inhabilidades que impide contratar con el Estado en el año previo a elecciones. El ",
+        "currentActionUrl": "https://www.semana.com/nacion/articulo/juan-daniel-oviedo-si-estaba-inhabilitado-para-ser-concejal-de-bogota-consejo-de-estado-ratifico-decision/202508/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2025-06-27"
+      }
+    ]
+  },
+  "vp-candidates/marelen-castillo": {
+    "entity": "Marelen Castillo",
+    "file": "vp-candidates",
+    "entityId": "marelen-castillo",
+    "warnings": [
+      {
+        "id": "marelencastillo-diversidad-inclusion-2022",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Como mujer afrocolombiana y educadora enfatizó la diversidad, la equidad racial y de género, y la inclusión de comunidades históricamente marginadas como eje de su compromiso público.",
+        "actionText": "Fue fórmula de Rodolfo Hernández, quien realizó múltiples declaraciones públicas con contenido racista, sexista y xenófobo documentadas por medios nacionales e internacionales. Castillo no se deslindó públicamente de esas declaraciones durante la campaña, debilitando la credibilidad de su posicionam",
+        "currentActionUrl": "https://www.washingtonpost.com/world/2022/06/11/colombia-election-rodolfo-hernandez/",
+        "currentActionOutlet": "The Washington Post",
+        "currentActionDate": "2022-06-11"
+      }
+    ]
+  },
+  "vp-candidates/nelson-alarcon": {
+    "entity": "Nelson Alarcón",
+    "file": "vp-candidates",
+    "entityId": "nelson-alarcon",
+    "warnings": [
+      {
+        "id": "nelson-alarcon-apoliticismo-2021",
+        "category": "educacion",
+        "severity": "high",
+        "proposalText": "Lo que aparece en el video son opiniones y posturas personales del compañero y no las de Fecode. [Fecode] ya se había pronunciado diciendo que no había razones políticas con miras a las elecciones del",
+        "actionText": "Esto es de largo aliento, esto es para llegar con miras a 2022 y seguir mucho más allá, para derrotar al Centro Democrático, para derrotar a la ultraderecha y llegar al poder en 2022 (declaración grabada de Alarcón durante el Paro Nacional 2021 siendo ejecutivo de FECODE). En marzo de 2026 Alarcón s",
+        "currentActionUrl": "https://www.eltiempo.com/politica/gobierno/paro-nacional-ejecutivo-de-fecode-dice-que-van-con-miras-para-2022-595064",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2021-06-10"
+      },
+      {
+        "id": "nelson-alarcon-acuerdo-2019",
+        "category": "educacion",
+        "severity": "medium",
+        "proposalText": "Nelson Alarcón, presidente de FECODE, firmó el 15 de mayo de 2019 con el gobierno de Iván Duque el acta de acuerdo que ponía fin al paro nacional docente tras 50 sesiones de trabajo, contemplando refo",
+        "actionText": "Tres meses después de firmar, y en años siguientes, Alarcón y FECODE convocaron nuevos paros y movilizaciones argumentando que el acuerdo solo se había cumplido en un 30%. El propio Alarcón reconoció en entrevista con Semana que FECODE había firmado puntos que apenas se cumplían en el 30%. El acuerd",
+        "currentActionUrl": "https://www.semana.com/pais/articulo/entrevista-con-nelson-alarcon-presidente-de-fecode/307228/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2019-09-08"
+      }
+    ]
+  },
+  "vp-candidates/rodrigo-lara-sanchez": {
+    "entity": "Rodrigo Lara Sánchez",
+    "file": "vp-candidates",
+    "entityId": "rodrigo-lara-sanchez",
+    "warnings": [
+      {
+        "id": "rodrigolara-nuevo-liberalismo-coalicion-2022",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Refundó junto a su hermano Rodrigo Lara Restrepo el Nuevo Liberalismo (2021-2022) con un discurso de renovación ética, lucha anticorrupción y ruptura con la 'política tradicional'.",
+        "actionText": "Aceptó ser fórmula de Federico Gutiérrez por la coalición Equipo por Colombia, que agrupó a sectores del uribismo, Partido Conservador, MIRA y Colombia Justa Libres — es decir, a actores de la 'política tradicional' que el Nuevo Liberalismo decía combatir. La coalición obligó a diluir banderas refor",
+        "currentActionUrl": "https://www.elespectador.com/politica/rodrigo-lara-sanchez-formula-vicepresidencial-de-federico-gutierrez/",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2022-03-25"
+      },
+      {
+        "id": "rodrigolara-seguridad-humana-neiva-2019",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Como Alcalde de Neiva planteó que la política de seguridad tendría un enfoque de 'seguridad humana' con atención a las causas sociales del delito y coordinación comunitaria, no solo de mano dura polic",
+        "actionText": "Durante su alcaldía Neiva mantuvo tasas de homicidio superiores al promedio de ciudades intermedias comparables y el gasto en seguridad se canalizó mayoritariamente a pie de fuerza y tecnología policial, con baja inversión proporcional en programas de prevención social documentada por medios locales",
+        "currentActionUrl": "https://www.diariodelhuila.com/neiva-entre-las-ciudades-mas-inseguras-del-pais",
+        "currentActionOutlet": "Diario del Huila",
+        "currentActionDate": "2019-11-20"
+      },
+      {
+        "id": "rodrigolara-legado-lara-bonilla-2022",
+        "category": "corrupcion",
+        "severity": "low",
+        "proposalText": "Ha invocado el legado ético y antinarcótico de su padre Rodrigo Lara Bonilla como eje moral de su carrera política y como referencia en la lucha contra la corrupción y la infiltración del narcotráfico",
+        "actionText": "Se unió a una coalición (Equipo por Colombia) que incluyó a sectores políticos que han sido señalados por investigaciones de parapolítica, contratación irregular y vínculos con estructuras cuestionadas en regiones del país, sin hacer deslinde público específico en nombre del legado invocado.",
+        "currentActionUrl": "https://verdadabierta.com/parapolitica/",
+        "currentActionOutlet": "VerdadAbierta",
+        "currentActionDate": "2022-05-01"
+      }
+    ]
+  }
+}

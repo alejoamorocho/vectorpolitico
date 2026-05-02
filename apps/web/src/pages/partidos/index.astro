@@ -1,0 +1,61 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getAllParties, getEntitiesByParty } from '@/lib/data';
+
+const parties = getAllParties();
+---
+
+<BaseLayout title="Partidos" description="Partidos políticos colombianos documentados en La Brújula.">
+  <div class="page-header">
+    <div class="page-header-inner">
+      <p class="section-kicker">Sección</p>
+      <h1 style="margin-top: 0.5rem;">Partidos</h1>
+      <p class="page-lead">
+        <em>{parties.length} partidos políticos colombianos</em>. Cada uno con su historia, posición
+        ideológica y figuras documentadas.
+      </p>
+    </div>
+  </div>
+
+  <section class="mx-auto max-w-[1400px] px-6 pb-20">
+    <ul style="list-style: none; padding: 0;">
+      {parties.map((p, idx) => {
+        const members = getEntitiesByParty(p.id);
+        return (
+          <li>
+            {idx > 0 && (
+              <div class="rule-ornament" style="margin: 1rem 0;">
+                <span class="rule-ornament-glyph">◊</span>
+              </div>
+            )}
+            <a
+              href={`/partidos/${p.id}`}
+              class="grid lg:grid-cols-[auto_1fr_auto] gap-6 lg:gap-10 py-8"
+              style="text-decoration: none; color: var(--ink);"
+            >
+              <span
+                style={`display: inline-block; width: 20px; height: 20px; border-radius: 50%; background: ${p.color}; margin-top: 8px; border: 2px solid var(--paper-cream); box-shadow: 0 0 0 1px var(--rule);`}
+              ></span>
+              <div>
+                <h3 style="font-size: clamp(1.75rem, 3vw, 2.25rem); margin: 0;">{p.name}</h3>
+                <p class="section-byline section-byline--sm mt-1">
+                  <em>{p.fullName}</em>
+                  {p.foundedYear && <span style="margin-left: 0.75em;">· fundado {p.foundedYear}</span>}
+                </p>
+                <p class="prose-editorial mt-4 line-clamp-3" style="font-size: 16px; max-width: none;">
+                  {p.description}
+                </p>
+              </div>
+              <div class="text-right">
+                <p class="section-kicker">figuras</p>
+                <p style="font-family: var(--font-display); font-size: 44px; font-weight: 700; line-height: 1; color: var(--ink); margin: 4px 0 0;">
+                  {members.length}
+                </p>
+              </div>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+  </section>
+</BaseLayout>

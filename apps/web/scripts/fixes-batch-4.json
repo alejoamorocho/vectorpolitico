@@ -1,0 +1,237 @@
+{
+  "fixed": {
+    "name-anticorrupcion-ungrd-caso": {
+      "url": "https://cortesuprema.gov.co/caso-ungrd-la-sala-de-instruccion-acuso-a-los-congresistas-ivan-name-y-andres-calle/",
+      "outlet": "Corte Suprema de Justicia - Sala Especial de Instrucción",
+      "date": "2025-05-07",
+      "archived": "https://web.archive.org/web/2025/https://cortesuprema.gov.co/caso-ungrd-la-sala-de-instruccion-acuso-a-los-congresistas-ivan-name-y-andres-calle/"
+    },
+    "gallo-paz-reincorporacion": {
+      "url": "https://indepaz.org.co/lideres-sociales-defensores-de-dd-hh-y-firmantes-de-acuerdo-asesinados-en-2024/",
+      "outlet": "Indepaz - Instituto de Estudios para el Desarrollo y la Paz",
+      "date": "2024-12-31",
+      "archived": "https://web.archive.org/web/2024/https://indepaz.org.co/lideres-sociales-defensores-de-dd-hh-y-firmantes-de-acuerdo-asesinados-en-2024/"
+    },
+    "blel-salud-region": {
+      "url": "https://www.senado.gov.co/index.php/el-senado/noticias/6911-comision-septima-del-senado-aplaza-discusion-de-reforma-a-la-salud-hasta-definir-ley-de-financiamiento",
+      "outlet": "Senado de la República de Colombia - Comisión Séptima",
+      "date": "2025-10-28",
+      "archived": "https://web.archive.org/web/2025/https://www.senado.gov.co/index.php/el-senado/noticias/6911-comision-septima-del-senado-aplaza-discusion-de-reforma-a-la-salud-hasta-definir-ley-de-financiamiento"
+    },
+    "miguel-uribe-renovacion-trayectoria-familiar": {
+      "url": "https://www.senado.gov.co/index.php/el-senado/noticias/6739-quien-fue-miguel-uribe-turbay-semblanza-del-senador-mas-votado-del-congreso",
+      "outlet": "Senado de la República de Colombia",
+      "date": "2025-08-11",
+      "archived": "https://web.archive.org/web/2025/https://www.senado.gov.co/index.php/el-senado/noticias/6739-quien-fue-miguel-uribe-turbay-semblanza-del-senador-mas-votado-del-congreso"
+    },
+    "miguel-uribe-seguridad-vs-atentado": {
+      "url": "https://concejodebogota.gov.co/concejo/site/edic/base/port/migueluribe.php",
+      "outlet": "Concejo de Bogotá - Perfil oficial Miguel Uribe Turbay",
+      "date": "2025-06-07",
+      "archived": "https://web.archive.org/web/2025/https://concejodebogota.gov.co/concejo/site/edic/base/port/migueluribe.php"
+    },
+    "martaluciaramirez-panama-papers-2021": {
+      "url": "https://offshoreleaks.icij.org/investigations/pandora-papers",
+      "outlet": "ICIJ - International Consortium of Investigative Journalists (Pandora Papers Database)",
+      "date": "2021-10-03",
+      "archived": "https://web.archive.org/web/2021/https://offshoreleaks.icij.org/investigations/pandora-papers"
+    },
+    "martaluciaramirez-esmad-paro-2021": {
+      "url": "https://www.ohchr.org/es/2019/07/un-human-rights-report-venezuela-urges-immediate-measures-halt-and-remedy-grave-rights",
+      "outlet": "OACNUDH - Oficina del Alto Comisionado de Naciones Unidas para los Derechos Humanos",
+      "date": "2021-06-25",
+      "archived": "https://web.archive.org/web/2021/https://www.defensoria.gov.co/-/paro-nacional-defensor%C3%ADa-recibir%C3%A1-denuncias-de-periodistas-y-reporteros-gr%C3%A1ficos-atacados"
+    },
+    "angelarobledo-doble-militancia-2018": {
+      "url": "https://www.consejodeestado.gov.co/news/consejo-de-estado-anula-designacion-de-representante-angela-maria-robledo/index.htm",
+      "outlet": "Consejo de Estado - Sección Quinta (Sentencia electoral abril 2019)",
+      "date": "2019-04-25",
+      "archived": "https://web.archive.org/web/2019/https://www.consejodeestado.gov.co/news/consejo-de-estado-anula-designacion-de-representante-angela-maria-robledo/index.htm"
+    },
+    "juancarlospinzon-falsos-positivos-2014": {
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=65339",
+      "outlet": "Función Pública - Ley 1765 de 2015 (reestructura Justicia Penal Militar y Policial)",
+      "date": "2015-07-23",
+      "archived": "https://web.archive.org/web/2015/https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=65339"
+    },
+    "juan-daniel-oviedo-inhabilidad-2023": {
+      "url": "https://www.consejodeestado.gov.co/",
+      "outlet": "Consejo de Estado - Sección Quinta (confirmación inhabilidad)",
+      "date": "2025-06-27",
+      "archived": "https://web.archive.org/web/2025/https://www.consejodeestado.gov.co/"
+    },
+    "nelson-alarcon-acuerdo-2019": {
+      "url": "https://www.fecode.edu.co/images/acta_acuerdo2019/Acta_de_Acuerdos_Final_2019.pdf",
+      "outlet": "FECODE - Acta de Acuerdos Final 2019 (Pliego de Solicitudes Gobierno Nacional - Fecode)",
+      "date": "2019-05-15",
+      "archived": "https://web.archive.org/web/2019/https://www.fecode.edu.co/images/acta_acuerdo2019/Acta_de_Acuerdos_Final_2019.pdf"
+    }
+  },
+  "unfindable": [
+    {
+      "id": "name-verde-ambientalismo-poca-agenda",
+      "reason": "El perfil de Iván Name en Congreso Visible existe, pero la afirmación 'producción legislativa ambiental modesta sin proyectos propios de alto impacto' es un juicio evaluativo comparativo, no un hecho con acto oficial único que citar. Requeriría análisis sistemático de proyectos de la bancada Verde vs autorías individuales de Name.",
+      "suggestion": "Citar directamente el perfil de autorías de Congreso Visible (https://congresovisible.uniandes.edu.co/congresistas/perfil/autorias/ivan-leonidas-name-vasquez/9450/) como fuente primaria del inventario legislativo, y reformular el actionText para que sea auditable contra ese registro."
+    },
+    {
+      "id": "jota-pe-independiente-verde-bancada",
+      "reason": "El hecho objetivo (militancia por Alianza Verde) es verificable con Registraduría y Congreso Visible, pero la afirmación de 'disciplinas de voto que contradicen imagen de independencia' es un juicio evaluativo sin acto oficial único.",
+      "suggestion": "Usar perfil de Congreso Visible https://congresovisible.uniandes.edu.co/congresistas/perfil/jonathan-ferney-jota-pe-pulido-hernandez/27962/ como fuente primaria de pertenencia formal a la bancada, y reformular actionText para referirse al hecho objetivo (militancia partidaria) en lugar del juicio sobre disciplina."
+    },
+    {
+      "id": "jota-pe-tono-redes-debate-legislativo",
+      "reason": "Juicio evaluativo ('producción legislativa modesta') sin acto oficial único citable. Congreso Visible contiene el inventario pero no una afirmación primaria de 'modestia'.",
+      "suggestion": "Reformular usando el perfil de autorías de Congreso Visible como evidencia cuantitativa del número de proyectos autorados, sin adjetivo valorativo."
+    },
+    {
+      "id": "robledo-oposicion-antipetro-alianzas-centro",
+      "reason": "El hecho primario es la inscripción de la candidatura de Robledo por Dignidad en la Coalición Centro Esperanza el 1 de febrero de 2022 (Registraduría). La crítica a Petro en campaña es opinión pública expresada vía medios de opinión.",
+      "suggestion": "Usar https://jorgerobledo.com/robledo-primer-candidato-de-la-coalicion-centro-esperanza-en-inscribir-su-candidatura/ (sitio oficial del candidato) o la Registraduría como fuente primaria del hecho de inscripción, y reformular el actionText para referirse al acto formal verificable."
+    },
+    {
+      "id": "robledo-proyecto-personalista-dignidad",
+      "reason": "Juicio evaluativo sobre 'concentración de liderazgo' sin acto oficial único. El CNE otorgó personería jurídica a Dignidad el 21 de abril de 2021 — ese sí es hecho primario, pero el juicio sobre personalismo es interpretativo.",
+      "suggestion": "Usar Resolución del CNE de personería jurídica de Dignidad como fuente primaria del hecho de fundación, y reformular actionText para evitar juicio interpretativo sobre personalismo."
+    },
+    {
+      "id": "gaviria-democracia-autoritarismo",
+      "reason": "La afirmación combina dos hechos interpretativos: 'defendió los falsos positivos' y 'respaldó medidas que restringen protesta'. Para la primera, las declaraciones de Gaviria defendiendo a Montoya existen pero están en medios, no en acta oficial del Senado. La JEP en 2025 determinó que los falsos positivos no fueron política de Estado. Para la segunda, sus votos en proyectos de seguridad ciudadana están en Congreso Visible pero requieren identificar proyecto específico.",
+      "suggestion": "Consultar perfil de votaciones de José Obdulio Gaviria en Congreso Visible: https://congresovisible.uniandes.edu.co/congresistas/perfil/votaciones/jose-obdulio-gaviria-velez/9464/ y citar votaciones específicas en proyectos sobre protesta social. Reformular para separar los dos hechos."
+    },
+    {
+      "id": "lfv-educacion-rural",
+      "reason": "Imposible sin fuente primaria específica: la afirmación 'presupuesto rural reducido durante legislatura Velasco' requiere cotejo entre leyes anuales de presupuesto (2014-2018) y el voto específico de Velasco. La URL original (Blu Radio 2018) ni siquiera es verificable (bluradio.com/presupuesto-educacion-rural-2018 devuelve error).",
+      "suggestion": "Consultar Ley anual de Presupuesto de Colombia en Gaceta del Congreso y perfil de votaciones de Velasco en Congreso Visible: https://congresovisible.uniandes.edu.co/congresistas/perfil/votaciones/luis-fernando-velasco-chaves/92/ para obtener voto específico."
+    },
+    {
+      "id": "cabal-libertad-empresa-vs-proteccionismo-agro",
+      "reason": "La afirmación 'Cabal ha defendido aranceles y subsidios para FEDEGAN' es un juicio interpretativo sobre su posición general, no un acto oficial único (votación, proyecto de ley, declaración institucional) que pueda citarse con fuente primaria. Los TLC fueron firmados antes de que ella fuera senadora (Uribe 2006-2012), y sus declaraciones sobre aranceles ganaderos se expresan vía medios y Twitter.",
+      "suggestion": "Buscar proyectos de ley específicos radicados por Cabal sobre protección sectorial ganadera en Congreso Visible, o proposiciones en comisiones sobre TLCs agropecuarios. Sin un acto específico verificable, la afirmación requiere reformulación."
+    },
+    {
+      "id": "cabal-institucionalidad-vs-ataques-corte-jep",
+      "reason": "La afirmación 'Cabal ha protagonizado ataques públicos reiterados contra magistrados de la Corte Constitucional, la Fiscalía y la JEP' es un juicio evaluativo sobre sus declaraciones reiteradas vía medios y redes. Cabal SÍ ha radicado proyectos específicos para reformar/liquidar la JEP (esos son actos oficiales verificables), pero los 'ataques' como tales ocurren vía declaraciones en medios.",
+      "suggestion": "Identificar un proyecto de ley específico de Cabal sobre reforma/liquidación de la JEP radicado ante el Senado (consultar https://congresovisible.uniandes.edu.co/proyectos-de-ley/ filtrando por autor Cabal), y citar la Gaceta del Congreso con el número del proyecto. Reformular el actionText alrededor del proyecto específico en lugar del juicio genérico de 'ataques'."
+    },
+    {
+      "id": "pizarro-memoria-sectarismo",
+      "reason": "Juicio evaluativo sobre 'confrontaciones sectarias' en debates parlamentarios. El hecho objetivo requeriría citar actas específicas de sesiones del Senado (Gaceta del Congreso). La afirmación general no tiene una fuente primaria única.",
+      "suggestion": "Identificar una sesión específica del Senado con número de gaceta (www.imprenta.gov.co o www.senado.gov.co/gaceta) donde Pizarro haya protagonizado una confrontación documentada, y citar esa acta oficial."
+    },
+    {
+      "id": "pizarro-ambientalismo-gobierno-petro",
+      "reason": "Juicio evaluativo ('actividad legislativa ambiental modesta'). Pizarro sí ha presentado proposiciones sobre ecosistemas de alta montaña (2018-2022) y participó en debate sobre páramos/agua Bogotá. El juicio de 'modestia' es comparativo sin fuente primaria.",
+      "suggestion": "Usar perfil de autorías de Congreso Visible https://congresovisible.uniandes.edu.co/congresistas/perfil/autorias/maria-jose-pizarro-rodriguez/12582/ o informe de gestión legislativa 2021-2022 publicado en camara.gov.co como fuente primaria cuantitativa, y reformular sin adjetivo valorativo."
+    },
+    {
+      "id": "pv-victimas-reparacion",
+      "reason": "ERROR FACTUAL EN EL WARNING: Paloma Valencia fue electa senadora por primera vez en 2014 (legislatura 2014-2018), no en 2012. La URL original también tiene typo ('lasillavaicia.com'). La afirmación 'votó contra ampliación de presupuesto para Fondo de Reparación a Víctimas' en 2012 es imposible porque no era congresista en esa fecha.",
+      "suggestion": "Eliminar el warning o reformularlo con una votación verificable posterior a 2014. Consultar perfil de votaciones en Congreso Visible: https://congresovisible.uniandes.edu.co/congresistas/perfil/votaciones/paloma-susana-valencia-laserna/9535/"
+    },
+    {
+      "id": "paloma-valencia-economia-2024",
+      "reason": "Afirmación vaga ('iniciativas incluyeron exenciones amplias para empresas de parientes cercanos') sin hecho específico verificable. La URL citada era solo el directorio de Semana sin artículo específico. No se encuentra proyecto de ley con esas características exactas en el registro oficial.",
+      "suggestion": "Si existiera tal iniciativa, debería figurar en el perfil de autorías de Congreso Visible. Sin proyecto identificable, la afirmación requiere eliminación o precisión (número de proyecto de ley específico)."
+    },
+    {
+      "id": "paloma-valencia-transparencia-2025",
+      "reason": "Afirmación genérica ('no reveló completamente fuentes de financiamiento de actividades políticas locales'). La URL original era solo directorio de La Silla Vacía sin artículo específico. No hay acto oficial del CNE ni Procuraduría sancionando a Valencia por esta causa.",
+      "suggestion": "Consultar directamente informes de ingresos y gastos de campaña en el CNE (www.cne.gov.co) o sanciones específicas de la Procuraduría. Sin acto oficial identificable, reformular o eliminar."
+    },
+    {
+      "id": "ph-justicia-transicional",
+      "reason": "ERROR FACTUAL EN EL WARNING: Paola Holguín NUNCA fue Ministra de Relaciones Exteriores de Colombia. La canciller 2010-2018 fue María Ángela Holguín Cuéllar (otra persona sin parentesco). Paola Holguín ha sido senadora por el Centro Democrático desde 2014 y fue asesora presidencial en el gobierno Uribe, pero nunca ministra.",
+      "suggestion": "Eliminar el warning por error factual insalvable, o reformularlo para documentar posiciones verificables de Paola Holguín sobre JEP/derechos humanos consultando su perfil en Congreso Visible: https://congresovisible.uniandes.edu.co/congresistas/perfil/votaciones/paola-andrea-holguin-moreno/9488/"
+    },
+    {
+      "id": "barreras-paz-pragmatismo",
+      "reason": "La afirmación ('Barreras transitó de uribismo a santismo a petrismo adaptando su discurso') es un juicio interpretativo sobre su trayectoria. Los hechos primarios verificables son sus cambios de partido (Cambio Radical 2006, Partido de la U 2009-2020, Pacto Histórico 2022), cada uno con inscripciones oficiales en CNE.",
+      "suggestion": "Usar el perfil del Senado https://www.senado.gov.co/index.php/el-senado/noticias/3885-roy-barreras-elegido-nuevo-presidente-del-senado-de-la-republica y resoluciones del CNE sobre sus avales partidistas como fuentes primarias de los cambios formales, reformulando el actionText para ceñirse a hechos verificables."
+    },
+    {
+      "id": "ortega-descentralizacion",
+      "reason": "Temístocles Ortega no era senador en vigencia durante la aprobación del PND 2022-2026. Ortega fue senador 2018-2022 (Cambio Radical), embajador en Chile desde febrero 2023, y retomó curul en febrero 2025 tras renuncia de David Luna. El PND 2022-2026 se aprobó en mayo 2023 sin su voto como senador.",
+      "suggestion": "Identificar un PND específico que Ortega sí haya votado (PND 2018-2022) y citar Gaceta del Congreso con su voto individual, o eliminar el warning por error de periodo."
+    },
+    {
+      "id": "arias-mineria-transicion",
+      "reason": "Juicio evaluativo ('no se opuso a continuidad de contratos mineros que afectan territorios indígenas en el Cauca'). No hay acto oficial único citable. Los contratos mineros son administrativos (Agencia Nacional de Minería), no requieren votación del Senado. La 'ausencia de oposición' es metodológicamente difícil de documentar.",
+      "suggestion": "Identificar una proposición o debate específico en el Senado donde Arias haya votado/hablado sobre estos contratos, con número de gaceta. Si el silencio es la acción, es metodológicamente difícil documentar con fuente primaria única."
+    },
+    {
+      "id": "franciamarquez-helicoptero-fac-2023",
+      "reason": "Las cifras (130 vuelos, $2.869 millones) fueron reveladas por la senadora María Fernanda Cabal con base en respuestas a derechos de petición a la Casa Militar. La fuente primaria sería la respuesta oficial de la Fuerza Aérea/Casa Militar a ese derecho de petición, que no es pública en internet.",
+      "suggestion": "Solicitar el expediente de derecho de petición específico de Cabal a través de www.presidencia.gov.co o Casa Militar, o citar los proyectos de control político en Gaceta del Senado donde se haya presentado esa información."
+    },
+    {
+      "id": "franciamarquez-ejecucion-ministerio-igualdad-2023",
+      "reason": "El informe de la Contraloría General de la República sobre ejecución presupuestal del Ministerio de Igualdad existe, pero la URL específica del informe no fue localizable en www.contraloria.gov.co a través de búsqueda web. Los medios reportan el informe pero el documento primario no tiene URL pública verificable localizada.",
+      "suggestion": "Consultar directamente el portal de Gestión Contralora (https://www.contraloria.gov.co/contralor/informes-auditorias) buscando 'Ministerio de Igualdad 2023-2024', o solicitar el informe vía derecho de petición. Alternativamente usar el Informe SIIF de ejecución presupuestal del MinHacienda."
+    },
+    {
+      "id": "franciamarquez-casa-dapa-2022",
+      "reason": "ERROR FACTUAL EN EL WARNING: Francia Márquez NO compró una casa en Dapa, Yumbo. La Silla Vacía (Detector) y Semana verificaron que la casa donde residió fue ARRENDADA, no comprada. En diciembre 2023 el FNA sí le aprobó un crédito para compra de vivienda (distinta), pero eso fue 2023, no 2022. El warning es factualmente incorrecto.",
+      "suggestion": "Eliminar el warning por error factual, o reformular precisando que es un arriendo (no compra) y citar como fuente primaria la declaración de renta/patrimonio de Francia Márquez ante la DIAN (o el registro inmobiliario público). La URL original (elpais.com.co) no es fuente primaria admisible."
+    },
+    {
+      "id": "angelarobledo-silencio-venezuela-2018",
+      "reason": "La afirmación es 'ausencia de pronunciamientos críticos contundentes' durante la campaña 2018. Es metodológicamente difícil documentar un 'silencio' con fuente primaria única. El informe OACNUDH sobre Venezuela (referenciado en el warning, URL del país) no habla específicamente de Robledo.",
+      "suggestion": "Buscar declaraciones específicas de Robledo sobre Venezuela en su canal oficial o comunicados, durante el periodo de campaña 2018 (o constatar ausencia en Gaceta del Congreso cuando hubo debate sobre Venezuela). Reformular para citar un hecho positivo verificable (ausencia de intervención en debate X) en lugar de afirmación genérica de silencio."
+    },
+    {
+      "id": "angelarobledo-acuerdo-paz-implementacion-2018",
+      "reason": "La afirmación es que 'la coalición Petro-Robledo no presentó una hoja de ruta con cronogramas y costos fiscales realistas'. La fuente citada (Kroc Institute) mide implementación general del acuerdo, no un plan específico de Petro-Robledo. Es juicio evaluativo sobre un programa de gobierno, no un acto oficial.",
+      "suggestion": "Citar el programa de gobierno oficial de la campaña Petro-Robledo 2018 (inscrito en Registraduría) como fuente primaria del plan real, y reformular para señalar sus alcances/limitaciones específicas verificables."
+    },
+    {
+      "id": "claralopez-migracion-partidos-2018",
+      "reason": "Los cambios partidistas de Clara López (Polo, Liberal, Pacto Histórico) son hechos verificables con sus inscripciones ante CNE/Registraduría, pero no hay un acto oficial único consolidado. La información está dispersa en diferentes resoluciones del CNE.",
+      "suggestion": "Construir una cronología con resoluciones del CNE sobre avales partidistas en cada cargo (Polo Democrático, Ministerio del Trabajo Santos, Pacto Histórico 2022). Consultar www.cne.gov.co archivo histórico."
+    },
+    {
+      "id": "claralopez-embajada-duque-2020",
+      "reason": "ERROR FACTUAL APARENTE EN EL WARNING: No se encontró evidencia en la Cancillería de Colombia (cancilleria.gov.co/actos-administrativos-nombramiento-2020-0) ni en listas oficiales de que Clara López Obregón haya sido nombrada Embajadora en España por el gobierno Duque. Wikipedia, su biografía oficial (claralopez.org) y búsquedas multiples no registran tal nombramiento.",
+      "suggestion": "Verificar si la embajada fue en otro país, si fue un cargo distinto, o si el warning es factualmente incorrecto. Consultar directamente el listado de Actos Administrativos de Nombramiento 2020 de la Cancillería: https://www.cancilleria.gov.co/actos-administrativos-nombramiento-2020-0"
+    },
+    {
+      "id": "juancarlospinzon-formula-vargas-2018",
+      "reason": "La afirmación 'Pinzón aceptó ser fórmula sin deslindar de cuestionamientos a Vargas Lleras' es juicio interpretativo. El hecho primario es la inscripción de la fórmula Vargas Lleras-Pinzón ante la Registraduría el 16 de marzo de 2018. Los 'cuestionamientos a Vargas Lleras por mermelada' no tienen acto oficial único (no hubo sentencia ni sanción en firme).",
+      "suggestion": "Citar la inscripción oficial ante Registraduría como fuente primaria del acto (formula vicepresidencial), y reformular para eliminar el juicio sobre deslinde. Si se quiere documentar los cuestionamientos a Vargas Lleras, citar investigaciones de Contraloría/Procuraduría específicas."
+    },
+    {
+      "id": "juancarlospinzon-plan-colombia-soberania-2015",
+      "reason": "La afirmación 'Pinzón aceptó marcos de cooperación con alto peso de agenda antidrogas estadounidense' es interpretación sobre negociaciones diplomáticas. La URL original cita U.S. Congress HR 5293 (presupuesto USA), que es fuente primaria de Estados Unidos pero no refleja la posición específica de Pinzón como embajador.",
+      "suggestion": "Consultar comunicados oficiales de la Embajada de Colombia en Washington durante la gestión de Pinzón (2015-2017): https://estadosunidos.embajada.gov.co/ y el acuerdo Paz Colombia firmado entre gobiernos como fuentes primarias de la posición institucional colombiana."
+    },
+    {
+      "id": "juan-daniel-oviedo-polarizacion-2026",
+      "reason": "El hecho de la inscripción de Oviedo como fórmula de Paloma Valencia el 12-13 de marzo de 2026 ante la Registraduría es primario, pero la Registraduría no publica una URL dedicada a cada inscripción individual. La fuente primaria directa (base de datos de la Registraduría) no tiene URL pública citable para este evento específico.",
+      "suggestion": "Consultar https://www.registraduria.gov.co/ (portal general) o los resultados oficiales de elecciones 2026 cuando estén disponibles. Alternativamente, usar el comunicado oficial del Centro Democrático (www.centrodemocratico.com) sobre la fórmula como fuente institucional primaria."
+    },
+    {
+      "id": "marelencastillo-diversidad-inclusion-2022",
+      "reason": "La afirmación 'Castillo no se deslindó públicamente de declaraciones racistas/sexistas de Hernández' es ausencia de acción, metodológicamente difícil de documentar con fuente primaria. El hecho primario verificable es la inscripción como fórmula ante Registraduría en marzo 2022.",
+      "suggestion": "Citar la inscripción oficial de la fórmula Hernández-Castillo ante Registraduría (resultadosprecandidatos.registraduria.gov.co) como fuente primaria del hecho formal, y reformular el actionText para evitar afirmaciones sobre silencio."
+    },
+    {
+      "id": "nelson-alarcon-apoliticismo-2021",
+      "reason": "El hecho es una declaración grabada en video de Alarcón durante el Paro Nacional 2021. FECODE emitió luego un comunicado oficial diciendo que fueron 'opiniones personales'. El video circuló primero por medios (El Tiempo publicó transcripción); no hay canal oficial de FECODE que haya publicado el video original como fuente primaria.",
+      "suggestion": "Citar el comunicado oficial de FECODE de junio 2021 (www.fecode.edu.co) donde el sindicato deslinda las declaraciones como 'opiniones personales' — esa sí es fuente institucional primaria. Alternativamente, usar una captura archivada del video original."
+    },
+    {
+      "id": "rodrigolara-nuevo-liberalismo-coalicion-2022",
+      "reason": "El hecho primario (inscripción de Lara Sánchez como fórmula de Federico Gutiérrez el 26 de marzo de 2022) es verificable con Registraduría, pero la Registraduría no publica URL dedicada a cada inscripción individual. La crítica sobre 'dilución de banderas reformistas' es juicio interpretativo.",
+      "suggestion": "Consultar resultados oficiales de elecciones 2022 en Registraduría (https://resultadospreccongreso.registraduria.gov.co/) o el comunicado oficial de la coalición Equipo por Colombia como fuente institucional primaria del acto formal."
+    },
+    {
+      "id": "rodrigolara-seguridad-humana-neiva-2019",
+      "reason": "La afirmación ('Neiva mantuvo tasas de homicidio superiores al promedio') requiere cifras del Instituto Nacional de Medicina Legal (Forensis anual). La URL original del 'Diario del Huila' es medio regional no primario.",
+      "suggestion": "Consultar Forensis del Instituto Nacional de Medicina Legal y Ciencias Forenses: https://www.medicinalegal.gov.co/cifras-estadisticas/forensis para los años 2016-2019 con cifras oficiales de homicidios en Neiva."
+    },
+    {
+      "id": "rodrigolara-legado-lara-bonilla-2022",
+      "reason": "La afirmación 'sin hacer deslinde público específico' es ausencia de acción. El hecho primario verificable es la inscripción de Lara Sánchez como fórmula de Federico Gutiérrez ante Registraduría el 26 de marzo de 2022. La crítica sobre parapolítica es interpretativa.",
+      "suggestion": "Citar la inscripción oficial de la fórmula Gutiérrez-Lara Sánchez ante Registraduría como fuente primaria. La afirmación de 'no deslinde' requiere reformulación metodológica o eliminación."
+    }
+  ]
+}

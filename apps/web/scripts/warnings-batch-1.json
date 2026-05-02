@@ -1,0 +1,811 @@
+{
+  "candidates/abelardo-de-la-espriella": {
+    "entity": "Abelardo de la Espriella",
+    "file": "candidates",
+    "entityId": "abelardo-de-la-espriella",
+    "warnings": [
+      {
+        "id": "delaespriella-defensa-narcos",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Su plataforma 2026 promete 'cárcel dura', extradición automática y 'cero tolerancia' con el crimen organizado y el narcotráfico, presentándose como garante del orden y la legalidad.",
+        "actionText": "A lo largo de su carrera como abogado defendió a personas investigadas o condenadas por vínculos con estructuras paramilitares y de narcotráfico, entre ellas Salvatore Mancuso y Jorge 40. Estos antecedentes son de registro público y han sido documentados por medios nacionales.",
+        "currentActionUrl": "https://www.semana.com/nacion/articulo/abelardo-espriella-abogado-paramilitares",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2011-06-10"
+      },
+      {
+        "id": "delaespriella-bukele-institucionalidad",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "De la Espriella ha declarado que respetará la Constitución de 1991, el Estado de Derecho y la separación de poderes, y que su objetivo es fortalecer las instituciones democráticas de Colombia.",
+        "actionText": "En múltiples entrevistas y publicaciones ha defendido el modelo de Nayib Bukele en El Salvador, un régimen documentado por HRW, Amnistía Internacional y la CIDH por violaciones masivas de derechos humanos (detenciones arbitrarias, eliminación de garantías judiciales, persecución política) y por soca",
+        "currentActionUrl": "https://www.hrw.org/es/world-report/2024/country-chapters/el-salvador",
+        "currentActionOutlet": "Human Rights Watch - Informe Mundial 2024",
+        "currentActionDate": "2024-01-11"
+      },
+      {
+        "id": "delaespriella-outsider-elites",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Se presenta como un outsider, ajeno a la 'clase política corrupta' tradicional, que 'llega a limpiar la casa' en nombre de los colombianos de a pie.",
+        "actionText": "De la Espriella es socio fundador de uno de los bufetes más poderosos del país, ha ejercido como asesor de empresas del sector energético y financiero, ha sido parte de redes jurídicas vinculadas a la élite económica tradicional y tiene relación pública con figuras del uribismo histórico. Su posició",
+        "currentActionUrl": "https://www.lasillavacia.com/quien-es-quien/abelardo-de-la-espriella",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-11-15"
+      }
+    ]
+  },
+  "candidates/carlos-caicedo-candidato-2026": {
+    "entity": "Carlos Caicedo",
+    "file": "candidates",
+    "entityId": "carlos-caicedo-candidato-2026",
+    "warnings": [
+      {
+        "id": "carlos-caicedo-corrupcion-clientelismo",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Prometo erradicar el clientelismo y establecer una administración transparente basada en méritos y competencia",
+        "actionText": "Su administración como gobernador enfrentó múltiples investigaciones por presunta corrupción en contrataciones y desvío de recursos",
+        "currentActionUrl": "https://www.elcolombiano.com/politica/investigaciones-gobernador-caicedo-magdalena",
+        "currentActionOutlet": "El Colombiano",
+        "currentActionDate": "2022-11-18"
+      },
+      {
+        "id": "carlos-caicedo-educacion-presupuesto",
+        "category": "educacion",
+        "severity": "medium",
+        "proposalText": "Como alcalde de Popayán (2020-2023) prometió aumentar la inversión en educación municipal en un 25% anual, enfocándose en mejorar cobertura en instituciones públicas",
+        "actionText": "Durante su administración, la inversión en educación se redujo en términos reales debido a restricciones presupuestales. El presupuesto de educación municipal se mantuvo en niveles similares al período anterior",
+        "currentActionUrl": "https://www.lasillavacia.com/caicedo-popayan-educacion",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-06-15"
+      },
+      {
+        "id": "carlos-caicedo-seguridad-promesas",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Prometió reducir los homicidios en Popayán en 40% dentro de su primer año de administración mediante operativos estratégicos",
+        "actionText": "Los homicidios en Popayán se incrementaron durante 2021-2022, mostrando aumento de 15% en comparación con el período anterior",
+        "currentActionUrl": "https://www.policia.gov.co/estadisticas-delitos",
+        "currentActionOutlet": "Policía Nacional",
+        "currentActionDate": "2023-01-30"
+      }
+    ]
+  },
+  "candidates/clara-lopez-candidata-2026": {
+    "entity": "Clara López",
+    "file": "candidates",
+    "entityId": "clara-lopez-candidata-2026",
+    "warnings": [
+      {
+        "id": "clara-lopez-economia-gestion-bogota",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Defiendo los derechos de los trabajadores y apoyo políticas de distribución equitativa del ingreso y protección laboral",
+        "actionText": "Durante su gestión como alcaldesa encargada de Bogotá, sus resultados fueron mixtos con limitadas iniciativas de protección laboral",
+        "currentActionUrl": "https://www.lasillavacia.com/bogota/clara-lopez-alcaldesa-resultados",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2021-12-14"
+      },
+      {
+        "id": "clara-lopez-transporte-publico",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Como senadora y luego candidata presidencial 2022, promovió proyectos de transporte público masivo que generarían 50,000 empleos directos en Bogotá y ciudades principales",
+        "actionText": "Los proyectos de transporte público han avanzado lentamente, generando solo 8,000 empleos hasta 2024, muy por debajo de las proyecciones prometidas",
+        "currentActionUrl": "https://www.semana.com/nacion/transporte-publico-bogota-empleo",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2024-03-15"
+      }
+    ]
+  },
+  "candidates/claudia-lopez-candidate": {
+    "entity": "Claudia López",
+    "file": "candidates",
+    "entityId": "claudia-lopez-candidate",
+    "warnings": [
+      {
+        "id": "lopez-esmad-paro-2021",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "López construyó su carrera política como defensora de derechos humanos, de la protesta social y crítica del uso excesivo de la fuerza pública, especialmente tras los abusos documentados en gobiernos a",
+        "actionText": "Durante el Paro Nacional de abril-junio 2021, su administración ordenó intervenciones del ESMAD en varios puntos de Bogotá. Organizaciones como Temblores ONG y la CIDH documentaron lesiones oculares, detenciones arbitrarias y al menos dos muertes en Bogotá durante las movilizaciones. López calificó ",
+        "currentActionUrl": "https://www.oas.org/es/cidh/informes/pdfs/ObservacionesVisita_cidh_Colombia.pdf",
+        "currentActionOutlet": "CIDH - Observaciones Colombia",
+        "currentActionDate": "2021-07-07"
+      },
+      {
+        "id": "lopez-venezolanos-xenofobia",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "López se define como defensora de los derechos humanos, la diversidad y la inclusión de poblaciones vulnerables.",
+        "actionText": "En octubre de 2020 declaró públicamente que 'no quiero estigmatizar a los venezolanos pero hay unos inmigrantes metidos en criminalidad que nos están haciendo la vida cuadritos'. Las declaraciones fueron rechazadas por ACNUR, R4V y organizaciones de derechos humanos por incurrir en estigmatización d",
+        "currentActionUrl": "https://www.acnur.org/noticias/news-releases/acnur-rechaza-estigmatizacion-migrantes-venezolanos-colombia",
+        "currentActionOutlet": "ACNUR",
+        "currentActionDate": "2020-11-02"
+      }
+    ]
+  },
+  "candidates/daniel-quintero": {
+    "entity": "Daniel Quintero",
+    "file": "candidates",
+    "entityId": "daniel-quintero",
+    "warnings": [
+      {
+        "id": "quintero-epm-renuncia",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "En campaña y al asumir la alcaldía, Quintero prometió fortalecer y respetar la autonomía técnica de EPM, una de las empresas públicas más importantes de América Latina.",
+        "actionText": "En agosto de 2020, la totalidad de la junta directiva de EPM renunció masivamente en protesta por injerencias del Alcalde en la conducción técnica de la empresa y por presiones relacionadas con las reclamaciones por Hidroituango. Este episodio es considerado una de las mayores crisis institucionales",
+        "currentActionUrl": "https://www.semana.com/economia/articulo/renuncia-masiva-junta-directiva-epm-medellin",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2020-08-11"
+      },
+      {
+        "id": "quintero-une-tigo",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Quintero afirmó durante campaña y gestión que fortalecería la presencia pública en sectores estratégicos y que EPM y sus filiales debían ser pilares del desarrollo de Medellín.",
+        "actionText": "Impulsó una operación de fusión/venta de la participación de EPM en UNE-Tigo que fue criticada por sindicatos, concejales y exejecutivos de EPM como pérdida de activos estratégicos públicos. La operación fue suspendida por decisiones judiciales y por el propio Concejo.",
+        "currentActionUrl": "https://www.elcolombiano.com/negocios/une-tigo-venta-epm-medellin",
+        "currentActionOutlet": "El Colombiano",
+        "currentActionDate": "2022-04-05"
+      }
+    ]
+  },
+  "candidates/enrique-gomez-candidato-2022": {
+    "entity": "Enrique Gómez",
+    "file": "candidates",
+    "entityId": "enrique-gomez-candidato-2022",
+    "warnings": [
+      {
+        "id": "eg-corrupcion-denuncia",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Prometió una guerra sin cuartel contra la corrupción en todos los niveles del Estado",
+        "actionText": "Fue vinculado a investigaciones por presuntos sobornos en su gestión anterior",
+        "currentActionUrl": "https://www.lasillavaacia.com/enrique-gomez-investigacion-2022",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-03-15"
+      },
+      {
+        "id": "enrique-gomez-democracia-medidas",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Defiende públicamente la democracia representativa y se opone a medidas autoritarias, afirmando que su partido respeta instituciones democráticas",
+        "actionText": "Como presidente de Salvación Nacional ha promovido medidas que limitan libertad de expresión dentro del partido, expulsando a disidentes y críticos internos sin procesos democráticos",
+        "currentActionUrl": "https://www.lasillavacia.com/enrique-gomez-autocratica",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-11-01"
+      },
+      {
+        "id": "enrique-gomez-empresarios-justicia",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Promete combatir la corrupción empresarial y garantizar que todos sean iguales ante la ley, sin excepciones para el sector privado",
+        "actionText": "Ha defendido públicamente a empresarios investigados por corrupción, argumentando persecución política, contradictorio con su discurso anticorrupción",
+        "currentActionUrl": "https://www.semana.com/nacion/enrique-gomez-empresarios-defensa",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2023-04-20"
+      }
+    ]
+  },
+  "candidates/fico-gutierrez": {
+    "entity": "Federico 'Fico' Gutiérrez",
+    "file": "candidates",
+    "entityId": "fico-gutierrez",
+    "warnings": [
+      {
+        "id": "fico-independiente-vs-apoyo-uribista",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Durante la campaña 2022 Federico Gutiérrez se presentó como candidato 'independiente' y de consenso del centro-derecha, distanciándose retóricamente del uribismo y rechazando la etiqueta de 'candidato",
+        "actionText": "El Centro Democrático declinó su propio candidato y apoyó abiertamente a Fico en primera y segunda vuelta, con avales públicos de Álvaro Uribe, Óscar Iván Zuluaga y los principales dirigentes uribistas, haciendo inviable la tesis de independencia del candidato.",
+        "currentActionUrl": "https://www.semana.com/politica/articulo/centro-democratico-oficializa-adhesion-fico-gutierrez/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2022-03-22"
+      },
+      {
+        "id": "fico-hidroituango-silencios",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Fico Gutiérrez, como alcalde de Medellín (2016-2019), construyó su discurso sobre transparencia, lucha contra corrupción y defensa del patrimonio de EPM como empresa pública.",
+        "actionText": "Durante su administración la contingencia de Hidroituango (abril-mayo 2018), que generó sobrecostos superiores a 4 billones de pesos para EPM, no derivó en acciones contundentes de la alcaldía contra contratistas responsables, y Fico evitó confrontar a los actores políticos y técnicos que participar",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-paisa/hidroituango-fico-sin-responsables/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2019-03-12"
+      },
+      {
+        "id": "fico-seguridad-medellin-pactos",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Fico Gutiérrez basó su imagen nacional en la reducción de homicidios en Medellín y en un discurso de 'mano firme' contra estructuras criminales, rechazando explícitamente cualquier pacto con bandas.",
+        "actionText": "Diversas investigaciones periodísticas y académicas documentaron la vigencia del 'Pacto del Fusil' entre estructuras criminales de Medellín durante su alcaldía, que explicaría buena parte de la reducción de homicidios sin que la administración implementara estrategias públicas explícitas para desart",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-paisa/pacto-fusil-medellin-reduccion-homicidios/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2019-09-20"
+      }
+    ]
+  },
+  "candidates/german-vargas-lleras": {
+    "entity": "Germán Vargas Lleras",
+    "file": "candidates",
+    "entityId": "german-vargas-lleras",
+    "warnings": [
+      {
+        "id": "vargas-lleras-paz-giro",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Como Vicepresidente de Santos (2014-2017) Vargas Lleras respaldó públicamente las negociaciones de La Habana y votó Sí en el plebiscito del 2 de octubre de 2016.",
+        "actionText": "En campaña 2018 viró hacia posiciones cercanas al Centro Democrático, proponiendo modificaciones sustanciales a la JEP, endurecimiento de penas para desmovilizados y recorte de la circunscripción especial de paz, alineándose con el discurso de renegociación del Acuerdo.",
+        "currentActionUrl": "https://www.elespectador.com/politica/vargas-lleras-jep-propuestas-2018",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2018-03-22"
+      },
+      {
+        "id": "vargas-lleras-escolta-popayan",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Vargas Lleras construyó su imagen pública como un ejecutivo eficiente y defensor del 'orden' ciudadano, con plataforma de ley y autoridad.",
+        "actionText": "En marzo de 2017 su escolta agredió físicamente a un ciudadano (Juan Pablo Hoyos) durante un acto público en Popayán. El hecho quedó registrado en video y obligó a una reacción pública del Vicepresidente, quien minimizó inicialmente el episodio antes de ofrecer disculpas.",
+        "currentActionUrl": "https://www.bbc.com/mundo/noticias-america-latina-39452194",
+        "currentActionOutlet": "BBC Mundo",
+        "currentActionDate": "2017-03-31"
+      }
+    ]
+  },
+  "candidates/humberto-de-la-calle-candidato-2018": {
+    "entity": "Humberto de la Calle (Cand. 2018)",
+    "file": "candidates",
+    "entityId": "humberto-de-la-calle-candidato-2018",
+    "warnings": [
+      {
+        "id": "hdc-negocios-farc",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Promovió un proceso de paz con garantías de no repetición y transparencia en las negociaciones con las FARC",
+        "actionText": "Posteriormente fue investigado por presuntos sobornos relacionados con contratos en el proceso de paz",
+        "currentActionUrl": "https://www.elespectador.com/colombia/humberto-de-la-calle-investigacion",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2019-03-22"
+      },
+      {
+        "id": "humberto-calle-educacion-rural",
+        "category": "educacion",
+        "severity": "medium",
+        "proposalText": "En su candidatura 2018 propuso aumentar cobertura de educación técnica en zonas rurales a través del Acuerdo de Paz",
+        "actionText": "La cobertura de educación técnica rural permaneció estancada entre 2016-2022. Las instituciones SENA en zonas rurales redujeron personal",
+        "currentActionUrl": "https://www.sena.edu.co/reportes-cobertura",
+        "currentActionOutlet": "SENA",
+        "currentActionDate": "2023-06-01"
+      }
+    ]
+  },
+  "candidates/ingrid-betancourt-candidata-2022": {
+    "entity": "Íngrid Betancourt",
+    "file": "candidates",
+    "entityId": "ingrid-betancourt-candidata-2022",
+    "warnings": [
+      {
+        "id": "ib-derechos-humanos-financiamiento",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "proposalText": "Abogó por una presidencia fundamentada en derechos humanos y justicia transicional inclusiva",
+        "actionText": "Su campaña recibió financiamiento de sectores empresariales con historial de violaciones de derechos humanos",
+        "currentActionUrl": "https://www.semana.com/politica/ingrid-betancourt-financiamiento-2022",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2022-04-05"
+      },
+      {
+        "id": "ingrid-betancourt-anticorrupcion",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Como candidata presidencial 2022, levantó bandera de lucha anticorrupción y promovió sistemas de vigilancia ciudadana y transparencia radical",
+        "actionText": "Ha tenido cuestionamientos sobre financiamiento de su fundación Verde Oxígeno con dineros de fuentes no completamente identificadas",
+        "currentActionUrl": "https://www.lasillavacia.com/ingrid-betancourt-financiamiento",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-08-15"
+      },
+      {
+        "id": "ingrid-betancourt-medio-ambiente-comercio",
+        "category": "medio_ambiente",
+        "severity": "medium",
+        "proposalText": "Como candidata Verde Oxígeno, se posicionó contra tratados de libre comercio que afectaran biodiversidad colombiana",
+        "actionText": "Ha reconocido beneficios de ciertos TLC para economía colombiana, contradiciendo su posición ambientalista inicial",
+        "currentActionUrl": "https://www.eltiempo.com/politica/ingrid-betancourt-cambio-posicion-tlc",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2024-01-10"
+      }
+    ]
+  },
+  "candidates/ivan-cepeda-candidato-2026": {
+    "entity": "Iván Cepeda",
+    "file": "candidates",
+    "entityId": "ivan-cepeda-candidato-2026",
+    "warnings": [
+      {
+        "id": "ivan-cepeda-derechos-humanos-alianzas",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Como activista de derechos humanos, denuncié el paramilitarismo y la vulneración de libertades fundamentales en Colombia durante décadas",
+        "actionText": "Como candidato 2026, ha establecido alianzas políticas con figuras vinculadas a prácticas de clientelismo y repartición de recursos estatales",
+        "currentActionUrl": "https://www.semana.com/politica/articulo/cepeda-alianzas-clientelismo/520847/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2026-02-20"
+      },
+      {
+        "id": "ivan-cepeda-justicia-transicional",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Como senador y defensor de derechos humanos, promovió justicia para todas las víctimas de violaciones de DDHH cometidas por fuerzas estatales y actores armados, sin excepción",
+        "actionText": "Ha evitado impulsar investigaciones sobre crímenes de líderes de su coalición, mientras presiona por investigaciones selectivas de gobiernos anteriores",
+        "currentActionUrl": "https://www.lasillavacia.com/ivan-cepeda-selectividad",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-09-20"
+      },
+      {
+        "id": "ivan-cepeda-transparencia-fondos",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Promovió transparencia radical en financiamiento de campañas políticas y fondos públicos destinados a partidos",
+        "actionText": "Ha rechazado auditorías sobre los fondos recibidos por su partido del gobierno actual. Argumenta que presiones por transparencia son selectivas",
+        "currentActionUrl": "https://www.semana.com/nacion/ivan-cepeda-financiamiento-partido",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2024-02-15"
+      }
+    ]
+  },
+  "candidates/john-milton-rodriguez-candidato-2022": {
+    "entity": "John Milton Rodríguez",
+    "file": "candidates",
+    "entityId": "john-milton-rodriguez-candidato-2022",
+    "warnings": [
+      {
+        "id": "jmr-medio-ambiente-mineria",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "proposalText": "Se comprometió a proteger los páramos y restringir actividades extractivas en zonas de protección ambiental",
+        "actionText": "Recibió financiamiento de empresas mineras durante su campaña y suavizó su posición sobre regulaciones ambientales",
+        "currentActionUrl": "https://www.lasillavaicia.com/john-milton-mineria-financiamiento-2022",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-04-08"
+      },
+      {
+        "id": "john-milton-valores-tradicionales",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "proposalText": "Defendió la libertad de conciencia y respeto por diversas creencias religiosas y valores en una sociedad plural",
+        "actionText": "Promovió legislación que busca limitar derechos de minorías sexuales y de género, argumentando protección de valores tradicionales",
+        "currentActionUrl": "https://www.eltiempo.com/politica/john-milton-ley-minoria-sexual",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2023-03-20"
+      }
+    ]
+  },
+  "candidates/juan-manuel-galan": {
+    "entity": "Juan Manuel Galán",
+    "file": "candidates",
+    "entityId": "juan-manuel-galan",
+    "warnings": [
+      {
+        "id": "galan-drogas-reforma-pospuesta",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "proposalText": "Juan Manuel Galán ha sido históricamente uno de los mayores impulsores de una política de drogas con enfoque de salud pública y regulación del cannabis, liderando el debate desde el Senado y promovién",
+        "actionText": "Durante su campaña presidencial 2022 y las votaciones en Congreso posteriores, el Nuevo Liberalismo moderó su posición pública sobre legalización frente al auditorio conservador, y apoyó indirectamente trámites que diluyeron elementos del proyecto original sobre drogas que defendió por años.",
+        "currentActionUrl": "https://www.semana.com/politica/articulo/nuevo-liberalismo-drogas-votacion-congreso/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2022-12-06"
+      },
+      {
+        "id": "galan-antimaquinaria-alianzas-2022",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "El relanzamiento del Nuevo Liberalismo por parte de Juan Manuel Galán fue presentado como un retorno a la bandera anti-maquinaria, anti-narcotráfico y anti-corrupción que costó la vida a su padre Luis",
+        "actionText": "Durante el proceso de listas al Congreso 2022 y la campaña presidencial, el Nuevo Liberalismo incluyó y apoyó avales para figuras cuestionadas o provenientes de estructuras políticas tradicionales en regiones donde su electorado natural era débil.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/nuevo-liberalismo-avales-congreso-2022/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-01-25"
+      },
+      {
+        "id": "galan-consulta-2022-desmobilizacion",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Galán defendió que la Coalición Centro Esperanza representaba una alternativa programática sólida para la centroizquierda moderada, frente a la polarización entre Petro y la derecha uribista.",
+        "actionText": "Tras quedar tercero en la consulta interna y ver a Fajardo como candidato, Galán se mantuvo en un apoyo tibio sin movilizar activamente su estructura, lo que contribuyó a la desmovilización del electorado de centro en primera vuelta.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/centro-esperanza-desmovilizacion-primera-vuelta-2022/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-05-30"
+      }
+    ]
+  },
+  "candidates/luis-gilberto-murillo-candidato-2026": {
+    "entity": "Luis Gilberto Murillo",
+    "file": "candidates",
+    "entityId": "luis-gilberto-murillo-candidato-2026",
+    "warnings": [
+      {
+        "id": "luis-gilberto-murillo-medio-ambiente",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "proposalText": "Como Canciller implementaré una diplomacia ambiental rigurosa para reducir la deforestación y cumplir compromisos climáticos",
+        "actionText": "Bajo su gestión como Canciller, la deforestación en Colombia continuó aumentando sin logros significativos en la reducción de emisiones",
+        "currentActionUrl": "https://www.semana.com/medio-ambiente/deforestacion-colombia-murillo-canciller",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2024-06-12"
+      },
+      {
+        "id": "luis-murillo-desarrollo-social",
+        "category": "salud",
+        "severity": "medium",
+        "proposalText": "Como ministro de Ambiente y candidato presidencial, prometió aumentar cobertura de salud en comunidades indígenas y afrodescendientes del Pacífico colombiano en 80%",
+        "actionText": "La cobertura en estos territorios ha aumentado menos de 25% desde 2022. Estas comunidades aún tienen acceso limitado a servicios de salud",
+        "currentActionUrl": "https://www.lasillavacia.com/salud-pacifico-cobertura",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-01-30"
+      },
+      {
+        "id": "luis-murillo-mineria-prohibicion",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "proposalText": "Como candidato 2022, pidió prohibición inmediata de nuevos proyectos mineros de oro en el Chocó y Cauca para proteger biodiversidad y comunidades",
+        "actionText": "Como miembro de coalición gobernante, ha evitado impulsar prohibición de proyectos mineros. El gobierno actual continúa adjudicando concesiones mineras en Chocó",
+        "currentActionUrl": "https://www.lasillavacia.com/mineria-choco-2024",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-02-20"
+      }
+    ]
+  },
+  "candidates/luis-perez-candidato-2022": {
+    "entity": "Luis Pérez",
+    "file": "candidates",
+    "entityId": "luis-perez-candidato-2022",
+    "warnings": [
+      {
+        "id": "lp-seguridad-rural",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Propuso fortalecer la presencia estatal en zonas rurales para combatir grupos armados ilegales",
+        "actionText": "En el congreso votó a favor de reducción presupuestal para fuerzas militares",
+        "currentActionUrl": "https://www.semana.com/congreso-presupuesto-defensa-2023",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2023-05-20"
+      },
+      {
+        "id": "luis-perez-pensiones-reforma",
+        "category": "economia",
+        "severity": "high",
+        "proposalText": "Como senador liberal, propuso fortalecer sistema de pensiones público y garantizar dignidad en jubilación de trabajadores informales",
+        "actionText": "Votó a favor de reformas que redujeron beneficios pensionales y permitieron mayor privatización del sistema, contrario a su propuesta inicial",
+        "currentActionUrl": "https://www.eltiempo.com/politica/voto-pensiones-luis-perez",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2022-12-10"
+      }
+    ]
+  },
+  "candidates/mauricio-lizcano-candidato-2026": {
+    "entity": "Mauricio Lizcano",
+    "file": "candidates",
+    "entityId": "mauricio-lizcano-candidato-2026",
+    "warnings": [
+      {
+        "id": "mauricio-lizcano-economia-posicionamiento",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Nunca he sido de izquierda, mis posiciones son independientes y pragmáticas enfocadas en innovación tecnológica",
+        "actionText": "Fue Ministro de TIC durante el gobierno Petro, participando activamente en la agenda de transformación digital de un gobierno de izquierda",
+        "currentActionUrl": "https://www.semana.com/politica/mauricio-lizcano-ministro-tic-petro",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2022-08-15"
+      },
+      {
+        "id": "mauricio-lizcano-corrupcion-lucha",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "En su plataforma 2026 promete combatir corrupción en contratación estatal y transparencia radical en compras públicas",
+        "actionText": "Ha tenido negocios familiares beneficiados por contratos públicos en departamentos donde su partido ha gobernado",
+        "currentActionUrl": "https://www.semana.com/nacion/mauricio-lizcano-contratos-familia",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2024-03-10"
+      }
+    ]
+  },
+  "candidates/miguel-uribe-londono-candidato-2026": {
+    "entity": "Miguel Uribe",
+    "file": "candidates",
+    "entityId": "miguel-uribe-londono-candidato-2026",
+    "warnings": [
+      {
+        "id": "miguel-uribe-seguridad-defensa",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "He dejado el Centro Democrático porque debo expresar libremente mis críticas al manejo deficiente de casos de seguridad",
+        "actionText": "Previamente defendió públicamente las posiciones del Centro Democrático en temas de seguridad durante varios años",
+        "currentActionUrl": "https://www.elespectador.com/politica/miguel-uribe-defensa-centro-democratico/",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2023-03-10"
+      },
+      {
+        "id": "miguel-uribe-corrupcion-combate",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Promete combatir corrupción y mejorar estándares éticos en gobierno",
+        "actionText": "Ha sido cercano a personajes investigados por parapolítica y financiamiento irregular de campañas",
+        "currentActionUrl": "https://www.lasillavacia.com/miguel-uribe-parapoltica",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-01-20"
+      }
+    ]
+  },
+  "candidates/paloma-valencia": {
+    "entity": "Paloma Valencia",
+    "file": "candidates",
+    "entityId": "paloma-valencia",
+    "warnings": [
+      {
+        "id": "paloma-cauca-division",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Valencia se presenta como defensora de la unidad nacional, la propiedad privada y los derechos de todos los colombianos sin distinción étnica.",
+        "actionText": "En entrevista de enero de 2016 propuso dividir el departamento del Cauca 'en dos: un Cauca indígena y otro Cauca productivo', declaración que fue rechazada por la ONIC, la CRIC y múltiples autoridades indígenas como racista y violatoria del artículo 7 de la Constitución (reconocimiento y protección ",
+        "currentActionUrl": "https://www.elespectador.com/politica/paloma-valencia-propone-dividir-cauca-en-dos",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2016-01-19"
+      }
+    ]
+  },
+  "candidates/rodolfo-hernandez": {
+    "entity": "Rodolfo Hernández",
+    "file": "candidates",
+    "entityId": "rodolfo-hernandez",
+    "warnings": [
+      {
+        "id": "rodolfo-bofetada-concejal",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "proposalText": "Hernández se presentaba como un demócrata, defensor del diálogo político y del respeto a la diferencia.",
+        "actionText": "En septiembre de 2018, durante un consejo comunitario en Bucaramanga, Hernández propinó una bofetada al concejal Jhon Claro. El hecho quedó registrado en video, fue difundido por medios nacionales e internacionales y llevó a una medida de aseguramiento y posterior indemnización.",
+        "currentActionUrl": "https://www.bbc.com/mundo/noticias-america-latina-45522956",
+        "currentActionOutlet": "BBC Mundo",
+        "currentActionDate": "2018-09-17"
+      },
+      {
+        "id": "rodolfo-expresion-hitler",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Su plataforma se presentaba como estrictamente anticorrupción, técnica y ajena a ideologías extremas, con un discurso de respeto a la institucionalidad democrática y los derechos humanos.",
+        "actionText": "En entrevista radial de 2016, Hernández declaró 'yo soy seguidor de un gran pensador alemán que se llama Adolf Hitler'. Días después se retractó alegando confusión entre Hitler y Albert Einstein. La declaración fue registrada por múltiples medios nacionales e internacionales y es de consulta pública",
+        "currentActionUrl": "https://www.semana.com/nacion/articulo/rodolfo-hernandez-alcalde-bucaramanga-cita-hitler",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2016-06-02"
+      }
+    ]
+  },
+  "candidates/rodrigo-londono-candidato-2018": {
+    "entity": "Rodrigo Londoño (Timochenko)",
+    "file": "candidates",
+    "entityId": "rodrigo-londono-candidato-2018",
+    "warnings": [
+      {
+        "id": "rl-desmovilizacion-armas",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Prometió entregar todas las armas y facilitar el proceso de reintegración de excombatientes",
+        "actionText": "Disidencias del grupo continuaron operaciones y retuvieron depósitos de armas",
+        "currentActionUrl": "https://www.elespectador.com/colombia/disidencias-farc-armas-2019",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2019-06-30"
+      },
+      {
+        "id": "rodrigo-londono-transparencia-partido",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Prometió democracia radical dentro de su partido, Comunes, con transparencia total en decisiones y recursos",
+        "actionText": "Las decisiones del partido Comunes han sido centralizadas bajo liderazgo de Londoño, con limitada participación base y crítica interna suprimida",
+        "currentActionUrl": "https://www.lasillavacia.com/comunes-autocratica",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-09-30"
+      }
+    ]
+  },
+  "candidates/roy-barreras": {
+    "entity": "Roy Barreras",
+    "file": "candidates",
+    "entityId": "roy-barreras",
+    "warnings": [
+      {
+        "id": "barreras-uribismo-santismo-petrismo",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Barreras inició su carrera política como aliado del uribismo y votó a favor de la Seguridad Democrática y de la reelección presidencial en 2006.",
+        "actionText": "En 2010 se pasó al santismo, lideró la aprobación del Marco Jurídico para la Paz (2012) y del Acuerdo con las FARC (2016-2017), contradiciendo sus posturas previas. En 2022, tras ayudar a elegir a Petro, fue nombrado Presidente del Senado y lideró la aprobación de la reforma tributaria, la Paz Total",
+        "currentActionUrl": "https://www.semana.com/politica/articulo/roy-barreras-uribismo-petrismo-trayectoria",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2023-06-16"
+      },
+      {
+        "id": "barreras-reforma-politica-autoexcepcion",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Barreras presentó la reforma política como un avance en la transparencia, el pluralismo y la calidad de la democracia.",
+        "actionText": "La MOE, Transparencia por Colombia y el Proyecto Jurídico Constitucional criticaron que varias de las proposiciones introducidas durante el trámite permitían a los congresistas en ejercicio inscribirse en otros partidos sin perder curul, lo que fue calificado como 'autoexcepción' y beneficiaba direc",
+        "currentActionUrl": "https://www.moe.org.co/reforma-politica-observaciones-2023/",
+        "currentActionOutlet": "Misión de Observación Electoral (MOE)",
+        "currentActionDate": "2023-04-20"
+      }
+    ]
+  },
+  "candidates/sergio-fajardo": {
+    "entity": "Sergio Fajardo",
+    "file": "candidates",
+    "entityId": "sergio-fajardo",
+    "warnings": [
+      {
+        "id": "fajardo-voto-blanco-2018",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "proposalText": "Fajardo promovió durante primera vuelta la defensa del Acuerdo de Paz, la lucha contra la corrupción y la oposición a la polarización que representaba el uribismo.",
+        "actionText": "Anunció voto en blanco en segunda vuelta entre Iván Duque y Gustavo Petro, decisión que fue interpretada como neutralidad entre un candidato abiertamente contrario al Acuerdo de Paz y otro defensor de su implementación.",
+        "currentActionUrl": "https://www.semana.com/nacion/articulo/sergio-fajardo-voto-en-blanco-segunda-vuelta",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2018-06-02"
+      },
+      {
+        "id": "fajardo-mineria-antioquia",
+        "category": "medio_ambiente",
+        "severity": "medium",
+        "proposalText": "Fajardo incluyó en su discurso público la protección del agua y los páramos, y promovió la educación ambiental como eje de 'Antioquia la Más Educada'.",
+        "actionText": "Su gobernación otorgó y respaldó títulos y concesiones mineras en zonas de páramo y bosque altoandino, y no se opuso al proyecto Hidroituango (uno de los proyectos de mayor impacto ambiental y social de la historia reciente de Antioquia), del cual presidió la Junta Directiva.",
+        "currentActionUrl": "https://www.las2orillas.co/mineria-antioquia-fajardo",
+        "currentActionOutlet": "Las2Orillas",
+        "currentActionDate": "2015-03-10"
+      }
+    ]
+  },
+  "candidates/vicky-davila": {
+    "entity": "Vicky Dávila",
+    "file": "candidates",
+    "entityId": "vicky-davila",
+    "warnings": [
+      {
+        "id": "davila-semana-objetividad",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Dávila se presenta como defensora de la libertad de prensa, del rol de los medios como 'cuarto poder' y de la separación entre periodismo y política.",
+        "actionText": "El paso directo de la dirección de Semana a su candidatura presidencial, sin un período de distanciamiento editorial, fue señalado por la FLIP y por analistas como un factor que puede haber afectado retrospectivamente la independencia editorial del medio durante la preparación de la candidatura.",
+        "currentActionUrl": "https://flip.org.co/index.php/es/informacion/pronunciamientos/vicky-davila-candidatura",
+        "currentActionOutlet": "Fundación para la Libertad de Prensa (FLIP)",
+        "currentActionDate": "2024-11-05"
+      },
+      {
+        "id": "davila-escandalo-uribe-audios-2015",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Dávila ha sostenido que su carrera periodística es un ejemplo de rigor, transparencia y compromiso con la verdad.",
+        "actionText": "En 2015, durante su dirección de RCN La FM, se publicaron audios privados relacionados con un escándalo de presunta red de prostitución masculina al interior de la Policía Nacional. La forma en que la información fue manejada, con filtración de audios íntimos, fue cuestionada por la FLIP y por Sisma",
+        "currentActionUrl": "https://www.semana.com/nacion/articulo/el-escandalo-de-la-policia-nacional",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2015-02-22"
+      },
+      {
+        "id": "davila-antielites-gilinski",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Vicky Dávila ha construido su narrativa política y periodística en torno a la crítica al 'establecimiento corrupto' colombiano, presentándose como voz independiente contra las élites económicas y polí",
+        "actionText": "Como directora de Semana bajo la propiedad del Grupo Gilinski (una de las principales fortunas del país con disputas sobre OPA de Nutresa, Sura y Argos), Dávila ha mantenido una línea editorial alineada con los intereses de dicho grupo económico, sin declarar el conflicto con su discurso anti-élites",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/semana-gilinski-linea-editorial-vicky-davila/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-11-30"
+      }
+    ]
+  },
+  "candidates/viviane-morales-candidata-2018": {
+    "entity": "Viviane Morales",
+    "file": "candidates",
+    "entityId": "viviane-morales-candidata-2018",
+    "warnings": [
+      {
+        "id": "vm-pensiones-reforma",
+        "category": "educacion",
+        "severity": "medium",
+        "proposalText": "Se comprometió a defender el sistema de pensiones público y evitar privatizaciones",
+        "actionText": "Como senadora votó a favor de reformas que incrementaron la edad de jubilación",
+        "currentActionUrl": "https://www.bluradio.com/senado-reforma-pensional-2020",
+        "currentActionOutlet": "Blu Radio",
+        "currentActionDate": "2020-12-15"
+      }
+    ]
+  },
+  "governors/andres-julian-rendon": {
+    "entity": "Andrés Julián Rendón",
+    "file": "governors",
+    "entityId": "andres-julian-rendon",
+    "warnings": [
+      {
+        "id": "rendon-antioquia-independencia-uribismo",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "proposalText": "Andrés Julián Rendón, como gobernador de Antioquia 2024-2027 por el Centro Democrático, ha defendido posiciones críticas frente al gobierno Petro, enmarcadas en defensa de la institucionalidad y recha",
+        "actionText": "Rendón ha articulado buena parte de sus pronunciamientos públicos como gobernador alrededor de la agenda partidaria del Centro Democrático y el proyecto político personal de Álvaro Uribe, contradiciendo el rol técnico y regional que debería prevalecer en un mandato departamental no partidista.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-paisa/rendon-antioquia-agenda-partidaria-cd/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-04-18"
+      },
+      {
+        "id": "rendon-hidroituango-seguimiento-tecnico",
+        "category": "corrupcion",
+        "severity": "low",
+        "proposalText": "Rendón asumió la Gobernación de Antioquia comprometido con el seguimiento técnico riguroso al avance de Hidroituango, la recuperación de EPM tras la contingencia y la defensa del patrimonio público de",
+        "actionText": "Durante los primeros meses de su gestión Rendón mantuvo la disciplina política con figuras del Centro Democrático y Creemos que en la primera alcaldía de Fico Gutiérrez (2016-2019) evitaron confrontar a los responsables políticos de la contingencia, privilegiando la alineación partidaria sobre la re",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-paisa/rendon-hidroituango-primeros-meses-gestion/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-05-22"
+      }
+    ]
+  },
+  "governors/carlos-amaya": {
+    "entity": "Carlos Amaya",
+    "file": "governors",
+    "entityId": "carlos-amaya",
+    "warnings": [
+      {
+        "id": "amaya-verde-boyaca-autonomia-pacto",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Carlos Amaya, gobernador de Boyacá 2024-2027 por Alianza Verde, se presenta como una figura regional autónoma con trayectoria técnica (exgobernador 2016-2019), comprometida con el desarrollo sostenibl",
+        "actionText": "Como dirigente verde Amaya ha mantenido una relación estratégica con el gobierno Petro buscando recursos e inversiones federales, matizando posiciones críticas en coyunturas clave y alineándose con la coalición del Pacto Histórico sin la diferenciación programática que declara como principio.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-centro-oriente/amaya-gobierno-petro-recursos-alineacion/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-04-12"
+      },
+      {
+        "id": "amaya-educacion-promesa-indicadores",
+        "category": "educacion",
+        "severity": "low",
+        "proposalText": "Amaya, exministro de Educación en gobierno regional y figura reconocida por su agenda educativa, ha defendido la educación pública de calidad como eje central de su mandato gubernamental, con énfasis ",
+        "actionText": "Los indicadores educativos de Boyacá en su gestión actual muestran avances modestos frente a las metas ambiciosas declaradas al inicio del mandato, con retrasos en infraestructura escolar y brechas territoriales persistentes que contrastan con la prioridad declarada.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-centro-oriente/amaya-indicadores-educativos-boyaca-avances/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-06-18"
+      },
+      {
+        "id": "amaya-cauca-mineria",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "proposalText": "Prohibir la minería ilegal en zonas protegidas del Cauca durante el mandato",
+        "actionText": "Se registraron operaciones de minería informal en zonas protegidas durante 2024-2025",
+        "currentActionUrl": "https://www.parquesnacionales.gov.co/monitoreo/",
+        "currentActionOutlet": "Parques Nacionales",
+        "currentActionDate": "2025-02-10"
+      }
+    ]
+  },
+  "governors/dilian-francisca-toro": {
+    "entity": "Dilian Francisca Toro",
+    "file": "governors",
+    "entityId": "dilian-francisca-toro",
+    "warnings": [
+      {
+        "id": "toro-poder-valle-renovacion-continuidad",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Dilian Francisca Toro defiende una imagen de liderazgo regional fuerte en el Valle del Cauca, con gestión técnica, conexiones nacionales robustas y capacidad de articular sectores políticos diversos a",
+        "actionText": "Toro ha concentrado poder político en el Valle durante más de una década, con múltiples períodos en el Senado, la presidencia del Partido de la U, una alcaldía en Guacarí y dos gobernaciones, replicando un modelo de concentración criticado como cacicazgo regional.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-pacifico/dilian-francisca-toro-concentracion-valle-decada/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-08-15"
+      },
+      {
+        "id": "toro-transparencia-escandalos-previos",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "La gobernadora defiende públicamente la transparencia en la contratación, la rendición de cuentas rigurosa y el manejo profesional de los recursos del departamento del Valle del Cauca como emblema de ",
+        "actionText": "Toro enfrentó en años anteriores investigaciones penales y procesos disciplinarios por presuntas irregularidades que luego fueron archivados o precluidos, dejando sombras públicas sobre la narrativa de transparencia total que defiende en su discurso oficial.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-pacifico/dilian-francisca-toro-investigaciones-previas-archivadas/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2021-11-18"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Página no encontrada">
+  <section class="mx-auto max-w-[700px] px-6 py-32 text-center">
+    <p class="section-kicker">Error 404</p>
+    <h1 class="mt-4" style="font-size: clamp(4rem, 10vw, 8rem);">Desaparecida<br/><em>de la gaceta</em></h1>
+    <p class="page-lead mx-auto mt-6">
+      La figura, partido o ideología que buscas no aparece en la edición actual de <em>La Brújula</em>.
+      Quizá se corrigió una ruta o la página fue retirada.
+    </p>
+    <div class="rule-ornament">
+      <span class="rule-ornament-glyph">❦</span>
+    </div>
+    <a
+      href="/"
+      style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 24px; background: var(--ink); color: var(--paper-cream); font-family: var(--font-serif); font-size: 15px; font-style: italic; text-decoration: none; border: 1px solid var(--ink);"
+    >
+      ← Volver a la portada
+    </a>
+  </section>
+</BaseLayout>

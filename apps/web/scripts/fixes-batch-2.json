@@ -1,0 +1,402 @@
+{
+  "fixed": {
+    "uribe-falsos-positivos-2008": {
+      "url": "https://jurinfo.jep.gov.co/normograma/compilacion/docs/A033_21.htm",
+      "outlet": "JEP - Jurisdicción Especial para la Paz (Auto 033 de 2021, Caso 03)",
+      "date": "2021-02-18",
+      "archived": "https://web.archive.org/web/2021/https://jurinfo.jep.gov.co/normograma/compilacion/docs/A033_21.htm"
+    },
+    "uribe-chuzadas-das-2009": {
+      "url": "https://cortesuprema.gov.co/corte/index.php/2015/04/28/maria-del-pilar-hurtado-y-bernardo-moreno-condenados-por-caso-de-chuzadas/",
+      "outlet": "Corte Suprema de Justicia - Sala de Casación Penal (Sentencia 28 de abril de 2015, caso chuzadas DAS)",
+      "date": "2015-04-28",
+      "archived": "https://web.archive.org/web/2015/https://cortesuprema.gov.co/corte/index.php/2015/04/28/maria-del-pilar-hurtado-y-bernardo-moreno-condenados-por-caso-de-chuzadas/"
+    },
+    "uribe-agro-ingreso-seguro-2009": {
+      "url": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1ago2014/SP9225-2014(37462).pdf",
+      "outlet": "Corte Suprema de Justicia - Sentencia SP9225-2014 (Proceso 37462, condena Andrés Felipe Arias, caso AIS)",
+      "date": "2014-07-17",
+      "archived": "https://web.archive.org/web/2014/https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1ago2014/SP9225-2014(37462).pdf"
+    },
+    "pastrana-caguan-paz-1999": {
+      "url": "https://www.comisiondelaverdad.co/el-caguan",
+      "outlet": "Comisión de la Verdad - Informe Final (capítulo El Caguán)",
+      "date": "2022-06-28",
+      "archived": "https://web.archive.org/web/2022/https://www.comisiondelaverdad.co/el-caguan"
+    },
+    "pastrana-plan-colombia-social-2000": {
+      "url": "https://www.congress.gov/bill/106th-congress/house-bill/4425",
+      "outlet": "U.S. Congress - Public Law 106-246 (Military Construction Appropriations Act 2001, financiamiento Plan Colombia)",
+      "date": "2000-07-13",
+      "archived": "https://web.archive.org/web/2000/https://www.congress.gov/bill/106th-congress/house-bill/4425"
+    },
+    "gaviria-narcoterrorismo-1991": {
+      "url": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1390630",
+      "outlet": "SUIN-Juriscol - Decreto 2047 de 1990 (sometimiento a la justicia, base jurídica de La Catedral)",
+      "date": "1990-09-05",
+      "archived": "https://web.archive.org/web/1990/https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1390630"
+    },
+    "char-aida-merlano-escandalo": {
+      "url": "https://cortesuprema.gov.co/sala-penal-confirmo-condena-a-la-excongresista-aida-merlano-rebolledo-por-delitos-electorales/",
+      "outlet": "Corte Suprema de Justicia - Sala de Casación Penal (condena Aida Merlano por delitos electorales, Atlántico)",
+      "date": "2022-03-28",
+      "archived": "https://web.archive.org/web/2022/https://cortesuprema.gov.co/sala-penal-confirmo-condena-a-la-excongresista-aida-merlano-rebolledo-por-delitos-electorales/"
+    },
+    "fico-medellin-epm-hidroituango-silencios": {
+      "url": "https://cu.epm.com.co/institucional/proyectos/hidroituango/informacion-oficial-de-la-contingencia-2018",
+      "outlet": "EPM - Información oficial de la contingencia Hidroituango 2018 (empresa pública)",
+      "date": "2019-03-12",
+      "archived": "https://web.archive.org/web/2019/https://cu.epm.com.co/institucional/proyectos/hidroituango/informacion-oficial-de-la-contingencia-2018"
+    },
+    "ua-derechos-humanos-paramilitarismo": {
+      "url": "https://centrodememoriahistorica.gov.co/micrositios/balances-jep/descargas/balance-paramilitarismo.pdf",
+      "outlet": "Centro Nacional de Memoria Histórica (CNMH) - Balance de la contribución al esclarecimiento del paramilitarismo",
+      "date": "2018-07-26",
+      "archived": "https://web.archive.org/web/2018/https://centrodememoriahistorica.gov.co/micrositios/balances-jep/descargas/balance-paramilitarismo.pdf"
+    },
+    "cortes-meta-ambiente-deforestacion": {
+      "url": "https://www.ideam.gov.co/sala-de-prensa/informes/Informe-anual-del-monitoreo-de-bosque-y-la-deforestacion",
+      "outlet": "IDEAM - Informe anual del monitoreo de bosque y la deforestación 2024 (21.107 ha en Meta)",
+      "date": "2024-12-01",
+      "archived": "https://web.archive.org/web/2024/https://www.ideam.gov.co/sala-de-prensa/informes/Informe-anual-del-monitoreo-de-bosque-y-la-deforestacion"
+    },
+    "cortes-meta-deforestacion": {
+      "url": "https://www.ideam.gov.co/sala-de-prensa/informes/Informe-anual-del-monitoreo-de-bosque-y-la-deforestacion",
+      "outlet": "IDEAM - Informe anual del monitoreo de bosque y la deforestación 2024",
+      "date": "2024-12-01",
+      "archived": "https://web.archive.org/web/2024/https://www.ideam.gov.co/sala-de-prensa/informes/Informe-anual-del-monitoreo-de-bosque-y-la-deforestacion"
+    }
+  },
+  "unfindable": [
+    {
+      "id": "verano-atlantico-continuidad-casa-char",
+      "reason": "La 'acción' es una interpretación política-analítica (acuerdos con Casa Char, modelo de continuidad), no un evento documentado con acto oficial. Este tipo de afirmación solo existe en análisis periodístico (La Silla Vacía).",
+      "suggestion": "Reformular la afirmación para apoyarse en formularios E-8 de la Registraduría (coaliciones declaradas), o reemplazar con un hecho documentable (ej. una contratación específica, un nombramiento con cuota política verificable en SECOP II)."
+    },
+    {
+      "id": "verano-ambientalismo-costa-accion-limitada",
+      "reason": "La 'acción' es un juicio cualitativo sobre prioridades de gestión en los primeros meses. No hay evento único con fuente primaria; sería una comparación presupuestal en el Plan de Desarrollo del Atlántico 2024-2027.",
+      "suggestion": "Sustituir por datos de ejecución presupuestal de la Secretaría de Hacienda del Atlántico o de Gestora Urbana, contrastando rubros ambientales vs infraestructura."
+    },
+    {
+      "id": "hg-educacion-expansion",
+      "reason": "No se encontró información pública de un programa de educación superior gratuita en Caldas con una cifra oficial de 2.000 estudiantes; la afirmación aparenta ser inexacta o no verificable en estadísticas oficiales (Gobernación de Caldas / MinEducación SNIES).",
+      "suggestion": "Consultar MinEducación SNIES para cifras reales de cobertura de becas departamentales; reformular la acción con dato oficial."
+    },
+    {
+      "id": "gutierrez-caldas-seguridad-narco",
+      "reason": "El informe UNODC SIMCI 2023 (publicado feb 2025) no contiene reducción de 15% para Caldas en el periodo 2023-2024; tendencia nacional es de aumento del 10%. La cifra específica parece no corresponder a datos oficiales.",
+      "suggestion": "Consultar directamente el informe SIMCI 2023 (https://css.unodc.org/documents/crop-monitoring/Colombia/Colombia_monitoreo_2023.pdf) tabla de departamentos y reformular con cifra real."
+    },
+    {
+      "id": "gutierrez-caldas-coca",
+      "reason": "Duplicado de gutierrez-caldas-seguridad-narco. Misma observación: cifra de reducción 15% en Caldas no coincide con reporte SIMCI oficial.",
+      "suggestion": "Unificar con el warning anterior y usar dato exacto del SIMCI 2023."
+    },
+    {
+      "id": "rey-cundinamarca-u-continuidad-establecimiento",
+      "reason": "Afirmación interpretativa sobre 'estructuras políticas tradicionales' - no es un evento discreto con fuente primaria. Apoyos políticos podrían verificarse en formularios E-8 de Registraduría.",
+      "suggestion": "Reemplazar por las coaliciones declaradas ante la Registraduría o nombramientos específicos en la gobernación con cuotas partidistas."
+    },
+    {
+      "id": "rey-infraestructura-ambiente-tensiones",
+      "reason": "Juicio cualitativo sobre 'tensiones con comunidades y organizaciones ambientalistas'. No es un hecho único con fuente primaria; requiere acto administrativo específico (licencia ANLA, decisión CAR).",
+      "suggestion": "Identificar un proyecto específico con licencia ambiental ANLA o decisión de la CAR Cundinamarca y usar ese acto administrativo como fuente primaria."
+    },
+    {
+      "id": "jd-infraestructura-vias",
+      "reason": "No se encuentra reporte oficial que confirme 35 km completados de 150 km prometidos en Santander. Requiere consulta directa en SECOP II o Secretaría de Infraestructura de la Gobernación.",
+      "suggestion": "Consultar ejecución de contratos de vías terciarias en SECOP II por la Gobernación de Santander y el Plan de Desarrollo departamental."
+    },
+    {
+      "id": "diaz-santander-seguridad-homicidios",
+      "reason": "No se encuentra estadística departamental específica publicada en la URL raíz de Policía Nacional que corrobore exactamente la reducción del 8% en Santander 2024 vs 2023. La Policía publica datos agregados, pero requiere filtro por departamento.",
+      "suggestion": "Consultar policia.gov.co/estadistica-delictiva con filtro Santander 2023-2024 y reemplazar con URL específica del reporte departamental."
+    },
+    {
+      "id": "diaz-santander-homicidios",
+      "reason": "Duplicado del anterior. Misma observación.",
+      "suggestion": "Unificar con diaz-santander-seguridad-homicidios."
+    },
+    {
+      "id": "lae-seguridad-homicidios",
+      "reason": "Requiere estadística oficial de homicidios en Nariño 2024 vs base electoral. La cifra de 'aumento 35%' no está documentada en fuente primaria localizable; Medicina Legal o Policía Nacional publican datos pero no con ese porcentaje específico identificado.",
+      "suggestion": "Consultar Observatorio de Medicina Legal (medicinalegal.gov.co) para datos de Nariño y ajustar la cifra."
+    },
+    {
+      "id": "escobar-narino-derechos-mineros",
+      "reason": "La URL apunta a MinTrabajo, pero las licencias mineras las otorga la ANM (Agencia Nacional de Minería) o la ANLA (para licencia ambiental). MinTrabajo no es fuente primaria de aprobaciones mineras.",
+      "suggestion": "Consultar catastro minero de la ANM (https://www.anm.gov.co/) para proyectos en Nariño con superposición a resguardos indígenas y reemplazar URL."
+    },
+    {
+      "id": "escobar-narino-indigenas",
+      "reason": "Duplicado del anterior con la misma equivocación de fuente (MinTrabajo no aprueba proyectos mineros).",
+      "suggestion": "Unificar con escobar-narino-derechos-mineros y usar ANM como fuente."
+    },
+    {
+      "id": "escobar-narino-bilingue",
+      "reason": "No se encuentra reporte oficial de MinEducación que confirme la cifra específica de 65 instituciones bilingües en Nariño 2024. Requiere consulta al SIMAT o reporte específico de la Secretaría de Educación de Nariño.",
+      "suggestion": "Consultar directamente cifras del SIMAT o Plan de Desarrollo Nariño para dato verificable."
+    },
+    {
+      "id": "guzman-santander-liberal-tradicional",
+      "reason": "Afirmación interpretativa sobre 'estructuras tradicionales del Partido Liberal'. Análisis político de La Silla Vacía, no evento discreto con fuente primaria.",
+      "suggestion": "Reemplazar por coaliciones declaradas ante Registraduría (formulario E-8) o nombramientos específicos con cuotas partidistas en la gobernación."
+    },
+    {
+      "id": "guzman-desarrollo-rural-implementacion",
+      "reason": "Juicio cualitativo sobre prioridades en los 'primeros meses' - no es un evento discreto. Requiere análisis presupuestal específico del Plan de Desarrollo Santander 2024-2027.",
+      "suggestion": "Usar datos de ejecución presupuestal Secretaría de Hacienda Santander o CHIP (Contaduría General) con rubros comparados."
+    },
+    {
+      "id": "rafaela-cortes-corrupcion-continuidad",
+      "reason": "La afirmación sobre 'manejo irregular de contrataciones' requiere acto de la Contraloría, Fiscalía o Procuraduría. No se localiza una resolución o imputación oficial pública contra Rafaela Cortés al respecto.",
+      "suggestion": "Buscar en Procuraduría (procuraduria.gov.co) y Contraloría para procesos disciplinarios o fiscales abiertos contra la gobernadora del Meta."
+    },
+    {
+      "id": "cortes-meta-educacion-ambiente",
+      "reason": "No se encuentra reporte oficial MinEducación con cifra específica de 180 instituciones en Meta con educación ambiental en 2024. La educación ambiental es transversal (PRAE) y su monitoreo lo hace la Secretaría de Educación departamental.",
+      "suggestion": "Consultar Plan Decenal de Educación Meta o Secretaría de Educación para cifras verificables de PRAE."
+    },
+    {
+      "id": "rodrigo-villalba-economia-infraestructura",
+      "reason": "Afirmación genérica sobre 'retrasos en infraestructura' durante la gestión; requiere reporte específico de ejecución presupuestal o contrato con incumplimiento documentado.",
+      "suggestion": "Consultar SECOP II para contratos de infraestructura Huila 2024-2026 y ejecución presupuestal en CHIP Contaduría."
+    },
+    {
+      "id": "villalba-huila-transparencia",
+      "reason": "La URL del portal de transparencia Huila es válida como marco, pero no localiza reporte oficial con cifra específica de '65% de contratos publicados'. Requiere informe de Contraloría Departamental o Procuraduría.",
+      "suggestion": "Consultar Índice de Transparencia de Entidades Públicas (ITEP) de Transparencia por Colombia o informe de Contraloría Departamental Huila."
+    },
+    {
+      "id": "uribe-antioquia-justicia-transicional",
+      "reason": "Afirmación sobre priorización de políticas durante gobernación Uribe (1995-1997); análisis amplio, no un hecho discreto. Ya existe Balance Paramilitarismo CNMH como fuente primaria para el periodo.",
+      "suggestion": "Usar CNMH Balance paramilitarismo (https://centrodememoriahistorica.gov.co/micrositios/balances-jep/descargas/balance-paramilitarismo.pdf) y referenciar capítulo específico sobre Antioquia 1995-1997."
+    },
+    {
+      "id": "uribe-antioquia-justicia",
+      "reason": "Duplicado del anterior. Misma observación.",
+      "suggestion": "Unificar con uribe-antioquia-justicia-transicional."
+    },
+    {
+      "id": "uribe-antioquia-autonomia",
+      "reason": "Afirmación muy general sobre 'centralización de decisiones' durante la gobernación Uribe. Requiere decreto departamental específico o acto administrativo que evidencie la centralización.",
+      "suggestion": "Consultar archivo de decretos Gobernación de Antioquia 1995-1997 si está digitalizado en portal institucional; de lo contrario, usar CNMH o Comisión de la Verdad."
+    },
+    {
+      "id": "wv-salud-presupuesto",
+      "reason": "La URL original parece tener un typo (lasillavaicia.com). No se encontró reporte oficial de Contraloría Departamental o Secretaría de Hacienda N. Santander que confirme la reducción específica del presupuesto hospitalario en la administración Villamizar.",
+      "suggestion": "Consultar ejecución presupuestal del sector salud en el CHIP (Contaduría) para Norte de Santander y reportar cifras oficiales."
+    },
+    {
+      "id": "villamizar-nortesantander-frontera-contrabando",
+      "reason": "La URL raíz de Policía Nacional no tiene un reporte específico con la cifra del 12% de reducción del contrabando en N. Santander 2024. La DIAN (no la Policía) maneja estadísticas de contrabando.",
+      "suggestion": "Consultar estadísticas DIAN de aprehensiones por contrabando (https://www.dian.gov.co/) con filtro N. Santander."
+    },
+    {
+      "id": "villamizar-nortesantander-contrabando",
+      "reason": "Duplicado del anterior. Misma observación.",
+      "suggestion": "Unificar con villamizar-nortesantander-frontera-contrabando."
+    },
+    {
+      "id": "villamizar-nortesantander-educacion",
+      "reason": "La URL raíz MinEducación no contiene reporte específico con 28% de cobertura de educación superior en N. Santander 2024. Requiere consulta SNIES (Sistema Nacional de Información de Educación Superior).",
+      "suggestion": "Consultar SNIES (https://snies.mineducacion.gov.co/) para cifras de cobertura por departamento."
+    },
+    {
+      "id": "arana-transparencia-bolivar",
+      "reason": "La afirmación sobre 'adjudicación directa sin procesos licitatorios' requiere reporte de SECOP II con contratos específicos o acto de Contraloría/Procuraduría documentando la irregularidad.",
+      "suggestion": "Consultar SECOP II (https://www.colombiacompra.gov.co/) con contratos Gobernación de Bolívar 2024 y filtrar por modalidad de contratación directa."
+    },
+    {
+      "id": "arana-bolivar-turismo",
+      "reason": "No se encuentra reporte MinCIT con cifra específica de '7.500 empleos' en turismo Bolívar 2023-2024. MinCIT publica datos de empleo general pero no con ese desglose departamental-sectorial exacto.",
+      "suggestion": "Consultar MinCIT OEE (Oficina de Estudios Económicos) o DANE GEIH con filtro Bolívar-turismo."
+    },
+    {
+      "id": "eder-tecnocracia-empresarial-agenda-social",
+      "reason": "Afirmación interpretativa sobre 'priorización de agenda empresarial vs social' - no es un evento con fuente primaria. Requiere análisis presupuestal comparativo del Plan de Desarrollo Cali 2024-2027.",
+      "suggestion": "Usar ejecución presupuestal Alcaldía de Cali (SIVICOF/CHIP) con rubros comparados reactivación económica vs Cali oriental."
+    },
+    {
+      "id": "eder-independencia-apoyos-centro-derecha",
+      "reason": "Apoyos de partidos son verificables en formularios E-8 de Registraduría, no en La Silla Vacía. La afirmación como está es interpretativa.",
+      "suggestion": "Consultar formularios E-8 Registraduría para coalición de Eder 2023 (https://www.registraduria.gov.co/) y usar como fuente primaria."
+    },
+    {
+      "id": "char-continuidad-familiar-barranquilla",
+      "reason": "Afirmación sobre 'concentración de poder por más de 15 años' es un patrón analítico, no un hecho único. Los cargos ejercidos por la familia Char sí son verificables en Registraduría para cada elección, pero no con una sola fuente-acto.",
+      "suggestion": "Reformular como una serie de hechos verificables vía Registraduría (histórico de resultados electorales Atlántico y Barranquilla 2007-2024)."
+    },
+    {
+      "id": "char-barranquilla-salud",
+      "reason": "URL raíz MinSalud no contiene reporte específico con cobertura 82% en Barranquilla 2023. Requiere consulta específica al SISPRO o Secretaría Distrital de Salud de Barranquilla.",
+      "suggestion": "Consultar SISPRO (https://www.sispro.gov.co/) MinSalud con filtro Barranquilla para cobertura real."
+    },
+    {
+      "id": "alexander-baquero-seguridad-criminalidad",
+      "reason": "La afirmación sobre 'múltiples intentos de revocatoria' requiere reporte oficial de la Registraduría con los comités de revocatoria inscritos contra Baquero. El Tiempo no es fuente primaria.",
+      "suggestion": "Consultar Registraduría Nacional (https://www.registraduria.gov.co/) registros de comités promotores de revocatoria de mandato contra el alcalde de Villavicencio."
+    },
+    {
+      "id": "baquero-villavicencio-medio-ambiente-relleno",
+      "reason": "Afirmación sobre retraso del proyecto del relleno sanitario requiere acto administrativo de licencia ambiental (ANLA/Cormacarena) o decisión judicial de tutela/acción popular.",
+      "suggestion": "Consultar Cormacarena (https://www.cormacarena.gov.co/) para expediente de licencia ambiental del relleno sanitario Villavicencio."
+    },
+    {
+      "id": "baquero-villavicencio-relleno",
+      "reason": "Duplicado del anterior.",
+      "suggestion": "Unificar con baquero-villavicencio-medio-ambiente-relleno."
+    },
+    {
+      "id": "cf-galan-antimaquinaria-apoyo-tradicional",
+      "reason": "Apoyos políticos verificables en formularios E-8 Registraduría para la campaña 2023 de Galán. No es un evento con sola fuente; es una coalición registrada.",
+      "suggestion": "Consultar formulario E-8 Registraduría para Galán Alcaldía Bogotá 2023 y usar como fuente primaria."
+    },
+    {
+      "id": "cf-galan-metro-bogota-continuidad",
+      "reason": "Afirmación interpretativa sobre continuidad del proyecto Metro. Las modificaciones o ausencia de ellas se pueden rastrear en actos administrativos de la Empresa Metro de Bogotá (EMB).",
+      "suggestion": "Consultar Empresa Metro de Bogotá (https://www.metrodebogota.gov.co/) y Alcaldía-Transmilenio para otrosíes y modificaciones contractuales al proyecto en 2024."
+    },
+    {
+      "id": "lopez-transparencia-publicidad-oficial-contratos",
+      "reason": "Afirmación genérica sobre 'cuestionamientos a contratación'. Requiere acto específico de Contraloría Distrital Bogotá o proceso en Procuraduría.",
+      "suggestion": "Consultar Contraloría de Bogotá (https://www.contraloriabogota.gov.co/) hallazgos de auditoría a la Alcaldía Distrital 2020-2023."
+    },
+    {
+      "id": "lopez-progresismo-seguridad-dura",
+      "reason": "La afirmación sobre respaldo a operativos duros durante 2021 requiere decreto distrital o resolución de la Alcaldía de Bogotá ordenando la intervención específica. Hay declaraciones públicas pero no siempre actos administrativos.",
+      "suggestion": "Consultar Gaceta Distrital (https://secretariageneral.gov.co/) para decretos de orden público Alcaldía Bogotá mayo 2021."
+    },
+    {
+      "id": "lopez-bogota-tarifa",
+      "reason": "La URL raíz TransMilenio no tiene un reporte específico con la evidencia de no implementación de tarifa única región metropolitana al cierre 2024. El Acuerdo 761 de 2020 (Plan Distrital) establece metas; el SITP Regional requiere convenios marco.",
+      "suggestion": "Consultar Acuerdo del Concejo de Bogotá sobre tarifa integrada y convenios TransMilenio-Cundinamarca en portal de transparencia."
+    },
+    {
+      "id": "turbay-familia-tradicion-renovacion",
+      "reason": "Afirmación sobre trayectoria familiar tradicional - análisis genealógico-político, no evento discreto. Verificable parcialmente en Registraduría con cargos ejercidos por la familia Turbay en Bolívar.",
+      "suggestion": "Reformular como serie de hechos electorales verificables en Registraduría Nacional."
+    },
+    {
+      "id": "turbay-transparencia-contrataciones-cartagena",
+      "reason": "Afirmación sobre 'señalamientos por contratos directos y nombramientos' requiere acto de Contraloría Distrital de Cartagena o proceso en Procuraduría contra la administración Turbay.",
+      "suggestion": "Consultar Contraloría Distrital de Cartagena y Procuraduría (https://www.procuraduria.gov.co/) para procesos disciplinarios o hallazgos fiscales."
+    },
+    {
+      "id": "fico-medellin-pacto-fusil-seguridad",
+      "reason": "El 'Pacto del Fusil' es un hallazgo de investigación académica y periodística; no existe acto administrativo o judicial que lo acredite formalmente como estructura. El artículo de La Silla Vacía recoge documentación académica.",
+      "suggestion": "Buscar en Caso 08 de la JEP (conflicto urbano Medellín) o investigaciones del Observatorio de Seguridad de EAFIT que sí son fuentes académicas institucionales."
+    },
+    {
+      "id": "gutierrez-medellin-homicidios",
+      "reason": "La cifra del actionText (42 por 100.000 habitantes en Medellín 2023) NO coincide con los datos oficiales: la tasa real en Medellín 2023 fue de ~13.5 por 100.000 habitantes, la más baja de la historia (Alcaldía de Medellín / Policía Nacional). El actionText es incorrecto y la afirmación no es sostenible con fuente primaria.",
+      "suggestion": "Reformular completamente el hecho: tasa real fue 13.5 por 100.000 en 2023 (https://www.medellin.gov.co/es/sala-de-prensa/noticias/medellin-proyecta-cerrar-2023-con-la-tasa-de-homicidios-mas-baja-de-su-historia-y-con-indicadores-sin-antecedentes-en-este-delito/). La afirmación original parece ser un error fáctico."
+    },
+    {
+      "id": "beltran-pastor-religion-laicidad",
+      "reason": "Afirmación sobre 'pronunciamientos y eventos religiosos' requiere registro oficial específico (decreto de alcaldía, evento en agenda institucional). No hay un acto administrativo único sino una serie de eventos.",
+      "suggestion": "Consultar Gaceta Bucaramanga o agenda oficial del alcalde en portal institucional para eventos específicos con contenido religioso-institucional."
+    },
+    {
+      "id": "beltran-renovacion-clientelismo-santander",
+      "reason": "Apoyos de sectores tradicionales verificables en Registraduría (formulario E-8 Alcaldía Bucaramanga 2023).",
+      "suggestion": "Usar Registraduría como fuente primaria para coalición real que apoyó a Beltrán."
+    },
+    {
+      "id": "beltran-santa-marta-turismo",
+      "reason": "Inconsistencia: la propuesta habla de Santa Marta pero Beltrán es alcalde de Bucaramanga. Posible error de datos en el warning.",
+      "suggestion": "Revisar si este warning corresponde a otra entidad (alcalde Santa Marta Carlos Pinedo Cuello) y corregir la asignación."
+    },
+    {
+      "id": "jy-migrantes-servicios",
+      "reason": "URL El Tiempo no es fuente primaria. La reducción presupuestal a centros de atención a migrantes requiere reporte del POAI de la Alcaldía de Cúcuta o decisión de la Secretaría de Hacienda.",
+      "suggestion": "Consultar ejecución presupuestal CHIP Contaduría para Alcaldía de Cúcuta rubros migrantes o el Plan de Acción de la Unidad para las Víctimas."
+    },
+    {
+      "id": "acevedo-cucuta-frontera-contrabando",
+      "reason": "La URL raíz DIAN no contiene reporte específico con la cifra de aumento del 18% del contrabando en la frontera Cúcuta-San Cristóbal 2023-2024. Requiere reporte desagregado por seccional DIAN.",
+      "suggestion": "Consultar DIAN Estadísticas de Comercio Exterior (https://www.dian.gov.co/dian/cifras/) con filtro Norte de Santander/aprehensiones."
+    },
+    {
+      "id": "acevedo-cucuta-contrabando",
+      "reason": "Duplicado del anterior.",
+      "suggestion": "Unificar con acevedo-cucuta-frontera-contrabando."
+    },
+    {
+      "id": "johana-aranda-corrupcion-transparencia",
+      "reason": "Infobae no es fuente primaria. La afirmación sobre 'utilización de recursos públicos para beneficio personal' requiere pliego de cargos de Procuraduría o investigación formal de Fiscalía/Contraloría.",
+      "suggestion": "Consultar Procuraduría (https://www.procuraduria.gov.co/) para procesos contra la alcaldesa de Ibagué; Contraloría Municipal de Ibagué para hallazgos fiscales."
+    },
+    {
+      "id": "aranda-ibague-educacion-colegios",
+      "reason": "URL raíz MinEducación no localiza reporte específico con cifra de 12 colegios construidos en zonas rurales Ibagué 2023-2024. Requiere consulta al FFIE (Fondo de Financiamiento de la Infraestructura Educativa) o a la Secretaría de Educación de Ibagué.",
+      "suggestion": "Consultar FFIE (https://www.ffie.com.co/) para obras de infraestructura educativa Ibagué o informe de gestión Secretaría de Educación Ibagué."
+    },
+    {
+      "id": "aranda-ibague-colegios",
+      "reason": "Duplicado del anterior.",
+      "suggestion": "Unificar con aranda-ibague-educacion-colegios."
+    },
+    {
+      "id": "aranda-ibague-vacunacion",
+      "reason": "URL raíz MinSalud no localiza reporte específico con cobertura 78% vacunación infantil en Ibagué 2024. Requiere consulta al SISPRO (Sistema Integral de Información de la Protección Social) con filtro por municipio.",
+      "suggestion": "Consultar SISPRO MinSalud (https://www.sispro.gov.co/) PAI (Programa Ampliado de Inmunizaciones) filtro Ibagué."
+    },
+    {
+      "id": "jo-transporte-metro",
+      "reason": "La URL original tiene un typo (lasillavaicia.com en lugar de lasillavacia.com). Adicionalmente, La Silla Vacía no es fuente primaria. El proyecto de teleférico en Manizales (nótese que este warning está asignado al alcalde de Cali, pero habla de Manizales - posible inconsistencia) tiene actos administrativos en la Alcaldía correspondiente.",
+      "suggestion": "Revisar asignación del warning (Ospina es Cali, no Manizales) y usar acto administrativo oficial del proyecto de transporte."
+    },
+    {
+      "id": "rojas-manizales-medio-ambiente-contaminacion",
+      "reason": "URL raíz IDEAM no contiene reporte específico con la reducción del 15% de contaminación del aire en Manizales 2023-2024. Requiere consulta al SISAIRE (Sistema de Información sobre Calidad del Aire) del IDEAM con filtro Manizales.",
+      "suggestion": "Consultar SISAIRE (http://sisaire.ideam.gov.co/) estación Manizales para datos PM2.5 y PM10 verificables."
+    },
+    {
+      "id": "rojas-manizales-aire",
+      "reason": "Duplicado del anterior.",
+      "suggestion": "Unificar con rojas-manizales-medio-ambiente-contaminacion."
+    },
+    {
+      "id": "rojas-manizales-auditoria",
+      "reason": "URL del portal de transparencia Manizales es válida como marco, pero no localiza cifra específica del 52% auditorías ciudadanas. La auditoría ciudadana depende de la implementación municipal del MIPG y reporte DAFP.",
+      "suggestion": "Consultar FURAG (Formulario Único Reporte de Avances de la Gestión) DAFP para la Alcaldía de Manizales 2024."
+    },
+    {
+      "id": "ms-agua-potable",
+      "reason": "Blu Radio no es fuente primaria. La cobertura real de agua potable en Pereira requiere reporte de Aguas y Aguas de Pereira S.A. E.S.P. o la Superintendencia de Servicios Públicos (SSPD).",
+      "suggestion": "Consultar SUI (Sistema Único de Información) SSPD (https://www.sui.gov.co/) para Aguas y Aguas de Pereira con cobertura 2024."
+    },
+    {
+      "id": "salazar-pereira-agua-potable",
+      "reason": "URL raíz MinSalud no localiza reporte específico con 78% cobertura agua potable Pereira 2024. El responsable de datos es la SSPD.",
+      "suggestion": "Consultar SSPD SUI (https://www.sui.gov.co/) para acueducto Pereira."
+    },
+    {
+      "id": "salazar-pereira-agua",
+      "reason": "Duplicado del anterior.",
+      "suggestion": "Unificar con salazar-pereira-agua-potable."
+    },
+    {
+      "id": "salazar-pereira-bilingue",
+      "reason": "URL raíz MinEducación no localiza reporte específico con 65 instituciones bilingües en Pereira 2024. Requiere consulta al SIMAT o Secretaría de Educación de Pereira.",
+      "suggestion": "Consultar SIMAT MinEducación o Secretaría de Educación Pereira para cifras de Colombia Bilingüe."
+    },
+    {
+      "id": "pb-ciclovia-expansion",
+      "reason": "El Espectador no es fuente primaria. Los datos de ciclovía construida durante la alcaldía de Petro (2012-2015) deben consultarse en reporte de gestión del IDRD y Secretaría Distrital de Movilidad.",
+      "suggestion": "Consultar informe de gestión Alcaldía Bogotá 2012-2015 (archivo de la Alcaldía Mayor) y IDRD o SDM para datos oficiales de ciclovía en ese periodo."
+    },
+    {
+      "id": "petro-bogota-transporte-ciclorutas",
+      "reason": "URL raíz IDRD no localiza reporte específico con cifra exacta de 120 km de ciclorrutas durante administración Petro. Además, las ciclorrutas son competencia principal de la Secretaría Distrital de Movilidad (SDM), no del IDRD (que maneja la ciclovía recreativa dominical).",
+      "suggestion": "Consultar Secretaría Distrital de Movilidad (https://www.movilidadbogota.gov.co/) informe de gestión 2012-2015 para cifras reales de ciclorrutas."
+    },
+    {
+      "id": "petro-bogota-ciclorrutas",
+      "reason": "Duplicado del anterior.",
+      "suggestion": "Unificar con petro-bogota-transporte-ciclorutas."
+    }
+  ]
+}

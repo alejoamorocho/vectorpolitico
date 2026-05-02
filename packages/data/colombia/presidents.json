@@ -87,14 +87,14 @@
       ],
       "confidence": "high",
       "dimensionScores": {
-        "fiscalPolicy": 6,
+        "fiscalPolicy": 7,
         "marketPosition": 8,
         "socialPolicy": 5,
         "tradePolicy": 9,
         "civilRights": -2,
-        "securityApproach": 4,
-        "socialRights": 0,
-        "powerConcentration": 3
+        "securityApproach": 3,
+        "socialRights": 1,
+        "powerConcentration": 2
       }
     },
     "ideologies": [
@@ -577,11 +577,11 @@
       ],
       "confidence": "high",
       "dimensionScores": {
-        "fiscalPolicy": 6,
+        "fiscalPolicy": 7,
         "marketPosition": 7,
         "socialPolicy": 5,
         "tradePolicy": 7,
-        "civilRights": 4,
+        "civilRights": 3,
         "securityApproach": 6,
         "socialRights": 6,
         "powerConcentration": 4
@@ -794,7 +794,7 @@
     },
     "compassEvidenced": {
       "x": 8.9,
-      "y": 3.6,
+      "y": 7.5,
       "justification": "Análisis metodológico del proyecto: Confianza alta por ocho años de gobierno con amplio registro legislativo y ejecutivo. Acciones evaluadas: (1) Política de Seguridad Democrática — incremento del pie de fuerza militar, operaciones ofensivas contra FARC/ELN, programa de desmovilización de paramilitares (Ley de Justicia y Paz 975/2005); (2) reformas económicas de corte neoliberal: tratados de libre comercio, confianza inversionista, zonas francas; (3) reforma constitucional para reelección presidencial inmediata (Acto Legislativo 02/2004); (4) programa Familias en Acción (subsidios focalizados); (5) Ley de Seguridad Nacional, interceptaciones del DAS. El proyecto ubica en derecha autoritaria por combinación de liberalismo económico con concentración de poder ejecutivo y política de seguridad dura.",
       "sources": [
         {
@@ -820,12 +820,12 @@
       "dimensionScores": {
         "fiscalPolicy": 6,
         "marketPosition": 8,
-        "socialPolicy": 6,
+        "socialPolicy": 5,
         "tradePolicy": 9,
-        "civilRights": 3.65,
-        "securityApproach": 4.65,
-        "socialRights": 1.65,
-        "powerConcentration": 4.65
+        "civilRights": 7,
+        "securityApproach": 9,
+        "socialRights": 7,
+        "powerConcentration": 8
       }
     },
     "ideologies": [
@@ -1035,8 +1035,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 8.9,
-      "y": -2.1,
+      "x": 5.6,
+      "y": 1.3,
       "justification": "Análisis metodológico del proyecto: Durante su presidencia (2010-2018), Santos lideró la negociación del Acuerdo Final con las FARC-EP, firmado el 26 de septiembre de 2016 tras referéndum rechazado el 2 de octubre de 2016 (documentado en SUIN-Juriscol y DAPRE). Aunque promovió reforma política y apertura democrática vía acuerdo transicional, mantuvo en paralelo políticas económicas de continuidad neoliberal: reforma tributaria regresiva, reducción de gasto social y profundización de tratados de libre comercio (registrado en DNP). En seguridad ejecutó operativos militares contra disidencias de FARC. Las evidencias ubican a Santos en centro-izquierda en lo político-institucional (paz, justicia transicional) pero centro-derecha en lo económico (austeridad fiscal, mercado). El 'Santos ambiguo' entre paz y neoliberalismo marca su posición política real como más al centro que sus declaraciones iniciales.",
       "sources": [
         {
@@ -1072,13 +1072,13 @@
       ],
       "confidence": "high",
       "dimensionScores": {
-        "fiscalPolicy": 9.36,
-        "marketPosition": 10.0,
-        "socialPolicy": 6.36,
-        "tradePolicy": 10.0,
+        "fiscalPolicy": 5,
+        "marketPosition": 6,
+        "socialPolicy": 4,
+        "tradePolicy": 8,
         "civilRights": -1,
-        "securityApproach": 2,
-        "socialRights": 0,
+        "securityApproach": 3,
+        "socialRights": 1,
         "powerConcentration": 3
       }
     },
@@ -1564,7 +1564,7 @@
     },
     "compassEvidenced": {
       "x": -6.7,
-      "y": 2.5,
+      "y": -2.7,
       "justification": "Análisis metodológico del proyecto: Petro asume la presidencia el 7 de agosto de 2022 con agenda de transformación: reforma tributaria progresiva, transición energética, Paz Total, reforma rural. Su normativa en SUIN-Juriscol refleja iniciativas redistributivas en materia tributaria y social. El Plan Nacional de Desarrollo 'Colombia Potencia Mundial de la Vida' (DNP) propone giro hacia economía del cuidado y cambio climático. En seguridad implementa la Política de Paz Total buscando negociación con actores armados no estatal. Aunque las evaluaciones están en proceso, las evidencias documentadas en DAPRE, CONPES y SUIN-Juriscol muestran postura de izquierda democrática en distribución fiscal y transformaciones institucionales, confirmando en general su posición declarada de centro-izquierda a izquierda.",
       "sources": [
         {
@@ -1600,14 +1600,14 @@
       ],
       "confidence": "high",
       "dimensionScores": {
-        "fiscalPolicy": -5,
+        "fiscalPolicy": -6,
         "marketPosition": -5,
         "socialPolicy": -7,
         "tradePolicy": -3,
-        "civilRights": 0.45,
-        "securityApproach": 2.45,
-        "socialRights": -0.55,
-        "powerConcentration": 9.45
+        "civilRights": -4,
+        "securityApproach": -4,
+        "socialRights": -6,
+        "powerConcentration": 5
       }
     },
     "ideologies": [

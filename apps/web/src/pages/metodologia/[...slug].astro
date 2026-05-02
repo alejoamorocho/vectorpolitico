@@ -1,0 +1,65 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const docs = await getCollection('methodology', ({ data }) => !data.draft);
+  return docs.map((doc) => ({
+    params: { slug: doc.slug },
+    props: { doc },
+  }));
+}
+
+interface Props {
+  doc: CollectionEntry<'methodology'>;
+}
+
+const { doc } = Astro.props;
+const { Content, headings } = await doc.render();
+---
+
+<BaseLayout title={doc.data.title} description={doc.data.description}>
+  <div class="page-header">
+    <div class="page-header-inner">
+      <a href="/metodologia" class="section-byline section-byline--sm" style="text-decoration: none; display: inline-block; margin-bottom: 1rem;">
+        ← Metodología
+      </a>
+      <p class="section-kicker">{doc.data.section} · v{doc.data.version}</p>
+      <h1 style="margin-top: 0.5rem;">{doc.data.title}</h1>
+      <p class="page-lead"><em>{doc.data.description}</em></p>
+      <p class="section-byline section-byline--sm mt-3">
+        Última revisión: {doc.data.lastUpdated.toLocaleDateString('es-CO')} ·
+        {doc.data.authors.join(', ')}
+      </p>
+    </div>
+  </div>
+
+  <article class="mx-auto max-w-[900px] px-6 pb-20">
+    <div class="grid lg:grid-cols-[1fr_240px] gap-12">
+      <div class="prose-editorial">
+        <Content />
+      </div>
+
+      {headings.length > 0 && (
+        <aside class="hidden lg:block">
+          <div class="sticky top-24">
+            <p class="section-kicker mb-3">Contenido</p>
+            <ul style="list-style: none; padding: 0;">
+              {headings.filter((h) => h.depth === 2).map((h) => (
+                <li class="py-1.5" style="border-bottom: 1px solid var(--rule-soft);">
+                  <a
+                    href={`#${h.slug}`}
+                    class="section-byline section-byline--sm"
+                    style="text-decoration: none; display: block;"
+                  >
+                    <em>{h.text}</em>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </aside>
+      )}
+    </div>
+  </article>
+</BaseLayout>

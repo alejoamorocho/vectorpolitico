@@ -1,0 +1,156 @@
+<h2>¿Dónde y cómo se muestran los filtros?</h2>
+<p class="subtitle">Los filtros deben estar visibles desde el inicio, no solo al expandir. ¿Cómo los organizamos?</p>
+
+<div class="cards">
+  <!-- Option A: Barra superior integrada -->
+  <div class="card" data-choice="a" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:16px;background:#f5efe2;">
+      <div style="font-family:Georgia,serif;max-width:100%;">
+        <!-- Toolbar -->
+        <div style="display:flex;gap:8px;align-items:center;padding:8px 12px;background:#ede4cc;border:1px solid #d4cab0;border-radius:4px 4px 0 0;flex-wrap:wrap;">
+          <span style="font-size:10px;color:#6b5f4e;text-transform:uppercase;letter-spacing:1px;font-family:monospace;">Capas:</span>
+          <label style="font-size:11px;color:#332b22;display:flex;align-items:center;gap:4px;cursor:pointer;">
+            <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#1e3556;border:1.5px solid #fdfaf1;"></span>
+            Autopercibido
+          </label>
+          <label style="font-size:11px;color:#332b22;display:flex;align-items:center;gap:4px;cursor:pointer;">
+            <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#6b1f1f;border:1.5px solid #fdfaf1;"></span>
+            Evidenciado
+          </label>
+          <label style="font-size:11px;color:#332b22;display:flex;align-items:center;gap:4px;cursor:pointer;">
+            <span style="display:inline-block;width:8px;height:0;border-top:2px solid #3d3d3d;margin-top:1px;"></span>
+            Flechas
+          </label>
+          <span style="color:#d4cab0;margin:0 2px;">│</span>
+          <span style="font-size:10px;color:#6b5f4e;text-transform:uppercase;letter-spacing:1px;font-family:monospace;">Filtrar:</span>
+          <select style="font-size:11px;font-family:Georgia,serif;background:#faf5e8;border:1px solid #d4cab0;padding:2px 6px;border-radius:3px;color:#332b22;">
+            <option>Todos los cargos</option>
+          </select>
+          <select style="font-size:11px;font-family:Georgia,serif;background:#faf5e8;border:1px solid #d4cab0;padding:2px 6px;border-radius:3px;color:#332b22;">
+            <option>Todos los partidos</option>
+          </select>
+          <span style="margin-left:auto;font-size:16px;cursor:pointer;color:#6b5f4e;" title="Pantalla completa">⛶</span>
+        </div>
+        <!-- Compass placeholder -->
+        <div style="aspect-ratio:1;background:linear-gradient(135deg,#ebd9d9 25%,#d9dfe8 25%,#d9dfe8 50%,#d9e3dc 50%,#d9e3dc 75%,#ebddb9 75%);border:1px solid #d4cab0;border-top:none;display:flex;align-items:center;justify-content:center;opacity:0.6;">
+          <span style="font-style:italic;color:#6b5f4e;font-size:13px;">[Mapa de ideologías]</span>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>A — Barra superior compacta</h3>
+      <p>Todo en una sola barra encima del mapa: toggles de capas (autopercibido, evidenciado, flechas), filtros de cargo/partido, y botón de pantalla completa. Siempre visible.</p>
+    </div>
+  </div>
+
+  <!-- Option B: Panel lateral tipo periódico -->
+  <div class="card" data-choice="b" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:16px;background:#f5efe2;">
+      <div style="font-family:Georgia,serif;display:flex;gap:0;max-width:100%;">
+        <!-- Sidebar -->
+        <div style="width:140px;flex-shrink:0;background:#faf5e8;border:1px solid #d4cab0;padding:12px;border-right:none;">
+          <div style="font-size:9px;color:#6b5f4e;text-transform:uppercase;letter-spacing:1.5px;font-family:monospace;margin-bottom:10px;border-bottom:1px solid #d4cab0;padding-bottom:6px;">Capas</div>
+          <div style="display:flex;flex-direction:column;gap:8px;margin-bottom:14px;">
+            <label style="font-size:10.5px;color:#332b22;display:flex;align-items:center;gap:5px;">
+              <input type="checkbox" style="accent-color:#1e3556;">
+              <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:#1e3556;"></span>
+              Autopercibido
+            </label>
+            <label style="font-size:10.5px;color:#332b22;display:flex;align-items:center;gap:5px;">
+              <input type="checkbox" style="accent-color:#6b1f1f;">
+              <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:#6b1f1f;"></span>
+              Evidenciado
+            </label>
+            <label style="font-size:10.5px;color:#332b22;display:flex;align-items:center;gap:5px;">
+              <input type="checkbox">
+              <span style="display:inline-block;width:12px;height:0;border-top:1.5px solid #3d3d3d;"></span>
+              Flechas
+            </label>
+          </div>
+          <div style="font-size:9px;color:#6b5f4e;text-transform:uppercase;letter-spacing:1.5px;font-family:monospace;margin-bottom:8px;border-bottom:1px solid #d4cab0;padding-bottom:6px;">Filtros</div>
+          <div style="display:flex;flex-direction:column;gap:6px;margin-bottom:14px;">
+            <select style="font-size:10px;font-family:Georgia,serif;background:#fff;border:1px solid #d4cab0;padding:3px 4px;border-radius:2px;width:100%;">
+              <option>Todos los cargos</option>
+            </select>
+            <select style="font-size:10px;font-family:Georgia,serif;background:#fff;border:1px solid #d4cab0;padding:3px 4px;border-radius:2px;width:100%;">
+              <option>Todos los partidos</option>
+            </select>
+          </div>
+          <div style="font-size:9px;color:#6b5f4e;text-transform:uppercase;letter-spacing:1.5px;font-family:monospace;margin-bottom:8px;border-bottom:1px solid #d4cab0;padding-bottom:6px;">Guía</div>
+          <div style="display:flex;flex-direction:column;gap:5px;">
+            <div style="display:flex;align-items:center;gap:5px;font-size:10px;color:#332b22;">
+              <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:#1e3556;flex-shrink:0;"></span>
+              <span>Dónde dice estar</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:5px;font-size:10px;color:#332b22;">
+              <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:#6b1f1f;flex-shrink:0;"></span>
+              <span>Dónde está realmente</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:5px;font-size:10px;color:#332b22;">
+              <span style="display:inline-block;width:12px;height:0;border-top:1.5px solid #3d3d3d;flex-shrink:0;"></span>
+              <span>Distancia discurso vs acción</span>
+            </div>
+          </div>
+        </div>
+        <!-- Compass placeholder -->
+        <div style="flex:1;aspect-ratio:1;background:linear-gradient(135deg,#ebd9d9 25%,#d9dfe8 25%,#d9dfe8 50%,#d9e3dc 50%,#d9e3dc 75%,#ebddb9 75%);border:1px solid #d4cab0;display:flex;align-items:center;justify-content:center;opacity:0.6;min-height:200px;">
+          <span style="font-style:italic;color:#6b5f4e;font-size:13px;">[Mapa de ideologías]</span>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>B — Panel lateral estilo periódico</h3>
+      <p>Sidebar a la izquierda con secciones: Capas (checkboxes), Filtros (dropdowns), y Guía (leyenda explicativa). El mapa ocupa el resto. La guía siempre visible explica qué significa cada elemento.</p>
+    </div>
+  </div>
+
+  <!-- Option C: Barra superior + leyenda flotante -->
+  <div class="card" data-choice="c" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:16px;background:#f5efe2;">
+      <div style="font-family:Georgia,serif;max-width:100%;position:relative;">
+        <!-- Toolbar compacta -->
+        <div style="display:flex;gap:6px;align-items:center;padding:6px 10px;background:#ede4cc;border:1px solid #d4cab0;border-radius:4px 4px 0 0;flex-wrap:wrap;">
+          <button style="font-size:10px;font-family:Georgia,serif;background:#1e3556;color:#fdfaf1;border:none;padding:3px 8px;border-radius:3px;cursor:pointer;">+ Autopercibido</button>
+          <button style="font-size:10px;font-family:Georgia,serif;background:transparent;color:#332b22;border:1px solid #d4cab0;padding:3px 8px;border-radius:3px;cursor:pointer;">+ Evidenciado</button>
+          <button style="font-size:10px;font-family:Georgia,serif;background:transparent;color:#332b22;border:1px solid #d4cab0;padding:3px 8px;border-radius:3px;cursor:pointer;">+ Flechas</button>
+          <span style="color:#d4cab0;">│</span>
+          <select style="font-size:10px;font-family:Georgia,serif;background:#faf5e8;border:1px solid #d4cab0;padding:2px 6px;border-radius:3px;">
+            <option>Cargo ▾</option>
+          </select>
+          <select style="font-size:10px;font-family:Georgia,serif;background:#faf5e8;border:1px solid #d4cab0;padding:2px 6px;border-radius:3px;">
+            <option>Partido ▾</option>
+          </select>
+          <span style="margin-left:auto;font-size:14px;cursor:pointer;color:#6b5f4e;">⛶</span>
+        </div>
+        <!-- Compass + floating legend -->
+        <div style="position:relative;">
+          <div style="aspect-ratio:1;background:linear-gradient(135deg,#ebd9d9 25%,#d9dfe8 25%,#d9dfe8 50%,#d9e3dc 50%,#d9e3dc 75%,#ebddb9 75%);border:1px solid #d4cab0;border-top:none;display:flex;align-items:center;justify-content:center;opacity:0.6;">
+            <span style="font-style:italic;color:#6b5f4e;font-size:13px;">[Mapa de ideologías]</span>
+          </div>
+          <!-- Floating legend -->
+          <div style="position:absolute;bottom:10px;left:10px;background:#faf5e8;border:1px solid #d4cab0;padding:8px 10px;border-radius:3px;box-shadow:0 1px 4px rgba(0,0,0,0.08);font-size:10px;">
+            <div style="font-size:8px;color:#6b5f4e;text-transform:uppercase;letter-spacing:1px;font-family:monospace;margin-bottom:5px;">Guía</div>
+            <div style="display:flex;flex-direction:column;gap:4px;">
+              <div style="display:flex;align-items:center;gap:4px;color:#332b22;">
+                <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#1e3556;"></span>
+                Dónde dice estar
+              </div>
+              <div style="display:flex;align-items:center;gap:4px;color:#332b22;">
+                <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#6b1f1f;"></span>
+                Dónde está realmente
+              </div>
+              <div style="display:flex;align-items:center;gap:4px;color:#332b22;">
+                <span style="display:inline-block;width:10px;height:0;border-top:1.5px solid #3d3d3d;"></span>
+                Distancia discurso↔acción
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>C — Barra toggle + leyenda flotante</h3>
+      <p>Botones toggle arriba para agregar/quitar capas (estilo on/off). Filtros de cargo y partido al lado. Leyenda flotante en esquina inferior izquierda del mapa, siempre visible. Compacto y claro.</p>
+    </div>
+  </div>
+</div>

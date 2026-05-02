@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "charliermarsh.ruff",
+    "unifiedjs.vscode-mdx",
+    "tamasfe.even-better-toml",
+    "redhat.vscode-yaml",
+    "gitleaks.gitleaks",
+    "cloudflare.cloudflare-workers-bindings"
+  ]
+}

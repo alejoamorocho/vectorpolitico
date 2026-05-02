@@ -1,0 +1,48 @@
+title = "gitleaks config — brújula política"
+
+[extend]
+useDefault = true
+
+# ────────────────────────────────────────────────────────────────────
+# Reglas custom específicas del proyecto
+# ────────────────────────────────────────────────────────────────────
+
+[[rules]]
+id = "anthropic-api-key"
+description = "Anthropic API key (sk-ant-...)"
+regex = '''sk-ant-[a-zA-Z0-9_\-]{20,}'''
+tags = ["key", "anthropic"]
+
+[[rules]]
+id = "cloudflare-api-token"
+description = "Cloudflare API token (40+ chars with keyword)"
+regex = '''(?i)(cloudflare[_\-]?api[_\-]?token|CLOUDFLARE_API_TOKEN)['":=\s]+([A-Za-z0-9_\-]{40,})'''
+tags = ["key", "cloudflare"]
+
+[[rules]]
+id = "wayback-api-key"
+description = "Wayback Machine / IA S3 API key"
+regex = '''(?i)(wayback[_\-]?key|WAYBACK_API_KEY)['":=\s]+([A-Za-z0-9]{20,})'''
+tags = ["key", "wayback"]
+
+# ────────────────────────────────────────────────────────────────────
+# Allowlist — placeholders y ejemplos
+# ────────────────────────────────────────────────────────────────────
+
+[allowlist]
+description = "Archivos con placeholders legítimos"
+paths = [
+  '''(.*\.example)$''',
+  '''README\.md$''',
+  '''docs/.*\.md$''',
+  '''\.gitleaks\.toml$''',
+  '''CONTRIBUTING\.md$''',
+]
+regexes = [
+  '''sk-ant-REPLACE_ME''',
+  '''sk-ant-xxxxxxxxxxxxxxxx''',
+  '''PEGAR_[A-Z_]+''',
+  '''REPLACE_ME''',
+  '''your-[a-z-]+-here''',
+  '''<YOUR_[A-Z_]+>''',
+]

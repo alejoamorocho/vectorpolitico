@@ -76,14 +76,14 @@
       ],
       "confidence": "high",
       "dimensionScores": {
-        "fiscalPolicy": 6,
+        "fiscalPolicy": 5,
         "marketPosition": 7,
-        "socialPolicy": 6,
-        "tradePolicy": 6,
-        "civilRights": 1.55,
-        "securityApproach": 4.55,
-        "socialRights": 1.55,
-        "powerConcentration": 0.55
+        "socialPolicy": 5,
+        "tradePolicy": 7,
+        "civilRights": 1,
+        "securityApproach": 6,
+        "socialRights": 2,
+        "powerConcentration": 2
       }
     },
     "ideologies": [
@@ -520,13 +520,13 @@
       "confidence": "high",
       "dimensionScores": {
         "fiscalPolicy": 3,
-        "marketPosition": 5,
-        "socialPolicy": 3,
-        "tradePolicy": 5,
-        "civilRights": 2,
-        "securityApproach": 4,
+        "marketPosition": 3,
+        "socialPolicy": 2,
+        "tradePolicy": 2,
+        "civilRights": 1,
+        "securityApproach": 3,
         "socialRights": 2,
-        "powerConcentration": 3
+        "powerConcentration": 4
       }
     },
     "ideologies": [
@@ -756,14 +756,14 @@
       ],
       "confidence": "high",
       "dimensionScores": {
-        "fiscalPolicy": 8.1,
-        "marketPosition": 9.1,
-        "socialPolicy": 7.1,
-        "tradePolicy": 9.1,
-        "civilRights": 2,
-        "securityApproach": 3,
-        "socialRights": 1,
-        "powerConcentration": 3
+        "fiscalPolicy": 8,
+        "marketPosition": 8,
+        "socialPolicy": 8,
+        "tradePolicy": 9,
+        "civilRights": -2,
+        "securityApproach": -1,
+        "socialRights": -2,
+        "powerConcentration": 1
       }
     },
     "ideologies": [
@@ -982,14 +982,14 @@
       ],
       "confidence": "low",
       "dimensionScores": {
-        "fiscalPolicy": -2.1,
-        "marketPosition": -2.1,
-        "socialPolicy": -2.1,
-        "tradePolicy": -2.1,
-        "civilRights": 1,
-        "securityApproach": 1,
-        "socialRights": 1,
-        "powerConcentration": 1
+        "fiscalPolicy": -2,
+        "marketPosition": -2,
+        "socialPolicy": -3,
+        "tradePolicy": -1,
+        "civilRights": -2,
+        "securityApproach": -1,
+        "socialRights": -2,
+        "powerConcentration": 2
       }
     },
     "ideologies": [
@@ -1240,14 +1240,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": 3,
-        "marketPosition": 4,
-        "socialPolicy": 3,
-        "tradePolicy": 4,
-        "civilRights": 2,
-        "securityApproach": 4,
-        "socialRights": 2,
-        "powerConcentration": 3
+        "fiscalPolicy": 4,
+        "marketPosition": 5,
+        "socialPolicy": 4,
+        "tradePolicy": 5,
+        "civilRights": 0,
+        "securityApproach": 2,
+        "socialRights": 1,
+        "powerConcentration": 1
       }
     },
     "ideologies": [
@@ -1466,14 +1466,14 @@
       ],
       "confidence": "low",
       "dimensionScores": {
-        "fiscalPolicy": 6,
-        "marketPosition": 6,
-        "socialPolicy": 6,
-        "tradePolicy": 6,
-        "civilRights": 2.0,
-        "securityApproach": 2.0,
-        "socialRights": 2.0,
-        "powerConcentration": 2.0
+        "fiscalPolicy": 3,
+        "marketPosition": 3,
+        "socialPolicy": 3,
+        "tradePolicy": 4,
+        "civilRights": 1,
+        "securityApproach": 4,
+        "socialRights": 2,
+        "powerConcentration": 3
       }
     },
     "ideologies": [
@@ -1720,14 +1720,14 @@
       ],
       "confidence": "low",
       "dimensionScores": {
-        "fiscalPolicy": -1,
-        "marketPosition": -1,
-        "socialPolicy": -1,
-        "tradePolicy": -1,
-        "civilRights": -1,
+        "fiscalPolicy": -2,
+        "marketPosition": -2,
+        "socialPolicy": -3,
+        "tradePolicy": -2,
+        "civilRights": -2,
         "securityApproach": -1,
-        "socialRights": -1,
-        "powerConcentration": -1
+        "socialRights": -2,
+        "powerConcentration": 2
       }
     },
     "ideologies": [
@@ -1972,14 +1972,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": 7.55,
-        "marketPosition": 9.55,
-        "socialPolicy": 8.55,
-        "tradePolicy": 9.55,
-        "civilRights": 2,
-        "securityApproach": 4,
-        "socialRights": 2,
-        "powerConcentration": 2
+        "fiscalPolicy": 8,
+        "marketPosition": 9,
+        "socialPolicy": 9,
+        "tradePolicy": 9,
+        "civilRights": -1,
+        "securityApproach": -1,
+        "socialRights": -1,
+        "powerConcentration": 1
       }
     },
     "ideologies": [
@@ -2199,11 +2199,11 @@
       "dimensionScores": {
         "fiscalPolicy": -1,
         "marketPosition": 0,
-        "socialPolicy": -2,
-        "tradePolicy": -1,
-        "civilRights": -1,
-        "securityApproach": 0,
-        "socialRights": -2,
+        "socialPolicy": -3,
+        "tradePolicy": 0,
+        "civilRights": -3,
+        "securityApproach": -1,
+        "socialRights": -3,
         "powerConcentration": 0
       }
     },
@@ -2449,11 +2449,11 @@
       ],
       "confidence": "low",
       "dimensionScores": {
-        "fiscalPolicy": -4.45,
-        "marketPosition": -4.45,
-        "socialPolicy": -5.45,
-        "tradePolicy": -4.45,
-        "civilRights": -1,
+        "fiscalPolicy": -5,
+        "marketPosition": -5,
+        "socialPolicy": -5,
+        "tradePolicy": -4,
+        "civilRights": -3,
         "securityApproach": 0,
         "socialRights": -2,
         "powerConcentration": 1
@@ -2702,14 +2702,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": 0.3,
-        "marketPosition": 0.3,
-        "socialPolicy": 0.3,
-        "tradePolicy": 0.3,
-        "civilRights": 7,
-        "securityApproach": 7,
+        "fiscalPolicy": 1,
+        "marketPosition": 0,
+        "socialPolicy": 0,
+        "tradePolicy": 0,
+        "civilRights": 8,
+        "securityApproach": 9,
         "socialRights": 7,
-        "powerConcentration": 7
+        "powerConcentration": 6
       }
     },
     "ideologies": [
@@ -2956,14 +2956,14 @@
       ],
       "confidence": "low",
       "dimensionScores": {
-        "fiscalPolicy": 4,
-        "marketPosition": 4,
-        "socialPolicy": 4,
+        "fiscalPolicy": 3,
+        "marketPosition": 3,
+        "socialPolicy": 3,
         "tradePolicy": 4,
-        "civilRights": 4,
+        "civilRights": 1,
         "securityApproach": 4,
-        "socialRights": 4,
-        "powerConcentration": 4
+        "socialRights": 2,
+        "powerConcentration": 3
       }
     },
     "ideologies": [
@@ -3211,12 +3211,12 @@
       "dimensionScores": {
         "fiscalPolicy": -1,
         "marketPosition": -1,
-        "socialPolicy": -2,
+        "socialPolicy": -3,
         "tradePolicy": 0,
         "civilRights": -2,
-        "securityApproach": 0,
+        "securityApproach": -1,
         "socialRights": -2,
-        "powerConcentration": 0
+        "powerConcentration": 1
       }
     },
     "ideologies": [

@@ -63,14 +63,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": -1.7,
-        "marketPosition": -2.7,
-        "socialPolicy": -2.7,
-        "tradePolicy": -1.7,
-        "civilRights": -2.0,
-        "securityApproach": 0.0,
-        "socialRights": -2.0,
-        "powerConcentration": 2.0
+        "fiscalPolicy": -5,
+        "marketPosition": -6,
+        "socialPolicy": -6,
+        "tradePolicy": -3,
+        "civilRights": -3,
+        "securityApproach": -2,
+        "socialRights": -4,
+        "powerConcentration": 2
       }
     },
     "ideologies": [
@@ -168,7 +168,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -276,14 +276,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": -5,
-        "marketPosition": -6,
-        "socialPolicy": -4,
-        "tradePolicy": -7,
-        "civilRights": 0.35,
-        "securityApproach": 2.35,
-        "socialRights": -0.65,
-        "powerConcentration": 2.35
+        "fiscalPolicy": -6,
+        "marketPosition": -5,
+        "socialPolicy": -6,
+        "tradePolicy": -5,
+        "civilRights": 1,
+        "securityApproach": 2,
+        "socialRights": -2,
+        "powerConcentration": 2
       }
     },
     "ideologies": [
@@ -380,7 +380,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -489,13 +489,13 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": 7,
+        "fiscalPolicy": 6,
         "marketPosition": 7,
-        "socialPolicy": 7,
+        "socialPolicy": 5,
         "tradePolicy": 7,
-        "civilRights": 8,
-        "securityApproach": 8,
-        "socialRights": 8,
+        "civilRights": 7,
+        "securityApproach": 9,
+        "socialRights": 6,
         "powerConcentration": 8
       }
     },
@@ -565,7 +565,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -677,14 +677,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": -2,
-        "marketPosition": -1,
-        "socialPolicy": -4,
-        "tradePolicy": 0,
-        "civilRights": -1.9,
-        "securityApproach": 1.1,
-        "socialRights": -2.9,
-        "powerConcentration": 0.1
+        "fiscalPolicy": -3,
+        "marketPosition": -2,
+        "socialPolicy": -3,
+        "tradePolicy": -2,
+        "civilRights": -4,
+        "securityApproach": -1,
+        "socialRights": -5,
+        "powerConcentration": 1
       }
     },
     "ideologies": [
@@ -782,7 +782,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -890,14 +890,14 @@
       ],
       "confidence": "low",
       "dimensionScores": {
-        "fiscalPolicy": -1,
+        "fiscalPolicy": -2,
         "marketPosition": -1,
-        "socialPolicy": -1,
-        "tradePolicy": -1,
+        "socialPolicy": -3,
+        "tradePolicy": -2,
         "civilRights": -3,
-        "securityApproach": -3,
+        "securityApproach": -1,
         "socialRights": -3,
-        "powerConcentration": -3
+        "powerConcentration": 1
       }
     },
     "ideologies": [
@@ -995,7 +995,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -1104,13 +1104,13 @@
       "confidence": "low",
       "dimensionScores": {
         "fiscalPolicy": -3,
-        "marketPosition": -3,
-        "socialPolicy": -3,
+        "marketPosition": -2,
+        "socialPolicy": -4,
         "tradePolicy": -3,
-        "civilRights": -2,
-        "securityApproach": -2,
-        "socialRights": -2,
-        "powerConcentration": -2
+        "civilRights": -3,
+        "securityApproach": -1,
+        "socialRights": -4,
+        "powerConcentration": 2
       }
     },
     "ideologies": [
@@ -1208,7 +1208,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -1315,14 +1315,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": -2,
-        "marketPosition": -2,
-        "socialPolicy": -3,
-        "tradePolicy": -1,
-        "civilRights": -1.6,
-        "securityApproach": 0.4,
-        "socialRights": -1.6,
-        "powerConcentration": 0.4
+        "fiscalPolicy": -5,
+        "marketPosition": -4,
+        "socialPolicy": -6,
+        "tradePolicy": -5,
+        "civilRights": -4,
+        "securityApproach": -2,
+        "socialRights": -4,
+        "powerConcentration": 2
       }
     },
     "ideologies": [
@@ -1420,7 +1420,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -1528,14 +1528,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": 0.65,
-        "marketPosition": 0.65,
-        "socialPolicy": 1.65,
-        "tradePolicy": 2.65,
-        "civilRights": -4,
-        "securityApproach": -2,
-        "socialRights": -4,
-        "powerConcentration": -1
+        "fiscalPolicy": 2,
+        "marketPosition": 3,
+        "socialPolicy": 1,
+        "tradePolicy": 2,
+        "civilRights": -1,
+        "securityApproach": 0,
+        "socialRights": -2,
+        "powerConcentration": -2
       }
     },
     "ideologies": [
@@ -1631,7 +1631,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -1739,14 +1739,14 @@
       ],
       "confidence": "low",
       "dimensionScores": {
-        "fiscalPolicy": -2,
+        "fiscalPolicy": -3,
         "marketPosition": -2,
-        "socialPolicy": -2,
+        "socialPolicy": -4,
         "tradePolicy": -2,
-        "civilRights": -3,
-        "securityApproach": -3,
-        "socialRights": -3,
-        "powerConcentration": -3
+        "civilRights": -5,
+        "securityApproach": -2,
+        "socialRights": -5,
+        "powerConcentration": 1
       }
     },
     "ideologies": [
@@ -1844,7 +1844,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -1957,14 +1957,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": 4,
-        "marketPosition": 4,
-        "socialPolicy": 4,
-        "tradePolicy": 4,
+        "fiscalPolicy": 6,
+        "marketPosition": 7,
+        "socialPolicy": 6,
+        "tradePolicy": 7,
         "civilRights": 4,
-        "securityApproach": 4,
-        "socialRights": 4,
-        "powerConcentration": 4
+        "securityApproach": 5,
+        "socialRights": 7,
+        "powerConcentration": 0
       }
     },
     "ideologies": [
@@ -2062,7 +2062,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -2175,14 +2175,14 @@
       ],
       "confidence": "high",
       "dimensionScores": {
-        "fiscalPolicy": 4,
-        "marketPosition": 5,
-        "socialPolicy": 3,
-        "tradePolicy": 5,
-        "civilRights": -1.3,
-        "securityApproach": -0.3,
-        "socialRights": -2.3,
-        "powerConcentration": -2.3
+        "fiscalPolicy": 5,
+        "marketPosition": 7,
+        "socialPolicy": 5,
+        "tradePolicy": 7,
+        "civilRights": -2,
+        "securityApproach": -1,
+        "socialRights": -3,
+        "powerConcentration": -1
       }
     },
     "ideologies": [
@@ -2280,7 +2280,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -2387,14 +2387,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": 5,
-        "marketPosition": 6,
+        "fiscalPolicy": 6,
+        "marketPosition": 7,
         "socialPolicy": 6,
-        "tradePolicy": 6,
-        "civilRights": 4,
-        "securityApproach": 6,
-        "socialRights": 5,
-        "powerConcentration": 4
+        "tradePolicy": 8,
+        "civilRights": 3,
+        "securityApproach": 4,
+        "socialRights": 6,
+        "powerConcentration": -1
       }
     },
     "ideologies": [
@@ -2492,7 +2492,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -2600,14 +2600,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": -5,
-        "marketPosition": -5,
-        "socialPolicy": -6,
-        "tradePolicy": -3,
-        "civilRights": 0.7,
-        "securityApproach": 2.7,
-        "socialRights": 0.7,
-        "powerConcentration": 4.7
+        "fiscalPolicy": -7,
+        "marketPosition": -7,
+        "socialPolicy": -7,
+        "tradePolicy": -5,
+        "civilRights": 1,
+        "securityApproach": 3,
+        "socialRights": -2,
+        "powerConcentration": 5
       }
     },
     "ideologies": [
@@ -2705,7 +2705,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -2820,12 +2820,12 @@
       "dimensionScores": {
         "fiscalPolicy": -6,
         "marketPosition": -6,
-        "socialPolicy": -6,
-        "tradePolicy": -6,
-        "civilRights": 1.5,
-        "securityApproach": 1.5,
-        "socialRights": 1.5,
-        "powerConcentration": 1.5
+        "socialPolicy": -7,
+        "tradePolicy": -4,
+        "civilRights": -1,
+        "securityApproach": 2,
+        "socialRights": -3,
+        "powerConcentration": 6
       }
     },
     "ideologies": [
@@ -2923,7 +2923,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -3031,13 +3031,13 @@
       "confidence": "medium",
       "dimensionScores": {
         "fiscalPolicy": 7,
-        "marketPosition": 7,
-        "socialPolicy": 6,
-        "tradePolicy": 7,
-        "civilRights": 6,
-        "securityApproach": 8,
+        "marketPosition": 8,
+        "socialPolicy": 7,
+        "tradePolicy": 8,
+        "civilRights": 5,
+        "securityApproach": 7,
         "socialRights": 6,
-        "powerConcentration": 5
+        "powerConcentration": 3
       }
     },
     "ideologies": [
@@ -3106,7 +3106,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -3213,14 +3213,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": -1,
-        "marketPosition": 1,
+        "fiscalPolicy": -2,
+        "marketPosition": -1,
         "socialPolicy": -3,
-        "tradePolicy": 0,
-        "civilRights": -1.35,
-        "securityApproach": 0.65,
-        "socialRights": -0.35,
-        "powerConcentration": -0.35
+        "tradePolicy": -3,
+        "civilRights": -2,
+        "securityApproach": 0,
+        "socialRights": -3,
+        "powerConcentration": 1
       }
     },
     "ideologies": [
@@ -3318,7 +3318,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -3425,14 +3425,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": -2.45,
-        "marketPosition": -3.45,
-        "socialPolicy": -2.45,
-        "tradePolicy": -1.45,
-        "civilRights": -1.7,
-        "securityApproach": 0.3,
-        "socialRights": -1.7,
-        "powerConcentration": 2.3
+        "fiscalPolicy": -4,
+        "marketPosition": -4,
+        "socialPolicy": -6,
+        "tradePolicy": -3,
+        "civilRights": -3,
+        "securityApproach": -1,
+        "socialRights": -4,
+        "powerConcentration": 3
       }
     },
     "ideologies": [
@@ -3530,7 +3530,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -3642,14 +3642,14 @@
       ],
       "confidence": "high",
       "dimensionScores": {
-        "fiscalPolicy": -2.45,
-        "marketPosition": -2.45,
-        "socialPolicy": -3.45,
-        "tradePolicy": -0.45,
-        "civilRights": -2.55,
-        "securityApproach": -0.55,
-        "socialRights": -1.55,
-        "powerConcentration": 1.45
+        "fiscalPolicy": -4,
+        "marketPosition": -3,
+        "socialPolicy": -5,
+        "tradePolicy": -3,
+        "civilRights": -5,
+        "securityApproach": -3,
+        "socialRights": -5,
+        "powerConcentration": 3
       }
     },
     "ideologies": [
@@ -3746,7 +3746,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -3853,13 +3853,13 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": -2.55,
-        "marketPosition": -2.55,
-        "socialPolicy": -5.55,
-        "tradePolicy": -1.55,
-        "civilRights": -1,
-        "securityApproach": 0,
-        "socialRights": -2,
+        "fiscalPolicy": -4,
+        "marketPosition": -3,
+        "socialPolicy": -4,
+        "tradePolicy": -3,
+        "civilRights": -5,
+        "securityApproach": -2,
+        "socialRights": -5,
         "powerConcentration": 0
       }
     },
@@ -3957,7 +3957,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -4064,14 +4064,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": 6.2,
-        "marketPosition": 7.2,
-        "socialPolicy": 7.2,
-        "tradePolicy": 7.2,
-        "civilRights": 3,
-        "securityApproach": 5,
-        "socialRights": 5,
-        "powerConcentration": 2
+        "fiscalPolicy": 6,
+        "marketPosition": 7,
+        "socialPolicy": 6,
+        "tradePolicy": 8,
+        "civilRights": 2,
+        "securityApproach": 4,
+        "socialRights": 4,
+        "powerConcentration": -1
       }
     },
     "ideologies": [
@@ -4168,7 +4168,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -4277,13 +4277,13 @@
       "confidence": "medium",
       "dimensionScores": {
         "fiscalPolicy": -4,
-        "marketPosition": -5,
-        "socialPolicy": -4,
-        "tradePolicy": -7,
-        "civilRights": -4,
-        "securityApproach": -3,
-        "socialRights": -4,
-        "powerConcentration": -3
+        "marketPosition": -3,
+        "socialPolicy": -5,
+        "tradePolicy": -3,
+        "civilRights": -3,
+        "securityApproach": -2,
+        "socialRights": -2,
+        "powerConcentration": 0
       }
     },
     "ideologies": [
@@ -4381,7 +4381,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -4489,14 +4489,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": 6,
-        "marketPosition": 7,
-        "socialPolicy": 6,
-        "tradePolicy": 6,
-        "civilRights": 7,
-        "securityApproach": 8,
-        "socialRights": 5,
-        "powerConcentration": 4
+        "fiscalPolicy": 9,
+        "marketPosition": 10,
+        "socialPolicy": 9,
+        "tradePolicy": 9,
+        "civilRights": 4,
+        "securityApproach": 6,
+        "socialRights": 7,
+        "powerConcentration": 0
       }
     },
     "ideologies": [
@@ -4593,7 +4593,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -4701,14 +4701,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": -6,
-        "marketPosition": -7,
-        "socialPolicy": -5,
-        "tradePolicy": -6,
-        "civilRights": 0.15,
-        "securityApproach": 2.15,
-        "socialRights": -0.85,
-        "powerConcentration": 3.15
+        "fiscalPolicy": -7,
+        "marketPosition": -8,
+        "socialPolicy": -7,
+        "tradePolicy": -5,
+        "civilRights": 1,
+        "securityApproach": 1,
+        "socialRights": -3,
+        "powerConcentration": 3
       }
     },
     "ideologies": [
@@ -4805,7 +4805,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -4920,13 +4920,13 @@
       "confidence": "medium",
       "dimensionScores": {
         "fiscalPolicy": -1,
-        "marketPosition": -1,
-        "socialPolicy": -1,
-        "tradePolicy": -1,
+        "marketPosition": 1,
+        "socialPolicy": 0,
+        "tradePolicy": 2,
         "civilRights": -2,
-        "securityApproach": -2,
+        "securityApproach": -1,
         "socialRights": -2,
-        "powerConcentration": -2
+        "powerConcentration": 0
       }
     },
     "ideologies": [
@@ -5024,7 +5024,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -5136,14 +5136,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": 7,
+        "fiscalPolicy": 8,
         "marketPosition": 9,
-        "socialPolicy": 7,
-        "tradePolicy": 8,
-        "civilRights": 3.6,
-        "securityApproach": 5.6,
-        "socialRights": 3.6,
-        "powerConcentration": 1.6
+        "socialPolicy": 9,
+        "tradePolicy": 9,
+        "civilRights": 4,
+        "securityApproach": 6,
+        "socialRights": 7,
+        "powerConcentration": 1
       }
     },
     "ideologies": [
@@ -5241,7 +5241,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -5354,13 +5354,13 @@
       "confidence": "medium",
       "dimensionScores": {
         "fiscalPolicy": -5,
-        "marketPosition": -5,
-        "socialPolicy": -7,
+        "marketPosition": -4,
+        "socialPolicy": -6,
         "tradePolicy": -3,
-        "civilRights": -2.0,
-        "securityApproach": 0.0,
-        "socialRights": -2.0,
-        "powerConcentration": 2.0
+        "civilRights": -4,
+        "securityApproach": -2,
+        "socialRights": -5,
+        "powerConcentration": 3
       }
     },
     "ideologies": [
@@ -5457,7 +5457,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -5567,12 +5567,12 @@
       "dimensionScores": {
         "fiscalPolicy": 6,
         "marketPosition": 7,
-        "socialPolicy": 5,
-        "tradePolicy": 6,
-        "civilRights": 1.25,
-        "securityApproach": 4.25,
-        "socialRights": 1.25,
-        "powerConcentration": 1.25
+        "socialPolicy": 6,
+        "tradePolicy": 7,
+        "civilRights": 2,
+        "securityApproach": 4,
+        "socialRights": 4,
+        "powerConcentration": -1
       }
     },
     "ideologies": [
@@ -5612,7 +5612,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -5723,11 +5723,11 @@
         "fiscalPolicy": 4,
         "marketPosition": 5,
         "socialPolicy": 4,
-        "tradePolicy": 4,
-        "civilRights": 4,
-        "securityApproach": 6,
-        "socialRights": 3,
-        "powerConcentration": 2
+        "tradePolicy": 5,
+        "civilRights": 5,
+        "securityApproach": 5,
+        "socialRights": 8,
+        "powerConcentration": 3
       }
     },
     "ideologies": [
@@ -5824,7 +5824,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -5933,13 +5933,13 @@
       "confidence": "medium",
       "dimensionScores": {
         "fiscalPolicy": 7,
-        "marketPosition": 7,
+        "marketPosition": 8,
         "socialPolicy": 7,
         "tradePolicy": 7,
-        "civilRights": 7,
+        "civilRights": 5,
         "securityApproach": 7,
         "socialRights": 7,
-        "powerConcentration": 7
+        "powerConcentration": 4
       }
     },
     "ideologies": [
@@ -6008,7 +6008,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -6116,14 +6116,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": 8,
-        "marketPosition": 8,
-        "socialPolicy": 8,
+        "fiscalPolicy": 6,
+        "marketPosition": 7,
+        "socialPolicy": 7,
         "tradePolicy": 8,
-        "civilRights": 3.7,
-        "securityApproach": 3.7,
-        "socialRights": 3.7,
-        "powerConcentration": 3.7
+        "civilRights": 4,
+        "securityApproach": 6,
+        "socialRights": 7,
+        "powerConcentration": 0
       }
     },
     "ideologies": [
@@ -6192,7 +6192,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -6300,14 +6300,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": -4,
-        "marketPosition": -4,
-        "socialPolicy": -3,
-        "tradePolicy": -2,
-        "civilRights": -1.9,
-        "securityApproach": 1.1,
-        "socialRights": -0.9,
-        "powerConcentration": 2.1
+        "fiscalPolicy": -6,
+        "marketPosition": -5,
+        "socialPolicy": -6,
+        "tradePolicy": -5,
+        "civilRights": -2,
+        "securityApproach": -1,
+        "socialRights": -3,
+        "powerConcentration": 3
       }
     },
     "ideologies": [
@@ -6405,7 +6405,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -6513,14 +6513,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": 4.35,
-        "marketPosition": 5.35,
-        "socialPolicy": 2.35,
-        "tradePolicy": 4.35,
-        "civilRights": -2,
-        "securityApproach": 0,
-        "socialRights": -1,
-        "powerConcentration": -1
+        "fiscalPolicy": 3,
+        "marketPosition": 5,
+        "socialPolicy": 4,
+        "tradePolicy": 5,
+        "civilRights": 1,
+        "securityApproach": 2,
+        "socialRights": 1,
+        "powerConcentration": 0
       }
     },
     "ideologies": [
@@ -6588,7 +6588,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],
@@ -6696,14 +6696,14 @@
       ],
       "confidence": "medium",
       "dimensionScores": {
-        "fiscalPolicy": -3,
+        "fiscalPolicy": -4,
         "marketPosition": -4,
-        "socialPolicy": -3,
+        "socialPolicy": -5,
         "tradePolicy": -2,
-        "civilRights": -5,
+        "civilRights": -2,
         "securityApproach": -2,
         "socialRights": -4,
-        "powerConcentration": -2
+        "powerConcentration": 3
       }
     },
     "ideologies": [
@@ -6800,7 +6800,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-04-29",
     "contributors": [
       "ssi-co"
     ],

@@ -86,13 +86,13 @@
         }
       ],
       "dimensionScores": {
-        "fiscalPolicy": 6,
+        "fiscalPolicy": 5,
         "marketPosition": 7,
         "socialPolicy": 5,
         "tradePolicy": 7,
         "civilRights": 4,
-        "securityApproach": 6,
-        "socialRights": 4,
+        "securityApproach": 5,
+        "socialRights": 7,
         "powerConcentration": 3
       }
     },
@@ -342,9 +342,9 @@
       "dimensionScores": {
         "fiscalPolicy": -5,
         "marketPosition": -4,
-        "socialPolicy": -6,
+        "socialPolicy": -7,
         "tradePolicy": -3,
-        "civilRights": -6,
+        "civilRights": -5,
         "securityApproach": -2,
         "socialRights": -7,
         "powerConcentration": 0

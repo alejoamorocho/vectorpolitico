@@ -1,0 +1,62 @@
+name: sync-data
+
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: 'Target environment'
+        required: true
+        default: staging
+        type: choice
+        options: [staging, production]
+      step:
+        description: 'ETL step to run'
+        required: true
+        default: sync
+        type: choice
+        options: [fetch-news, fetch-votes, sync]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    environment: ${{ inputs.target }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'packages/etl/requirements.txt'
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+
+      - run: pip install -r packages/etl/requirements.txt
+      - run: pnpm install --frozen-lockfile
+
+      - name: Run ETL step
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+        working-directory: packages/etl
+        run: |
+          case "${{ inputs.step }}" in
+            fetch-news)
+              python -m src.fetch_news --country co
+              ;;
+            fetch-votes)
+              echo "fetch-votes no implementado aun"
+              exit 0
+              ;;
+            sync)
+              python -m src.sync_to_d1 --env ${{ inputs.target }} --dir ../data/colombia
+              ;;
+          esac

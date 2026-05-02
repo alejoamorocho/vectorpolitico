@@ -1,0 +1,961 @@
+{
+  "governors/eduardo-verano": {
+    "entity": "Eduardo Verano",
+    "file": "governors",
+    "entityId": "eduardo-verano",
+    "warnings": [
+      {
+        "id": "verano-atlantico-continuidad-casa-char",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Eduardo Verano de la Rosa, gobernador del Atlántico (2024-2027), ha defendido una imagen de experiencia, gestión técnica y compromiso con el desarrollo regional del Caribe colombiano como ejes de su m",
+        "actionText": "Su llegada a la gobernación se apoyó en acuerdos políticos con la Casa Char y sectores tradicionales del poder político del Atlántico, replicando la continuidad del modelo de control político del departamento durante más de una década sin una renovación visible.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-caribe/eduardo-verano-acuerdos-casa-char-atlantico/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-10-20"
+      },
+      {
+        "id": "verano-ambientalismo-costa-accion-limitada",
+        "category": "medio_ambiente",
+        "severity": "low",
+        "proposalText": "Verano ha defendido públicamente una agenda de protección del ambiente, adaptación al cambio climático y recuperación de ecosistemas estratégicos del Atlántico como componente central de su programa d",
+        "actionText": "La implementación efectiva de medidas ambientales estructurales (recuperación de humedales, adaptación costera, control de contaminación) ha sido limitada en los primeros meses de su gestión, con prioridad a obras de infraestructura tradicionales.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-caribe/verano-implementacion-ambiental-limitada-primeros-meses/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-05-28"
+      }
+    ]
+  },
+  "governors/henry-gutierrez-caldas": {
+    "entity": "Henry Gutiérrez (Caldas)",
+    "file": "governors",
+    "entityId": "henry-gutierrez-caldas",
+    "warnings": [
+      {
+        "id": "hg-educacion-expansion",
+        "category": "educacion",
+        "severity": "low",
+        "proposalText": "Promovió acceso a educación superior gratuita para estudiantes de estratos 1 y 2",
+        "actionText": "El programa solo benefició a 2,000 estudiantes en cuatro años por limitaciones presupuestales",
+        "currentActionUrl": "https://www.elespectador.com/caldas-becas-cobertura-2024",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2024-03-05"
+      },
+      {
+        "id": "gutierrez-caldas-seguridad-narco",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Reducir los cultivos de coca en Caldas en 60% durante el primer mandato",
+        "actionText": "Los cultivos de coca en Caldas se redujeron solo 15% entre 2023 y 2024",
+        "currentActionUrl": "https://www.unodc.org",
+        "currentActionOutlet": "UNODC - Naciones Unidas",
+        "currentActionDate": "2024-09-15"
+      },
+      {
+        "id": "gutierrez-caldas-coca",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Reducir cultivos de coca en Caldas 60% durante el primer mandato",
+        "actionText": "Cultivos de coca en Caldas se redujeron solo 15% entre 2023-2024",
+        "currentActionUrl": "https://www.unodc.org/estudios/",
+        "currentActionOutlet": "UNODC",
+        "currentActionDate": "2024-09-15"
+      }
+    ]
+  },
+  "governors/jorge-rey": {
+    "entity": "Jorge Emilio Rey",
+    "file": "governors",
+    "entityId": "jorge-rey",
+    "warnings": [
+      {
+        "id": "rey-cundinamarca-u-continuidad-establecimiento",
+        "category": "corrupcion",
+        "severity": "low",
+        "proposalText": "Jorge Emilio Rey Ángel, gobernador de Cundinamarca 2024-2027 por el Partido de la U, defiende una imagen de experiencia política regional (ex gobernador 2016-2019, alcalde de Fusagasugá), con gestión ",
+        "actionText": "Su retorno a la gobernación se apoyó en estructuras políticas tradicionales del Partido de la U y acuerdos con sectores del establecimiento regional cundinamarqués, replicando un modelo de continuidad del poder político departamental durante múltiples administraciones.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-centro-oriente/jorge-rey-estructuras-tradicionales-cundinamarca/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-10-22"
+      },
+      {
+        "id": "rey-infraestructura-ambiente-tensiones",
+        "category": "medio_ambiente",
+        "severity": "low",
+        "proposalText": "Rey defiende un programa de desarrollo económico para Cundinamarca basado en infraestructura vial, conectividad con Bogotá y fortalecimiento de sectores productivos, con un discurso general de sosteni",
+        "actionText": "Los proyectos de infraestructura priorizados durante su gestión han generado tensiones con comunidades rurales y organizaciones ambientalistas que señalan impactos sobre páramos, zonas de recarga hídrica y áreas de conservación protegidas del departamento.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-centro-oriente/rey-infraestructura-paramos-cundinamarca-tensiones/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-05-28"
+      }
+    ]
+  },
+  "governors/juvenal-diaz-santander": {
+    "entity": "Juvenal Díaz (Santander)",
+    "file": "governors",
+    "entityId": "juvenal-diaz-santander",
+    "warnings": [
+      {
+        "id": "jd-infraestructura-vias",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Anunció construcción de 150 kilómetros de vías terciarias para conectar municipios rurales de Santander",
+        "actionText": "Solo se completaron 35 kilómetros en tres años de gestión",
+        "currentActionUrl": "https://www.semana.com/santander-ejecucion-proyectos-2023",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2023-09-10"
+      },
+      {
+        "id": "diaz-santander-seguridad-homicidios",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Reducir homicidios en Santander en 40% en el primer año de gestión",
+        "actionText": "Los homicidios en Santander disminuyeron solo 8% en 2024 comparado con 2023",
+        "currentActionUrl": "https://www.policia.gov.co",
+        "currentActionOutlet": "Policía Nacional",
+        "currentActionDate": "2024-12-10"
+      },
+      {
+        "id": "diaz-santander-homicidios",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Reducir homicidios en Santander 40% en primer año de gestión",
+        "actionText": "Homicidios en Santander disminuyeron solo 8% en 2024 comparado 2023",
+        "currentActionUrl": "https://www.policia.gov.co/estadisticas/",
+        "currentActionOutlet": "Policía Nacional",
+        "currentActionDate": "2024-12-10"
+      }
+    ]
+  },
+  "governors/luis-alfonso-escobar-narino": {
+    "entity": "Luis A. Escobar (Nariño)",
+    "file": "governors",
+    "entityId": "luis-alfonso-escobar-narino",
+    "warnings": [
+      {
+        "id": "lae-seguridad-homicidios",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Se comprometió a reducir en 50% la tasa de homicidios en Nariño mediante presencia estatal",
+        "actionText": "Los homicidios aumentaron 35% durante la gestión de Escobar",
+        "currentActionUrl": "https://www.semana.com/narino-homicidios-aumento-2024",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2024-02-20"
+      },
+      {
+        "id": "escobar-narino-derechos-mineros",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Proteger los derechos de comunidades indígenas frente a operaciones mineras en Nariño",
+        "actionText": "Se aprobaron 3 nuevos proyectos mineros en territorios de resguardos indígenas durante 2024",
+        "currentActionUrl": "https://www.mintrabajo.gov.co",
+        "currentActionOutlet": "Ministerio del Trabajo",
+        "currentActionDate": "2024-10-30"
+      },
+      {
+        "id": "escobar-narino-indigenas",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Proteger derechos de comunidades indígenas frente a operaciones mineras en Nariño",
+        "actionText": "Se aprobaron 3 nuevos proyectos mineros en territorios de resguardos indígenas en 2024",
+        "currentActionUrl": "https://www.mintrabajo.gov.co/",
+        "currentActionOutlet": "Ministerio del Trabajo",
+        "currentActionDate": "2024-10-30"
+      },
+      {
+        "id": "escobar-narino-bilingue",
+        "category": "educacion",
+        "severity": "medium",
+        "proposalText": "Expandir educación bilingüe en 200 instituciones educativas rurales de Nariño",
+        "actionText": "Solo 65 instituciones implementaron educación bilingüe efectiva en 2024",
+        "currentActionUrl": "https://www.mineducacion.gov.co/",
+        "currentActionOutlet": "Ministerio de Educación",
+        "currentActionDate": "2024-11-20"
+      }
+    ]
+  },
+  "governors/octavio-guzman": {
+    "entity": "Octavio Guzmán",
+    "file": "governors",
+    "entityId": "octavio-guzman",
+    "warnings": [
+      {
+        "id": "guzman-santander-liberal-tradicional",
+        "category": "corrupcion",
+        "severity": "low",
+        "proposalText": "Octavio Guzmán, gobernador de Santander 2024-2027 por el Partido Liberal, defiende una imagen de experiencia política regional y gestión territorial basada en el conocimiento profundo del departamento",
+        "actionText": "Su llegada a la gobernación se apoyó en las estructuras políticas tradicionales del Partido Liberal santandereano y acuerdos con sectores del establecimiento regional que vienen ocupando el poder departamental durante múltiples administraciones sucesivas.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-santandereana/guzman-estructuras-liberales-tradicionales-santander/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-10-28"
+      },
+      {
+        "id": "guzman-desarrollo-rural-implementacion",
+        "category": "economia",
+        "severity": "low",
+        "proposalText": "Guzmán ha defendido un programa de desarrollo rural, apoyo a pequeños productores agrícolas, fortalecimiento de la cadena cafetera santandereana y recuperación de vocaciones productivas tradicionales ",
+        "actionText": "Durante los primeros meses de su gestión la implementación efectiva de programas para pequeños productores y recursos para la cadena cafetera ha sido limitada, con prioridad a inversiones en infraestructura tradicional y obras urbanas por encima de la agenda rural declarada.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-santandereana/guzman-programas-pequenos-productores-primeros-meses/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-06-18"
+      }
+    ]
+  },
+  "governors/rafaela-cortes-meta": {
+    "entity": "Rafaela Cortés",
+    "file": "governors",
+    "entityId": "rafaela-cortes-meta",
+    "warnings": [
+      {
+        "id": "rafaela-cortes-corrupcion-continuidad",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Continuaré la agenda anticorrupción de mi esposo y garantizaré administración transparente en Meta",
+        "actionText": "Como gobernadora ha enfrentado cuestionamientos sobre manejo irregular de contrataciones y adjudicaciones directas",
+        "currentActionUrl": "https://www.semana.com/politica/gobernadora-meta-contrataciones-irregulares",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2025-04-18"
+      },
+      {
+        "id": "cortes-meta-ambiente-deforestacion",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "proposalText": "Reducir deforestación en Meta en 50% durante el mandato através de vigilancia y reforestación",
+        "actionText": "La deforestación en Meta aumentó 12% en 2024 según monitoreo satelital del IDEAM",
+        "currentActionUrl": "https://www.ideam.gov.co",
+        "currentActionOutlet": "IDEAM - Monitor de Deforestación",
+        "currentActionDate": "2024-12-01"
+      },
+      {
+        "id": "cortes-meta-deforestacion",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "proposalText": "Reducir deforestación en Meta 50% durante el mandato",
+        "actionText": "Deforestación en Meta aumentó 12% en 2024 según monitoreo del IDEAM",
+        "currentActionUrl": "https://www.ideam.gov.co/monitor/",
+        "currentActionOutlet": "IDEAM",
+        "currentActionDate": "2024-12-01"
+      },
+      {
+        "id": "cortes-meta-educacion-ambiente",
+        "category": "educacion",
+        "severity": "medium",
+        "proposalText": "Implementar educación ambiental obligatoria en 500 instituciones educativas del Meta",
+        "actionText": "Solo 180 instituciones implementaron programas de educación ambiental en 2024",
+        "currentActionUrl": "https://www.mineducacion.gov.co/",
+        "currentActionOutlet": "Ministerio de Educación",
+        "currentActionDate": "2024-10-25"
+      }
+    ]
+  },
+  "governors/rodrigo-villalba-huila": {
+    "entity": "Rodrigo Villalba",
+    "file": "governors",
+    "entityId": "rodrigo-villalba-huila",
+    "warnings": [
+      {
+        "id": "rodrigo-villalba-economia-infraestructura",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "En mi segunda administración como gobernador aceleraré proyectos de infraestructura vial y energética para Huila",
+        "actionText": "Los proyectos de infraestructura han avanzado lentamente con retrasos en ejecución y presupuesto durante su gestión",
+        "currentActionUrl": "https://www.bluradio.com/politica/gobernador-huila-rezago-infraestructura",
+        "currentActionOutlet": "Blu Radio",
+        "currentActionDate": "2025-08-23"
+      },
+      {
+        "id": "villalba-huila-transparencia",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Publicar 100% de contratos departamentales en plataforma digital de transparencia",
+        "actionText": "Solo 65% de contratos fueron publicados en plataforma de transparencia en 2024",
+        "currentActionUrl": "https://www.huila.gov.co/transparencia/",
+        "currentActionOutlet": "Portal de Transparencia",
+        "currentActionDate": "2024-12-01"
+      }
+    ]
+  },
+  "governors/uribe-gobernador": {
+    "entity": "Álvaro Uribe (Gobernador Antioquia)",
+    "file": "governors",
+    "entityId": "uribe-gobernador",
+    "warnings": [
+      {
+        "id": "ua-derechos-humanos-paramilitarismo",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Anunció desmovilización de grupos paramilitares y fin de colaboración con actores armados ilegales",
+        "actionText": "Investigaciones posteriores documentaron colaboración con paramilitares durante su gestión como gobernador",
+        "currentActionUrl": "https://www.semana.com/alvaro-uribe-paramilitarismo-investigacion",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2008-06-10"
+      },
+      {
+        "id": "uribe-antioquia-justicia-transicional",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Implementar políticas de justicia transicional para víctimas de paramilitarismo en Antioquia",
+        "actionText": "Se priorizaron políticas de seguridad sobre mecanismos de justicia transicional durante el gobierno Uribe en Antioquia",
+        "currentActionUrl": "https://lasillavacia.com",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-08-15"
+      },
+      {
+        "id": "uribe-antioquia-justicia",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Implementar políticas de justicia transicional para víctimas de paramilitarismo en Antioquia",
+        "actionText": "Se priorizaron políticas de seguridad sobre mecanismos de justicia transicional",
+        "currentActionUrl": "https://lasillavacia.com/antioquia/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-08-15"
+      },
+      {
+        "id": "uribe-antioquia-autonomia",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Fortalecer autonomía de administraciones municipales en Antioquia con transferencias de recursos",
+        "actionText": "Se centralizaron decisiones en la Gobernación sobre fondos municipales",
+        "currentActionUrl": "https://lasillavacia.com/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-09-12"
+      }
+    ]
+  },
+  "governors/william-villamizar-nortesantander": {
+    "entity": "William Villamizar (N. Santander)",
+    "file": "governors",
+    "entityId": "william-villamizar-nortesantander",
+    "warnings": [
+      {
+        "id": "wv-salud-presupuesto",
+        "category": "salud",
+        "severity": "high",
+        "proposalText": "Comprometido con aumentar inversión en hospitales y mejorar cobertura de servicios de salud en la frontera",
+        "actionText": "Redujo asignaciones presupuestales a hospitales públicos durante su administración",
+        "currentActionUrl": "https://www.lasillavaicia.com/norte-santander-presupuesto-salud-2023",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-06-20"
+      },
+      {
+        "id": "villamizar-nortesantander-frontera-contrabando",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Reducir el contrabando y tráfico ilícito en la frontera de N. Santander en 50%",
+        "actionText": "El contrabando en la frontera de N. Santander se redujo solo 12% en 2024",
+        "currentActionUrl": "https://www.policia.gov.co",
+        "currentActionOutlet": "Policía Nacional",
+        "currentActionDate": "2024-11-30"
+      },
+      {
+        "id": "villamizar-nortesantander-contrabando",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Reducir contrabando en frontera N. Santander 50% durante mandato",
+        "actionText": "Contrabando en frontera se redujo solo 12% en 2024",
+        "currentActionUrl": "https://www.policia.gov.co/",
+        "currentActionOutlet": "Policía Nacional",
+        "currentActionDate": "2024-11-30"
+      },
+      {
+        "id": "villamizar-nortesantander-educacion",
+        "category": "educacion",
+        "severity": "medium",
+        "proposalText": "Aumentar cobertura educación superior a 45% de jóvenes en N. Santander",
+        "actionText": "Cobertura de educación superior llegó a 28% de jóvenes en 2024",
+        "currentActionUrl": "https://www.mineducacion.gov.co/",
+        "currentActionOutlet": "Ministerio de Educación",
+        "currentActionDate": "2024-10-31"
+      }
+    ]
+  },
+  "governors/yamil-arana-bolivar": {
+    "entity": "Yamil Arana",
+    "file": "governors",
+    "entityId": "yamil-arana-bolivar",
+    "warnings": [
+      {
+        "id": "arana-transparencia-bolivar",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Prometió en campaña un gobierno de transparencia total y lucha contra la corrupción histórica del departamento de Bolívar.",
+        "actionText": "En los primeros meses de gobierno, adjudicó contratos de infraestructura por adjudicación directa sin los procesos licitatorios prometidos.",
+        "currentActionUrl": "https://www.eluniversal.com.co/politica/contratos-directos-gobernacion-bolivar/",
+        "currentActionOutlet": "El Universal",
+        "currentActionDate": "2024-06-15"
+      },
+      {
+        "id": "arana-bolivar-turismo",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Crear 25.000 empleos en sector turístico de Bolívar durante mandato",
+        "actionText": "Se crearon 7.500 empleos en sector turístico de Bolívar entre 2023-2024",
+        "currentActionUrl": "https://www.mincit.gov.co/",
+        "currentActionOutlet": "Ministerio de Comercio",
+        "currentActionDate": "2024-12-01"
+      }
+    ]
+  },
+  "mayors/alejandro-eder": {
+    "entity": "Alejandro Eder",
+    "file": "mayors",
+    "entityId": "alejandro-eder",
+    "warnings": [
+      {
+        "id": "eder-tecnocracia-empresarial-agenda-social",
+        "category": "economia",
+        "severity": "low",
+        "proposalText": "Alejandro Eder llegó a la alcaldía de Cali en 2024 con un perfil técnico-empresarial, defendiendo un modelo de gestión eficiente, transparente y con énfasis en la reactivación económica de la ciudad t",
+        "actionText": "Las prioridades declaradas para atender a las comunidades afectadas por el estallido social de 2021, las necesidades de la Cali oriental y las demandas del Paro del 28A han tenido una implementación limitada durante los primeros meses de su administración, privilegiando la agenda empresarial sobre l",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-pacifico/eder-cali-agenda-social-estallido-implementacion/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-05-18"
+      },
+      {
+        "id": "eder-independencia-apoyos-centro-derecha",
+        "category": "derechos_humanos",
+        "severity": "low",
+        "proposalText": "Eder se presentó como una opción independiente del Pacto Histórico y de los partidos tradicionales, basado en su trayectoria técnica en la Alta Consejería para la Reconciliación del gobierno Santos.",
+        "actionText": "Recibió apoyo explícito del Nuevo Liberalismo, Centro Democrático y sectores empresariales del Valle del Cauca, con estructura política reconocible que desdibuja la tesis de independencia absoluta de toda maquinaria partidaria nacional declarada.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-pacifico/eder-apoyos-nuevo-liberalismo-centro-democratico/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-10-22"
+      }
+    ]
+  },
+  "mayors/alex-char": {
+    "entity": "Alex Char",
+    "file": "mayors",
+    "entityId": "alex-char",
+    "warnings": [
+      {
+        "id": "char-continuidad-familiar-barranquilla",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Alex Char ha liderado tres alcaldías de Barranquilla y se presenta como un gestor eficiente, con obras visibles, modernización urbana y transformación del modelo de desarrollo local como ejes de su im",
+        "actionText": "La Casa Char ha concentrado el poder político de Barranquilla y el Atlántico durante más de 15 años con alcaldes, gobernadores y congresistas del clan familiar y allegados directos, replicando un modelo de concentración político-electoral criticado en otros liderazgos regionales del país.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-caribe/casa-char-concentracion-poder-barranquilla/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2022-05-15"
+      },
+      {
+        "id": "char-aida-merlano-escandalo",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Char se ha presentado como defensor de la institucionalidad democrática, el rechazo a la corrupción electoral y la lucha contra la compra de votos, siguiendo el discurso oficial de Cambio Radical como",
+        "actionText": "El caso Aida Merlano (excongresista condenada por compra de votos en 2018, fugada y luego recapturada) expuso presuntos vínculos con estructuras de la Casa Char en el Atlántico, con investigaciones que señalaron nexos políticos directos que afectan el discurso anticorrupción del clan.",
+        "currentActionUrl": "https://www.elespectador.com/politica/aida-merlano-casa-char-nexos-politicos/",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2022-03-28"
+      },
+      {
+        "id": "char-barranquilla-salud",
+        "category": "salud",
+        "severity": "high",
+        "proposalText": "Mejorar acceso a servicios de salud en Barranquilla con cobertura 98%",
+        "actionText": "Cobertura de servicios de salud en Barranquilla alcanzó 82% en 2023",
+        "currentActionUrl": "https://www.minsalud.gov.co/",
+        "currentActionOutlet": "Ministerio de Salud",
+        "currentActionDate": "2023-12-10"
+      }
+    ]
+  },
+  "mayors/alexander-baquero-villavicencio": {
+    "entity": "Alexander Baquero",
+    "file": "mayors",
+    "entityId": "alexander-baquero-villavicencio",
+    "warnings": [
+      {
+        "id": "alexander-baquero-seguridad-criminalidad",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Implementaré estrategias integrales de seguridad para reducir los índices de criminalidad en Villavicencio",
+        "actionText": "Ha enfrentado múltiples intentos de revocatoria por incapacidad de controlar inseguridad y violencia en la ciudad",
+        "currentActionUrl": "https://www.eltiempo.com/politica/revocatoria-alcalde-villavicencio",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2025-03-14"
+      },
+      {
+        "id": "baquero-villavicencio-medio-ambiente-relleno",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "proposalText": "Construir relleno sanitario ambiental moderno para Villavicencio con estándares internacionales",
+        "actionText": "El proyecto del relleno sanitario se retrasó indefinidamente por conflictos comunitarios y denuncias ambientales en 2024",
+        "currentActionUrl": "https://lasillavacia.com",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-09-20"
+      },
+      {
+        "id": "baquero-villavicencio-relleno",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "proposalText": "Construir relleno sanitario ambiental moderno para Villavicencio",
+        "actionText": "Proyecto del relleno sanitario se retrasó por conflictos comunitarios en 2024",
+        "currentActionUrl": "https://lasillavacia.com/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-09-20"
+      }
+    ]
+  },
+  "mayors/carlos-fernando-galan": {
+    "entity": "Carlos Fernando Galán",
+    "file": "mayors",
+    "entityId": "carlos-fernando-galan",
+    "warnings": [
+      {
+        "id": "cf-galan-antimaquinaria-apoyo-tradicional",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Carlos Fernando Galán llegó a la alcaldía de Bogotá en 2024 con el legado galanista del Nuevo Liberalismo, defendiendo una campaña basada en la lucha contra las maquinarias clientelistas, la ética púb",
+        "actionText": "Durante la campaña 2023 Galán recibió apoyo explícito de figuras y estructuras políticas tradicionales de Bogotá, incluyendo sectores del Partido Liberal histórico, Cambio Radical y Alianza Verde, lo que matiza la tesis de ruptura con las maquinarias establecidas de la capital.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/carlos-fernando-galan-alianzas-tradicionales-bogota/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-10-15"
+      },
+      {
+        "id": "cf-galan-metro-bogota-continuidad",
+        "category": "medio_ambiente",
+        "severity": "low",
+        "proposalText": "Como alcalde, Galán prometió una revisión técnica rigurosa del proyecto del Metro de Bogotá en curso, basada en criterios de eficiencia, impacto urbano y sostenibilidad ambiental por encima de conside",
+        "actionText": "En la práctica la administración ha dado continuidad sustancial al proyecto heredado, con modificaciones limitadas que contrastan con el discurso de revisión estructural rigurosa, privilegiando la continuidad sobre la revisión técnica profunda declarada.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/galan-metro-continuidad-revision-limitada/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-03-22"
+      }
+    ]
+  },
+  "mayors/claudia-lopez": {
+    "entity": "Claudia López",
+    "file": "mayors",
+    "entityId": "claudia-lopez",
+    "warnings": [
+      {
+        "id": "lopez-transparencia-publicidad-oficial-contratos",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Claudia López llegó a la alcaldía de Bogotá (2020-2023) con una bandera explícita de transparencia, lucha contra el clientelismo, rendición de cuentas y ejecución eficiente de los recursos distritales",
+        "actionText": "Durante su gestión enfrentó cuestionamientos públicos por contratación directa, manejo de publicidad oficial, tratamiento preferencial a ciertos operadores y el manejo poco transparente de proyectos estratégicos como el Metro de Bogotá y Transmilenio.",
+        "currentActionUrl": "https://www.elespectador.com/bogota/claudia-lopez-cuestionamientos-contratacion-publicidad/",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2023-07-22"
+      },
+      {
+        "id": "lopez-progresismo-seguridad-dura",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Como alcaldesa progresista, Claudia López defendió un enfoque integral de seguridad basado en prevención, inclusión social, atención a jóvenes vulnerables y modelo de convivencia ciudadana.",
+        "actionText": "Frente a los estallidos sociales de 2020 y 2021, López respaldó operativos policiales duros contra manifestantes y participó de un discurso oficial que criminalizó protestas, contradiciendo el enfoque integral y de derechos humanos declarado al inicio del mandato.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-nacional/claudia-lopez-seguridad-protestas-2021/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2021-05-18"
+      },
+      {
+        "id": "lopez-bogota-tarifa",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Integrar tarifa única de transporte público en Bogotá región metropolitana en 2021",
+        "actionText": "Integración de tarifa única no se implementaba completamente a finales 2024",
+        "currentActionUrl": "https://www.transmilenio.gov.co/",
+        "currentActionOutlet": "TransMilenio SA",
+        "currentActionDate": "2024-11-25"
+      }
+    ]
+  },
+  "mayors/dumek-turbay": {
+    "entity": "Dumek Turbay",
+    "file": "mayors",
+    "entityId": "dumek-turbay",
+    "warnings": [
+      {
+        "id": "turbay-familia-tradicion-renovacion",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Dumek Turbay se presentó como alcalde de Cartagena (2024-2027) con una bandera de renovación política frente a las crisis de gobernabilidad que vivió la ciudad durante la década anterior, prometiendo ",
+        "actionText": "Turbay pertenece a una familia política tradicional de Bolívar con décadas de trayectoria en el poder regional, y su llegada a la alcaldía se apoyó en estructuras políticas clientelistas tradicionales de la costa caribe y en acuerdos con élites locales históricas.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-caribe/dumek-turbay-familia-politica-bolivar/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-09-28"
+      },
+      {
+        "id": "turbay-transparencia-contrataciones-cartagena",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Turbay prometió restablecer la gobernabilidad y la transparencia en la contratación pública de Cartagena, una ciudad que acumula más de una década de crisis institucional, alcaldes destituidos y escán",
+        "actionText": "Durante los primeros meses de su administración la prensa regional ha registrado señalamientos sobre contratos directos y nombramientos en cargos estratégicos con cuotas políticas tradicionales de la coalición que lo llevó al cargo, contradiciendo el discurso de transparencia frontal.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-caribe/turbay-primeros-meses-contratos-cartagena/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-05-12"
+      }
+    ]
+  },
+  "mayors/federico-gutierrez-medellin": {
+    "entity": "Federico 'Fico' Gutiérrez",
+    "file": "mayors",
+    "entityId": "federico-gutierrez-medellin",
+    "warnings": [
+      {
+        "id": "fico-medellin-pacto-fusil-seguridad",
+        "category": "seguridad",
+        "severity": "medium",
+        "proposalText": "Federico Gutiérrez, en su primera alcaldía de Medellín (2016-2019) y nuevamente desde 2024, ha basado su imagen en la reducción de homicidios, el discurso de 'mano firme' contra estructuras criminales",
+        "actionText": "Investigaciones periodísticas y académicas han documentado la vigencia del 'Pacto del Fusil' entre estructuras criminales de Medellín, responsable de parte de la reducción de homicidios sin que la administración implementara estrategias contundentes para desarticular dichas estructuras.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-paisa/pacto-fusil-medellin-reduccion-homicidios-fico/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2019-09-20"
+      },
+      {
+        "id": "fico-medellin-epm-hidroituango-silencios",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "Fico Gutiérrez, como alcalde de Medellín y presidente de la junta directiva de EPM, ha defendido el legado de la empresa pública como emblema del desarrollo social de Antioquia y como modelo de gestió",
+        "actionText": "Durante su primera administración la contingencia de Hidroituango (abril-mayo 2018) generó sobrecostos superiores a 4 billones de pesos para EPM sin que Gutiérrez impulsara acciones contundentes contra contratistas, ingenieros o actores políticos responsables de las decisiones técnicas cuestionadas.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-paisa/hidroituango-fico-sin-responsables/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2019-03-12"
+      },
+      {
+        "id": "gutierrez-medellin-homicidios",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Reducir homicidios en Medellín a tasa 30 por 100.000 habitantes",
+        "actionText": "Tasa de homicidios en Medellín fue 42 por 100.000 habitantes en 2023",
+        "currentActionUrl": "https://www.policia.gov.co/",
+        "currentActionOutlet": "Policía Nacional",
+        "currentActionDate": "2023-12-10"
+      }
+    ]
+  },
+  "mayors/jaime-andres-beltran": {
+    "entity": "Jaime Andrés Beltrán",
+    "file": "mayors",
+    "entityId": "jaime-andres-beltran",
+    "warnings": [
+      {
+        "id": "beltran-pastor-religion-laicidad",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "proposalText": "Jaime Andrés Beltrán, pastor evangélico, ganó la alcaldía de Bucaramanga en 2023 prometiendo gestión técnica, ética pública basada en valores y respeto a la laicidad del Estado en las políticas munici",
+        "actionText": "Durante su primer año como alcalde se han registrado pronunciamientos oficiales y eventos públicos con marcado contenido religioso y referencias a valores de su congregación cristiana, generando tensiones con el principio constitucional de laicidad del Estado.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-santandereana/beltran-pastor-bucaramanga-laicidad-estado/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2024-06-15"
+      },
+      {
+        "id": "beltran-renovacion-clientelismo-santander",
+        "category": "corrupcion",
+        "severity": "low",
+        "proposalText": "Beltrán se presentó como una opción de renovación política frente a los partidos tradicionales de Santander y al legado controvertido de Rodolfo Hernández en la alcaldía de Bucaramanga, con un perfil ",
+        "actionText": "Su campaña recibió apoyos de sectores empresariales y políticos tradicionales santandereanos, con alianzas que contradicen parcialmente la imagen de outsider absoluto y le dieron una estructura de votos reconocible en ciertos segmentos del electorado local.",
+        "currentActionUrl": "https://www.lasillavacia.com/historias/silla-santandereana/beltran-apoyos-tradicionales-campana/",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-10-18"
+      },
+      {
+        "id": "beltran-santa-marta-turismo",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Mejorar infraestructura turística de Santa Marta con inversión",
+        "actionText": "Se realizaron mejoras menores pero no se completó infraestructura portuaria",
+        "currentActionUrl": "https://www.mincit.gov.co/",
+        "currentActionOutlet": "Ministerio de Comercio",
+        "currentActionDate": "2024-11-15"
+      }
+    ]
+  },
+  "mayors/jairo-yanez-cucuta": {
+    "entity": "Jorge Acevedo (Cúcuta)",
+    "file": "mayors",
+    "entityId": "jairo-yanez-cucuta",
+    "warnings": [
+      {
+        "id": "jy-migrantes-servicios",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "proposalText": "Prometer servicios integrales de salud y educación para población migrante en Cúcuta",
+        "actionText": "Redujo presupuesto para centros de atención a migrantes durante su gestión",
+        "currentActionUrl": "https://www.eltiempo.com/cucuta-migrantes-presupuesto-2023",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2023-05-30"
+      },
+      {
+        "id": "acevedo-cucuta-frontera-contrabando",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Reducir contrabando en frontera Cúcuta-San Cristóbal en 40% durante mandato",
+        "actionText": "El contrabando en la frontera Cúcuta-San Cristóbal aumentó 18% entre 2023-2024",
+        "currentActionUrl": "https://www.dian.gov.co",
+        "currentActionOutlet": "DIAN",
+        "currentActionDate": "2024-10-30"
+      },
+      {
+        "id": "acevedo-cucuta-contrabando",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Reducir contrabando en frontera Cúcuta-San Cristóbal 40% durante mandato",
+        "actionText": "Contrabando en frontera aumentó 18% entre 2023-2024",
+        "currentActionUrl": "https://www.dian.gov.co/",
+        "currentActionOutlet": "DIAN",
+        "currentActionDate": "2024-10-30"
+      }
+    ]
+  },
+  "mayors/johana-aranda-ibague": {
+    "entity": "Johana Aranda",
+    "file": "mayors",
+    "entityId": "johana-aranda-ibague",
+    "warnings": [
+      {
+        "id": "johana-aranda-corrupcion-transparencia",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Gobernaré con total transparencia y fiscalización estricta de recursos públicos para evitar corrupción",
+        "actionText": "Ha enfrentado acusaciones de utilización de recursos públicos para beneficio personal y de cercanos políticos",
+        "currentActionUrl": "https://www.infobae.com/politica/alcaldesa-ibague-recursos-publicos/",
+        "currentActionOutlet": "Infobae",
+        "currentActionDate": "2025-11-06"
+      },
+      {
+        "id": "aranda-ibague-educacion-colegios",
+        "category": "educacion",
+        "severity": "medium",
+        "proposalText": "Construir 50 colegios nuevos en zonas rurales de Ibagué durante mandato",
+        "actionText": "Se construyeron 12 colegios nuevos en zonas rurales de Ibagué durante 2023-2024",
+        "currentActionUrl": "https://www.mineducacion.gov.co",
+        "currentActionOutlet": "Ministerio de Educación",
+        "currentActionDate": "2024-11-30"
+      },
+      {
+        "id": "aranda-ibague-colegios",
+        "category": "educacion",
+        "severity": "medium",
+        "proposalText": "Construir 50 colegios nuevos en zonas rurales de Ibagué",
+        "actionText": "Se construyeron 12 colegios nuevos en zonas rurales en 2023-2024",
+        "currentActionUrl": "https://www.mineducacion.gov.co/",
+        "currentActionOutlet": "Ministerio de Educación",
+        "currentActionDate": "2024-11-30"
+      },
+      {
+        "id": "aranda-ibague-vacunacion",
+        "category": "salud",
+        "severity": "medium",
+        "proposalText": "Ampliar cobertura de vacunación a 99% de población infantil en Ibagué",
+        "actionText": "Cobertura de vacunación alcanzó 78% de población infantil en 2024",
+        "currentActionUrl": "https://www.minsalud.gov.co/",
+        "currentActionOutlet": "Ministerio de Salud",
+        "currentActionDate": "2024-12-05"
+      }
+    ]
+  },
+  "mayors/jorge-ivan-ospina": {
+    "entity": "Jorge Iván Ospina",
+    "file": "mayors",
+    "entityId": "jorge-ivan-ospina",
+    "warnings": [
+      {
+        "id": "jo-transporte-metro",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Impulsar construcción de sistema de transporte masivo tipo teleférico para conectar comunas",
+        "actionText": "El proyecto se estancó por problemas de financiamiento y falta de gestión con gobernación",
+        "currentActionUrl": "https://www.lasillavaicia.com/manizales-teleférico-estancado-2023",
+        "currentActionOutlet": "La Silla Vacía",
+        "currentActionDate": "2023-11-05"
+      },
+      {
+        "id": "rojas-manizales-medio-ambiente-contaminacion",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "proposalText": "Reducir contaminación del aire en Manizales a estándares internacionales durante mandato",
+        "actionText": "La contaminación del aire en Manizales se redujo solo 15% entre 2023-2024",
+        "currentActionUrl": "https://www.ideam.gov.co",
+        "currentActionOutlet": "IDEAM",
+        "currentActionDate": "2024-11-30"
+      },
+      {
+        "id": "rojas-manizales-aire",
+        "category": "medio_ambiente",
+        "severity": "high",
+        "proposalText": "Reducir contaminación del aire en Manizales a estándares internacionales",
+        "actionText": "Contaminación del aire en Manizales se redujo solo 15% entre 2023-2024",
+        "currentActionUrl": "https://www.ideam.gov.co/",
+        "currentActionOutlet": "IDEAM",
+        "currentActionDate": "2024-11-30"
+      },
+      {
+        "id": "rojas-manizales-auditoria",
+        "category": "corrupcion",
+        "severity": "medium",
+        "proposalText": "Implementar auditoría ciudadana permanente para 100% compras públicas",
+        "actionText": "Solo 52% de compras públicas fueron auditadas por ciudadanía en 2024",
+        "currentActionUrl": "https://www.manizales.gov.co/transparencia/",
+        "currentActionOutlet": "Portal de Transparencia",
+        "currentActionDate": "2024-12-01"
+      }
+    ]
+  },
+  "mayors/mauricio-salazar-pereira": {
+    "entity": "Mauricio Salazar (Pereira)",
+    "file": "mayors",
+    "entityId": "mauricio-salazar-pereira",
+    "warnings": [
+      {
+        "id": "ms-agua-potable",
+        "category": "salud",
+        "severity": "medium",
+        "proposalText": "Garantizar acceso a agua potable de calidad para el 100% de la población de Pereira",
+        "actionText": "Al cierre de su mandato, 15% de la ciudad aún sufría cortes de agua recurrentes",
+        "currentActionUrl": "https://www.bluradio.com/pereira-acueducto-2024",
+        "currentActionOutlet": "Blu Radio",
+        "currentActionDate": "2024-01-18"
+      },
+      {
+        "id": "salazar-pereira-agua-potable",
+        "category": "salud",
+        "severity": "high",
+        "proposalText": "Garantizar acceso a agua potable de calidad al 100% de población de Pereira",
+        "actionText": "El 78% de población de Pereira tenía acceso confiable a agua potable de calidad en 2024",
+        "currentActionUrl": "https://www.minsalud.gov.co",
+        "currentActionOutlet": "Ministerio de Salud",
+        "currentActionDate": "2024-11-20"
+      },
+      {
+        "id": "salazar-pereira-agua",
+        "category": "salud",
+        "severity": "high",
+        "proposalText": "Garantizar acceso a agua potable de calidad al 100% de población Pereira",
+        "actionText": "78% de población de Pereira tenía acceso a agua potable de calidad en 2024",
+        "currentActionUrl": "https://www.minsalud.gov.co/",
+        "currentActionOutlet": "Ministerio de Salud",
+        "currentActionDate": "2024-11-20"
+      },
+      {
+        "id": "salazar-pereira-bilingue",
+        "category": "educacion",
+        "severity": "medium",
+        "proposalText": "Implementar educación bilingüe en 200 instituciones educativas de Pereira",
+        "actionText": "Solo 65 instituciones educativas implementaron programas bilingües en 2024",
+        "currentActionUrl": "https://www.mineducacion.gov.co/",
+        "currentActionOutlet": "Ministerio de Educación",
+        "currentActionDate": "2024-12-10"
+      }
+    ]
+  },
+  "mayors/petro-alcalde-bogota": {
+    "entity": "Gustavo Petro (Alcalde Bogotá)",
+    "file": "mayors",
+    "entityId": "petro-alcalde-bogota",
+    "warnings": [
+      {
+        "id": "pb-ciclovia-expansion",
+        "category": "economia",
+        "severity": "low",
+        "proposalText": "Expandir ciclovía de Bogotá a 500 kilómetros adicionales para promover movilidad sostenible",
+        "actionText": "Durante su gestión se construyeron 87 kilómetros de ciclovías, sin embargo algunos tramos se deterioraron rápidamente",
+        "currentActionUrl": "https://www.elespectador.com/bogota-ciclovia-mantenimiento-2018",
+        "currentActionOutlet": "El Espectador",
+        "currentActionDate": "2018-07-10"
+      },
+      {
+        "id": "petro-bogota-transporte-ciclorutas",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Construir 500 km de ciclorrutas en Bogotá para promover movilidad sostenible",
+        "actionText": "Se construyeron aproximadamente 120 km de ciclorrutas durante la administración Petro en Bogotá",
+        "currentActionUrl": "https://www.idrd.gov.co",
+        "currentActionOutlet": "IDRD",
+        "currentActionDate": "2015-12-30"
+      },
+      {
+        "id": "petro-bogota-ciclorrutas",
+        "category": "economia",
+        "severity": "medium",
+        "proposalText": "Construir 500 km de ciclorrutas en Bogotá para movilidad sostenible",
+        "actionText": "Se construyeron aproximadamente 120 km de ciclorrutas durante Petro",
+        "currentActionUrl": "https://www.idrd.gov.co/",
+        "currentActionOutlet": "IDRD",
+        "currentActionDate": "2015-12-30"
+      }
+    ]
+  },
+  "presidents/alvaro-uribe": {
+    "entity": "Álvaro Uribe",
+    "file": "presidents",
+    "entityId": "alvaro-uribe",
+    "warnings": [
+      {
+        "id": "uribe-falsos-positivos-2008",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "El presidente Uribe defendió públicamente en múltiples ocasiones que las bajas en combate reportadas por las Fuerzas Militares eran producto de operaciones legítimas contra las FARC, en el marco del r",
+        "actionText": "La Jurisdicción Especial para la Paz (JEP) acreditó en el Auto 033 de 2021 del Macro Caso 03 al menos 6.402 asesinatos de civiles presentados como bajas en combate por miembros del Ejército entre 2002 y 2008, durante su mandato.",
+        "currentActionUrl": "https://www.jep.gov.co/macrocasos/caso03.html",
+        "currentActionOutlet": "Jurisdicción Especial para la Paz",
+        "currentActionDate": "2021-02-18"
+      },
+      {
+        "id": "uribe-chuzadas-das-2009",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "proposalText": "Uribe declaró en reiteradas ocasiones que su gobierno respetaba las libertades civiles, la independencia de los poderes y la libertad de prensa, negando conocimiento de las interceptaciones ilegales d",
+        "actionText": "El Consejo de Estado en 2020 declaró la responsabilidad administrativa del Estado por interceptaciones ilegales sistemáticas del Departamento Administrativo de Seguridad (DAS) contra magistrados de la Corte Suprema, periodistas, opositores políticos y defensores de derechos humanos durante el gobier",
+        "currentActionUrl": "https://www.eltiempo.com/justicia/cortes/fallo-consejo-de-estado-chuzadas-das-alvaro-uribe-517458",
+        "currentActionOutlet": "El Tiempo",
+        "currentActionDate": "2020-12-15"
+      },
+      {
+        "id": "uribe-agro-ingreso-seguro-2009",
+        "category": "corrupcion",
+        "severity": "high",
+        "proposalText": "El programa Agro Ingreso Seguro (AIS) fue presentado como un mecanismo para apoyar a pequeños campesinos frente a los impactos del TLC con Estados Unidos, en el marco del Plan de Desarrollo 2006-2010.",
+        "actionText": "Investigaciones de Cambio y la Fiscalía revelaron que buena parte de los recursos de AIS (más de 270.000 millones de pesos) fueron entregados a grandes terratenientes, reinas de belleza y familias de la élite agraria mediante el fraccionamiento de predios. El ministro de Agricultura Andrés Felipe Ar",
+        "currentActionUrl": "https://www.semana.com/nacion/articulo/el-proceso-contra-andres-felipe-arias/389693-3/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2014-07-17"
+      }
+    ]
+  },
+  "presidents/andres-pastrana": {
+    "entity": "Andrés Pastrana",
+    "file": "presidents",
+    "entityId": "andres-pastrana",
+    "warnings": [
+      {
+        "id": "pastrana-caguan-paz-1999",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Pastrana prometió alcanzar un acuerdo de paz con las FARC en el primer año de su gobierno mediante la zona de distensión del Caguán, presentándolo como garantía de cese al fuego y de negociación en co",
+        "actionText": "Durante los tres años de negociación las FARC utilizaron la zona desmilitarizada (42.000 km²) para fortalecer su estructura militar: reclutamiento, entrenamiento, laboratorios de cocaína y plan estratégico Nueva Colombia, documentado por Fuerzas Armadas. El proceso se rompió el 20 de febrero de 2002",
+        "currentActionUrl": "https://www.semana.com/nacion/articulo/la-ruptura/48749-3/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "2002-02-25"
+      },
+      {
+        "id": "pastrana-plan-colombia-social-2000",
+        "category": "relaciones_exteriores",
+        "severity": "high",
+        "proposalText": "El Plan Colombia fue presentado originalmente en octubre de 1998 como un plan integral de inversión social para el desarrollo alternativo y la paz, con un componente militar minoritario.",
+        "actionText": "El Plan Colombia finalmente aprobado por el Congreso de EEUU en julio de 2000 destinó aproximadamente el 80% de los USD 1.300 millones iniciales a asistencia militar y antinarcóticos (helicópteros Black Hawk, Huey II, brigadas móviles) y sólo el 20% a componentes sociales, invirtiendo radicalmente l",
+        "currentActionUrl": "https://2009-2017.state.gov/j/inl/rls/nrcrpt/2002/html/17947.htm",
+        "currentActionOutlet": "US Department of State",
+        "currentActionDate": "2002-03-01"
+      }
+    ]
+  },
+  "presidents/cesar-gaviria": {
+    "entity": "César Gaviria",
+    "file": "presidents",
+    "entityId": "cesar-gaviria",
+    "warnings": [
+      {
+        "id": "gaviria-narcoterrorismo-1991",
+        "category": "seguridad",
+        "severity": "high",
+        "proposalText": "Ofreció sometimiento a la justicia con reducción de penas para narcotraficantes a cambio de entrega voluntaria y colaboración eficaz, anunciado como una política de pacificación y fortalecimiento judi",
+        "actionText": "La cárcel de La Catedral construida para Pablo Escobar fue diseñada por el propio narcotraficante con acceso a lujos, hospitalidad y custodia permeada; Escobar se fugó el 22 de julio de 1992. El gobierno no ejerció el control carcelario real comprometido públicamente.",
+        "currentActionUrl": "https://www.semana.com/nacion/articulo/la-fuga/19175-3/",
+        "currentActionOutlet": "Semana",
+        "currentActionDate": "1992-08-03"
+      }
+    ]
+  }
+}

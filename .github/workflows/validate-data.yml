@@ -1,0 +1,64 @@
+name: validate-data
+
+on:
+  pull_request:
+    paths:
+      - 'packages/data/**'
+      - 'packages/etl/src/models.py'
+      - 'packages/etl/src/validate.py'
+      - 'packages/etl/src/generate_ideologies.py'
+      - 'packages/schema/**'
+  push:
+    branches: [main]
+    paths:
+      - 'packages/data/**'
+
+jobs:
+  validate:
+    name: Validar JSONs contra schema Pydantic
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'packages/etl/requirements.txt'
+
+      - name: Install Python deps
+        working-directory: packages/etl
+        run: pip install -r requirements.txt
+
+      - name: Generate ideologies (verificar determinismo)
+        working-directory: packages/etl
+        run: |
+          python -m src.generate_ideologies --output /tmp/ideologies.json
+          if ! diff /tmp/ideologies.json ../data/ideologies.json; then
+            echo "::error::ideologies.json no coincide con el output del generador."
+            echo "Ejecuta 'pnpm generate:ideologies' localmente y commitea el resultado."
+            exit 1
+          fi
+
+      - name: Validate all data files
+        working-directory: packages/etl
+        run: python -m src.validate ../data/colombia ../data/ideologies.json
+
+  typecheck:
+    name: TypeScript typecheck
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+
+      - run: pnpm install --frozen-lockfile
+
+      - run: pnpm -r typecheck

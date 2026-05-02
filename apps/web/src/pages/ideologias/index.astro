@@ -1,0 +1,101 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getAllIdeologies } from '@/lib/data';
+
+const ideologies = getAllIdeologies();
+
+type QuadrantKey = 'auth_left' | 'auth_right' | 'lib_left' | 'lib_right';
+
+const byQuadrant: Record<QuadrantKey, typeof ideologies> = {
+  auth_left: ideologies.filter((i) => i.quadrant === 'auth_left'),
+  auth_right: ideologies.filter((i) => i.quadrant === 'auth_right'),
+  lib_left: ideologies.filter((i) => i.quadrant === 'lib_left'),
+  lib_right: ideologies.filter((i) => i.quadrant === 'lib_right'),
+};
+
+const labels: Record<QuadrantKey, { title: string; desc: string; glyph: string }> = {
+  auth_left: {
+    title: 'Autoritario · Izquierda',
+    desc: 'Economía colectivista con fuerte control estatal. Del estalinismo al chavismo.',
+    glyph: '❦',
+  },
+  auth_right: {
+    title: 'Autoritario · Derecha',
+    desc: 'Economía de mercado con control social. Del fascismo al capitalismo autoritario.',
+    glyph: '§',
+  },
+  lib_left: {
+    title: 'Libertario · Izquierda',
+    desc: 'Economía colectivista con libertades individuales. De la socialdemocracia al anarco-comunismo.',
+    glyph: '◊',
+  },
+  lib_right: {
+    title: 'Libertario · Derecha',
+    desc: 'Economía de mercado con libertades individuales. Del liberalismo clásico al anarco-capitalismo.',
+    glyph: '¶',
+  },
+};
+
+const quadrantOrder: QuadrantKey[] = ['auth_left', 'auth_right', 'lib_left', 'lib_right'];
+---
+
+<BaseLayout title="Ideologías" description="Catálogo de las corrientes ideológicas del compass político.">
+  <div class="page-header">
+    <div class="page-header-inner">
+      <p class="section-kicker">Sección</p>
+      <h1 style="margin-top: 0.5rem;">Ideologías</h1>
+      <p class="page-lead">
+        <em>{ideologies.length} corrientes</em> distribuidas en los cuatro cuadrantes del compass.
+        Cada una con su descripción, pensadores clave y enlaces a fuentes externas.
+      </p>
+    </div>
+  </div>
+
+  <section class="mx-auto max-w-[1400px] px-6 pb-20">
+    {quadrantOrder.map((q, idx) => {
+      const l = labels[q];
+      const list = byQuadrant[q];
+      const inkVar = `var(--q-${q.replace('_', '-')}-ink)`;
+      const bgVar = `var(--q-${q.replace('_', '-')}-bg)`;
+      return (
+        <section class="mb-20">
+          {idx > 0 && (
+            <div class="rule-ornament">
+              <span class="rule-ornament-glyph">{l.glyph}</span>
+            </div>
+          )}
+          <div class="mb-8 pb-5 flex items-end justify-between flex-wrap gap-4" style={`border-bottom: 2px solid ${inkVar};`}>
+            <div>
+              <p class="section-kicker" style={`color: ${inkVar};`}>Cuadrante {String(idx + 1).padStart(2, '0')}</p>
+              <h2 style={`margin-top: 4px; color: ${inkVar};`}>{l.title}</h2>
+              <p class="section-byline mt-2"><em>{l.desc}</em></p>
+            </div>
+            <p class="section-byline section-byline--sm"><em>{list.length} corrientes</em></p>
+          </div>
+
+          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-0">
+            {list.map((i) => (
+              <a
+                href={`/ideologias/${i.id}`}
+                class="p-5"
+                style={`text-decoration: none; color: var(--ink); border-bottom: 1px solid var(--rule); border-right: 1px solid var(--rule);`}
+              >
+                <p style="font-family: var(--font-display); font-size: 19px; font-weight: 600; line-height: 1.2; margin: 0; color: var(--ink);">
+                  {i.name}
+                </p>
+                {i.nameEn && (
+                  <p class="section-byline section-byline--sm mt-0.5" style="font-size: 13px;">
+                    <em>{i.nameEn}</em>
+                  </p>
+                )}
+                <p class="mt-2 line-clamp-2" style="font-family: var(--font-serif); font-size: 14px; line-height: 1.5; color: var(--ink-soft);">
+                  {i.description}
+                </p>
+              </a>
+            ))}
+          </div>
+        </section>
+      );
+    })}
+  </section>
+</BaseLayout>

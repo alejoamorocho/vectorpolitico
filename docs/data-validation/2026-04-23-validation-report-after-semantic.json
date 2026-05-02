@@ -1,0 +1,63 @@
+{
+  "threshold": 3.0,
+  "summary": {
+    "total_politicians": 110,
+    "with_warnings": 0,
+    "no_warnings": 110,
+    "cells_distribution_self": {
+      "libertarian-socialism": 35,
+      "clientelism-cacicazgo": 12,
+      "technocracy": 10,
+      "nationalist-conservatism": 8,
+      "fiscal-conservatism": 6,
+      "liberal-conservatism": 5,
+      "developmentalism": 5,
+      "third-way": 4,
+      "christian-libertarianism": 4,
+      "neo-conservatism": 3,
+      "syndicalism": 3,
+      "gandhism": 3,
+      "traditionalist-conservatism": 2,
+      "maoism": 2,
+      "eco-socialism": 2,
+      "national-liberalism": 2,
+      "right-populism": 1,
+      "christian-democracy": 1,
+      "green-politics": 1,
+      "authoritarian-capitalism": 1
+    },
+    "cells_distribution_evidenced": {
+      "libertarian-socialism": 37,
+      "developmentalism": 16,
+      "securitarian-right": 7,
+      "neo-conservatism": 7,
+      "leninism": 6,
+      "right-populism": 4,
+      "clientelism-cacicazgo": 4,
+      "nationalist-conservatism": 4,
+      "technocracy": 4,
+      "traditionalist-conservatism": 3,
+      "green-politics": 3,
+      "fiscal-conservatism": 3,
+      "liberal-conservatism": 3,
+      "eco-socialism": 2,
+      "national-liberalism": 2,
+      "progressive-conservatism": 1,
+      "orthodox-marxism": 1,
+      "syndicalism": 1,
+      "pink-capitalism": 1,
+      "christian-democracy": 1
+    }
+  },
+  "warnings": [],
+  "by_file_counts": {
+    "presidents.json": 7,
+    "vice-presidents.json": 2,
+    "candidates.json": 24,
+    "vp-candidates.json": 12,
+    "senators.json": 33,
+    "representatives.json": 5,
+    "governors.json": 14,
+    "mayors.json": 13
+  }
+}

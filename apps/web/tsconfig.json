@@ -1,0 +1,16 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@brujula/schema": ["../../packages/schema/src"],
+      "@brujula/schema/*": ["../../packages/schema/src/*"]
+    },
+    "types": ["astro/client"]
+  },
+  "include": ["src/**/*", ".astro/**/*"],
+  "exclude": ["dist", "node_modules", ".astro"]
+}

@@ -1,0 +1,101 @@
+<h2>Modo pantalla completa: ¿Cómo se organiza?</h2>
+<p class="subtitle">Al hacer clic en "expandir", el mapa toma toda la pantalla del navegador. ¿Cómo distribuimos los elementos?</p>
+
+<div class="cards">
+  <!-- Option A: Sidebar fijo a la izquierda -->
+  <div class="card" data-choice="a" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:12px;background:#1a1510;">
+      <div style="font-family:Georgia,serif;display:flex;height:220px;gap:0;border:1px solid #d4cab0;border-radius:4px;overflow:hidden;">
+        <!-- Sidebar -->
+        <div style="width:160px;flex-shrink:0;background:#faf5e8;padding:10px;border-right:1px solid #d4cab0;display:flex;flex-direction:column;gap:8px;">
+          <div style="display:flex;justify-content:space-between;align-items:center;">
+            <span style="font-size:11px;font-weight:bold;color:#1a1510;font-family:Georgia,serif;">Brújula Política</span>
+            <span style="font-size:14px;cursor:pointer;color:#6b5f4e;background:#ede4cc;width:20px;height:20px;display:flex;align-items:center;justify-content:center;border-radius:3px;">✕</span>
+          </div>
+          <div style="height:1px;background:#d4cab0;"></div>
+          <div style="font-size:8px;color:#6b5f4e;text-transform:uppercase;letter-spacing:1.5px;font-family:monospace;">Capas</div>
+          <div style="display:flex;flex-direction:column;gap:4px;">
+            <label style="font-size:9.5px;color:#332b22;display:flex;align-items:center;gap:4px;">
+              <input type="checkbox" checked style="accent-color:#1e3556;"> <span style="width:7px;height:7px;border-radius:50%;background:#1e3556;display:inline-block;"></span> Autopercibido
+            </label>
+            <label style="font-size:9.5px;color:#332b22;display:flex;align-items:center;gap:4px;">
+              <input type="checkbox" style="accent-color:#6b1f1f;"> <span style="width:7px;height:7px;border-radius:50%;background:#6b1f1f;display:inline-block;"></span> Evidenciado
+            </label>
+            <label style="font-size:9.5px;color:#332b22;display:flex;align-items:center;gap:4px;">
+              <input type="checkbox"> <span style="width:10px;height:0;border-top:1.5px solid #3d3d3d;display:inline-block;"></span> Flechas
+            </label>
+          </div>
+          <div style="font-size:8px;color:#6b5f4e;text-transform:uppercase;letter-spacing:1.5px;font-family:monospace;margin-top:2px;">Filtros</div>
+          <select style="font-size:9px;font-family:Georgia;background:#fff;border:1px solid #d4cab0;padding:2px;border-radius:2px;"><option>Todos los cargos</option></select>
+          <select style="font-size:9px;font-family:Georgia;background:#fff;border:1px solid #d4cab0;padding:2px;border-radius:2px;"><option>Todos los partidos</option></select>
+          <div style="margin-top:auto;height:1px;background:#d4cab0;"></div>
+          <div style="font-size:8px;color:#6b5f4e;text-transform:uppercase;letter-spacing:1.5px;font-family:monospace;">Guía</div>
+          <div style="display:flex;flex-direction:column;gap:3px;font-size:9px;color:#332b22;">
+            <div style="display:flex;align-items:center;gap:3px;"><span style="width:6px;height:6px;border-radius:50%;background:#1e3556;flex-shrink:0;display:inline-block;"></span> Dónde dice estar</div>
+            <div style="display:flex;align-items:center;gap:3px;"><span style="width:6px;height:6px;border-radius:50%;background:#6b1f1f;flex-shrink:0;display:inline-block;"></span> Dónde está realmente</div>
+          </div>
+        </div>
+        <!-- Map area -->
+        <div style="flex:1;background:linear-gradient(135deg,#ebd9d9 25%,#d9dfe8 25%,#d9dfe8 50%,#d9e3dc 50%,#d9e3dc 75%,#ebddb9 75%);display:flex;align-items:center;justify-content:center;position:relative;">
+          <span style="font-style:italic;color:#6b5f4e;font-size:12px;">[Mapa ocupa 100% del espacio restante]</span>
+          <!-- Zoom controls -->
+          <div style="position:absolute;bottom:10px;right:10px;display:flex;flex-direction:column;gap:2px;">
+            <button style="width:26px;height:26px;background:#faf5e8;border:1px solid #d4cab0;border-radius:3px;font-size:14px;cursor:pointer;color:#332b22;">+</button>
+            <button style="width:26px;height:26px;background:#faf5e8;border:1px solid #d4cab0;border-radius:3px;font-size:14px;cursor:pointer;color:#332b22;">−</button>
+          </div>
+          <!-- Ctrl hint -->
+          <div style="position:absolute;bottom:10px;left:10px;font-size:8px;color:#a69a85;font-family:monospace;">Ctrl + scroll para zoom</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>A — Sidebar fijo a la izquierda</h3>
+      <p>Mismo layout que la versión embebida pero en fullscreen. Sidebar con capas, filtros y guía. El mapa ocupa todo el espacio restante. Botón ✕ para salir. Controles de zoom abajo a la derecha.</p>
+    </div>
+  </div>
+
+  <!-- Option B: Header slim + mapa completo -->
+  <div class="card" data-choice="b" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:12px;background:#1a1510;">
+      <div style="font-family:Georgia,serif;height:220px;display:flex;flex-direction:column;gap:0;border:1px solid #d4cab0;border-radius:4px;overflow:hidden;">
+        <!-- Top bar -->
+        <div style="background:#faf5e8;padding:6px 12px;border-bottom:1px solid #d4cab0;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+          <span style="font-size:10px;font-weight:bold;color:#1a1510;font-family:Georgia;">Brújula Política</span>
+          <span style="color:#d4cab0;">│</span>
+          <label style="font-size:9px;color:#332b22;display:flex;align-items:center;gap:3px;">
+            <input type="checkbox" checked style="accent-color:#1e3556;"> <span style="width:6px;height:6px;border-radius:50%;background:#1e3556;display:inline-block;"></span> Autopercibido
+          </label>
+          <label style="font-size:9px;color:#332b22;display:flex;align-items:center;gap:3px;">
+            <input type="checkbox" style="accent-color:#6b1f1f;"> <span style="width:6px;height:6px;border-radius:50%;background:#6b1f1f;display:inline-block;"></span> Evidenciado
+          </label>
+          <label style="font-size:9px;color:#332b22;display:flex;align-items:center;gap:3px;">
+            <input type="checkbox"> Flechas
+          </label>
+          <span style="color:#d4cab0;">│</span>
+          <select style="font-size:9px;font-family:Georgia;background:#fff;border:1px solid #d4cab0;padding:1px 4px;border-radius:2px;"><option>Cargo</option></select>
+          <select style="font-size:9px;font-family:Georgia;background:#fff;border:1px solid #d4cab0;padding:1px 4px;border-radius:2px;"><option>Partido</option></select>
+          <span style="margin-left:auto;font-size:13px;cursor:pointer;color:#6b5f4e;background:#ede4cc;width:20px;height:20px;display:flex;align-items:center;justify-content:center;border-radius:3px;">✕</span>
+        </div>
+        <!-- Full map -->
+        <div style="flex:1;background:linear-gradient(135deg,#ebd9d9 25%,#d9dfe8 25%,#d9dfe8 50%,#d9e3dc 50%,#d9e3dc 75%,#ebddb9 75%);display:flex;align-items:center;justify-content:center;position:relative;">
+          <span style="font-style:italic;color:#6b5f4e;font-size:12px;">[Mapa ocupa 100% vertical y horizontal]</span>
+          <div style="position:absolute;bottom:10px;right:10px;display:flex;flex-direction:column;gap:2px;">
+            <button style="width:26px;height:26px;background:#faf5e8;border:1px solid #d4cab0;border-radius:3px;font-size:14px;cursor:pointer;">+</button>
+            <button style="width:26px;height:26px;background:#faf5e8;border:1px solid #d4cab0;border-radius:3px;font-size:14px;cursor:pointer;">−</button>
+          </div>
+          <!-- Floating legend -->
+          <div style="position:absolute;bottom:10px;left:10px;background:#faf5e8ee;border:1px solid #d4cab0;padding:6px 8px;border-radius:3px;font-size:8.5px;">
+            <div style="display:flex;flex-direction:column;gap:3px;color:#332b22;">
+              <div style="display:flex;align-items:center;gap:3px;"><span style="width:6px;height:6px;border-radius:50%;background:#1e3556;display:inline-block;"></span> Dónde dice estar</div>
+              <div style="display:flex;align-items:center;gap:3px;"><span style="width:6px;height:6px;border-radius:50%;background:#6b1f1f;display:inline-block;"></span> Dónde está realmente</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>B — Header slim + mapa máximo</h3>
+      <p>Barra delgada arriba con todos los controles en una línea. El mapa ocupa el máximo espacio posible. Leyenda flotante abajo a la izquierda. Más espacio para el mapa pero controles más comprimidos.</p>
+    </div>
+  </div>
+</div>
