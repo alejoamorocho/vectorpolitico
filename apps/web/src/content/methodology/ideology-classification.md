@@ -3,7 +3,7 @@ title: Cómo asignamos ideología a cada figura
 description: Metodología v2 para asignar ideología con trazabilidad. Regla de proximidad geométrica flexible con justificación documentada y fuentes verificables para cada asignación.
 order: 15
 section: compass
-version: 2.1.0
+version: 2.2.0
 lastUpdated: 2026-04-23
 authors:
   - ssi-co
@@ -14,32 +14,58 @@ relatedDocs:
 
 ## Principio rector
 
-Cada figura termina con una etiqueta ideológica (ej. `social-democracy`, `liberal-conservatism`). Esa etiqueta **debe ser consecuencia** de su posición en el compás, no una decisión previa.
+Cada figura tiene **dos etiquetas ideológicas distintas**, una por cada pregunta sobre ella:
 
-Dos campos distintos, ambos con fuentes:
+- `ideologySelf` — la corriente que mejor representa lo que la figura **dice ser** (deriva del análisis de su discurso público).
+- `ideologyEvidenced` — la corriente que mejor representa lo que sus **acciones revelan** (deriva del análisis dimensional de votaciones, decretos, ejecución presupuestal y demás evidencia primaria).
 
-- `ideologySelfAssignment` — la ideología que mejor representa lo que la figura **dice ser** (derivada de `compassSelfPerceived`).
-- `ideologyEvidencedAssignment` — la ideología que mejor representa lo que las acciones muestran (derivada de `compassEvidenced`).
+Cada asignación se acompaña de una justificación escrita y al menos una fuente verificable, en los campos `ideologySelfAssignment` e `ideologyEvidencedAssignment` del JSON. **Sin fuentes no hay asignación** — el schema Zod y Pydantic lo rechaza.
 
-Cada asignación va con una justificación escrita y al menos una fuente verificable. **Sin fuentes no hay asignación** — el schema Zod y Pydantic lo rechaza.
+Bajo el modelo vigente ([ADR-003](/metodologia/adr-003-grid-completo-educativo)) **las coordenadas visuales** de cada figura derivan automáticamente de las etiquetas:
 
-## La regla de proximidad (flexible con justificación)
+- `compassSelfPerceived.{x, y}` = centroide exacto de la celda de `ideologySelf`.
+- `compassEvidenced.{x, y}` = centroide exacto de la celda de `ideologyEvidenced`.
 
-Cada ideología en `ideologies.json` tiene un centro `(x, y)` y unas dimensiones `(width, height)` que definen su "caja" en el compás.
+Esto significa que **la etiqueta determina la posición visual**, no al revés. La etiqueta sigue derivándose del análisis (discursivo para la self, dimensional para la evidenced) pero el píxel donde se dibuja la figura es derivado simbólicamente. Esto garantiza que cada figura caiga en el corazón de su celda y el mapa sea legible sin ambigüedad.
 
-**Regla por defecto:** asignar la ideología cuyo centro esté más cerca (distancia euclidiana) del punto de la figura, dando preferencia a ideologías del mismo cuadrante.
+## Cómo se asigna `ideologySelf` (autopercibida)
 
-**Excepción justificada:** se puede asignar una ideología distinta a la más cercana si:
+El análisis para esta etiqueta es **discursivo**, no dimensional. Se lee lo que la figura declara en sus propios canales (sitio oficial, programa de gobierno, plataforma del partido, perfil en Wikipedia ES) y se elige del catálogo de 135 corrientes la celda que mejor describe ese discurso.
 
-- la figura se identifica explícitamente con esa etiqueta en una fuente propia, o
-- hay evolución ideológica documentada (ej. ex-combatiente, cambio de partido con declaración pública), o
-- la ideología describe mejor la familia política aun cuando su posición numérica la haya movido (ej. socialliberal que queda en lib-der)
+Cuando una figura se autodefine explícitamente con un término del catálogo (ej. "soy socialdemócrata"), la etiqueta es directa. Cuando no, se infiere del lenguaje, las propuestas y las referencias intelectuales que cita. La justificación debe nombrar exactamente qué frases o documentos sustentan la etiqueta.
 
-Cuando se usa la excepción, la justificación debe **nombrar el motivo y citar la fuente**.
+## Cómo se asigna `ideologyEvidenced` (evidenciada)
+
+El proceso tiene dos pasos:
+
+### 1. Scoring dimensional con fuentes primarias
+
+Para cada figura se evalúan las **8 dimensiones del compás** (4 económicas + 4 sociales — ver [compass-scoring](/metodologia/compass-scoring)) en escala -10 a +10, con:
+
+- justificación textual por dimensión que cite acciones concretas (votación específica, decreto firmado, partida ejecutada);
+- fuentes primarias por dimensión (CongresoVisible, SUIN-Juriscol, Contraloría, Diario Oficial, Registraduría).
+
+Estos `dimensionScores` quedan guardados en `compassEvidenced.dimensionScores` y son auditables. Son la **base evidencial** del análisis evidenciado.
+
+### 2. Elección de la celda con la regla de proximidad
+
+A partir de los scores se calcula `(x_avg, y_avg)` (promedio ponderado). Ese punto numérico apoya la elección de etiqueta:
+
+**Regla por defecto** — asignar la ideología cuyo centroide esté más cerca (distancia euclidiana) del `(x_avg, y_avg)`, dando preferencia a celdas del mismo cuadrante.
+
+**Excepción justificada** — se puede asignar una etiqueta distinta a la más cercana si:
+
+- la figura se identifica explícitamente con esa etiqueta en una fuente propia,
+- hay evolución ideológica documentada (ex-combatiente, cambio de partido con declaración pública),
+- la etiqueta describe mejor la familia política aunque el `(x_avg, y_avg)` numérico esté ligeramente desplazado.
+
+Cuando se usa la excepción, la justificación textual debe nombrar el motivo y citar la fuente.
+
+Una vez elegida la etiqueta, la **coordenada visual** `compassEvidenced.{x, y}` se asigna automáticamente al centroide exacto de esa celda — no al `(x_avg, y_avg)` numérico crudo. El [validador de coherencia](/metodologia/data-validation) chequea que el desplazamiento entre `(x_avg, y_avg)` y el centroide no supere 3 unidades; si supera, la etiqueta debe revisarse.
 
 ### Sin límite de distancia entre self y evidenced
 
-**No existe límite artificial** de distancia entre `ideologySelfAssignment` e `ideologyEvidencedAssignment`. Si la evidencia muestra que un político gobierna desde una ideología opuesta a la que declara, eso se refleja tal cual — hacer visible esa divergencia es precisamente el propósito de Brújula Política.
+**No existe límite artificial** de distancia entre `ideologySelf` e `ideologyEvidenced`. Si la evidencia muestra que un político gobierna desde una ideología opuesta a la que declara, eso se refleja tal cual — hacer visible esa divergencia es precisamente el propósito de Brújula Política.
 
 Lo único obligatorio es el **"por qué"**: a mayor distancia entre self y evidenced, más robusta debe ser la justificación y las fuentes de la posición evidenciada.
 
@@ -104,13 +130,17 @@ El campo `ideologies: string[]` sigue como lista de etiquetas tangenciales que n
 
 ## Proceso paso a paso
 
-1. **Calcular `compassEvidenced`** con la metodología de scoring, fuentes primarias, confianza calibrada.
-2. **Calcular `compassSelfPerceived`** desde sitio oficial, Wikipedia, plataforma.
-3. **Asignar `ideologyEvidenced`** buscando en `ideologies.json` la ideología del mismo cuadrante cuyo centro esté más cerca de la posición evidenciada.
-4. **Asignar `ideologySelf`** con la misma lógica sobre la posición auto-percibida, con preferencia a etiquetas que la figura use.
-5. **Documentar divergencia.** Si `ideologySelf` ≠ `ideologyEvidenced`, explicar en la justificación qué evidencia causa la diferencia. A mayor distancia, más detallada la justificación y más fuentes.
-6. **Escribir justificaciones** citando al menos 1 fuente por cada `Assignment`.
-7. **Validar con Zod/Pydantic.** Sin justificación ≥20 caracteres o sin fuente, falla.
+1. **Recopilar evidencia primaria** del actor:
+   - Para self: sitio oficial, Wikipedia, plataforma del partido, programa de gobierno.
+   - Para evidenced: votaciones (CongresoVisible), decretos (SUIN-Juriscol), ejecución (Contraloría), nombramientos, coaliciones.
+2. **Asignar `ideologySelf`** desde el análisis discursivo: ¿con qué corriente del catálogo de 135 se identifica la figura en sus propias palabras?
+3. **Calcular los 8 `dimensionScores`** del análisis evidenciado, con justificación + fuentes primarias por dimensión.
+4. **Calcular `(x_avg, y_avg)`** numérico como pista del cuadrante y zona donde el comportamiento ubica al actor.
+5. **Asignar `ideologyEvidenced`** aplicando la regla de proximidad (con excepción justificada cuando aplique).
+6. **Coordenadas visuales** se asignan automáticamente: `compassSelfPerceived` = centroide de `ideologySelf`; `compassEvidenced` = centroide de `ideologyEvidenced`.
+7. **Documentar divergencia self↔evidenced** en la justificación. A mayor distancia, más detallada y con más fuentes.
+8. **Escribir justificaciones** citando al menos 1 fuente por cada `Assignment`.
+9. **Validar con Zod/Pydantic** (sin justificación ≥20 caracteres o sin fuente, falla) y con `validate_dataset.py` (que la etiqueta evidenciada sea coherente con los `dimensionScores`).
 
 ## Qué NO hacer
 

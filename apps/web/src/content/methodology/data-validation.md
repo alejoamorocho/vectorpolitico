@@ -3,7 +3,7 @@ title: Validación del dataset
 description: Cómo verificamos que las coordenadas del compás son coherentes con la evidencia documentada — un validador automático que corre como red de seguridad sobre todos los datos.
 order: 25
 section: compass
-version: 1.0.0
+version: 2.0.0
 lastUpdated: 2026-04-23
 authors:
   - ssi-co
@@ -14,33 +14,32 @@ relatedDocs:
 
 ## ¿Por qué validar?
 
-Cada figura política en el compás tiene dos cosas:
+Cada figura política tiene tres elementos relacionados:
 
-1. Una **coordenada** `(x, y)` que la ubica en el mapa visual.
-2. Ocho **dimensionScores** que descomponen esa posición por dimensión (política fiscal, mercado, derechos civiles, seguridad, etc.).
+1. Una **etiqueta evidenciada** (`ideologyEvidenced`) — la corriente que el proyecto le asigna como mejor descripción de su comportamiento.
+2. Ocho **dimensionScores** — análisis dimensión por dimensión con justificación y fuentes.
+3. Una **coordenada visual** `compassEvidenced.{x, y}` — el centroide exacto de la celda de la etiqueta evidenciada.
 
-La coord debería ser el **promedio ponderado** de los scores. Si no lo es, alguien se contradice consigo mismo: o el análisis dimensional está mal, o la posición visual está mal, o ambos.
-
-El proyecto usa un **validador automático** que detecta estas contradicciones para que ningún punto quede sin justificación documentada por dimensión.
+Bajo el modelo vigente ([ADR-003](/metodologia/adr-003-grid-completo-educativo)) la coord visual es derivada automáticamente de la etiqueta — no necesita validarse contra los scores porque por construcción cae en el centroide. Lo que **sí** debe validarse es que la **etiqueta asignada sea coherente con los scores**: si los scores promediados apuntan a un cuadrante o zona muy distinta de la celda etiquetada, alguien se contradice consigo mismo.
 
 ## Cómo funciona
 
 El script `scripts/validate_dataset.py` recorre los 8 archivos de actores en `packages/data/colombia/` y, para cada uno con `compassEvidenced.dimensionScores`:
 
-1. Calcula el **promedio ponderado en X** con los pesos definidos en [Cómo posicionamos figuras](/metodologia/compass-scoring).
-2. Calcula el **promedio ponderado en Y** con los pesos sociales.
-3. Compara con `compassEvidenced.x` e `y`.
-4. Si la desviación supera **3.0 unidades** (en una escala de -10 a +10), emite un **warning**.
+1. Calcula el **promedio ponderado en X** con los pesos definidos en [Cómo posicionamos figuras](/metodologia/compass-scoring) — el `(x_avg, y_avg)` numérico que el análisis dimensional sugiere.
+2. Calcula el **promedio ponderado en Y**.
+3. Obtiene el centroide `(x_label, y_label)` de la celda de `ideologyEvidenced`.
+4. Si la distancia entre `(x_avg, y_avg)` y `(x_label, y_label)` supera **3.0 unidades** (en escala de -10 a +10), emite un warning: la etiqueta y los scores divergen demasiado.
 
-Una desviación de 3 implica que la posición asignada y los scores cuentan historias muy distintas sobre la misma figura.
+Una desviación de 3 implica que la etiqueta asignada y los scores cuentan historias distintas sobre la misma figura.
 
 ## Tres causas típicas de un warning
 
 | Diagnóstico | Síntoma | Acción correcta |
 |---|---|---|
-| **Bug del clasificador automático** | scores diversos y bien justificados, pero coord extrema (`x = ±9` cuando el promedio es moderado) | Mover la coord al centroide de la celda real implicada por los scores |
-| **Drift por corrección manual** | una auditoría humana movió la coord pero los scores quedaron sin actualizar | Recalibrar scores (sumar delta uniforme a las dimensiones) |
-| **Inconsistencia genuina** | el actor tiene comportamiento contradictorio entre dimensiones — los scores extremos individuales se cancelan en el promedio | No es error: documentar la divergencia en la justificación textual |
+| **Etiqueta `ideologyEvidenced` mal asignada** | scores robustos apuntan a un cuadrante (ej. `(x_avg, y_avg) = (-6, -3)` en lib-left) pero la etiqueta asignada está en otro (ej. `traditionalist-conservatism` en auth-right) | Cambiar `ideologyEvidenced` a la celda más cercana al `(x_avg, y_avg)` calculado |
+| **Scores desactualizados** | una auditoría humana corrigió la etiqueta tras nueva evidencia, pero los scores quedaron como eran antes de esa corrección | Recalibrar los `dimensionScores` con fuentes nuevas para que reflejen la posición actual del actor |
+| **Inconsistencia genuina** | el actor tiene comportamiento contradictorio entre dimensiones — los scores extremos individuales se cancelan en el promedio y producen un punto que no encaja con ninguna etiqueta clara | No es error: la justificación textual debe documentar la divergencia y la elección de etiqueta |
 
 ## El proceso en los datos del proyecto
 
