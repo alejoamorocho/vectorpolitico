@@ -12,7 +12,9 @@ relatedDocs:
   - data-validation
 ---
 
-> **Estado:** Aceptado · **Fecha de decisión:** 2026-04-23 · **Supersede:** parte de la sección "Las celdas del mapa" en `how-it-works` v1.0.0
+> **Estado:** **Superseded por [ADR-003](/metodologia/adr-003-grid-completo-educativo)** el mismo día (2026-04-23) · **Fecha de decisión original:** 2026-04-23
+
+> ⚠️ Esta decisión fue revertida poco después de implementarse. Se conserva el documento como registro histórico del razonamiento. La decisión vigente es ADR-003: el grid muestra el universo completo de 135 corrientes y las posiciones de actores se anclan al centroide de su ideología declarada. Las adiciones estructurales descritas abajo (3 ideologías nuevas, subdivisión de authoritarian-capitalism, movimientos de cuadrante) se mantienen y son parte del catálogo actual.
 
 ## Contexto
 

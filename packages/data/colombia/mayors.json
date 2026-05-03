@@ -14,8 +14,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 9.2,
-      "y": -2.3,
+      "x": 0.94,
+      "y": -8.67,
       "justification": "Alejandro Eder se presenta como miembro del Nuevo Liberalismo. cuya plataforma programática se alinea con el Liberalismo clásico. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=9.2, y=-2.3). con énfasis en su plataforma en: libre mercado.",
       "sources": [
         {
@@ -39,8 +39,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 7.2,
-      "y": 2.1,
+      "x": 1.25,
+      "y": -1.0,
       "justification": "Análisis metodológico del proyecto: Énfasis en seguridad urbana con incremento en inversión en CRUE (2024). Alianzas público-privadas en turismo y reactivación económica post-pandemia. Reforma del MIO iniciada en 2024. Posicionamiento de centro-derecha pragmático en gobernanza municipal.",
       "sources": [
         {
@@ -232,8 +232,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 8.6,
-      "y": -2.3,
+      "x": 0.94,
+      "y": -8.67,
       "justification": "Alex Char se presenta como miembro del Cambio Radical. cuya plataforma programática se alinea con el Liberalismo clásico. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=8.6, y=-2.3). con énfasis en su plataforma en: libre mercado.",
       "sources": [
         {
@@ -257,8 +257,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.9,
-      "y": 2.3,
+      "x": 8.26,
+      "y": 7.75,
       "justification": "Análisis metodológico del proyecto: Continuación de modelos empresariales en gestión pública. Inversión en megaproyectos de infraestructura y atracción de inversión privada. Políticas de centro-derecha con énfasis en eficiencia administrativa y alianzas público-privadas. Limitada implementación de agendas redistributivas.",
       "sources": [
         {
@@ -434,8 +434,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 4.3,
-      "y": 3.3,
+      "x": 6.96,
+      "y": 7.75,
       "justification": "Alexander Baquero se presenta como miembro del Salvación Nacional. cuya plataforma programática se alinea con el Neoconservadurismo. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia autoritario en el eje social (x=4.3, y=3.3). con énfasis en su plataforma en: seguridad y defensa.",
       "sources": [
         {
@@ -459,8 +459,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 4.7,
-      "y": 2.3,
+      "x": 6.09,
+      "y": 7.75,
       "justification": "Análisis metodológico del proyecto: Políticas de seguridad ciudadana con énfasis en control territorial. Gobernanza institucional con límites por contexto de presencia de grupos armados. Implementación de planes de desarrollo con restricciones derivadas de violencia. Posición de centro pragmático.",
       "sources": [
         {
@@ -490,7 +490,7 @@
     },
     "ideologies": [
       "neo-conservatism",
-      "social-conservatism"
+      "traditionalist-conservatism"
     ],
     "bio": "Alexander Baquero Sanabria es contador público (U. del Meta) con especialización en derecho público. Fue concejal de Villavicencio. Electo alcalde el 29 de octubre de 2023 con 54.432 votos bajo la coalición 'Recuperemos Villavo' integrada por Salvación Nacional, Centro Democrático y Colombia Justa Libres. Gobierna Villavicencio 2024-2027 con énfasis en seguridad ciudadana, gobernanza institucional y desarrollo económico local bajo iniciativa privada.",
     "incoherences": [
@@ -614,7 +614,7 @@
       "ssi-co"
     ],
     "ideologySelf": "neo-conservatism",
-    "ideologyEvidenced": "social-conservatism",
+    "ideologyEvidenced": "traditionalist-conservatism",
     "ideologySelfAssignment": {
       "ideologyId": "neo-conservatism",
       "justification": "Posición autopercibida (4.3, 3.3) mapeada a 'Neoconservadurismo' (centro 4.444, 3.571), la ideología del mismo cuadrante más cercana. ",
@@ -628,7 +628,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "social-conservatism",
+      "ideologyId": "traditionalist-conservatism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (4.7, 2.3) mapeada a 'Conservadurismo social' (centro 4.444, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Políticas de seguridad ciudadana con énfasis en control territorial. Gobernanza institucional con límites por contexto de presencia de grupos armados. Implementación de planes de desarrollo con restricciones derivadas de violencia. Posición de centro pragmático.",
       "sources": [
         {
@@ -666,8 +666,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 8.9,
-      "y": -0.5,
+      "x": 2.5,
+      "y": -8.67,
       "justification": "Carlos Fernando Galán se presenta como miembro del Nuevo Liberalismo. cuya plataforma programática se alinea con el Liberalismo social. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=8.9, y=-0.5). con énfasis en su plataforma en: libre mercado.",
       "sources": [
         {
@@ -691,8 +691,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 2.5,
-      "y": -0.5,
+      "x": -5.0,
+      "y": -8.67,
       "justification": "Análisis metodológico del proyecto: Promoción de proyectos de transporte masivo (Metro Bogotá) como eje redistributivo. Políticas de movilidad e integración territorial. Discurso progresista con ejecución acotada por presupuesto y capacidades institucionales. Apertura a participación democrática en decisiones de ciudad.",
       "sources": [
         {
@@ -878,8 +878,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -2.1,
-      "y": -0.4,
+      "x": -5.0,
+      "y": -8.67,
       "justification": "Claudia López se presenta como miembro del Alianza Verde. cuya plataforma programática se alinea con el Progresismo. Su discurso público y posicionamiento oficial lo ubican en la centro-izquierda económica con tendencia moderado-libertario en el eje social (x=-2.1, y=-0.4). con énfasis en su plataforma en: lucha contra la corrupción.",
       "sources": [
         {
@@ -903,8 +903,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": -1.5,
-      "y": -1,
+      "x": 2.5,
+      "y": -8.67,
       "justification": "Análisis metodológico del proyecto: Énfasis en transparencia con publicación de datos públicos y contrataciones abiertas. Políticas de movilidad con énfasis redistributivo. Implementación de seguridad con perspectiva de derechos. Limitaciones presupuestales y de gobernanza en ejecución de agenda progresista amplia. Conflictividad con sectores empresariales.",
       "sources": [
         {
@@ -1102,8 +1102,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 9,
-      "y": -1.8,
+      "x": 0.94,
+      "y": -8.67,
       "justification": "Dumek Turbay se presenta políticamente como miembro del En Marcha. cuya posición se alinea con el Liberalismo clásico. Su discurso público lo ubica en la derecha económica con tendencia moderado-libertario en el eje social (x=9.0, y=-1.8).",
       "sources": [
         {
@@ -1127,8 +1127,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 9,
-      "y": -0.4,
+      "x": 2.5,
+      "y": -8.67,
       "justification": "Análisis metodológico del proyecto: Preservación del patrimonio histórico de Cartagena con enfoque en turismo de élite. Políticas de orden público con énfasis en seguridad. Gestión concentrada en centro histórico con limitada expansión hacia periferias. Gobierno de transición con énfasis administrativo sobre reformista.",
       "sources": [
         {
@@ -1313,8 +1313,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 2.4,
-      "y": 1.8,
+      "x": 8.26,
+      "y": 7.75,
       "justification": "Federico 'Fico' Gutiérrez se presenta como miembro del Creemos. cuya plataforma programática se alinea con el Conservadurismo liberal. Su discurso público y posicionamiento oficial lo ubican en la centro-derecha económica con tendencia moderado-autoritario en el eje social (x=2.4, y=1.8).",
       "sources": [
         {
@@ -1338,8 +1338,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 4.5,
-      "y": 2.5,
+      "x": 8.26,
+      "y": 7.75,
       "justification": "Análisis metodológico del proyecto: Énfasis en seguridad urbana con política de pacto con grupos criminales para control territorial (pacto fusil). Gestión de megaproyectos de infraestructura (Hidroituango, EPM). Alianzas público-privadas en servicios municipales. Gobernanza de centro-derecha pragmática con silencios sobre violencia.",
       "sources": [
         {
@@ -1486,8 +1486,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -8.6,
-      "y": 0.6,
+      "x": 2.5,
+      "y": 9.25,
       "justification": "cuya plataforma programática se alinea con el Democracia cristiana. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-autoritario en el eje social (x=-8.6, y=0.6).",
       "sources": [
         {
@@ -1505,8 +1505,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 8.6,
-      "y": 3.4,
+      "x": 5.22,
+      "y": 7.75,
       "justification": "Análisis metodológico del proyecto: Gestión de gobernanza municipal con énfasis en infraestructura y servicios básicos. Posición independiente con pragmatismo administrativo. Ejecución presupuestal enfocada en proyectos de impacto visible. Gobierno de centro pragmático.",
       "sources": [
         {
@@ -1642,8 +1642,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 2.1,
-      "y": 1.8,
+      "x": 8.26,
+      "y": 7.75,
       "justification": "Jorge Acevedo (Cúcuta) se presenta como miembro del Cambio Radical. cuya plataforma programática se alinea con el Conservadurismo liberal. Su discurso público y posicionamiento oficial lo ubican en la centro-derecha económica con tendencia moderado-autoritario en el eje social (x=2.1, y=1.8).",
       "sources": [
         {
@@ -1667,8 +1667,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 3.5,
-      "y": 2,
+      "x": 8.75,
+      "y": -1.0,
       "justification": "Análisis metodológico del proyecto: Gobernanza municipal en contexto de frontera con Venezuela, enfrentando crisis humanitaria. Políticas de seguridad y control fronterizo como prioridad. Gestión de comercio binacional y movimiento migratorio. Gobierno de centro pragmático con limitaciones de capacidad institucional.",
       "sources": [
         {
@@ -1871,8 +1871,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 8.9,
-      "y": 0.7,
+      "x": 4.35,
+      "y": 7.75,
       "justification": "Johana Aranda se presenta como miembro del Centro Democrático. cuya plataforma programática se alinea con el Conservadurismo progresista. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-autoritario en el eje social (x=8.9, y=0.7).",
       "sources": [
         {
@@ -1896,8 +1896,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 4.1,
-      "y": 2.3,
+      "x": 6.09,
+      "y": 7.75,
       "justification": "Análisis metodológico del proyecto: Gestión municipal enfocada en servicios básicos y estabilidad administrativa. Ejecución de proyectos de infraestructura local. Gobierno pragmático de centro con enfoque administrativo. Implementación acotada de agenda de transformación institucional.",
       "sources": [
         {
@@ -1921,7 +1921,7 @@
     },
     "ideologies": [
       "progressive-conservatism",
-      "social-conservatism"
+      "traditionalist-conservatism"
     ],
     "bio": "Johana Ximena Aranda Rivera nació el 16 de abril de 1977 en Ibagué. Es bacterióloga (U. Católica de Manizales). Fue Secretaria de Salud de Ibagué. Electa alcaldesa el 29 de octubre de 2023 con 74.889 votos bajo la coalición 'Ibagué Para Todos' integrada por Centro Democrático, Partido de la U, Cambio Radical y MIRA. Gobierna Ibagué 2024-2027 con énfasis en modernización administrativa, fortalecimiento del sistema público de salud y desarrollo local inclusivo.",
     "incoherences": [
@@ -2045,7 +2045,7 @@
       "ssi-co"
     ],
     "ideologySelf": "progressive-conservatism",
-    "ideologyEvidenced": "social-conservatism",
+    "ideologyEvidenced": "traditionalist-conservatism",
     "ideologySelfAssignment": {
       "ideologyId": "progressive-conservatism",
       "justification": "Posición autopercibida (8.9, 0.7) mapeada a 'Conservadurismo progresista' (centro 8.889, 0.714), la ideología del mismo cuadrante más cercana. ",
@@ -2059,7 +2059,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "social-conservatism",
+      "ideologyId": "traditionalist-conservatism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (4.1, 2.3) mapeada a 'Conservadurismo social' (centro 4.444, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Gestión municipal enfocada en servicios básicos y estabilidad administrativa. Ejecución de proyectos de infraestructura local. Gobierno pragmático de centro con enfoque administrativo. Implementación acotada de agenda de transformación institucional.",
       "sources": [
         {
@@ -2098,8 +2098,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -2.5,
-      "y": -1,
+      "x": 2.5,
+      "y": -8.67,
       "justification": "Jorge Iván Ospina se presenta como miembro de Alianza Verde, cuya plataforma programática se alinea con el progresismo y la política verde. Su discurso público como alcalde de Cali enfatizó salud pública, gestión ambiental y participación comunitaria.",
       "sources": [
         {
@@ -2117,8 +2117,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": -1.9,
-      "y": -0.6,
+      "x": -5.0,
+      "y": -8.67,
       "justification": "Análisis metodológico del proyecto: Políticas de gestión ambiental y riesgo en ciudad con alta vulnerabilidad geológica. Programas de inclusión y derechos sociales. Énfasis en gobernanza participativa. Gobierno progresista de centro con limitaciones presupuestales.",
       "sources": [
         {
@@ -2293,8 +2293,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 2.7,
-      "y": 2.1,
+      "x": 8.26,
+      "y": 7.75,
       "justification": "Mauricio Salazar (Pereira) se presenta como miembro del Centro Democrático. cuya plataforma programática se alinea con el Conservadurismo liberal. Su discurso público y posicionamiento oficial lo ubican en la centro-derecha económica con tendencia moderado-autoritario en el eje social (x=2.7, y=2.1).",
       "sources": [
         {
@@ -2318,8 +2318,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 4.5,
-      "y": 2.5,
+      "x": 5.22,
+      "y": 7.75,
       "justification": "Análisis metodológico del proyecto: Gestión municipal enfocada en eficiencia administrativa y servicios básicos. Políticas de desarrollo local con énfasis en infraestructura. Gobierno pragmático de centro. Ejecución acotada de agenda redistributiva.",
       "sources": [
         {
@@ -2511,8 +2511,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -4.8,
-      "y": -1.9,
+      "x": -9.0,
+      "y": -8.67,
       "justification": "Gustavo Petro (Alcalde Bogotá) se presenta como miembro del Colombia Humana. cuya plataforma programática se alinea con el Socialismo democrático. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-libertario en el eje social (x=-4.8, y=-1.9). con énfasis en su plataforma en: reformas sociales, agenda ambiental.",
       "sources": [
         {
@@ -2536,8 +2536,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": -6.5,
-      "y": 2.5,
+      "x": -6.67,
+      "y": 9.17,
       "justification": "Análisis metodológico del proyecto: Políticas de transformación urbana con énfasis redistributivo en transporte y servicios. Implementación de presupuestos participativos y gobernanza democrática. Conflictos con sectores empresariales y de derecha sobre alcances de reformas. Gobierno de izquierda con limitaciones presupuestales y de gobernanza. Énfasis en igualdad, ambiente, derechos humanos.",
       "sources": [
         {

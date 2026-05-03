@@ -3,7 +3,7 @@ title: Cómo asignamos ideología a cada figura
 description: Metodología v2 para asignar ideología con trazabilidad. Regla de proximidad geométrica flexible con justificación documentada y fuentes verificables para cada asignación.
 order: 15
 section: compass
-version: 2.0.0
+version: 2.1.0
 lastUpdated: 2026-04-23
 authors:
   - ssi-co
@@ -133,29 +133,28 @@ Para que un usuario pueda verificar por sí mismo qué significa cada ideología
 - `sources[]` — al menos 1 fuente externa (CNE, Registraduría, análisis)
 - `compassPosition` con justificación, fuentes y confianza
 
-## Grid curado por país
+## Universo ideológico completo (no se filtra por país)
 
-El catálogo `ideologies.source.yaml` mantiene el set completo de la referencia global de Political Compass (~131 ideologías, incluyendo posiciones teóricas extremas como Sionismo, Juche, Kuomintangismo). **No todas aplican al contexto colombiano.**
+El catálogo `ideologies.source.yaml` mantiene el set completo de la referencia global de Political Compass — **135 ideologías** que cubren todo el espacio político del mundo: desde extremos teóricos (Hive Mind Collectivism, IngSoc) hasta corrientes con actores reales locales (democracia cristiana, socialdemocracia), pasando por corrientes que ningún partido colombiano sigue pero que son parte del repertorio educativo global (Juche, Sionismo, Maoísmo, Distributismo, Mutualismo, Anarco-capitalismo).
 
-Para evitar que las celdas visuales del compás muestren etiquetas sin actor real en Colombia (lo que producía partidos "sobre Sionismo" cuando su `ideologies[]` decía conservadurismo), el generador filtra por país:
+El propósito del mapa es **educativo**: mostrarle al usuario la riqueza del espectro ideológico para que pueda ubicar las posiciones colombianas dentro de ese universo amplio. Por eso el grid renderiza siempre **las 135 celdas completas** — no se filtra por país.
 
 ```bash
-python -m src.generate_ideologies --country=co
+python -m src.generate_ideologies        # grid completo (recomendado)
+python -m src.generate_ideologies --country=co   # opcional: filtra a las aplicables a CO
 ```
 
-Lee el bloque `applicable_to_country.co` del YAML — una lista curada de ~46 IDs aplicables — y reduce el grid antes del treemap. Las celdas restantes se redistribuyen para cubrir cada cuadrante.
+El bloque `applicable_to_country.co` del YAML se conserva como **metadata informativa** — útil para análisis y para listas internas, pero no se usa por defecto en la generación visual.
 
-### Criterio de inclusión por país
+### Cómo se ubica cada partido y figura en el grid completo
 
-Una ideología queda en el grid colombiano si cumple al menos uno:
+Dado que el grid muestra el universo completo, las posiciones de los actores colombianos se asignan así:
 
-1. Ha tenido **partido, movimiento o figura pública identificable** en Colombia en los últimos ~60 años.
-2. Existe **debate político vigente** sobre ella, aunque sin partido formal (ej. anarco-capitalismo post-Milei en redes y think-tanks).
-3. Es **familia ideológica de referencia** necesaria para anclar otras posiciones (ej. socialdemocracia como referente latinoamericano).
+- **Partidos**: cada partido se ubica exactamente en el centroide de su `ideologies[0]` — la ideología principal declarada en el JSON. Esto garantiza que el partido caiga visualmente en SU celda, no entre celdas, y permita al usuario leer el mapa sin ambigüedad.
+- **Figuras políticas**: cada figura tiene dos posiciones — su `compassSelfPerceived` se ubica en el centroide de `ideologySelf`, y su `compassEvidenced` en el centroide de `ideologyEvidenced`. La flecha entre ambos puntos sigue siendo el índice de coherencia.
+- **`dimensionScores`**: se conservan en el JSON como evidencia auditable del análisis dimensional (8 dimensiones evaluadas con justificación), pero ya no determinan la coordenada visual. Esto desacopla el análisis dimensional fino del rendering simbólico.
 
-Quedan fuera ideologías atadas a contextos nacionales ajenos sin equivalente local (Juche, Dengismo, teocracias no-cristianas) y abstracciones históricas sin actor colombiano (Neo-fascismo, Imperialismo como sistema, Monarquía absoluta).
-
-### Adiciones específicas de Colombia (Fase 1.5 y 2.0)
+### Adiciones específicas para enriquecer el catálogo (Fases 1.5 y 2.0)
 
 Tres ideologías agregadas para cubrir vacíos del catálogo global:
 
@@ -198,4 +197,5 @@ El generador `classify_entity.py` ahora también incluye este chequeo en tiempo 
 |---|---|---|
 | 1.0.0 | 2026-04-15 | Versión inicial. Introducción de `ideologySelfAssignment`, `ideologyEvidencedAssignment`, regla de proximidad flexible con justificación, requisito de fuentes por asignación. |
 | 1.1.0 | 2026-04-15 | Se elimina el límite de ~6 unidades entre self y evidenced. Lo que importa es la justificación documentada, no un tope numérico artificial. |
-| 2.0.0 | 2026-04-23 | Grid curado por país (de ~131 a ~46 celdas para Colombia). Tres ideologías nuevas (liberation-theology, indigenous-communalism, right-populism). Subdivisión de authoritarian-capitalism en 4 sub-celdas. Movimientos de cuadrante para christian-democracy y technocracy. Validador automático de coherencia entre coord y dimensionScores. |
+| 2.0.0 | 2026-04-23 | Grid curado por país (filtro de ~131 a ~46). Tres ideologías nuevas, subdivisión de authoritarian-capitalism, movimientos de cuadrante. Validador automático. *Nota: superseded en v2.1.0 — el filtro por país se vuelve metadata informativa, no comportamiento por defecto.* |
+| 2.1.0 | 2026-04-23 | **Giro al universo ideológico completo (135 celdas).** El grid muestra todas las corrientes globales para propósito educativo. Las posiciones de partidos y figuras se anclan al centroide de su ideología declarada (`ideologies[0]` para partidos, `ideologySelf`/`ideologyEvidenced` para figuras). Los `dimensionScores` se conservan como evidencia auditable pero ya no determinan la coord visual. Detalle en [ADR-003](/metodologia/adr-003-grid-completo). Las adiciones de v2.0.0 (liberation-theology, indigenous-communalism, right-populism, subdivisión de auth_right inferior, movimientos de cuadrante) se mantienen. |

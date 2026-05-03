@@ -3,7 +3,7 @@ title: Cómo funciona el mapa
 description: Explicación completa del mapa político — capas, filtros, zoom, detalles al click, enlaces externos y la tecnología detrás de La Brújula.
 order: 5
 section: compass
-version: 2.0.0
+version: 3.0.0
 lastUpdated: 2026-04-23
 authors:
   - ssi-co
@@ -18,18 +18,18 @@ El mapa político de *La Brújula* responde a dos preguntas distintas sobre cada
 
 La flecha que une ambos puntos es el **índice de coherencia**. Cuando la flecha es corta, la figura actúa como dice; cuando es larga, hay divergencia.
 
-## Las celdas del mapa
+## Las celdas del mapa — universo ideológico completo
 
-El catálogo global de la referencia *Political Compass* incluye ~131 corrientes ideológicas teóricas (Sionismo, Juche, Kuomintangismo, Maoísmo, Fordismo, etc.). **No todas tienen actor real en Colombia.** Para que el mapa colombiano refleje el debate político vigente y no muestre celdas teóricas vacías, el catálogo se filtra a **46 ideologías aplicables al contexto colombiano** (criterios en [Asignación de ideología](/metodologia/ideology-classification)).
+El propósito del mapa es **educativo y comparativo**: mostrar la enorme variedad de corrientes ideológicas que existen en el mundo para que el lector pueda ubicar las posiciones colombianas dentro de ese universo amplio. Por eso el grid muestra **135 ideologías** del catálogo internacional — incluyendo corrientes que ningún partido colombiano sigue (Juche, Sionismo, Maoísmo, Kuomintangismo, Distributismo, Mutualismo) pero que son parte del repertorio político global.
 
-Las celdas que sobreviven al filtro:
+Distribución por cuadrante:
 
-- **Autoritario · Izquierda** (11 celdas) — Marxismo clásico, Marxismo ortodoxo, Leninismo, Maoísmo, Castrismo, Chavismo, Capitalismo de Estado, Evangelio Social, Teología de la Liberación, Populismo de Izquierda…
-- **Autoritario · Derecha** (12 celdas, subdividido en 3 filas) — Conservadurismos (paleo-, tradicionalista, nacionalista, neo-, liberal-, progresista), Democracia Cristiana, Populismo de Derecha, Capitalismo Autoritario, Clientelismo/Cacicazgo, Desarrollismo, Derecha Securitaria…
-- **Libertario · Izquierda** (11 celdas) — Socialismo Democrático, Socialdemocracia, Progresismo, Política Verde, Eco-socialismo, Ambientalismo, Sindicalismo, Comunalismo Indígena, Marxismo Clásico…
-- **Libertario · Derecha** (14 celdas) — Liberalismo Clásico, Liberalismo Social, Liberalismo Democrático, Neo-liberalismo, Tercera Vía, Centrismo, Tecnocracia, Conservadurismo Fiscal, Anarco-capitalismo, Conservadurismo Libertario…
+- **Autoritario · Izquierda** (33 celdas) — desde extremos teóricos (Hive Mind Collectivism, IngSoc, Eco-Fascismo) hasta corrientes con actores reales (Marxismo clásico, Maoísmo, Castrismo, Chavismo, Estalinismo, Trotskismo, Juche, Dengismo, Teología de la Liberación, Populismo de Izquierda, Distributismo).
+- **Autoritario · Derecha** (38 celdas) — Fascismos (clásico, neo-, eso-, Vichismo), Teocracias (cristiana, islámica, hindú, budista), Conservadurismos (paleo-, tradicionalista, nacionalista, neo-, liberal-, progresista, eco-), Democracia Cristiana, Populismo de Derecha, Capitalismo Autoritario y sus variantes (Clientelismo, Desarrollismo, Derecha Securitaria), Imperialismo, Sionismo, Kuomintangismo, Pinochetismo.
+- **Libertario · Izquierda** (32 celdas) — Socialismo Democrático, Socialdemocracia, Progresismo, Política Verde, Eco-socialismo, Sindicalismo, Comunalismo Indígena, Marxismo Clásico, Comunismo Libertario, Anarquismos varios (comunista, sindicalista, colectivista, feminista, queer, eco-, religioso, pacifista), Mutualismo, Gandhismo, Mandelismo.
+- **Libertario · Derecha** (32 celdas) — Liberalismo Clásico, Social, Democrático, Nórdico, Neoliberalismo, Tercera Vía, Centrismo, Tecnocracia, Conservadurismo Fiscal, Libertarismo, Anarco-capitalismo, Objetivismo, Voluntaryismo, Agorismo, Hoppeanismo, Paleo-libertarismo, Tecno-libertarismo, Georgismo, Capitalismo Rosa, Libertarismo Cristiano.
 
-La retícula es editable desde un YAML legible (`packages/data/ideologies.source.yaml`) con el bloque `applicable_to_country.co`. Cualquier colaborador puede proponer ajustes abriendo un Pull Request — la lista de qué aplica al país es decisión curatorial documentada y revisable.
+La retícula es editable desde un YAML legible (`packages/data/ideologies.source.yaml`). Cualquier colaborador puede proponer agregar, dividir o ajustar celdas abriendo un Pull Request. El YAML mantiene también una **lista informativa** `applicable_to_country.co` que documenta qué corrientes tienen actor real en Colombia hoy — es metadata para análisis, no filtro de visualización.
 
 ## El proceso: clasificación · auditoría · validación
 
@@ -57,7 +57,7 @@ Al hacer click se abre un panel editorial con el mapa en grande y un **panel lat
 
 El panel lateral permite activar o desactivar capas visuales independientes:
 
-- **Cuadrícula de ideologías** — las ~46 celdas aplicables a Colombia
+- **Cuadrícula de ideologías** — las 135 celdas del universo ideológico completo
 - **Ejes y cuadrantes** — las líneas centrales y los títulos de los 4 cuadrantes
 - **Figuras políticas** — los puntos 🔵🔴 de cada figura y la flecha que los une
 - **Elipses de confianza** — el margen de incertidumbre del punto evidenciado

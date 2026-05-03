@@ -24,8 +24,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 5.5,
-      "y": 3.8,
+      "x": 2.5,
+      "y": 9.25,
       "justification": "Se autodefine como demócrata cristiana, defensora del libre mercado con responsabilidad social, de la seguridad democrática y de los valores de la familia tradicional. En sus declaraciones oficiales enfatiza el respeto institucional, la equidad de género desde una visión cristiana y la libertad empresarial como motor del desarrollo.",
       "sources": [
         {
@@ -49,8 +49,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 5.8,
-      "y": 4.2,
+      "x": 6.09,
+      "y": 7.75,
       "confidence": "high",
       "justification": "Análisis metodológico del proyecto: Como Ministra de Defensa (2002-2003) impulsó la política de Seguridad Democrática y el aumento del pie de fuerza militar. Como senadora (2006-2010) votó favorablemente proyectos de reforma laboral, política fiscal pro-empresa y tratados de libre comercio. Como Vicepresidenta (2018-2022) ejerció la cancillería ad interim (2021-2022) alineando la política exterior con Estados Unidos y la OEA frente a Venezuela, impulsó la Consejería para la Equidad de la Mujer desde una visión conservadora cristiana (oposición al aborto, enfoque en familia), y defendió el pliego presupuestal de su gobierno priorizando gasto en defensa y subsidio empresarial sobre redistribución.",
       "sources": [
@@ -97,13 +97,13 @@
       }
     },
     "ideologies": [
-      "social-conservatism",
+      "traditionalist-conservatism",
       "christian-democracy",
       "fiscal-conservatism",
       "liberal-conservatism"
     ],
     "ideologySelf": "christian-democracy",
-    "ideologyEvidenced": "social-conservatism",
+    "ideologyEvidenced": "traditionalist-conservatism",
     "bio": "Marta Lucía Ramírez de Rincón (1954, Zipaquirá) es abogada de la Universidad Javeriana con especialización en Derecho Comercial y Financiero. Fue Ministra de Comercio Exterior (2002) bajo Andrés Pastrana, Ministra de Defensa Nacional (2002-2003) bajo Álvaro Uribe — la primera mujer en ese cargo en Colombia —, Senadora por el Partido de la U (2006-2010), candidata presidencial del Partido Conservador en 2014 y Vicepresidenta de Colombia (2018-2022) bajo Iván Duque, ejerciendo también como Ministra de Relaciones Exteriores encargada (2021-2022). Su trayectoria combina gestión pública desde cargos ejecutivos con militancia conservadora cristiana y defensa de agenda pro-mercado.",
     "incoherences": [
       {
@@ -223,7 +223,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "social-conservatism",
+      "ideologyId": "traditionalist-conservatism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (5.8, 4.2) mapeada a 'Conservadurismo social' (centro 4.444, 2.143), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Democracia cristiana) es 13.4 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Como Ministra de Defensa (2002-2003) impulsó la política de Seguridad Democrática y el aumento del pie de fuerza militar. Como senadora (2006-2010) votó favorablemente proyectos de reforma laboral, política fiscal pro-empresa y tratados de libre comercio. Como Vicepresidenta (2018-2022) ejerció la cancillería ad interim (2021-2022) alineando la política exterior con Estados Unidos y la OEA frente a Venezuela, impulsó la Consejería para la Equidad de la Mujer desde una visión conservadora cristiana (oposición al aborto, enfoque en familia), y defendió el pliego presupuestal de su gobierno priorizando gasto en defensa y subsidio empresarial sobre redistribuc",
       "sources": [
         {
@@ -278,8 +278,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -5.8,
-      "y": -5.2,
+      "x": -7.0,
+      "y": -3.67,
       "justification": "Se autodefine como feminista negra antirracista, ambientalista, defensora de derechos humanos y 'mujer del pueblo'. Ha declarado representar a 'los nadies y nadies' — comunidades negras, indígenas, campesinas, mujeres, personas LGBTIQ+ y territorios históricamente marginados. Su agenda declarada es el 'Vivir Sabroso' como paradigma alternativo de desarrollo y política de cuidados.",
       "sources": [
         {
@@ -303,8 +303,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": -4.5,
-      "y": -3.8,
+      "x": -9.0,
+      "y": -8.67,
       "confidence": "medium",
       "justification": "Análisis metodológico del proyecto: Como Vicepresidenta y Ministra de Igualdad (2022-presente) impulsó la creación y entrada en funcionamiento del Ministerio de Igualdad y Equidad (Ley 2281 de 2023), una estructura sin precedentes en Colombia orientada a políticas diferenciales para mujeres, afros, indígenas, campesinos y diversidades. Ha respaldado los proyectos centrales del gobierno Petro: reforma tributaria 2022 progresiva, reforma pensional, política de 'paz total' y transición energética. Simultáneamente enfrentó críticas por ejecución presupuestal baja del Ministerio de Igualdad en su primer año, por el uso de aeronaves de la fuerza pública, y por tensiones internas con el presidente sobre la conducción del gabinete. La evidencia legislativa y administrativa la ubica en izquierda progresista pero con menor concentración autoritaria de poder que el promedio presidencial.",
       "sources": [

@@ -18,9 +18,31 @@ La metodología del proyecto es viva. A medida que se descubren mejores formas d
 
 Cada documento tiene su propio bloque de versiones al final; esta página es el **índice consolidado**.
 
-## 2026-04-23 — Auditoría de ideologías y mejoras del compass
+## 2026-04-23 (tarde) — Giro al universo ideológico completo
 
-Hito grande del proyecto. Se cerraron seis fases de trabajo que llevaron el dataset a coherencia interna y el grid a aplicabilidad real al contexto colombiano.
+Recalibración importante del propósito del proyecto. El filtro por país introducido por la mañana ([ADR-002](/metodologia/adr-002-grid-por-pais)) eliminaba la diversidad ideológica que el proyecto busca enseñar — distributismo, mutualismo, comunismo chino y otras 80+ corrientes quedaban invisibles. Tras revisión del propósito educativo, **se decide mostrar el universo completo de 135 corrientes** y anclar cada actor al centroide de su ideología declarada.
+
+### Cambios
+
+- Grid de 46 → **135 celdas** visibles. El YAML mantiene `applicable_to_country.co` como metadata informativa, no como filtro.
+- Las coordenadas de partidos y figuras ahora se anclan al **centroide de la ideología declarada**:
+  - Partidos → `ideologies[0]` (ideología principal)
+  - Figuras → `ideologySelf` para self, `ideologyEvidenced` para evidenced.
+- Los `dimensionScores` se conservan como evidencia auditable pero ya no determinan la coord visual.
+- Verificación: 23/23 partidos y 220/220 puntos de figuras caen en su celda declarada.
+
+### Documentos afectados
+
+- [Cómo funciona el mapa](/metodologia/how-it-works) → v3.0.0 (universo completo, listas extensas por cuadrante).
+- [Cómo asignamos ideología a cada figura](/metodologia/ideology-classification) → v2.1.0 (sección "Universo ideológico completo").
+- [ADR-003 — Grid completo educativo](/metodologia/adr-003-grid-completo-educativo) → v1.0.0 (NUEVO, supersede ADR-002).
+- [ADR-002 — Grid curado por país](/metodologia/adr-002-grid-por-pais) → marcado como **Superseded**.
+
+---
+
+## 2026-04-23 (mañana) — Auditoría de ideologías y mejoras del compass
+
+Hito grande del proyecto. Se cerraron seis fases de trabajo que llevaron el dataset a coherencia interna y se introdujeron herramientas de validación. Las adiciones al catálogo (3 ideologías nuevas, subdivisión de authoritarian-capitalism, movimientos de cuadrante) se conservan en la versión actual.
 
 ### Cambios en el grid de ideologías
 
