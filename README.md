@@ -115,14 +115,33 @@ cp apps/api/.dev.vars.example apps/api/.dev.vars
 pip install pre-commit
 pre-commit install
 
-# 6. Generar compass de ideologías
-pnpm generate:ideologies
+# 6. Generar compass de ideologías (filtrado por país)
+cd packages/etl && python -m src.generate_ideologies --country=co
+cd ../..
 
-# 7. Arrancar dev server
+# 7. Validar coherencia del dataset
+python scripts/validate_dataset.py
+
+# 8. Arrancar dev server
 pnpm dev
 ```
 
 Abre `http://localhost:4321/` en el navegador.
+
+### Servidor alternativo cuando WDAC bloquea workerd
+
+En Windows con políticas WDAC/AppLocker el binario `workerd.exe` (que usa `@astrojs/cloudflare` para emular el runtime) puede ser bloqueado. Síntoma: `spawn UNKNOWN`. Soluciones:
+
+```bash
+# Opción A: dev server con adapter Node (mantiene HMR)
+pnpm --filter @brujula/web dev:node
+
+# Opción B: build estático + servidor HTTP puro
+pnpm --filter @brujula/web build
+pnpm --filter @brujula/web serve:dist
+```
+
+Ver [`docs/development.md`](docs/development.md) para detalle completo.
 
 ---
 
@@ -185,14 +204,26 @@ Sin estos 5 elementos, el PR no se fusiona. Ver [estándar completo](docs/method
 
 ## Metodología
 
-La metodología completa está en [`docs/methodology/`](docs/methodology/). Es pública, versionada y auditable.
+La metodología completa es **pública, versionada y auditable**. Vive en dos lugares:
+
+- **Versión visible para usuarios** → en el sitio: `/metodologia/` (renderizada desde [`apps/web/src/content/methodology/`](apps/web/src/content/methodology/))
+- **Versión de referencia técnica** → [`docs/methodology/`](docs/methodology/)
 
 El principio rector: **toda posición en el compass debe poder justificarse con hechos verificables y fuentes primarias.** No publicamos opinión disfrazada de dato.
 
-- [`compass-scoring.md`](docs/methodology/compass-scoring.md) — Fórmulas, pesos, criterios exactos para calcular (x,y)
-- [`ideology-classification.md`](docs/methodology/ideology-classification.md) — Cómo se asigna la etiqueta ideológica con fuentes (v2)
-- [`incoherence-standard.md`](docs/methodology/incoherence-standard.md) — Estándar mínimo para publicar incoherencias
-- [`data-sources.md`](docs/methodology/data-sources.md) — Fuentes primarias por tipo de figura y metadata de ideologías/partidos
+| Doc | Versión | Tema |
+|---|---|---|
+| `how-it-works` | v2.0.0 | Mapa, capas, filtros, proceso clasificación + auditoría + validación |
+| `compass-scoring` | v1.3.0 | Fórmulas, pesos por dimensión, validación automática |
+| `ideology-classification` | v2.0.0 | Asignación de ideología, grid curado por país |
+| `data-validation` | v1.0.0 | Validador automático de coherencia (NUEVO) |
+| `incoherence-standard` | v1.0.0 | Estándar mínimo para publicar incoherencias |
+| `data-sources` | v1.2.0 | Fuentes primarias por tipo de figura |
+| `add-politician` | v1.1.0 | Cómo agregar una figura |
+| `add-country` | v1.0.0 | Cómo replicar a otro país |
+| `adr-001-stack` | v1.0.0 | Decisión: Astro + Cloudflare |
+| `adr-002-grid-por-pais` | v1.0.0 | Decisión: filtrar grid por país (NUEVO) |
+| `changelog` | v1.0.0 | Historial consolidado de versiones (NUEVO) |
 
 ---
 
