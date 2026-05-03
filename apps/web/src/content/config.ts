@@ -20,7 +20,7 @@ const methodology = defineCollection({
     title: z.string().min(5).max(120),
     description: z.string().min(20).max(300),
     order: z.number().int().nonnegative(),
-    section: z.enum(['compass', 'incoherence', 'data', 'contributing', 'adr']),
+    section: z.enum(['compass', 'incoherence', 'data', 'contributing', 'adr', 'meta']),
     version: z.string().regex(/^\d+\.\d+\.\d+$/),
     lastUpdated: z.coerce.date(),
     authors: z.array(z.string()).min(1),

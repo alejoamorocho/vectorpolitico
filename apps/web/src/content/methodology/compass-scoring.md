@@ -3,13 +3,14 @@ title: Cómo posicionamos figuras en el compass
 description: Metodología de scoring del compass político — fórmulas, pesos y criterios exactos para cada dimensión del eje económico y social.
 order: 10
 section: compass
-version: 1.2.0
-lastUpdated: 2026-04-15
+version: 1.3.0
+lastUpdated: 2026-04-23
 authors:
   - ssi-co
 relatedDocs:
   - ideology-classification
   - data-sources
+  - data-validation
   - incoherence-standard
 ---
 
@@ -143,6 +144,16 @@ En breve:
 - Se aplica la regla de proximidad geométrica flexible con justificación documentada.
 - Cada asignación (`ideologySelfAssignment`, `ideologyEvidencedAssignment`) requiere justificación textual y al menos una fuente verificable.
 
+## Validación automática
+
+Tras calcular `(x, y)` y guardar `dimensionScores`, se ejecuta `scripts/validate_dataset.py` para verificar que el promedio ponderado de los scores **coincide** con la coord guardada (delta ≤ 3.0 unidades). Este chequeo detecta:
+
+- Errores del clasificador automático (coords extremas con scores moderados, bug histórico).
+- Drift entre auditoría humana y scores (cuando se mueve la coord pero no se actualizan los scores).
+- Errores de tipeo o de pipeline.
+
+Si el validador reporta warnings, cada caso se revisa manualmente: o se ajusta la coord al promedio de los scores (si los scores son robustos), o se recalibran los scores para reflejar la coord (si la coord viene de auditoría humana). Detalle del proceso en [Validación del dataset](/metodologia/data-validation).
+
 ## Historial de cambios
 
 | Versión | Fecha | Cambio |
@@ -150,3 +161,4 @@ En breve:
 | 1.0.0 | 2026-04-10 | Versión inicial. |
 | 1.1.0 | 2026-04-12 | Clarificación de fuentes: autopercibida solo de fuentes propias/Wikipedia; evidenciada es análisis propio del proyecto, no etiquetas de medios. |
 | 1.2.0 | 2026-04-15 | La asignación de ideología (label) pasa a `ideology-classification` con fuentes obligatorias por asignación. El cálculo del compás (coordenadas x,y) permanece en este documento. |
+| 1.3.0 | 2026-04-23 | Se introduce validador automático de coherencia entre coord y `dimensionScores` (umbral default 3.0 unidades). El chequeo corre en build y como CI gate; los reportes históricos quedan auditables en `docs/data-validation/`. |

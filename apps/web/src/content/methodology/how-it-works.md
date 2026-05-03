@@ -3,8 +3,8 @@ title: Cómo funciona el mapa
 description: Explicación completa del mapa político — capas, filtros, zoom, detalles al click, enlaces externos y la tecnología detrás de La Brújula.
 order: 5
 section: compass
-version: 1.0.0
-lastUpdated: 2026-04-11
+version: 2.0.0
+lastUpdated: 2026-04-23
 authors:
   - ssi-co
 ---
@@ -20,14 +20,28 @@ La flecha que une ambos puntos es el **índice de coherencia**. Cuando la flecha
 
 ## Las celdas del mapa
 
-El mapa organiza corrientes ideológicas en una retícula uniforme de cuatro cuadrantes, adaptada al contexto político colombiano y latinoamericano. Las categorías provienen de la teoría politológica estándar y fueron filtradas para conservar únicamente aquellas con referentes reales en el debate público del país:
+El catálogo global de la referencia *Political Compass* incluye ~131 corrientes ideológicas teóricas (Sionismo, Juche, Kuomintangismo, Maoísmo, Fordismo, etc.). **No todas tienen actor real en Colombia.** Para que el mapa colombiano refleje el debate político vigente y no muestre celdas teóricas vacías, el catálogo se filtra a **46 ideologías aplicables al contexto colombiano** (criterios en [Asignación de ideología](/metodologia/ideology-classification)).
 
-- **Autoritario · Izquierda** (rojo polvo) — Estalinismo, Maoísmo, Castrismo, Chavismo, Leninismo, Trotskismo…
-- **Autoritario · Derecha** (azul polvo) — Fascismo, Capitalismo Autoritario, Pinochetismo, Neoconservadurismo, Conservadurismo Nacionalista…
-- **Libertario · Izquierda** (verde salvia) — Socialdemocracia, Socialismo Democrático, Anarco-sindicalismo, Comunalismo, Eco-socialismo…
-- **Libertario · Derecha** (dorado trigo) — Liberalismo Clásico, Minarquismo, Anarco-capitalismo, Neoliberalismo, Objetivismo…
+Las celdas que sobreviven al filtro:
 
-La retícula es editable desde un YAML legible (`packages/data/ideologies.source.yaml`). Cualquier colaborador puede proponer ajustes abriendo un Pull Request.
+- **Autoritario · Izquierda** (11 celdas) — Marxismo clásico, Marxismo ortodoxo, Leninismo, Maoísmo, Castrismo, Chavismo, Capitalismo de Estado, Evangelio Social, Teología de la Liberación, Populismo de Izquierda…
+- **Autoritario · Derecha** (12 celdas, subdividido en 3 filas) — Conservadurismos (paleo-, tradicionalista, nacionalista, neo-, liberal-, progresista), Democracia Cristiana, Populismo de Derecha, Capitalismo Autoritario, Clientelismo/Cacicazgo, Desarrollismo, Derecha Securitaria…
+- **Libertario · Izquierda** (11 celdas) — Socialismo Democrático, Socialdemocracia, Progresismo, Política Verde, Eco-socialismo, Ambientalismo, Sindicalismo, Comunalismo Indígena, Marxismo Clásico…
+- **Libertario · Derecha** (14 celdas) — Liberalismo Clásico, Liberalismo Social, Liberalismo Democrático, Neo-liberalismo, Tercera Vía, Centrismo, Tecnocracia, Conservadurismo Fiscal, Anarco-capitalismo, Conservadurismo Libertario…
+
+La retícula es editable desde un YAML legible (`packages/data/ideologies.source.yaml`) con el bloque `applicable_to_country.co`. Cualquier colaborador puede proponer ajustes abriendo un Pull Request — la lista de qué aplica al país es decisión curatorial documentada y revisable.
+
+## El proceso: clasificación · auditoría · validación
+
+Para cada figura política la posición en el mapa pasa por tres etapas:
+
+1. **Clasificación inicial con IA.** El script `packages/etl/src/classify_entity.py` toma evidencia primaria de la figura (propuestas, votaciones, decretos, fuentes) y le pide a Claude API que evalúe **8 dimensiones** (4 económicas, 4 sociales) en escala -10 a +10, con justificación por dimensión. Las posiciones `(x, y)` salen del promedio ponderado por tipo de cargo.
+
+2. **Auditoría humana caso por caso.** Las posiciones de la IA pasan por revisión editorial: para cada partido y figura se contrasta la asignación contra fuentes primarias (CongresoVisible, SUIN-Juriscol, Contraloría, Wikipedia, sitios oficiales) y se registra justificación + lista de fuentes en el JSON. Las correcciones quedan trazables en el git history.
+
+3. **Validador automático de coherencia.** El script `scripts/validate_dataset.py` verifica que `compassEvidenced.x|y` sea consistente con el promedio ponderado de los `dimensionScores`. Si el delta supera un umbral (default 3.0 unidades), se reporta como warning para revisión. Detalle en [Validación del dataset](/metodologia/data-validation).
+
+Las tres etapas dejan rastro en archivos auditables: el `dimensionScores` con justificación por dimensión, las `sources[]` con URLs verificables, y los reportes históricos en `docs/data-validation/`.
 
 ## El mapa preview
 
@@ -43,7 +57,7 @@ Al hacer click se abre un panel editorial con el mapa en grande y un **panel lat
 
 El panel lateral permite activar o desactivar capas visuales independientes:
 
-- **Cuadrícula de ideologías** — las 131 celdas del compass
+- **Cuadrícula de ideologías** — las ~46 celdas aplicables a Colombia
 - **Ejes y cuadrantes** — las líneas centrales y los títulos de los 4 cuadrantes
 - **Figuras políticas** — los puntos 🔵🔴 de cada figura y la flecha que los une
 - **Elipses de confianza** — el margen de incertidumbre del punto evidenciado
