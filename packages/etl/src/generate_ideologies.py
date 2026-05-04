@@ -85,15 +85,22 @@ def _squarify(
             rects[-1] = (last[0], last[1], x1, last[3])
     else:
         # Cortar el alto proporcionalmente — rects apilados verticalmente
+        # DE ARRIBA HACIA ABAJO. La primera familia del YAML va arriba (y alto),
+        # la última abajo (y bajo). Esto es semánticamente correcto para los
+        # cuadrantes auth (la primera familia es la más extrema autoritaria,
+        # debe estar cerca de y=10) y para los lib (la primera es la más
+        # moderada, debe estar cerca de y=0; las anarquistas extremas al final
+        # van cerca de y=-10).
         height = y1 - y0
-        cy = y0
+        cy = y1
         for w in weights:
             ch = height * (w / total_w)
-            rects.append((x0, cy, x1, cy + ch))
-            cy += ch
+            rects.append((x0, cy - ch, x1, cy))
+            cy -= ch
         if rects:
+            # Ajustar última celda para compensar drift por floats
             last = rects[-1]
-            rects[-1] = (last[0], last[1], last[2], y1)
+            rects[-1] = (last[0], y0, last[2], last[3])
 
     return rects
 
