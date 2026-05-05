@@ -8,7 +8,18 @@
     "height": 1.667,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Visión totalitaria máxima donde la individualidad se disuelve en un colectivo unificado bajo una única voluntad. Posición teórica extrema del cuadrante."
+    "description": "Visión totalitaria máxima donde la individualidad se disuelve en un colectivo unificado bajo una única voluntad. Posición teórica extrema del cuadrante.",
+    "keyThinkers": [
+      "Herbert Marcuse",
+      "Ayn Rand (crítica)",
+      "Karl Popper (crítica)",
+      "B.F. Skinner"
+    ],
+    "historicalExamples": [
+      "Guardia Roja en la Revolución Cultural china (1966-1976)",
+      "Corea del Norte bajo juche (1948-presente)",
+      "Kampuchea Democrática bajo los Jemeres Rojos (1975-1979)"
+    ]
   },
   {
     "id": "ingsocism",
@@ -22,7 +33,15 @@
     "color": "#dc2626",
     "description": "Socialismo inglés ficticio de \"1984\" de Orwell. Totalitarismo de partido único con control total del lenguaje, la historia y el pensamiento.",
     "keyThinkers": [
-      "George Orwell"
+      "George Orwell",
+      "Hannah Arendt",
+      "Arthur Koestler",
+      "Slavoj Žižek"
+    ],
+    "historicalExamples": [
+      "URSS bajo Stalin como referente implícito (1924-1953)",
+      "Corea del Norte como aproximación práctica (1948-presente)",
+      "Kampuchea Democrática (1975-1979)"
     ]
   },
   {
@@ -35,7 +54,17 @@
     "height": 1.667,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Fusión de nacionalismo étnico con conservación ambiental coercitiva. Defiende acciones autoritarias drásticas para proteger la naturaleza."
+    "description": "Fusión de nacionalismo étnico con conservación ambiental coercitiva. Defiende acciones autoritarias drásticas para proteger la naturaleza.",
+    "keyThinkers": [
+      "Pentti Linkola",
+      "Walther Darré",
+      "Murray Bookchin (crítica)",
+      "Janet Biehl (crítica)"
+    ],
+    "historicalExamples": [
+      "Política de 'sangre y suelo' en la Alemania nazi (1933-1945)",
+      "Manifiestos de Brenton Tarrant y Patrick Crusius (2019)"
+    ]
   },
   {
     "id": "stalinism",
@@ -49,7 +78,16 @@
     "color": "#dc2626",
     "description": "Interpretación autoritaria del marxismo-leninismo asociada a Iósif Stalin: centralización total del Estado, planificación rígida y represión masiva.",
     "keyThinkers": [
-      "Iósif Stalin"
+      "Iósif Stalin",
+      "Andréi Zhdánov",
+      "Viacheslav Mólotov",
+      "Lazar Kaganóvich"
+    ],
+    "historicalExamples": [
+      "URSS bajo Stalin (1924-1953)",
+      "Albania bajo Enver Hoxha (1944-1985)",
+      "Kampuchea Democrática bajo Pol Pot (1975-1979)",
+      "Etiopía bajo el Derg (1974-1991)"
     ]
   },
   {
@@ -64,7 +102,16 @@
     "color": "#dc2626",
     "description": "Variante china del marxismo-leninismo formulada por Mao Zedong: guerra campesina, revolución cultural permanente y partido como vanguardia.",
     "keyThinkers": [
-      "Mao Zedong"
+      "Mao Zedong",
+      "Lin Biao",
+      "Jiang Qing",
+      "Abimael Guzmán (Sendero Luminoso)"
+    ],
+    "historicalExamples": [
+      "República Popular China bajo Mao (1949-1976)",
+      "Sendero Luminoso en Perú (1980-2000)",
+      "Partido Comunista de Nepal-Maoísta (1996-2006)",
+      "Movimiento naxalita en India (1967-presente)"
     ]
   },
   {
@@ -79,7 +126,17 @@
     "color": "#dc2626",
     "description": "Teoría del partido de vanguardia que guía al proletariado hacia la revolución. Base del marxismo-leninismo soviético.",
     "keyThinkers": [
-      "Vladimir Lenin"
+      "Vladímir Ilich Lenin",
+      "Grigori Zinóviev",
+      "Nikolái Bujarin",
+      "Rosa Luxemburg (crítica)",
+      "Antonio Gramsci"
+    ],
+    "historicalExamples": [
+      "Revolución bolchevique en Rusia (1917)",
+      "Estado soviético bajo Lenin (1917-1924)",
+      "Vietnam del Norte bajo Ho Chi Minh (1945-1969)",
+      "Cuba bajo el Partido Comunista (1959-presente)"
     ]
   },
   {
@@ -94,7 +151,17 @@
     "color": "#dc2626",
     "description": "Corriente marxista-leninista que defiende la revolución permanente internacional y rechaza el \"socialismo en un solo país\".",
     "keyThinkers": [
-      "León Trotsky"
+      "León Trotski",
+      "Nahuel Moreno",
+      "Ernest Mandel",
+      "Ted Grant",
+      "Tony Cliff"
+    ],
+    "historicalExamples": [
+      "Oposición de Izquierda en la URSS (1923-1929)",
+      "Cuarta Internacional (1938-presente)",
+      "PST argentino en los años setenta",
+      "LCR/NPA en Francia (1969-presente)"
     ]
   },
   {
@@ -108,7 +175,14 @@
     "color": "#dc2626",
     "description": "Ideología oficial de Corea del Norte: marxismo-leninismo con nacionalismo étnico extremo, autosuficiencia económica y culto a la dinastía Kim.",
     "keyThinkers": [
-      "Kim Il-sung"
+      "Kim Il-sung",
+      "Kim Jong-il",
+      "Hwang Jang-yop (ideólogo y luego desertor)"
+    ],
+    "historicalExamples": [
+      "RPDC bajo Kim Il-sung (1948-1994)",
+      "RPDC bajo Kim Jong-il (1994-2011)",
+      "RPDC bajo Kim Jong-un (2011-presente)"
     ]
   },
   {
@@ -121,7 +195,19 @@
     "height": 2.778,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Corriente marxista-leninista que rechaza las reformas post-estalinistas y se considera la única heredera legítima del leninismo ortodoxo."
+    "description": "Corriente marxista-leninista que rechaza las reformas post-estalinistas y se considera la única heredera legítima del leninismo ortodoxo.",
+    "keyThinkers": [
+      "Mao Zedong",
+      "Enver Hoxha",
+      "Bill Bland",
+      "Hardial Bains"
+    ],
+    "historicalExamples": [
+      "Ruptura sino-soviética (1960-1989)",
+      "Albania hoxhaísta (1944-1985)",
+      "Partido del Trabajo de Albania (1941-1991)",
+      "PCI(M-L) en India (1969-presente)"
+    ]
   },
   {
     "id": "ho-chi-minh-thought",
@@ -135,7 +221,15 @@
     "color": "#dc2626",
     "description": "Aplicación vietnamita del marxismo-leninismo a la lucha anticolonial y la reunificación nacional. Ideología oficial de Vietnam.",
     "keyThinkers": [
-      "Ho Chi Minh"
+      "Hồ Chí Minh",
+      "Võ Nguyên Giáp",
+      "Lê Duẩn",
+      "Trường Chinh"
+    ],
+    "historicalExamples": [
+      "República Democrática de Vietnam (1945-1975)",
+      "Vietnam unificado bajo el PCV (1975-presente)",
+      "Frente de Liberación Nacional de Vietnam del Sur (1960-1975)"
     ]
   },
   {
@@ -150,7 +244,15 @@
     "color": "#dc2626",
     "description": "Socialismo con características chinas de Deng Xiaoping: mercado controlado por el partido único, apertura al capital sin liberalización política.",
     "keyThinkers": [
-      "Deng Xiaoping"
+      "Deng Xiaoping",
+      "Zhao Ziyang",
+      "Jiang Zemin",
+      "Xi Jinping"
+    ],
+    "historicalExamples": [
+      "China bajo Deng Xiaoping (1978-1992)",
+      "Zonas Económicas Especiales de China (1980-presente)",
+      "China bajo Xi Jinping (2012-presente)"
     ]
   },
   {
@@ -165,7 +267,15 @@
     "color": "#dc2626",
     "description": "Variante yugoslava del comunismo que combinaba autogestión obrera con partido único y distancia del bloque soviético.",
     "keyThinkers": [
-      "Josip Broz Tito"
+      "Josip Broz Tito",
+      "Edvard Kardelj",
+      "Milovan Đilas (luego disidente)",
+      "Boris Kidrič"
+    ],
+    "historicalExamples": [
+      "Yugoslavia socialista (1945-1980)",
+      "Movimiento de Países No Alineados (1961-presente)",
+      "Ruptura Tito-Stalin (1948)"
     ]
   },
   {
@@ -181,7 +291,15 @@
     "description": "Variante cubana del socialismo de Estado, surgida de la Revolución Cubana de 1959: partido único, economía planificada y política antimperialista.",
     "keyThinkers": [
       "Fidel Castro",
-      "Che Guevara"
+      "Ernesto 'Che' Guevara",
+      "Raúl Castro",
+      "Régis Debray"
+    ],
+    "historicalExamples": [
+      "Cuba revolucionaria (1959-presente)",
+      "Apoyo a la MPLA en Angola (1975-1991)",
+      "Influencia en el FSLN nicaragüense (1979)",
+      "Relación con las FARC en Colombia"
     ]
   },
   {
@@ -196,7 +314,15 @@
     "color": "#dc2626",
     "description": "Movimiento venezolano fundado por Hugo Chávez que combina nacionalismo, populismo de izquierda y control estatal de la economía.",
     "keyThinkers": [
-      "Hugo Chávez"
+      "Hugo Chávez",
+      "Heinz Dieterich (teórico del 'socialismo del siglo XXI')",
+      "Marta Harnecker",
+      "Nicolás Maduro"
+    ],
+    "historicalExamples": [
+      "Venezuela bajo Hugo Chávez (1999-2013)",
+      "ALBA (2004-presente)",
+      "Venezuela bajo Nicolás Maduro (2013-presente)"
     ]
   },
   {
@@ -209,7 +335,19 @@
     "height": 2.222,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Interpretación estricta de los textos clásicos de Marx y Engels sin las revisiones bernsteinianas o leninistas posteriores."
+    "description": "Interpretación estricta de los textos clásicos de Marx y Engels sin las revisiones bernsteinianas o leninistas posteriores.",
+    "keyThinkers": [
+      "Karl Marx",
+      "Friedrich Engels",
+      "Karl Kautsky",
+      "Rosa Luxemburg",
+      "Rudolf Hilferding"
+    ],
+    "historicalExamples": [
+      "Segunda Internacional (1889-1914)",
+      "SPD alemán antes de 1914",
+      "Debate Bernstein-Kautsky (1898-1902)"
+    ]
   },
   {
     "id": "national-bolshevism",
@@ -221,7 +359,17 @@
     "height": 2.222,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Síntesis heterodoxa que combina socialismo estatal con nacionalismo étnico, a veces clasificada como \"third position\"."
+    "description": "Síntesis heterodoxa que combina socialismo estatal con nacionalismo étnico, a veces clasificada como \"third position\".",
+    "keyThinkers": [
+      "Ernst Niekisch",
+      "Eduard Limónov",
+      "Aleksandr Dugín (primera etapa)",
+      "Karl Otto Paetel"
+    ],
+    "historicalExamples": [
+      "Movimiento niekischiano en Alemania (1919-1933)",
+      "Partido Nacional Bolchevique en Rusia (1992-2007)"
+    ]
   },
   {
     "id": "strasserism",
@@ -235,8 +383,13 @@
     "color": "#dc2626",
     "description": "Ala \"izquierda\" del nazismo asociada a los hermanos Strasser, que enfatizaba el anticapitalismo y el corporativismo sobre el racismo puro.",
     "keyThinkers": [
-      "Otto Strasser",
-      "Gregor Strasser"
+      "Gregor Strasser",
+      "Otto Strasser"
+    ],
+    "historicalExamples": [
+      "Facción Strasser en el NSDAP (1925-1932)",
+      "Frente Negro de Otto Strasser (1930-1933)",
+      "Noche de los Cuchillos Largos (1934)"
     ]
   },
   {
@@ -249,7 +402,14 @@
     "height": 2.222,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Síntesis excéntrica que combina una monarquía hereditaria simbólica con economía colectivista estatal."
+    "description": "Síntesis excéntrica que combina una monarquía hereditaria simbólica con economía colectivista estatal.",
+    "keyThinkers": [
+      "Sin pensadores canónicos establecidos"
+    ],
+    "historicalExamples": [
+      "RPDC como monarquía comunista de facto (1948-presente)",
+      "Tanzania bajo Nyerere con elementos de autoridad tradicional (1961-1985)"
+    ]
   },
   {
     "id": "posadism",
@@ -263,7 +423,11 @@
     "color": "#dc2626",
     "description": "Corriente trotskista argentina de J. Posadas que defendía la guerra nuclear como catalizador revolucionario y creía en contacto con extraterrestres.",
     "keyThinkers": [
-      "J. Posadas"
+      "J. Posadas (Homero Cristalli)"
+    ],
+    "historicalExamples": [
+      "POR argentino en los años cincuenta y sesenta",
+      "Bureau Latinoamericano de la Cuarta Internacional (1953-1981)"
     ]
   },
   {
@@ -276,7 +440,17 @@
     "height": 2.222,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Síntesis que combina colectivismo económico con modificación tecnológica de la especie humana dirigida por el Estado."
+    "description": "Síntesis que combina colectivismo económico con modificación tecnológica de la especie humana dirigida por el Estado.",
+    "keyThinkers": [
+      "James Hughes",
+      "Andy Miah",
+      "Aaron Bastani (FALC)",
+      "Nick Bostrom (transhumanismo liberal como contrapunto)"
+    ],
+    "historicalExamples": [
+      "Instituto para la Ética y las Tecnologías Emergentes (IEET, 2004-presente)",
+      "Debates sobre IA y propiedad en el contexto de ChatGPT y DeepMind (2020s)"
+    ]
   },
   {
     "id": "fully-automated-luxury-communism",
@@ -288,7 +462,17 @@
     "height": 2.222,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Visión utópica post-escasez donde la automatización total libera a la humanidad del trabajo bajo un sistema colectivista."
+    "description": "Visión utópica post-escasez donde la automatización total libera a la humanidad del trabajo bajo un sistema colectivista.",
+    "keyThinkers": [
+      "Aaron Bastani",
+      "Nick Srnicek",
+      "Alex Williams",
+      "Paul Mason"
+    ],
+    "historicalExamples": [
+      "Debate Corbynista en el Partido Laborista británico (2015-2019)",
+      "Movimiento por la renta básica universal en Europa y América Latina (2010s-2020s)"
+    ]
   },
   {
     "id": "state-capitalism",
@@ -300,7 +484,19 @@
     "height": 1.667,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Sistema donde el Estado posee o controla los medios de producción pero opera bajo lógica de acumulación de capital."
+    "description": "Sistema donde el Estado posee o controla los medios de producción pero opera bajo lógica de acumulación de capital.",
+    "keyThinkers": [
+      "Tony Cliff",
+      "Raya Dunayevskaya",
+      "C.L.R. James",
+      "Rudolf Hilferding"
+    ],
+    "historicalExamples": [
+      "URSS según la teoría de Tony Cliff (1917-1991)",
+      "China bajo Deng Xiaoping (1978-presente)",
+      "Venezuela chavista (1999-presente)",
+      "Empresas estatales del Golfo Pérsico"
+    ]
   },
   {
     "id": "baathism",
@@ -314,7 +510,16 @@
     "color": "#dc2626",
     "description": "Ideología panárabe socialista fundada por Michel Aflaq. Combina nacionalismo secular, socialismo de Estado y autoritarismo. Régimen en Siria e Irak.",
     "keyThinkers": [
-      "Michel Aflaq"
+      "Michel Aflaq",
+      "Salah al-Din al-Bitar",
+      "Saddam Hussein",
+      "Hafez al-Assad"
+    ],
+    "historicalExamples": [
+      "Irak bajo el Partido Baaz (1968-2003)",
+      "Siria bajo Hafez al-Assad (1970-2000)",
+      "Siria bajo Bashar al-Assad (2000-presente)",
+      "Invasión de Kuwait por Irak (1990)"
     ]
   },
   {
@@ -329,7 +534,14 @@
     "color": "#dc2626",
     "description": "Régimen de Robert Mugabe en Zimbabue: nacionalismo africano, redistribución forzosa de tierras y autoritarismo de partido único.",
     "keyThinkers": [
-      "Robert Mugabe"
+      "Robert Mugabe",
+      "Simon Muzenda",
+      "Emmerson Mnangagwa"
+    ],
+    "historicalExamples": [
+      "Zimbabue bajo Mugabe (1980-2017)",
+      "Reforma agraria violenta (2000-2008)",
+      "Hiperinflación zimbabuense (2007-2009)"
     ]
   },
   {
@@ -342,7 +554,17 @@
     "height": 1.667,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Síntesis que combina redistribución económica con preservación de valores culturales tradicionales."
+    "description": "Síntesis que combina redistribución económica con preservación de valores culturales tradicionales.",
+    "keyThinkers": [
+      "Richard Oastler",
+      "Michael Sadler",
+      "Maurice Glasman (Blue Labour)",
+      "G.K. Chesterton (parcialmente)"
+    ],
+    "historicalExamples": [
+      "Socialismo tory en el Reino Unido (1830-1850)",
+      "Blue Labour en el Partido Laborista británico (2009-presente)"
+    ]
   },
   {
     "id": "social-gospel",
@@ -353,7 +575,18 @@
     "height": 1.667,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Movimiento cristiano protestante que aplica principios éticos del Evangelio a problemas sociales como pobreza y desigualdad."
+    "description": "Movimiento cristiano protestante que aplica principios éticos del Evangelio a problemas sociales como pobreza y desigualdad.",
+    "keyThinkers": [
+      "Walter Rauschenbusch",
+      "Washington Gladden",
+      "Charles Sheldon",
+      "Martin Luther King Jr."
+    ],
+    "historicalExamples": [
+      "Movimiento progresista en EE.UU. (1900-1920)",
+      "Movimiento por los derechos civiles (1955-1968)",
+      "National Council of Churches en EE.UU. (1950-presente)"
+    ]
   },
   {
     "id": "futurism",
@@ -367,7 +600,15 @@
     "color": "#dc2626",
     "description": "Movimiento italiano de principios del siglo XX que glorificaba la velocidad, la tecnología y la violencia revolucionaria, precursor del fascismo.",
     "keyThinkers": [
-      "Filippo Tommaso Marinetti"
+      "Filippo Tommaso Marinetti",
+      "Umberto Boccioni",
+      "Vladímir Mayakovski (futurismo ruso)",
+      "Kazimir Malevich"
+    ],
+    "historicalExamples": [
+      "Vanguardia futurista italiana (1909-1944)",
+      "Futurismo ruso y constructivismo soviético (1917-1932)",
+      "Influencia en el fascismo italiano"
     ]
   },
   {
@@ -383,12 +624,17 @@
     "description": "Corriente teológica cristiana latinoamericana que interpreta la fe desde la realidad de los pobres y oprimidos, promoviendo una transformación social con énfasis en justicia estructural. En Colombia tuvo expresiones en Camilo Torres (sacerdote y líder ELN fundador), el Grupo Golconda, las Comunidades Eclesiales de Base y el obispo Pedro Casaldáliga en contexto fronterizo. Combina compromiso religioso con transformación económica de izquierda.",
     "keyThinkers": [
       "Gustavo Gutiérrez",
+      "Camilo Torres Restrepo",
       "Leonardo Boff",
-      "Camilo Torres Restrepo"
+      "Ignacio Ellacuría",
+      "Óscar Romero",
+      "Jon Sobrino"
     ],
     "historicalExamples": [
-      "Grupo Golconda (Colombia, 1968)",
-      "Camilo Torres Restrepo"
+      "Conferencia Episcopal de Medellín (1968)",
+      "Comunidades Eclesiales de Base en Brasil y Colombia (1970s-presente)",
+      "Camilo Torres y el ELN en Colombia (1965-1966)",
+      "Teólogos de la liberación en El Salvador (1970s-1980s)"
     ]
   },
   {
@@ -401,7 +647,19 @@
     "height": 1.667,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Doctrina que prioriza los intereses del grupo sobre los del individuo como principio organizador de la sociedad."
+    "description": "Doctrina que prioriza los intereses del grupo sobre los del individuo como principio organizador de la sociedad.",
+    "keyThinkers": [
+      "Georg Wilhelm Friedrich Hegel",
+      "Karl Marx",
+      "Émile Durkheim",
+      "Charles Taylor",
+      "Alasdair MacIntyre"
+    ],
+    "historicalExamples": [
+      "Kibutz en Israel (1910-presente)",
+      "Cooperativas en Mondragón, España (1956-presente)",
+      "Regímenes socialistas del siglo XX"
+    ]
   },
   {
     "id": "left-populism",
@@ -413,7 +671,20 @@
     "height": 1.667,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Movimientos que enfrentan una \"élite económica\" contra \"el pueblo\" desde una agenda redistributiva y nacionalista."
+    "description": "Movimientos que enfrentan una \"élite económica\" contra \"el pueblo\" desde una agenda redistributiva y nacionalista.",
+    "keyThinkers": [
+      "Ernesto Laclau",
+      "Chantal Mouffe",
+      "Hugo Chávez",
+      "Jean-Luc Mélenchon",
+      "Gustavo Petro"
+    ],
+    "historicalExamples": [
+      "Chavismo en Venezuela (1999-presente)",
+      "Kirchnerismo en Argentina (2003-presente)",
+      "Podemos en España (2014-presente)",
+      "Gobierno Petro en Colombia (2022-presente)"
+    ]
   },
   {
     "id": "distributism",
@@ -428,7 +699,14 @@
     "description": "Tercera vía católica entre capitalismo y socialismo que propone distribuir ampliamente la propiedad productiva.",
     "keyThinkers": [
       "G.K. Chesterton",
-      "Hilaire Belloc"
+      "Hilaire Belloc",
+      "José María Arizmendiarrieta",
+      "E.F. Schumacher"
+    ],
+    "historicalExamples": [
+      "Distributist League en el Reino Unido (1926-1940)",
+      "Cooperativas de Mondragón en el País Vasco (1956-presente)",
+      "Movimiento agrario católico en América del Norte (1930s-1950s)"
     ]
   },
   {
@@ -441,7 +719,19 @@
     "height": 1.667,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Corriente política originada en el Reino Unido basada en el movimiento sindical obrero y el Estado de bienestar."
+    "description": "Corriente política originada en el Reino Unido basada en el movimiento sindical obrero y el Estado de bienestar.",
+    "keyThinkers": [
+      "Keir Hardie",
+      "Clement Attlee",
+      "Aneurin Bevan",
+      "Anthony Crosland",
+      "Tony Blair"
+    ],
+    "historicalExamples": [
+      "Gobierno Attlee en el Reino Unido (1945-1951)",
+      "Partido Laborista australiano en el poder (1983-1996)",
+      "Partido dos Trabalhadores en Brasil (2003-2016)"
+    ]
   },
   {
     "id": "kleptocracy-left",
@@ -453,7 +743,18 @@
     "height": 1.667,
     "quadrant": "auth_left",
     "color": "#dc2626",
-    "description": "Régimen donde gobernantes usan el poder estatal para enriquecerse personalmente, presentado con retórica socialista."
+    "description": "Régimen donde gobernantes usan el poder estatal para enriquecerse personalmente, presentado con retórica socialista.",
+    "keyThinkers": [
+      "Stanislav Andreski (acuñó 'kleptocracy')",
+      "Moisés Naím",
+      "Edgardo Lander (análisis de Venezuela)"
+    ],
+    "historicalExamples": [
+      "Venezuela bajo Nicolás Maduro (2013-presente)",
+      "Zimbabwe bajo Mugabe fase tardía (1990-2017)",
+      "Angola bajo el MPLA (1975-presente)",
+      "Nicaragua bajo el FSLN segunda etapa (2007-presente)"
+    ]
   },
   {
     "id": "kraterocracy",
@@ -465,7 +766,19 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "\"Gobierno del más fuerte\". Sistema donde el poder lo ejerce quien demuestra superioridad por la fuerza bruta."
+    "description": "\"Gobierno del más fuerte\". Sistema donde el poder lo ejerce quien demuestra superioridad por la fuerza bruta.",
+    "keyThinkers": [
+      "Thomas Hobbes",
+      "Max Weber",
+      "Carl Schmitt",
+      "Charles Tilly"
+    ],
+    "historicalExamples": [
+      "Período de los Reinos Combatientes, China (475–221 a.C.)",
+      "Señoríos de la guerra en China (1916–1928)",
+      "Estado Islámico (ISIS), Iraq y Siria (2013–2019)",
+      "Señores de la guerra en Somalia tras el colapso del Estado (1991–presente)"
+    ]
   },
   {
     "id": "ghengis-khanism",
@@ -477,7 +790,19 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Imperialismo militarista extremo inspirado en las conquistas mongolas del siglo XIII: expansión territorial por dominación total."
+    "description": "Imperialismo militarista extremo inspirado en las conquistas mongolas del siglo XIII: expansión territorial por dominación total.",
+    "keyThinkers": [
+      "Gengis Kan",
+      "Jack Weatherford",
+      "Timothy May",
+      "David Morgan"
+    ],
+    "historicalExamples": [
+      "Imperio Mongol bajo Gengis Kan (1206–1227)",
+      "Khanato de la Horda Dorada, Rusia (1242–1502)",
+      "Ilkanato, Persia e Iraq (1256–1335)",
+      "Imperio Timúrida, Asia Central (1370–1507)"
+    ]
   },
   {
     "id": "corporate-autocracy",
@@ -489,7 +814,19 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Sistema donde las corporaciones ejercen poder político autoritario sin rendición de cuentas democrática. Ficción distópica cyberpunk."
+    "description": "Sistema donde las corporaciones ejercen poder político autoritario sin rendición de cuentas democrática. Ficción distópica cyberpunk.",
+    "keyThinkers": [
+      "Jan Pieterszoon Coen",
+      "Joel Bakan",
+      "Nick Srnicek",
+      "Naomi Klein"
+    ],
+    "historicalExamples": [
+      "Compañía Neerlandesa de las Indias Orientales (VOC), Asia (1602–1799)",
+      "Compañía Británica de las Indias Orientales, India (1757–1858)",
+      "United Fruit Company, Centroamérica (1899–1970)",
+      "Empresas mineras en el Congo durante el Estado Libre del Congo (1885–1908)"
+    ]
   },
   {
     "id": "absolute-monarchism",
@@ -501,7 +838,21 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Monarca con poder ilimitado sin separación de poderes ni constitución. Forma histórica dominante en Europa pre-1789."
+    "description": "Monarca con poder ilimitado sin separación de poderes ni constitución. Forma histórica dominante en Europa pre-1789.",
+    "keyThinkers": [
+      "Jean Bodin",
+      "Jacques-Bénigne Bossuet",
+      "Thomas Hobbes",
+      "Luis XIV de Francia",
+      "Robert Filmer"
+    ],
+    "historicalExamples": [
+      "Francia bajo Luis XIV (1643–1715)",
+      "Rusia bajo Pedro el Grande (1682–1725)",
+      "Imperio Otomano en su apogeo (siglos XV–XVII)",
+      "Arabia Saudita bajo la Casa de Saud (1932–presente)",
+      "Brunéi bajo el Sultán Hassanal Bolkiah (1967–presente)"
+    ]
   },
   {
     "id": "fascism",
@@ -516,7 +867,16 @@
     "description": "Ideología totalitaria que exalta la nación sobre el individuo, rechaza la democracia liberal y suprime la oposición mediante violencia.",
     "keyThinkers": [
       "Benito Mussolini",
-      "Giovanni Gentile"
+      "Giovanni Gentile",
+      "Georges Sorel",
+      "Robert O. Paxton",
+      "Emilio Gentile"
+    ],
+    "historicalExamples": [
+      "Italia fascista bajo Mussolini (1922–1943)",
+      "España franquista (fase fascista) (1936–1945)",
+      "Guardia de Hierro, Rumania (1923–1941)",
+      "Movimiento de las Cruces Flechadas, Hungría (1935–1945)"
     ]
   },
   {
@@ -531,7 +891,16 @@
     "color": "#2563eb",
     "description": "Fascismo alemán con antisemitismo genocida, supremacismo racial y culto al Führer.",
     "keyThinkers": [
-      "Adolf Hitler"
+      "Adolf Hitler",
+      "Alfred Rosenberg",
+      "Heinrich Himmler",
+      "Joseph Goebbels",
+      "Hannah Arendt"
+    ],
+    "historicalExamples": [
+      "Alemania nazi bajo Hitler (1933–1945)",
+      "Austria tras el Anschluss (1938–1945)",
+      "Regímenes colaboracionistas (Croacia Ustacha, Eslovaquia de Tiso) (1941–1945)"
     ]
   },
   {
@@ -544,7 +913,19 @@
     "height": 2.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Movimientos posguerra que retoman la ideología nazi incluyendo sus elementos raciales, antisemitas y totalitarios."
+    "description": "Movimientos posguerra que retoman la ideología nazi incluyendo sus elementos raciales, antisemitas y totalitarios.",
+    "keyThinkers": [
+      "George Lincoln Rockwell",
+      "William Luther Pierce",
+      "David Duke",
+      "Richard Spencer"
+    ],
+    "historicalExamples": [
+      "American Nazi Party, Estados Unidos (1959–presente)",
+      "Amanecer Dorado, Grecia (1985–2020)",
+      "Movimiento Neonazi en Alemania Oriental (1990s–2000s)",
+      "Partido Nacional Democrático (NPD), Alemania (1964–presente)"
+    ]
   },
   {
     "id": "esoteric-fascism",
@@ -558,7 +939,17 @@
     "color": "#2563eb",
     "description": "Variantes del fascismo con base en ocultismo, mitología aria y espiritualidad tradicionalista.",
     "keyThinkers": [
-      "Julius Evola"
+      "Julius Evola",
+      "Miguel Serrano",
+      "Rudolf von Sebottendorff",
+      "Heinrich Himmler",
+      "Savitri Devi"
+    ],
+    "historicalExamples": [
+      "Sociedad Thule, Alemania (1918–1937)",
+      "Ahnenerbe de las SS, Alemania nazi (1935–1945)",
+      "Movimiento de Miguel Serrano, Chile (1970s–2009)",
+      "Atomwaffen Division y grupos similares, internacional (2015–presente)"
     ]
   },
   {
@@ -572,8 +963,16 @@
     "quadrant": "auth_right",
     "color": "#2563eb",
     "description": "Régimen colaboracionista francés bajo Philippe Pétain (1940-1944), con fascismo pro-nazi y reacción católica tradicionalista.",
+    "keyThinkers": [
+      "Philippe Pétain",
+      "Charles Maurras",
+      "Pierre Laval",
+      "Robert Paxton"
+    ],
     "historicalExamples": [
-      "Francia 1940-1944"
+      "Estado Francés de Vichy (1940–1944)",
+      "Redada del Velódromo de Invierno (Vel d'Hiv), París (1942)",
+      "Milicia Francesa (colaboracionismo activo) (1943–1944)"
     ]
   },
   {
@@ -586,7 +985,20 @@
     "height": 2.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Movimientos contemporáneos que retoman elementos fascistas adaptados al contexto postguerra fría: nacionalismo identitario, euroescepticismo."
+    "description": "Movimientos contemporáneos que retoman elementos fascistas adaptados al contexto postguerra fría: nacionalismo identitario, euroescepticismo.",
+    "keyThinkers": [
+      "Giorgio Almirante",
+      "Jean-Marie Le Pen",
+      "Julius Evola",
+      "Roger Griffin",
+      "Cas Mudde"
+    ],
+    "historicalExamples": [
+      "Movimiento Sociale Italiano (MSI), Italia (1946–1995)",
+      "Frente Nacional, Francia (1972–2018)",
+      "Patria y Libertad, Chile (1971–1973)",
+      "Alianza Nacional, Italia (bajo Fini) (1994–2009)"
+    ]
   },
   {
     "id": "islamic-theocracy",
@@ -599,8 +1011,19 @@
     "quadrant": "auth_right",
     "color": "#2563eb",
     "description": "Régimen donde la sharia es fuente principal del derecho estatal y el clero tiene poder político formal.",
+    "keyThinkers": [
+      "Ruhollah Jomeini",
+      "Sayyid Qutb",
+      "Mawdudi (Abu Ala Maududi)",
+      "Tariq Ramadan",
+      "Abdolkarim Soroush"
+    ],
     "historicalExamples": [
-      "Irán desde 1979"
+      "Califato Abasí, Baghdad (750–1258)",
+      "República Islámica de Irán (1979–presente)",
+      "Afganistán bajo el régimen talibán (1996–2001 y 2021–presente)",
+      "Estado Islámico (ISIS), Iraq y Siria (2014–2019)",
+      "Arabia Saudita bajo el wahhabismo (1932–presente)"
     ]
   },
   {
@@ -613,7 +1036,20 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Visión política que busca que la moral cristiana determine la legislación civil y la estructura del Estado."
+    "description": "Visión política que busca que la moral cristiana determine la legislación civil y la estructura del Estado.",
+    "keyThinkers": [
+      "Juan Calvino",
+      "Papa Gregorio VII",
+      "Rousas John Rushdoony",
+      "Agustín de Hipona",
+      "Cotton Mather"
+    ],
+    "historicalExamples": [
+      "Ginebra calvinista bajo Juan Calvino (1541–1564)",
+      "Massachusetts Bay Colony, Nueva Inglaterra (1630–1684)",
+      "Estados Pontificios, Italia central (756–1870)",
+      "Estado Vaticano (1929–presente)"
+    ]
   },
   {
     "id": "hindu-theocracy",
@@ -625,7 +1061,19 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Corriente nacionalista india (Hindutva) que busca redefinir la identidad nacional sobre bases religiosas hindúes."
+    "description": "Corriente nacionalista india (Hindutva) que busca redefinir la identidad nacional sobre bases religiosas hindúes.",
+    "keyThinkers": [
+      "Vinayak Damodar Savarkar",
+      "M.S. Golwalkar",
+      "Kautilya (Chanakya)",
+      "Bal Gangadhar Tilak",
+      "Narendra Modi"
+    ],
+    "historicalExamples": [
+      "Imperio Vijayanagara, India del Sur (1336–1646)",
+      "Nepal como reino hindú (1768–2008)",
+      "BJP bajo Modi, India (2014–presente)"
+    ]
   },
   {
     "id": "buddhist-theocracy",
@@ -637,7 +1085,20 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Régimen donde el clero budista ejerce poder político, como en el Tíbet pre-1959 bajo los Dalai Lamas."
+    "description": "Régimen donde el clero budista ejerce poder político, como en el Tíbet pre-1959 bajo los Dalai Lamas.",
+    "keyThinkers": [
+      "Ashoka Maurya",
+      "XIV Dalái Lama (Tenzin Gyatso)",
+      "Bhikkhu Buddhadasa",
+      "Ashin Wirathu",
+      "Sulak Sivaraksa"
+    ],
+    "historicalExamples": [
+      "Imperio Maurya bajo Ashoka, India (268–232 a.C.)",
+      "Tíbet bajo el Dalái Lama (1642–1950)",
+      "Reino de Pagan, Birmania (849–1297)",
+      "Gobierno tibetano en el exilio, Dharamsala (1959–presente)"
+    ]
   },
   {
     "id": "clientelism-cacicazgo",
@@ -650,10 +1111,17 @@
     "quadrant": "auth_right",
     "color": "#2563eb",
     "description": "Política basada en redes locales de poder personalista, intercambio de favores estatales por lealtad política y liderazgos regionales hereditarios. En Colombia tiene expresión histórica en el gamonalismo (caciques rurales del siglo XX), las maquinarias regionales de Casa Char en el Caribe, los clanes Gnecco-Lozada-Aguilar y otras casas políticas costeñas o santandereanas. Se diferencia del conservadurismo tradicionalista por su pragmatismo no-ideológico.",
+    "keyThinkers": [
+      "James Scott",
+      "Luis Eduardo Nieto Arteta",
+      "Francisco Gutiérrez Sanín",
+      "John Duncan Powell"
+    ],
     "historicalExamples": [
-      "Casa Char (Atlántico)",
-      "Gamonalismo histórico colombiano",
-      "Clan Gnecco (Magdalena)"
+      "Gamonalismo en Colombia durante el bipartidismo (1850–1958)",
+      "Caciquismo español de la Restauración (1874–1923)",
+      "Parapolítica colombiana (alianzas AUC-congresistas) (1990s–2006)",
+      "Casa Char, Atlántico y Barranquilla, Colombia (1990s–presente)"
     ]
   },
   {
@@ -669,11 +1137,16 @@
     "description": "Programa de transformación económica con un Estado activo en infraestructura, planificación industrial y mercado regulado. Inspirado en la CEPAL y la experiencia desarrollista latinoamericana, combina pragmatismo pro-mercado con intervención estatal selectiva. En Colombia se expresa en proyectos como el de Germán Vargas Lleras (Cambio Radical, infraestructura como motor) y en sectores del santismo orientados a APP y modernización.",
     "keyThinkers": [
       "Raúl Prebisch",
-      "Celso Furtado"
+      "Celso Furtado",
+      "Luiz Carlos Bresser-Pereira",
+      "Germán Vargas Lleras",
+      "Albert Hirschman"
     ],
     "historicalExamples": [
-      "Vargas Lleras (Cambio Radical)",
-      "Plan Nacional de Desarrollo Santos II"
+      "Brasil bajo Juscelino Kubitschek (1956–1961)",
+      "México durante el «milagro mexicano» (1940–1970)",
+      "Corea del Sur bajo Park Chung-hee (1961–1979)",
+      "Colombia — gobiernos del Frente Nacional con CEPAL (1958–1974)"
     ]
   },
   {
@@ -687,9 +1160,17 @@
     "quadrant": "auth_right",
     "color": "#2563eb",
     "description": "Posición de derecha cuyo eje articulador es el orden público y la seguridad como prioridad central, sin necesariamente adherir a un programa económico extremo o a valores tradicionalistas estrictos. En Colombia tiene expresión en figuras tecnócratas con énfasis en seguridad como Juan Carlos Pinzón, sectores moderados del uribismo post-conflicto y candidaturas que privilegian \"mano dura institucional\" sobre el revanchismo paleo-conservador.",
-    "historicalExamples": [
+    "keyThinkers": [
+      "Álvaro Uribe Vélez",
       "Juan Carlos Pinzón",
-      "Sectores moderados del uribismo post-2018"
+      "Samuel Huntington",
+      "James Q. Wilson y George Kelling"
+    ],
+    "historicalExamples": [
+      "Política de Seguridad Democrática, Colombia (Uribe) (2002–2010)",
+      "Estatuto de Seguridad, Colombia (Turbay) (1978–1982)",
+      "Nayib Bukele y el estado de excepción, El Salvador (2022–presente)",
+      "Bolsonaro y la militarización del orden público, Brasil (2019–2022)"
     ]
   },
   {
@@ -703,10 +1184,19 @@
     "quadrant": "auth_right",
     "color": "#2563eb",
     "description": "Sistema que combina economía de mercado con fuerte control político autoritario sin democracia liberal ni garantías civiles robustas. Modelo asociado al desarrollo de Asia oriental (Singapur, China contemporánea, Corea del Sur bajo Park Chung-hee). En Colombia es referencia teórica más que aplicada — pocos actores políticos defienden explícitamente este modelo.",
+    "keyThinkers": [
+      "Lee Kuan Yew",
+      "Deng Xiaoping",
+      "Augusto Pinochet",
+      "Azar Gat",
+      "Stefan Halper"
+    ],
     "historicalExamples": [
-      "Singapur",
-      "China contemporánea",
-      "Corea del Sur (Park Chung-hee)"
+      "Singapur bajo el Partido de Acción Popular (1965–presente)",
+      "Chile bajo Pinochet (1973–1990)",
+      "China bajo el Partido Comunista (era reformas) (1978–presente)",
+      "Rusia bajo Vladimir Putin (2000–presente)",
+      "Corea del Sur bajo Park Chung-hee (1961–1979)"
     ]
   },
   {
@@ -719,7 +1209,22 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Doctrina de expansión territorial y dominación política sobre otras naciones mediante fuerza militar o presión económica."
+    "description": "Doctrina de expansión territorial y dominación política sobre otras naciones mediante fuerza militar o presión económica.",
+    "keyThinkers": [
+      "J.A. Hobson",
+      "Vladimir Lenin",
+      "Edward Said",
+      "Hannah Arendt",
+      "Kwame Nkrumah",
+      "John Stuart Mill"
+    ],
+    "historicalExamples": [
+      "Imperio Británico en su apogeo (1815–1947)",
+      "Imperialismo belga en el Congo (1885–1960)",
+      "Imperialismo japonés en Asia-Pacífico (1895–1945)",
+      "Expansión soviética en Europa del Este (1944–1989)",
+      "Iniciativa de la Franja y la Ruta, China (2013–presente)"
+    ]
   },
   {
     "id": "colonialism",
@@ -731,7 +1236,20 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Sistema de explotación económica y cultural de territorios ocupados por una potencia extranjera."
+    "description": "Sistema de explotación económica y cultural de territorios ocupados por una potencia extranjera.",
+    "keyThinkers": [
+      "Jules Ferry",
+      "Rudyard Kipling",
+      "John Stuart Mill",
+      "Cecil Rhodes",
+      "Albert Sarraut"
+    ],
+    "historicalExamples": [
+      "Imperio Británico en la India (India / Reino Unido, 1858-1947)",
+      "Congo Belga bajo Leopoldo II (Congo / Bélgica, 1885-1960)",
+      "Indochina francesa (Vietnam / Francia, 1887-1954)",
+      "Imperio español en América (América Latina / España, 1492-1825)"
+    ]
   },
   {
     "id": "aristocracy",
@@ -743,7 +1261,20 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Gobierno hereditario de una clase noble minoritaria que monopoliza poder político y propiedad."
+    "description": "Gobierno hereditario de una clase noble minoritaria que monopoliza poder político y propiedad.",
+    "keyThinkers": [
+      "Aristóteles",
+      "Edmund Burke",
+      "Alexis de Tocqueville",
+      "José Ortega y Gasset",
+      "T.S. Eliot"
+    ],
+    "historicalExamples": [
+      "República de Venecia (Italia, 697-1797)",
+      "Cámara de los Lores como cuerpo legislativo pleno (Reino Unido, 1215-1911)",
+      "Senado romano republicano (Roma, 509-27 a.C.)",
+      "Aristocracia prusiana (Junkers) (Alemania, 1640-1918)"
+    ]
   },
   {
     "id": "fordism",
@@ -757,7 +1288,17 @@
     "color": "#2563eb",
     "description": "Sistema de producción industrial en masa con jerarquía corporativa rígida y consumo estandarizado.",
     "keyThinkers": [
-      "Henry Ford"
+      "Henry Ford",
+      "Frederick Winslow Taylor",
+      "Antonio Gramsci",
+      "Michel Aglietta",
+      "Robert Boyer"
+    ],
+    "historicalExamples": [
+      "Planta de Highland Park de Ford (Estados Unidos, 1913-1930)",
+      "Industrialización soviética con técnicas fordistas (URSS, 1928-1940)",
+      "Régimen de acumulación fordista de posguerra (Europa Occidental / Estados Unidos, 1945-1973)",
+      "Plan SEAT y Seat 600 como fordismo tardío español (España, 1950-1975)"
     ]
   },
   {
@@ -770,7 +1311,20 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Sistema medieval de relaciones jerárquicas entre señores y vasallos basado en tierras, fidelidad y servicio militar."
+    "description": "Sistema medieval de relaciones jerárquicas entre señores y vasallos basado en tierras, fidelidad y servicio militar.",
+    "keyThinkers": [
+      "Louis de Bonald",
+      "Joseph de Maistre",
+      "Marc Bloch",
+      "Georges Duby",
+      "Perry Anderson"
+    ],
+    "historicalExamples": [
+      "Feudalismo carolingio y sus sucesores (Francia / Europa Occidental, 850-1300)",
+      "Sistema de shoguns y samurái (Japón, 1185-1868)",
+      "Señoríos y encomiendas coloniales (América Latina, 1492-1810)",
+      "Feudalismo ruso (servidumbre) (Rusia, siglo XVI-1861)"
+    ]
   },
   {
     "id": "elective-monarchism",
@@ -782,7 +1336,19 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Sistema donde el monarca es elegido por un cuerpo electoral restringido en lugar de heredar el título."
+    "description": "Sistema donde el monarca es elegido por un cuerpo electoral restringido en lugar de heredar el título.",
+    "keyThinkers": [
+      "Jean Bodin",
+      "Stanisław Konarski",
+      "Hugo Grocio",
+      "Montesquieu"
+    ],
+    "historicalExamples": [
+      "Sacro Imperio Romano Germánico (Alemania / Europa Central, 962-1806)",
+      "Monarquía electiva polaca (Polonia-Lituania, 1572-1795)",
+      "Monarquía constitucional malaya (Yang di-Pertuan Agong) (Malasia, 1957-presente)",
+      "Papado como monarquía electiva (Santa Sede, siglos IX-presente)"
+    ]
   },
   {
     "id": "constitutional-monarchism",
@@ -794,7 +1360,20 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Sistema donde el monarca comparte poder con un parlamento bajo un marco constitucional que limita su autoridad."
+    "description": "Sistema donde el monarca comparte poder con un parlamento bajo un marco constitucional que limita su autoridad.",
+    "keyThinkers": [
+      "Edmund Burke",
+      "Walter Bagehot",
+      "Benjamin Disraeli",
+      "Juan de Borbón",
+      "Vernon Bogdanor"
+    ],
+    "historicalExamples": [
+      "Monarquía parlamentaria británica (Reino Unido, 1689-presente)",
+      "Restauración borbónica española (España, 1975-presente)",
+      "Monarquías escandinavas (Suecia / Noruega / Dinamarca, siglo XIX-presente)",
+      "Monarquía constitucional de Japón (Japón, 1947-presente)"
+    ]
   },
   {
     "id": "senatorialism",
@@ -806,7 +1385,20 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Gobernanza oligárquica donde un senado aristocrático retiene el poder político principal."
+    "description": "Gobernanza oligárquica donde un senado aristocrático retiene el poder político principal.",
+    "keyThinkers": [
+      "Cicerón",
+      "Alexander Hamilton",
+      "James Madison",
+      "Montesquieu",
+      "Hannah Arendt"
+    ],
+    "historicalExamples": [
+      "Senado de la República Romana (Roma, 509-27 a.C.)",
+      "Senado federal de Estados Unidos (Estados Unidos, 1789-presente)",
+      "Senado con designados de Chile (Chile, 1990-2005)",
+      "Cámara de los Lores como senado hereditario (Reino Unido, 1215-1999)"
+    ]
   },
   {
     "id": "paleo-conservatism",
@@ -818,7 +1410,19 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Corriente conservadora tradicionalista estadounidense que defiende aislacionismo, herencia cultural occidental y federalismo."
+    "description": "Corriente conservadora tradicionalista estadounidense que defiende aislacionismo, herencia cultural occidental y federalismo.",
+    "keyThinkers": [
+      "Russell Kirk",
+      "Patrick Buchanan",
+      "Samuel Francis",
+      "Paul Gottfried",
+      "Thomas Fleming"
+    ],
+    "historicalExamples": [
+      "Old Right y la oposición al New Deal y la WWII (Estados Unidos, 1933-1945)",
+      "Campañas presidenciales de Pat Buchanan (Estados Unidos, 1992-2000)",
+      "Movimiento America First de Trump (Estados Unidos, 2016-presente)"
+    ]
   },
   {
     "id": "pinochetism",
@@ -831,8 +1435,18 @@
     "quadrant": "auth_right",
     "color": "#2563eb",
     "description": "Dictadura militar chilena (1973-1990) que combinó represión autoritaria con liberalización económica radical (Chicago Boys).",
+    "keyThinkers": [
+      "Augusto Pinochet",
+      "Milton Friedman",
+      "Jaime Guzmán",
+      "Hernán Büchi",
+      "José Piñera"
+    ],
     "historicalExamples": [
-      "Chile 1973-1990"
+      "Golpe de Estado y junta militar (Chile, 1973-1974)",
+      "Programa económico de los Chicago Boys (Chile, 1975-1989)",
+      "Constitución de 1980 y transición pactada (Chile, 1980-1990)",
+      "Detención en Londres y procesos judiciales (Chile / Reino Unido, 1998-2006)"
     ]
   },
   {
@@ -845,7 +1459,20 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Síntesis que acepta reformas sociales graduales dentro de un marco tradicionalista y jerárquico."
+    "description": "Síntesis que acepta reformas sociales graduales dentro de un marco tradicionalista y jerárquico.",
+    "keyThinkers": [
+      "Edmund Burke",
+      "Benjamin Disraeli",
+      "Harold Macmillan",
+      "David Cameron",
+      "Michael Gove"
+    ],
+    "historicalExamples": [
+      "Toryismo social de Disraeli ('Una nación') (Reino Unido, 1868-1880)",
+      "Gobierno de Harold Macmillan y el Estado de bienestar tory (Reino Unido, 1957-1963)",
+      "Democracia Cristiana en el gobierno (Chile, 1964-1970)",
+      "Gobierno de David Cameron (Reino Unido, 2010-2016)"
+    ]
   },
   {
     "id": "nationalist-conservatism",
@@ -857,7 +1484,20 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Conservadurismo con énfasis en soberanía nacional, identidad cultural y proteccionismo económico moderado."
+    "description": "Conservadurismo con énfasis en soberanía nacional, identidad cultural y proteccionismo económico moderado.",
+    "keyThinkers": [
+      "Roger Scruton",
+      "Yoram Hazony",
+      "Viktor Orbán",
+      "Patrick Deneen",
+      "Douglas Murray"
+    ],
+    "historicalExamples": [
+      "Gobierno de Fidesz bajo Orbán (Hungría, 2010-presente)",
+      "Gobierno de Ley y Justicia (PiS) (Polonia, 2015-2023)",
+      "Gobierno de Fratelli d'Italia y coalición (Italia, 2022-presente)",
+      "Rassemblement National y el soberanismo francés (Francia, 1972-presente)"
+    ]
   },
   {
     "id": "traditionalist-conservatism",
@@ -871,8 +1511,18 @@
     "color": "#2563eb",
     "description": "Énfasis en la preservación de instituciones, costumbres y jerarquías heredadas como base del orden social.",
     "keyThinkers": [
+      "Edmund Burke",
+      "Joseph de Maistre",
       "Russell Kirk",
-      "Edmund Burke"
+      "Richard Weaver",
+      "Roger Scruton",
+      "T.S. Eliot"
+    ],
+    "historicalExamples": [
+      "Carlismo español (España, 1833-siglo XX)",
+      "Acción Francesa de Maurras (Francia, 1899-1944)",
+      "Movimiento tradicionalista del Intercollegiate Studies Institute (Estados Unidos, 1953-presente)",
+      "Integrismo católico latinoamericano (TFP) (Brasil / América Latina, 1960-presente)"
     ]
   },
   {
@@ -885,7 +1535,21 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Corriente estadounidense con política exterior intervencionista, valores tradicionales, libre mercado y defensa armada de la democracia liberal."
+    "description": "Corriente estadounidense con política exterior intervencionista, valores tradicionales, libre mercado y defensa armada de la democracia liberal.",
+    "keyThinkers": [
+      "Irving Kristol",
+      "Norman Podhoretz",
+      "Jeane Kirkpatrick",
+      "Paul Wolfowitz",
+      "William Kristol",
+      "Robert Kagan"
+    ],
+    "historicalExamples": [
+      "Política exterior de Reagan (anticomunismo activo) (Estados Unidos, 1981-1989)",
+      "Intervención en Bosnia y Kosovo (Balcanes / Estados Unidos, 1995-1999)",
+      "Invasión de Irak y doctrina Bush (Irak / Estados Unidos, 2003-2011)",
+      "Proyecto para el Nuevo Siglo Americano (PNAC) (Estados Unidos, 1997-2006)"
+    ]
   },
   {
     "id": "eco-conservatism",
@@ -897,7 +1561,20 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Conservadurismo que integra preocupación ambiental desde una perspectiva tradicionalista y local."
+    "description": "Conservadurismo que integra preocupación ambiental desde una perspectiva tradicionalista y local.",
+    "keyThinkers": [
+      "Roger Scruton",
+      "Theodore Roosevelt",
+      "Russell Kirk",
+      "Bob Inglis",
+      "Peter Kareiva"
+    ],
+    "historicalExamples": [
+      "Creación del Sistema de Parques Nacionales (Estados Unidos, 1906-1916)",
+      "Creación de la EPA bajo Nixon (Estados Unidos, 1970)",
+      "Conservacionismo rural inglés (CPRE) (Reino Unido, 1926-presente)",
+      "Políticas climáticas de la CDU / Angela Merkel (Alemania, 2005-2021)"
+    ]
   },
   {
     "id": "liberal-conservatism",
@@ -909,7 +1586,20 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Síntesis entre liberalismo económico y conservadurismo social moderado. Mercados libres dentro de un marco institucional tradicional."
+    "description": "Síntesis entre liberalismo económico y conservadurismo social moderado. Mercados libres dentro de un marco institucional tradicional.",
+    "keyThinkers": [
+      "Friedrich Hayek",
+      "Milton Friedman",
+      "Margaret Thatcher",
+      "Ronald Reagan",
+      "Karl Popper"
+    ],
+    "historicalExamples": [
+      "Gobierno de Thatcher y el thatcherismo (Reino Unido, 1979-1990)",
+      "Gobierno de Reagan y el reaganomics (Estados Unidos, 1981-1989)",
+      "Gobierno del PP de Aznar (España, 1996-2004)",
+      "Gobiernos de Piñera (Chile, 2010-2014 / 2018-2022)"
+    ]
   },
   {
     "id": "zionism",
@@ -921,7 +1611,21 @@
     "height": 1.5,
     "quadrant": "auth_right",
     "color": "#2563eb",
-    "description": "Movimiento nacionalista judío que defiende la existencia del Estado de Israel como patria del pueblo judío."
+    "description": "Movimiento nacionalista judío que defiende la existencia del Estado de Israel como patria del pueblo judío.",
+    "keyThinkers": [
+      "Theodor Herzl",
+      "Ze'ev Jabotinsky",
+      "David Ben-Gurion",
+      "Ahad Ha'am",
+      "Chaim Weizmann",
+      "Golda Meir"
+    ],
+    "historicalExamples": [
+      "Primer Congreso Sionista en Basilea (Suiza, 1897)",
+      "Declaración Balfour y mandato británico (Reino Unido / Palestina, 1917-1948)",
+      "Proclamación del Estado de Israel (Israel, 1948)",
+      "Guerra de los Seis Días y ocupación de Cisjordania y Gaza (Israel, 1967)"
+    ]
   },
   {
     "id": "kuomintangism",
@@ -936,7 +1640,16 @@
     "description": "Ideología del Partido Nacionalista Chino (KMT) de Sun Yat-sen: nacionalismo, democracia y bienestar del pueblo.",
     "keyThinkers": [
       "Sun Yat-sen",
-      "Chiang Kai-shek"
+      "Chiang Kai-shek",
+      "Chiang Ching-kuo",
+      "Hu Han-min",
+      "Wang Jingwei"
+    ],
+    "historicalExamples": [
+      "República de China y primer gobierno del KMT (China, 1912-1949)",
+      "Gobierno del KMT en Taiwán bajo ley marcial (Taiwán, 1949-1987)",
+      "Milagro económico taiwanés (Taiwán, 1960-1990)",
+      "Transición democrática y elecciones presidenciales directas (Taiwán, 1987-1996)"
     ]
   },
   {
@@ -951,9 +1664,19 @@
     "color": "#2563eb",
     "description": "Corriente política inspirada en la doctrina social de la Iglesia Católica y el cristianismo social. Combina valores tradicionales con programa social moderado y economía de mercado regulada. En Colombia tiene expresión en el Movimiento Independiente de Renovación Absoluta (MIRA), sectores evangélicos como Colombia Justa Libres, y raíces históricas en el Partido Social Conservador. Ideología clave del espectro auth_right moderado.",
     "keyThinkers": [
-      "Emmanuel Mounier",
+      "Luigi Sturzo",
       "Jacques Maritain",
-      "Álvaro Leyva Durán"
+      "Konrad Adenauer",
+      "Alcide De Gasperi",
+      "Eduardo Frei Montalva",
+      "Roberto Papini"
+    ],
+    "historicalExamples": [
+      "Partido Popular Italiano de Sturzo (Italia, 1919-1926)",
+      "CDU/CSU en la reconstrucción alemana (Adenauer) (Alemania, 1949-1963)",
+      "PDC y la Revolución en Libertad (Frei Montalva) (Chile, 1964-1970)",
+      "COPEI y el bipartidismo venezolano (Venezuela, 1946-1998)",
+      "MIRA y Colombia Justa Libres (Colombia, 2000-presente)"
     ]
   },
   {
@@ -968,11 +1691,19 @@
     "color": "#2563eb",
     "description": "Movilización política que combina nacionalismo, oposición a la \"élite establecida\" y apelación directa al pueblo, con programa económico liberal o mixto y autoritarismo social. En Colombia tiene expresión en la Liga de Gobernantes Anticorrupción (Rodolfo Hernández) y en sectores del uribismo de base. Diferente del nationalist-conservatism por su anti-establecimiento personalista.",
     "keyThinkers": [
-      "Alberto Fernández"
+      "Cas Mudde",
+      "Jan-Werner Müller",
+      "Pippa Norris",
+      "Donald Trump",
+      "Viktor Orbán",
+      "Javier Milei"
     ],
     "historicalExamples": [
-      "Rodolfo Hernández (Colombia, 2022)",
-      "Álvaro Uribe (campañas 2002/2006)"
+      "Presidencia de Donald Trump (Estados Unidos, 2017-2021 / 2025-presente)",
+      "Presidencia de Jair Bolsonaro (Brasil, 2019-2022)",
+      "Gobierno de Javier Milei (Argentina, 2023-presente)",
+      "Rassemblement National y el soberanismo francés (Francia, 1972-presente)",
+      "Presidencia de Nayib Bukele (El Salvador, 2019-presente)"
     ]
   },
   {
@@ -987,7 +1718,18 @@
     "color": "#16a34a",
     "description": "Combinación de democracia liberal con propiedad social de los medios estratégicos y fuerte redistribución.",
     "keyThinkers": [
-      "Eduard Bernstein"
+      "Eduard Bernstein",
+      "R. H. Tawney",
+      "G. D. H. Cole",
+      "Michael Harrington",
+      "Salvador Allende",
+      "Bernie Sanders"
+    ],
+    "historicalExamples": [
+      "Gobierno de la Unidad Popular (Chile, 1970-1973)",
+      "Partido Laborista bajo Jeremy Corbyn (Reino Unido, 2015-2019)",
+      "Sociedad Fabiana y laborismo temprano (Reino Unido, 1884-1945)",
+      "Democratic Socialists of America — resurgimiento (EE.UU., 2016-)"
     ]
   },
   {
@@ -1001,8 +1743,19 @@
     "quadrant": "lib_left",
     "color": "#16a34a",
     "description": "Capitalismo regulado con fuerte Estado de bienestar, derechos laborales robustos y universalización de servicios públicos.",
+    "keyThinkers": [
+      "Eduard Bernstein",
+      "Karl Kautsky",
+      "Olof Palme",
+      "Anthony Giddens",
+      "Gosta Esping-Andersen",
+      "Willy Brandt"
+    ],
     "historicalExamples": [
-      "Países nórdicos siglo XX"
+      "Estado de bienestar sueco — modelo SAP (Suecia, 1932-1990s)",
+      "SPD y economía social de mercado (Alemania, 1969-1982)",
+      "Partido Laborista y NHS (Reino Unido, 1945-1951)",
+      "Frente Amplio — coalición socialdemócrata (Uruguay, 2005-2020)"
     ]
   },
   {
@@ -1015,7 +1768,20 @@
     "height": 2.667,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Movimiento de reformas sociales y políticas graduales para corregir desigualdades y ampliar derechos civiles."
+    "description": "Movimiento de reformas sociales y políticas graduales para corregir desigualdades y ampliar derechos civiles.",
+    "keyThinkers": [
+      "John Dewey",
+      "Herbert Croly",
+      "Franklin D. Roosevelt",
+      "Cornel West",
+      "Naomi Klein"
+    ],
+    "historicalExamples": [
+      "Era Progresista — reformas antimonopolio (EE.UU., 1900-1920)",
+      "New Deal rooseveltiano (EE.UU., 1933-1938)",
+      "Marea rosa latinoamericana (América Latina, 2000-2015)",
+      "Gran Sociedad de Lyndon B. Johnson (EE.UU., 1964-1969)"
+    ]
   },
   {
     "id": "welfarism",
@@ -1027,7 +1793,20 @@
     "height": 2.667,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Corriente que prioriza la expansión del Estado de bienestar sin cuestionar la economía de mercado."
+    "description": "Corriente que prioriza la expansión del Estado de bienestar sin cuestionar la economía de mercado.",
+    "keyThinkers": [
+      "William Beveridge",
+      "John Maynard Keynes",
+      "John Rawls",
+      "Amartya Sen",
+      "T. H. Marshall"
+    ],
+    "historicalExamples": [
+      "NHS y Estado de bienestar beveridgeano (Reino Unido, 1945-)",
+      "Modelo de bienestar nórdico (Suecia/Noruega/Dinamarca, 1960s-)",
+      "New Deal y seguridad social (EE.UU., 1935-)",
+      "Seguro de desempleo y pensiones bismarckianas (Alemania, 1883-1889)"
+    ]
   },
   {
     "id": "labour-social-democracy",
@@ -1039,7 +1818,20 @@
     "height": 2.667,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Síntesis británica entre socialismo democrático y movimiento sindical, base histórica del Partido Laborista."
+    "description": "Síntesis británica entre socialismo democrático y movimiento sindical, base histórica del Partido Laborista.",
+    "keyThinkers": [
+      "Keir Hardie",
+      "Clement Attlee",
+      "Harold Wilson",
+      "Bob Hawke",
+      "Anthony Crosland"
+    ],
+    "historicalExamples": [
+      "Gobierno Attlee — Estado de bienestar y NHS (Reino Unido, 1945-1951)",
+      "Partido Laborista Australiano — fundación y primeros gobiernos (Australia, 1901-1910)",
+      "Primer gobierno laborista neozelandés — Estado de bienestar temprano (Nueva Zelanda, 1935-1949)",
+      "Gobierno laborista de Harold Wilson (Reino Unido, 1964-1970)"
+    ]
   },
   {
     "id": "luxemburgism",
@@ -1053,7 +1845,15 @@
     "color": "#16a34a",
     "description": "Corriente marxista antiautoritaria de Rosa Luxemburgo que defiende la democracia revolucionaria obrera.",
     "keyThinkers": [
-      "Rosa Luxemburgo"
+      "Rosa Luxemburgo",
+      "Paul Levi",
+      "Clara Zetkin",
+      "Franz Mehring"
+    ],
+    "historicalExamples": [
+      "Liga Espartaquista y Revolución de Noviembre (Alemania, 1918-1919)",
+      "KPD en la República de Weimar (Alemania, 1919-1933)",
+      "Influencia en la nueva izquierda europea (Europa, 1960s-1970s)"
     ]
   },
   {
@@ -1066,7 +1866,19 @@
     "height": 2.667,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Corriente marxista crítica tanto del leninismo como de la socialdemocracia, defendiendo la autonomía de los consejos obreros."
+    "description": "Corriente marxista crítica tanto del leninismo como de la socialdemocracia, defendiendo la autonomía de los consejos obreros.",
+    "keyThinkers": [
+      "Amadeo Bordiga",
+      "Anton Pannekoek",
+      "Herman Gorter",
+      "Henriette Roland-Holst",
+      "Sylvia Pankhurst"
+    ],
+    "historicalExamples": [
+      "Corriente de Bordiga en el PCI italiano (Italia, 1921-1926)",
+      "KAPD — Partido Obrero Comunista de Alemania (Alemania, 1920-1923)",
+      "Corriente Comunista Internacional — organización contemporánea (1975-)"
+    ]
   },
   {
     "id": "council-communism",
@@ -1080,7 +1892,17 @@
     "color": "#16a34a",
     "description": "Propuesta de gobierno directo mediante consejos obreros elegidos desde la base, sin partido de vanguardia.",
     "keyThinkers": [
-      "Anton Pannekoek"
+      "Anton Pannekoek",
+      "Herman Gorter",
+      "Otto Rühle",
+      "Paul Mattick",
+      "Henriette Roland-Holst"
+    ],
+    "historicalExamples": [
+      "República Soviética Bávara (Alemania, 1919)",
+      "República Soviética Húngara (Hungría, 1919)",
+      "KAPD y AAUD — organización consejista (Alemania, 1920-1923)",
+      "Influencia en el situacionismo y Mayo del 68 (Francia, 1968)"
     ]
   },
   {
@@ -1096,7 +1918,17 @@
     "description": "Interpretación pre-leninista del pensamiento de Marx y Engels, sin las adaptaciones del siglo XX.",
     "keyThinkers": [
       "Karl Marx",
-      "Friedrich Engels"
+      "Friedrich Engels",
+      "Karl Kautsky",
+      "Georg Lukács",
+      "Antonio Gramsci",
+      "Louis Althusser"
+    ],
+    "historicalExamples": [
+      "Primera Internacional — AIT (1864-1876)",
+      "Revolución de 1848 en Europa",
+      "Partido Socialdemócrata Alemán (SPD) bajo el marxismo ortodoxo (1869-1914)",
+      "Revolución Rusa — primera aplicación a gran escala (Rusia, 1917)"
     ]
   },
   {
@@ -1111,7 +1943,15 @@
     "color": "#16a34a",
     "description": "Modelo de Abdullah Öcalan basado en asambleas locales, autonomía de las mujeres y ecología. Implementado en Rojava.",
     "keyThinkers": [
-      "Abdullah Öcalan"
+      "Abdullah Öcalan",
+      "Murray Bookchin",
+      "Cemil Bayik",
+      "Janet Biehl"
+    ],
+    "historicalExamples": [
+      "Administración Autónoma del Norte y Este de Siria — Rojava (Siria, 2012-)",
+      "PKK — transformación ideológica bajo el confederalismo democrático (Kurdistán, 2005-)",
+      "Resistencia de Kobanî contra el Estado Islámico (Siria, 2014-2015)"
     ]
   },
   {
@@ -1126,7 +1966,15 @@
     "color": "#16a34a",
     "description": "Propuesta de Murray Bookchin de confederaciones de asambleas municipales directas, ecología social y democracia radical.",
     "keyThinkers": [
-      "Murray Bookchin"
+      "Murray Bookchin",
+      "Janet Biehl",
+      "Abdullah Öcalan",
+      "Dan Chodorkoff"
+    ],
+    "historicalExamples": [
+      "Instituto para la Ecología Social (Vermont, EE.UU., 1974-)",
+      "Confederalismo democrático en Rojava — aplicación del comunalismo (Siria, 2012-)",
+      "Barcelona en Comú — municipalismo libertario europeo (España, 2015-)"
     ]
   },
   {
@@ -1139,7 +1987,20 @@
     "height": 2.667,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Estrategia obrera de lucha directa mediante sindicatos como núcleo de una futura sociedad autogestionada."
+    "description": "Estrategia obrera de lucha directa mediante sindicatos como núcleo de una futura sociedad autogestionada.",
+    "keyThinkers": [
+      "Georges Sorel",
+      "Fernand Pelloutier",
+      "Émile Pouget",
+      "Rudolf Rocker",
+      "Big Bill Haywood"
+    ],
+    "historicalExamples": [
+      "CGT francesa y Charte d'Amiens (Francia, 1895-1906)",
+      "CNT española — Revolución Social en Cataluña (España, 1910-1939)",
+      "IWW — Industrial Workers of the World (EE.UU., 1905-)",
+      "FAI y movimiento libertario en la Guerra Civil española (España, 1936-1939)"
+    ]
   },
   {
     "id": "market-socialism",
@@ -1153,7 +2014,17 @@
     "color": "#16a34a",
     "description": "Sistema donde los medios son de propiedad social pero operan en mercados competitivos mediante cooperativas autogestionadas.",
     "keyThinkers": [
-      "Oskar Lange"
+      "Oskar Lange",
+      "Abba Lerner",
+      "Edvard Kardelj",
+      "John Roemer",
+      "David Schweickart"
+    ],
+    "historicalExamples": [
+      "Autogestión socialista yugoslava (Yugoslavia, 1950-1991)",
+      "Cooperativa Mondragón (País Vasco, España, 1956-)",
+      "Reformas Kosygin — elementos de mercado en la URSS (URSS, 1965-1968)",
+      "Modelo chino de economía mixta socialista (China, 1978-)"
     ]
   },
   {
@@ -1169,12 +2040,16 @@
     "description": "Sistema de organización política y económica basado en la autonomía territorial, la propiedad colectiva (resguardos), el gobierno propio mediante cabildos y asambleas, y la reciprocidad como principio económico. En Colombia se encarna en organizaciones como el CRIC (Consejo Regional Indígena del Cauca), la ONIC (Organización Nacional Indígena de Colombia), la AICO y la Minga como forma de acción política. Combina economía comunitaria con democracia deliberativa radical.",
     "keyThinkers": [
       "Manuel Quintín Lame",
-      "Lorenzo Muelas"
+      "Álvaro García Linera",
+      "Berta Cáceres",
+      "Subcomandante Marcos",
+      "Davi Kopenawa"
     ],
     "historicalExamples": [
-      "CRIC (1971-)",
-      "ONIC (1982-)",
-      "Minga Indígena 2008/2013/2019"
+      "CRIC — Consejo Regional Indígena del Cauca (Colombia, 1971-)",
+      "EZLN y Juntas de Buen Gobierno zapatistas (México, 1994-)",
+      "ONIC — Organización Nacional Indígena de Colombia (Colombia, 1982-)",
+      "Incorporación del Buen Vivir en constituciones de Bolivia y Ecuador (2008-2009)"
     ]
   },
   {
@@ -1187,7 +2062,21 @@
     "height": 2.0,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Corriente política que prioriza la sostenibilidad ecológica, la protección de ecosistemas y la reducción de impacto humano."
+    "description": "Corriente política que prioriza la sostenibilidad ecológica, la protección de ecosistemas y la reducción de impacto humano.",
+    "keyThinkers": [
+      "Rachel Carson",
+      "Aldo Leopold",
+      "Arne Næss",
+      "Murray Bookchin",
+      "Greta Thunberg",
+      "Vandana Shiva"
+    ],
+    "historicalExamples": [
+      "Movimiento ambientalista y primer Día de la Tierra (EE.UU., 1970)",
+      "Partidos Verdes europeos — Die Grünen al Bundestag (Alemania, 1983)",
+      "Acuerdo de París sobre cambio climático (Global, 2015)",
+      "Movimiento Fridays for Future (Global, 2018-)"
+    ]
   },
   {
     "id": "eco-socialism",
@@ -1199,7 +2088,21 @@
     "height": 2.0,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Síntesis entre socialismo y ecologismo que identifica al capitalismo como causa estructural de la crisis ambiental."
+    "description": "Síntesis entre socialismo y ecologismo que identifica al capitalismo como causa estructural de la crisis ambiental.",
+    "keyThinkers": [
+      "André Gorz",
+      "Joel Kovel",
+      "Michael Löwy",
+      "John Bellamy Foster",
+      "Paul Burkett",
+      "Naomi Klein"
+    ],
+    "historicalExamples": [
+      "Ecología política de André Gorz — formulación temprana (Francia, 1975)",
+      "Manifiesto Ecosocialista de Löwy-Kovel (Internacional, 2001)",
+      "Ecosocialismo en partidos de izquierda europea — Die Linke, La France Insoumise (Europa, 2000s-)",
+      "Movimientos de defensa territorial con agenda ecosocialista en América Latina (2000s-)"
+    ]
   },
   {
     "id": "green-politics",
@@ -1211,7 +2114,20 @@
     "height": 2.0,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Movimiento que combina sostenibilidad ambiental con justicia social, descentralización y no-violencia."
+    "description": "Movimiento que combina sostenibilidad ambiental con justicia social, descentralización y no-violencia.",
+    "keyThinkers": [
+      "Petra Kelly",
+      "Rudolf Bahro",
+      "Murray Bookchin",
+      "Fritjof Capra",
+      "Vandana Shiva"
+    ],
+    "historicalExamples": [
+      "Die Grünen — Bundestag alemán (Alemania Occidental, 1983)",
+      "Alianza Verde — participación electoral continua (Colombia, 1990-presente)",
+      "Verdes en gobierno de coalición (Alemania, 1998-2005 y 2021-presente)",
+      "Green Party en parlamento neozelandés (Nueva Zelanda, 1999-presente)"
+    ]
   },
   {
     "id": "technological-primitivism",
@@ -1223,7 +2139,19 @@
     "height": 2.0,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Crítica radical de la civilización industrial que propone retornar a formas pre-tecnológicas de organización social."
+    "description": "Crítica radical de la civilización industrial que propone retornar a formas pre-tecnológicas de organización social.",
+    "keyThinkers": [
+      "John Zerzan",
+      "Derrick Jensen",
+      "David Watson",
+      "Jacques Ellul",
+      "Lewis Mumford"
+    ],
+    "historicalExamples": [
+      "Revista Fifth Estate como plataforma intelectual (EE. UU., 1965-presente)",
+      "Comunidades intencionales de vida primitiva (Europa y Norteamérica, 1980-presente)",
+      "Debate en torno al Manifiesto Unabomber (EE. UU., 1995)"
+    ]
   },
   {
     "id": "gandhism",
@@ -1237,7 +2165,17 @@
     "color": "#16a34a",
     "description": "Filosofía política de Mahatma Gandhi basada en no-violencia (ahimsa), resistencia civil y autosuficiencia económica local.",
     "keyThinkers": [
-      "Mahatma Gandhi"
+      "Mohandas K. Gandhi",
+      "Vinoba Bhave",
+      "B. R. Ambedkar",
+      "Martin Luther King Jr.",
+      "Gene Sharp"
+    ],
+    "historicalExamples": [
+      "Marcha de la Sal (India, 1930)",
+      "Movimiento por los derechos civiles afroamericanos (EE. UU., 1955-1968)",
+      "Movimiento Chipko de protección forestal (India, 1973)",
+      "Movimiento anticorrupción de Anna Hazare (India, 2011)"
     ]
   },
   {
@@ -1252,7 +2190,16 @@
     "color": "#16a34a",
     "description": "Legado político de Nelson Mandela: reconciliación nacional, democracia multirracial y justicia social gradual.",
     "keyThinkers": [
-      "Nelson Mandela"
+      "Nelson Mandela",
+      "Desmond Tutu",
+      "Walter Sisulu",
+      "Oliver Tambo",
+      "Pumla Gobodo-Madikizela"
+    ],
+    "historicalExamples": [
+      "Liberación de Mandela y fin del apartheid (Sudáfrica, 1990-1994)",
+      "Comisión de la Verdad y Reconciliación (Sudáfrica, 1996-1998)",
+      "Proceso de paz colombiano inspirado en el modelo sudafricano (Colombia, 2012-2016)"
     ]
   },
   {
@@ -1267,7 +2214,17 @@
     "color": "#16a34a",
     "description": "Corriente que rechaza tanto el capitalismo como el Estado autoritario, defendiendo autogestión y federaciones voluntarias.",
     "keyThinkers": [
-      "Mijaíl Bakunin"
+      "Mijaíl Bakunin",
+      "Piotr Kropotkin",
+      "Noam Chomsky",
+      "Murray Bookchin",
+      "David Graeber"
+    ],
+    "historicalExamples": [
+      "Primera Internacional — fractura Bakunin-Marx (Internacional, 1868-1872)",
+      "Consejos de trabajadores en Alemania y Hungría (Europa, 1918-1919 y 1956)",
+      "Municipalismo democrático de Rojava (Kurdistán sirio, 2012-presente)",
+      "Movimiento zapatista — municipios autónomos (México, 1994-presente)"
     ]
   },
   {
@@ -1282,7 +2239,16 @@
     "color": "#16a34a",
     "description": "Síntesis anarquismo + comunismo que propone abolir Estado, dinero y propiedad privada, sustituidos por comunas federadas.",
     "keyThinkers": [
-      "Piotr Kropotkin"
+      "Piotr Kropotkin",
+      "Errico Malatesta",
+      "Emma Goldman",
+      "Néstor Maknó",
+      "Élisée Reclus"
+    ],
+    "historicalExamples": [
+      "Colectividades anarquistas en Cataluña y Aragón (España, 1936-1939)",
+      "Ejercito Insurreccional Ucraniano de Maknó (Ucrania, 1918-1921)",
+      "Comunas anarquistas en Ciudad de México (México, 1910-1915)"
     ]
   },
   {
@@ -1296,8 +2262,18 @@
     "quadrant": "lib_left",
     "color": "#16a34a",
     "description": "Estrategia anarquista centrada en los sindicatos como medio de lucha y órgano de la sociedad post-capitalista.",
+    "keyThinkers": [
+      "Rudolf Rocker",
+      "Fernand Pelloutier",
+      "Georges Sorel",
+      "Emma Goldman",
+      "Sam Dolgoff"
+    ],
     "historicalExamples": [
-      "España CNT 1910-1939"
+      "CGT francesa — Carta de Amiens (Francia, 1906)",
+      "CNT española durante la Guerra Civil (España, 1936-1939)",
+      "IWW — huelgas en industria minera y textil (EE. UU., 1905-1920)",
+      "Huelga general de Buenos Aires (Argentina, 1909)"
     ]
   },
   {
@@ -1312,7 +2288,16 @@
     "color": "#16a34a",
     "description": "Variante anarquista que defiende la propiedad colectiva de los medios de producción con retribución según trabajo realizado.",
     "keyThinkers": [
-      "Mijaíl Bakunin"
+      "Mijaíl Bakunin",
+      "James Guillaume",
+      "Carlo Cafiero",
+      "Élisée Reclus",
+      "Errico Malatesta"
+    ],
+    "historicalExamples": [
+      "Federación del Jura — primera aplicación del colectivismo federalista (Suiza, 1872-1880)",
+      "Primera Internacional — fracción antiautoritaria bakuninista (Internacional, 1868-1872)",
+      "Internacionalismo bakuninista en España e Italia (España/Italia, 1870-1880)"
     ]
   },
   {
@@ -1325,7 +2310,19 @@
     "height": 2.667,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Síntesis de anarquismo y feminismo que identifica al patriarcado y al Estado como formas interconectadas de dominación."
+    "description": "Síntesis de anarquismo y feminismo que identifica al patriarcado y al Estado como formas interconectadas de dominación.",
+    "keyThinkers": [
+      "Emma Goldman",
+      "Voltairine de Cleyre",
+      "Lucy Parsons",
+      "Peggy Kornegger",
+      "Cindy Milstein"
+    ],
+    "historicalExamples": [
+      "Mujeres Libres — organización anarco-feminista durante la Guerra Civil (España, 1936-1939)",
+      "Emma Goldman — agitación y deportación (EE. UU., 1900-1919)",
+      "Movimiento de mujeres kurdas Jineolojî en Rojava (Kurdistán sirio, 2012-presente)"
+    ]
   },
   {
     "id": "queer-anarchism",
@@ -1337,7 +2334,19 @@
     "height": 2.667,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Corriente que aplica crítica anarquista a las normas de género y sexualidad desde una perspectiva queer."
+    "description": "Corriente que aplica crítica anarquista a las normas de género y sexualidad desde una perspectiva queer.",
+    "keyThinkers": [
+      "Judith Butler",
+      "Paul Preciado",
+      "J. Halberstam",
+      "Michel Foucault",
+      "Fiona Nicoll"
+    ],
+    "historicalExamples": [
+      "ACT UP — acción directa contra la política del SIDA (EE. UU., 1987-presente)",
+      "Queer Nation — activismo de visibilidad y confrontación (EE. UU., 1990)",
+      "Colectivos queer anarquistas en Buenos Aires y Ciudad de México (América Latina, 2000-presente)"
+    ]
   },
   {
     "id": "eco-anarchism",
@@ -1349,7 +2358,20 @@
     "height": 2.667,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Síntesis de anarquismo y ecología profunda que rechaza tanto al Estado como a la industrialización como formas de dominación."
+    "description": "Síntesis de anarquismo y ecología profunda que rechaza tanto al Estado como a la industrialización como formas de dominación.",
+    "keyThinkers": [
+      "Murray Bookchin",
+      "Arne Naess",
+      "David Foreman",
+      "Élisée Reclus",
+      "Peter Marshall"
+    ],
+    "historicalExamples": [
+      "Earth First! — sabotaje y defensa de bosques (EE. UU., 1980-presente)",
+      "Movimiento Chipko contra deforestación (India, 1973)",
+      "Municipalismo ecológico de Rojava (Kurdistán sirio, 2012-presente)",
+      "Comunidades de permacultura en el movimiento de transición (Global, 2006-presente)"
+    ]
   },
   {
     "id": "religious-anarchism",
@@ -1363,7 +2385,16 @@
     "color": "#16a34a",
     "description": "Corriente que deriva su rechazo al Estado y a la autoridad de convicciones religiosas (cristianas, budistas, etc.).",
     "keyThinkers": [
-      "León Tolstói"
+      "Lev Tolstói",
+      "Dorothy Day",
+      "Jacques Ellul",
+      "Peter Maurin",
+      "Vinoba Bhave"
+    ],
+    "historicalExamples": [
+      "Comunidades tolstoianas en Rusia y Gran Bretaña (Rusia/UK, 1890-1910)",
+      "Catholic Worker Movement — casas de hospitalidad y pacifismo (EE. UU., 1933-presente)",
+      "Comunidades anabaptistas-menonitas de resistencia al Estado (Europa/América, siglos XVI-presente)"
     ]
   },
   {
@@ -1376,7 +2407,19 @@
     "height": 2.667,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Variante anarquista que combina rechazo del Estado con no-violencia absoluta como principio ético y estratégico."
+    "description": "Variante anarquista que combina rechazo del Estado con no-violencia absoluta como principio ético y estratégico.",
+    "keyThinkers": [
+      "Bart de Ligt",
+      "Lev Tolstói",
+      "Dorothy Day",
+      "Alex Comfort",
+      "Howard Zinn"
+    ],
+    "historicalExamples": [
+      "War Resisters International — desobediencia civil global (Internacional, 1921-presente)",
+      "Movimiento antinuclear — bloqueos a bases militares (Europa/EE. UU., 1958-1980)",
+      "Comunidades de paz en zonas de conflicto (Colombia, 1997-presente)"
+    ]
   },
   {
     "id": "situationism",
@@ -1390,7 +2433,16 @@
     "color": "#16a34a",
     "description": "Movimiento de vanguardia de los 1960s que criticaba la \"sociedad del espectáculo\" y buscaba la transformación revolucionaria de la vida cotidiana.",
     "keyThinkers": [
-      "Guy Debord"
+      "Guy Debord",
+      "Raoul Vaneigem",
+      "Asger Jorn",
+      "René Viénet",
+      "T.J. Clark"
+    ],
+    "historicalExamples": [
+      "Mayo de 1968 — influencia en barricadas y consignas (Francia, 1968)",
+      "Movimiento punk como détournement cultural (Reino Unido, 1976-1978)",
+      "Adbusters — détournement publicitario (Canadá/Internacional, 1989-presente)"
     ]
   },
   {
@@ -1403,7 +2455,15 @@
     "height": 2.667,
     "quadrant": "lib_left",
     "color": "#16a34a",
-    "description": "Síntesis hipotética entre Estado mínimo y propiedad social de los medios de producción."
+    "description": "Síntesis hipotética entre Estado mínimo y propiedad social de los medios de producción.",
+    "keyThinkers": [
+      "Hillel Steiner",
+      "Peter Vallentyne",
+      "Michael Otsuka"
+    ],
+    "historicalExamples": [
+      "Debates académicos en filosofía política anglosajona sobre el Estado mínimo y la propiedad colectiva (EE. UU./UK, 1980-presente)"
+    ]
   },
   {
     "id": "mutualism",
@@ -1417,7 +2477,17 @@
     "color": "#16a34a",
     "description": "Corriente anarquista de Proudhon que defiende propiedad basada en el uso, intercambio mutuo y crédito libre sin interés.",
     "keyThinkers": [
-      "Pierre-Joseph Proudhon"
+      "Pierre-Joseph Proudhon",
+      "Pi i Margall",
+      "Benjamin Tucker",
+      "Kevin Carson",
+      "Voltairine de Cleyre"
+    ],
+    "historicalExamples": [
+      "Banque du Peuple de Proudhon (Francia, 1849)",
+      "Primera Internacional — predominio mutualista hasta 1868 (Internacional, 1864-1868)",
+      "Federalismo proudhoniano en la Primera República Española (España, 1873-1874)",
+      "Movimiento cooperativo de crédito — cajas populares (Europa/América Latina, siglo XIX-presente)"
     ]
   },
   {
@@ -1434,7 +2504,15 @@
     "keyThinkers": [
       "John Locke",
       "Adam Smith",
-      "John Stuart Mill"
+      "John Stuart Mill",
+      "Friedrich Hayek",
+      "Ludwig von Mises",
+      "Herbert Spencer"
+    ],
+    "historicalExamples": [
+      "Libre comercio victoriano en Gran Bretaña (1846-1914)",
+      "Constitución de Estados Unidos y Bill of Rights (1788-1791)",
+      "Reformas liberales en Chile bajo influencia Chicago Boys (1975-1989)"
     ]
   },
   {
@@ -1449,7 +2527,17 @@
     "color": "#eab308",
     "description": "Variante del liberalismo que acepta intervención estatal moderada para corregir fallos de mercado y garantizar igualdad de oportunidades.",
     "keyThinkers": [
-      "John Rawls"
+      "T.H. Green",
+      "Leonard Hobhouse",
+      "John Maynard Keynes",
+      "John Rawls",
+      "Isaiah Berlin",
+      "Amartya Sen"
+    ],
+    "historicalExamples": [
+      "Reformas sociales del Partido Liberal británico (1906-1914)",
+      "New Deal de Franklin D. Roosevelt en EE.UU. (1933-1939)",
+      "Estado de bienestar nórdico (Suecia, Noruega, siglo XX)"
     ]
   },
   {
@@ -1462,7 +2550,20 @@
     "height": 2.667,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Síntesis entre democracia representativa robusta y libre mercado con regulación moderada."
+    "description": "Síntesis entre democracia representativa robusta y libre mercado con regulación moderada.",
+    "keyThinkers": [
+      "James Madison",
+      "Alexis de Tocqueville",
+      "Karl Popper",
+      "Robert Dahl",
+      "Giovanni Sartori",
+      "Fareed Zakaria"
+    ],
+    "historicalExamples": [
+      "Constitución de Estados Unidos y sistema de frenos y contrapesos (1788)",
+      "Transiciones democráticas de Europa del Sur (España, Portugal, Grecia, 1974-1978)",
+      "Ampliación democrática en Europa del Este post-1989"
+    ]
   },
   {
     "id": "nordic-liberalism",
@@ -1474,7 +2575,18 @@
     "height": 2.667,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Modelo escandinavo que combina mercados libres con fuerte Estado de bienestar universal."
+    "description": "Modelo escandinavo que combina mercados libres con fuerte Estado de bienestar universal.",
+    "keyThinkers": [
+      "Gunnar Myrdal",
+      "Gösta Esping-Andersen",
+      "Per Albin Hansson",
+      "Thorvald Stoltenberg"
+    ],
+    "historicalExamples": [
+      "Modelo sueco de bienestar y acuerdos de Saltsjöbaden (1938)",
+      "Flexiseguridad danesa desde los años 1990",
+      "Estado de bienestar finlandés y reforma educativa (siglo XX)"
+    ]
   },
   {
     "id": "liberal-corporatism",
@@ -1486,7 +2598,18 @@
     "height": 2.667,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Sistema donde organizaciones empresariales y sindicales negocian directamente con el Estado dentro de un marco democrático liberal."
+    "description": "Sistema donde organizaciones empresariales y sindicales negocian directamente con el Estado dentro de un marco democrático liberal.",
+    "keyThinkers": [
+      "Philippe Schmitter",
+      "Gerhard Lehmbruch",
+      "Wolfgang Streeck",
+      "Peter Katzenstein"
+    ],
+    "historicalExamples": [
+      "Modelo austro-corporatista (Österreichisches Modell, 1945-1990)",
+      "Concertación tripartita alemana y codecisión (Mitbestimmung, desde 1952)",
+      "Pactos de La Moncloa en España (1977)"
+    ]
   },
   {
     "id": "neo-liberalism",
@@ -1500,8 +2623,17 @@
     "color": "#eab308",
     "description": "Corriente dominante desde los 1980s: privatización, desregulación, libre comercio y disciplina fiscal global.",
     "keyThinkers": [
+      "Friedrich Hayek",
       "Milton Friedman",
-      "Friedrich Hayek"
+      "George Stigler",
+      "James Buchanan",
+      "Gary Becker"
+    ],
+    "historicalExamples": [
+      "Gobierno Thatcher en Reino Unido (1979-1990)",
+      "Reaganomics en EE.UU. (1981-1989)",
+      "Reformas del Consenso de Washington en América Latina (1989-2000s)",
+      "Chile bajo Chicago Boys (1975-1989)"
     ]
   },
   {
@@ -1514,7 +2646,17 @@
     "height": 2.667,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Variante académica del liberalismo basada en la economía neoclásica marginalista."
+    "description": "Variante académica del liberalismo basada en la economía neoclásica marginalista.",
+    "keyThinkers": [
+      "Alfred Marshall",
+      "Randy Barnett",
+      "Richard Epstein",
+      "Jan Narveson"
+    ],
+    "historicalExamples": [
+      "Síntesis neoclásica en economía académica anglosajona (1870-1950)",
+      "Jurisprudencia económica de la Escuela de Chicago en tribunales de EE.UU. (1970s-1990s)"
+    ]
   },
   {
     "id": "general-capitalism",
@@ -1526,7 +2668,19 @@
     "height": 2.667,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Término paraguas para las variantes estándar del capitalismo de mercado sin compromiso ideológico específico."
+    "description": "Término paraguas para las variantes estándar del capitalismo de mercado sin compromiso ideológico específico.",
+    "keyThinkers": [
+      "Adam Smith",
+      "David Ricardo",
+      "Joseph Schumpeter",
+      "Milton Friedman",
+      "Friedrich Hayek"
+    ],
+    "historicalExamples": [
+      "Revolución Industrial en Gran Bretaña (siglo XVIII-XIX)",
+      "Capitalismo de posguerra en EE.UU. y Europa occidental (1945-1975)",
+      "Globalización capitalista post-1991"
+    ]
   },
   {
     "id": "minarchism",
@@ -1540,7 +2694,15 @@
     "color": "#eab308",
     "description": "Estado mínimo limitado a defensa, policía y justicia, dejando el resto a la iniciativa privada voluntaria.",
     "keyThinkers": [
-      "Robert Nozick"
+      "Robert Nozick",
+      "Murray Rothbard (en diálogo)",
+      "Ayn Rand",
+      "Herbert Spencer",
+      "John Locke"
+    ],
+    "historicalExamples": [
+      "Partido Libertario de EE.UU. (fundado 1971)",
+      "Propuestas de 'Estado mínimo' en plataformas libertarias latinoamericanas contemporáneas"
     ]
   },
   {
@@ -1556,7 +2718,15 @@
     "description": "Abolición total del Estado, reemplazado por instituciones privadas voluntarias en un libre mercado irrestricto.",
     "keyThinkers": [
       "Murray Rothbard",
-      "Hans-Hermann Hoppe"
+      "David Friedman",
+      "Hans-Hermann Hoppe",
+      "Walter Block",
+      "Lysander Spooner"
+    ],
+    "historicalExamples": [
+      "Experimentos de territorios sin Estado en el Lejano Oeste americano (siglo XIX, debatido)",
+      "Comunidades cripto y proyectos de 'seasteading' contemporáneos",
+      "Influencia en el movimiento libertario de EE.UU. desde los 1970s"
     ]
   },
   {
@@ -1571,7 +2741,15 @@
     "color": "#eab308",
     "description": "Filosofía de Ayn Rand que defiende el egoísmo racional, el capitalismo laissez-faire y el rechazo de todo colectivismo.",
     "keyThinkers": [
-      "Ayn Rand"
+      "Ayn Rand",
+      "Nathaniel Branden",
+      "Leonard Peikoff",
+      "Alan Greenspan (temprano)"
+    ],
+    "historicalExamples": [
+      "Influencia en movimiento Tea Party en EE.UU. (2009-2012)",
+      "Ayn Rand Institute y su influencia en política pública americana (desde 1985)",
+      "Impacto en cultura empresarial de Silicon Valley (siglo XXI)"
     ]
   },
   {
@@ -1584,7 +2762,18 @@
     "height": 3.333,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Rechazo de toda relación coercitiva, incluyendo el Estado. Toda interacción humana debe ser voluntaria y consensuada."
+    "description": "Rechazo de toda relación coercitiva, incluyendo el Estado. Toda interacción humana debe ser voluntaria y consensuada.",
+    "keyThinkers": [
+      "Carl Watner",
+      "Wendy McElroy",
+      "Lysander Spooner",
+      "Benjamin Tucker"
+    ],
+    "historicalExamples": [
+      "Anarquismo individualista americano (Spooner, Tucker, siglo XIX)",
+      "Comunidades intentionales con membresía voluntaria (siglos XIX-XXI)",
+      "Proyectos de seasteading y ciudades charter contemporáneas"
+    ]
   },
   {
     "id": "agorism",
@@ -1598,7 +2787,14 @@
     "color": "#eab308",
     "description": "Estrategia libertaria de Konkin que busca el colapso del Estado mediante mercados contraeconómicos (mercados grises).",
     "keyThinkers": [
-      "Samuel Edward Konkin III"
+      "Samuel Edward Konkin III",
+      "J. Neil Schulman",
+      "Brad Spangler"
+    ],
+    "historicalExamples": [
+      "Economía informal y mercados negros como práctica histórica universal",
+      "Silk Road como mercado contraconómico digital (2011-2013)",
+      "Uso de Bitcoin y criptomonedas como herramienta agorista (2009-presente)"
     ]
   },
   {
@@ -1613,7 +2809,13 @@
     "color": "#eab308",
     "description": "Variante paleolibertaria de Hans-Hermann Hoppe que combina anarco-capitalismo con conservadurismo social tradicional.",
     "keyThinkers": [
-      "Hans-Hermann Hoppe"
+      "Hans-Hermann Hoppe",
+      "Murray Rothbard",
+      "Jörg Guido Hülsmann"
+    ],
+    "historicalExamples": [
+      "Property and Freedom Society (Bodrum, desde 2006)",
+      "Influencia en el movimiento paleolibertario estadounidense (1990s-2000s)"
     ]
   },
   {
@@ -1626,7 +2828,17 @@
     "height": 3.333,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Síntesis entre libertarismo económico y conservadurismo cultural tradicionalista estadounidense."
+    "description": "Síntesis entre libertarismo económico y conservadurismo cultural tradicionalista estadounidense.",
+    "keyThinkers": [
+      "Murray Rothbard",
+      "Lew Rockwell",
+      "Pat Buchanan (referente político)"
+    ],
+    "historicalExamples": [
+      "Movimiento Ron Paul en EE.UU. (2008-2012)",
+      "Ludwig von Mises Institute y su producción académica (Auburn, desde 1982)",
+      "Rothbard-Rockwell Report (1990s)"
+    ]
   },
   {
     "id": "national-libertarianism",
@@ -1638,7 +2850,16 @@
     "height": 3.333,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Libertarismo con énfasis en soberanía nacional y restricción migratoria estricta."
+    "description": "Libertarismo con énfasis en soberanía nacional y restricción migratoria estricta.",
+    "keyThinkers": [
+      "Nigel Farage (referente político)",
+      "Hans-Hermann Hoppe (influyente)",
+      "Pat Buchanan"
+    ],
+    "historicalExamples": [
+      "UKIP en su fase libertaria-euroescéptica (Reino Unido, 2010s)",
+      "Sectores del movimiento Tea Party con retórica soberanista (EE.UU., 2009-2014)"
+    ]
   },
   {
     "id": "libertarian-conservatism",
@@ -1650,7 +2871,19 @@
     "height": 3.333,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Combina valores tradicionales (familia, religión, nación) con economía libertaria de mínima intervención estatal."
+    "description": "Combina valores tradicionales (familia, religión, nación) con economía libertaria de mínima intervención estatal.",
+    "keyThinkers": [
+      "Frank Meyer",
+      "Milton Friedman",
+      "Rand Paul",
+      "Friedrich Hayek",
+      "Barry Goldwater"
+    ],
+    "historicalExamples": [
+      "Revolución Reagan en EE.UU. (1981-1989)",
+      "Thatcherismo en Reino Unido (1979-1990)",
+      "Movimiento Ron Paul (2008-2012)"
+    ]
   },
   {
     "id": "techno-libertarianism",
@@ -1662,7 +2895,19 @@
     "height": 2.0,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Libertarismo aplicado a la era digital: criptomonedas, descentralización, rechazo a la regulación estatal del ciberespacio."
+    "description": "Libertarismo aplicado a la era digital: criptomonedas, descentralización, rechazo a la regulación estatal del ciberespacio.",
+    "keyThinkers": [
+      "John Perry Barlow",
+      "Peter Thiel",
+      "Marc Andreessen",
+      "Elon Musk",
+      "Timothy May (cypherpunk)"
+    ],
+    "historicalExamples": [
+      "Declaración de Independencia del Ciberespacio (Barlow, 1996)",
+      "PayPal Mafia y cultura libertaria de Silicon Valley (2000s)",
+      "Manifiesto Tecno-Optimista de Andreessen (2023)"
+    ]
   },
   {
     "id": "georgism",
@@ -1676,7 +2921,16 @@
     "color": "#eab308",
     "description": "Propuesta de Henry George de un impuesto único al valor de la tierra como fuente principal de ingresos fiscales.",
     "keyThinkers": [
-      "Henry George"
+      "Henry George",
+      "Mason Gaffney",
+      "Fred Harrison",
+      "Joseph Stiglitz (favorable al LVT)"
+    ],
+    "historicalExamples": [
+      "Movimiento del Impuesto Único en EE.UU. (1880s-1890s)",
+      "Política de suelo en Singapur y Hong Kong (siglo XX)",
+      "LVT en Estonia (desde 1993)",
+      "Experimento georgista en Arden, Delaware (fundada 1900)"
     ]
   },
   {
@@ -1689,7 +2943,18 @@
     "height": 2.0,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Síntesis entre libertarismo económico y protección ambiental mediante derechos de propiedad sobre recursos naturales."
+    "description": "Síntesis entre libertarismo económico y protección ambiental mediante derechos de propiedad sobre recursos naturales.",
+    "keyThinkers": [
+      "Terry Anderson",
+      "Donald Leal",
+      "Fred Smith",
+      "Murray Rothbard (ecología de propiedad)"
+    ],
+    "historicalExamples": [
+      "Property and Environment Research Center (PERC), Montana (desde 1980)",
+      "Gestión privada de pesquerías en Islandia (cuotas transferibles)",
+      "Mercados de derechos de emisión como mecanismo de mercado (desde 1990s)"
+    ]
   },
   {
     "id": "neo-libertarianism",
@@ -1701,7 +2966,16 @@
     "height": 2.0,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Variante contemporánea del libertarismo con ajustes pragmáticos para el contexto político moderno."
+    "description": "Variante contemporánea del libertarismo con ajustes pragmáticos para el contexto político moderno.",
+    "keyThinkers": [
+      "Randy Barnett",
+      "Nick Gillespie",
+      "Matt Welch"
+    ],
+    "historicalExamples": [
+      "Debate post-11-S sobre política exterior libertaria (EE.UU., 2001-2005)",
+      "Cato Institute y Reason Magazine como plataformas del libertarismo cosmopolita (desde 1970s-2000s)"
+    ]
   },
   {
     "id": "dark-enlightenment",
@@ -1715,8 +2989,14 @@
     "color": "#eab308",
     "description": "Movimiento intelectual reaccionario contemporáneo (neorreacción) que rechaza la democracia liberal en favor de formas monárquicas o corporativas.",
     "keyThinkers": [
-      "Curtis Yarvin",
-      "Nick Land"
+      "Curtis Yarvin (Mencius Moldbug)",
+      "Nick Land",
+      "Michael Anissimov"
+    ],
+    "historicalExamples": [
+      "Blog Unqualified Reservations de Yarvin (2007-2013)",
+      "Influencia en alt-right y populismo trumpiano (2015-2025)",
+      "Aceleracionismo de derecha en comunidades online (2010s-2020s)"
     ]
   },
   {
@@ -1729,7 +3009,18 @@
     "height": 2.0,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Posición ética que juzga acciones por sus resultados, frecuentemente aplicada a favor del libertarismo por sus resultados de bienestar."
+    "description": "Posición ética que juzga acciones por sus resultados, frecuentemente aplicada a favor del libertarismo por sus resultados de bienestar.",
+    "keyThinkers": [
+      "Milton Friedman",
+      "Friedrich Hayek",
+      "George Stigler",
+      "Gary Becker",
+      "Jeremy Bentham (antecedente)"
+    ],
+    "historicalExamples": [
+      "Reformas de liberalización económica con justificación técnica-consecuencialista (décadas 1980-2000 globalmente)",
+      "Escuela de Chicago y su influencia en políticas de competencia en EE.UU."
+    ]
   },
   {
     "id": "pink-capitalism",
@@ -1741,7 +3032,17 @@
     "height": 2.0,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Síntesis entre libre mercado y progresismo cultural LGBTIQ+, donde las empresas asumen políticas de diversidad."
+    "description": "Síntesis entre libre mercado y progresismo cultural LGBTIQ+, donde las empresas asumen políticas de diversidad.",
+    "keyThinkers": [
+      "Alexandra Chasin (crítica)",
+      "Lisa Duggan (homonormatividad)",
+      "Peter Thiel (como figura de capitalismo gay conservador)"
+    ],
+    "historicalExamples": [
+      "Marketing dirigido a comunidad gay en EE.UU. (desde 1990s)",
+      "Campaña de Starbucks y otras marcas con logos arcoíris (2010s)",
+      "Controversia Bud Light/Dylan Mulvaney en EE.UU. (2023)"
+    ]
   },
   {
     "id": "christian-libertarianism",
@@ -1753,7 +3054,18 @@
     "height": 2.0,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Combinación de fe cristiana con libertarismo económico basado en la idea de libre albedrío como principio teológico."
+    "description": "Combinación de fe cristiana con libertarismo económico basado en la idea de libre albedrío como principio teológico.",
+    "keyThinkers": [
+      "Gary North",
+      "Gary Chartier",
+      "Robert Sirico",
+      "Álvaro Corzo (CJL Colombia)"
+    ],
+    "historicalExamples": [
+      "Colombia Justa Libres como partido político en Colombia (desde 2018)",
+      "Intersección de evangelismo y libertarismo en EE.UU. (Tea Party, 2009-2014)",
+      "Reconstruccionismo cristiano y economía de libre mercado (North, desde 1970s)"
+    ]
   },
   {
     "id": "individualist-anarchism",
@@ -1768,7 +3080,15 @@
     "description": "Corriente anarquista que prioriza la soberanía individual sobre cualquier forma de colectivo o mercado organizado.",
     "keyThinkers": [
       "Max Stirner",
-      "Benjamin Tucker"
+      "Lysander Spooner",
+      "Benjamin Tucker",
+      "William Godwin",
+      "Voltairine de Cleyre"
+    ],
+    "historicalExamples": [
+      "Publicación Liberty de Benjamin Tucker (Boston, 1881-1908)",
+      "Anarquismo individualista americano en el siglo XIX",
+      "Mutualismo contemporáneo y economía participativa (Kevin Carson, siglo XXI)"
     ]
   },
   {
@@ -1781,7 +3101,20 @@
     "height": 2.0,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Énfasis en balances fiscales sostenibles, bajo gasto público, bajos impuestos y desregulación económica."
+    "description": "Énfasis en balances fiscales sostenibles, bajo gasto público, bajos impuestos y desregulación económica.",
+    "keyThinkers": [
+      "Adam Smith",
+      "David Ricardo",
+      "Friedrich Hayek",
+      "Milton Friedman",
+      "Alberto Alesina"
+    ],
+    "historicalExamples": [
+      "Superávit fiscal Clinton-Gingrich en EE.UU. (1998-2001)",
+      "Pacto de Estabilidad y Crecimiento de la UE (1997)",
+      "Ajuste fiscal de Nueva Zelanda en los 1980s-1990s",
+      "Regla fiscal de Colombia (Ley 1473 de 2011)"
+    ]
   },
   {
     "id": "third-way",
@@ -1795,7 +3128,17 @@
     "color": "#eab308",
     "description": "Síntesis centrista de los 1990s entre socialdemocracia y liberalismo de mercado, asociada a Blair y Clinton.",
     "keyThinkers": [
-      "Anthony Giddens"
+      "Anthony Giddens",
+      "Tony Blair",
+      "Bill Clinton",
+      "Gerhard Schröder",
+      "Ulrich Beck"
+    ],
+    "historicalExamples": [
+      "New Labour de Tony Blair en Reino Unido (1997-2007)",
+      "New Democrats de Clinton en EE.UU. (1993-2001)",
+      "Agenda 2010 de Schröder en Alemania (2003-2005)",
+      "Reformas del PT de Lula en Brasil (2003-2010)"
     ]
   },
   {
@@ -1808,7 +3151,18 @@
     "height": 2.0,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Liberalismo económico combinado con nacionalismo cultural moderado, común en Europa central del siglo XIX."
+    "description": "Liberalismo económico combinado con nacionalismo cultural moderado, común en Europa central del siglo XIX.",
+    "keyThinkers": [
+      "Giuseppe Mazzini",
+      "John Stuart Mill (naciones y gobierno representativo)",
+      "Friedrich Naumann",
+      "Ernest Renan"
+    ],
+    "historicalExamples": [
+      "Partido Nacional Liberal alemán y unificación bismarckiana (1867-1918)",
+      "Liberalismo risorgimentale italiano (1848-1870)",
+      "Partidos liberales latinoamericanos en la construcción estatal del siglo XIX"
+    ]
   },
   {
     "id": "capitalist-transhumanism",
@@ -1820,7 +3174,21 @@
     "height": 2.0,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Visión que combina libre mercado con modificación tecnológica voluntaria de la especie humana mediante innovación privada."
+    "description": "Visión que combina libre mercado con modificación tecnológica voluntaria de la especie humana mediante innovación privada.",
+    "keyThinkers": [
+      "Ray Kurzweil",
+      "Peter Thiel",
+      "Aubrey de Grey",
+      "Nick Bostrom",
+      "Max More",
+      "Elon Musk"
+    ],
+    "historicalExamples": [
+      "Singularity University (NASA Ames, fundada 2009)",
+      "Calico (Google) investigación en longevidad (desde 2013)",
+      "Neuralink de Elon Musk (desde 2016)",
+      "Extropy Institute (1988-2006)"
+    ]
   },
   {
     "id": "centrelism",
@@ -1832,7 +3200,17 @@
     "height": 2.0,
     "quadrant": "lib_right",
     "color": "#eab308",
-    "description": "Posición política de centro pragmático sin compromiso ideológico fuerte con ninguno de los cuadrantes extremos."
+    "description": "Posición política de centro pragmático sin compromiso ideológico fuerte con ninguno de los cuadrantes extremos.",
+    "keyThinkers": [
+      "Anthony Giddens (Tercera Vía)",
+      "Karl Mannheim",
+      "Otto Kirchheimer (catch-all party)"
+    ],
+    "historicalExamples": [
+      "Democracia Cristiana europea de posguerra (Italia, Alemania, 1945-1990s)",
+      "Partido Liberal de Canadá (tradición centrista, siglo XX-XXI)",
+      "Emmanuel Macron y La République En Marche (Francia, desde 2017)"
+    ]
   },
   {
     "id": "technocracy",
@@ -1847,11 +3225,16 @@
     "description": "Forma de gobierno o proyecto político basado en la toma de decisiones por expertos técnicos (economistas, ingenieros) antes que por políticos electos. En Colombia tiene expresión en proyectos como el de Sergio Fajardo (Gobernador de Antioquia, alcalde de Medellín), Juan Manuel Galán (Nuevo Liberalismo), y en figuras de centro con perfil técnico (ex-ministros de hacienda, ex-directores del DANE). Enfatiza gobierno basado en evidencia por encima de ideología.",
     "keyThinkers": [
       "Thorstein Veblen",
-      "Howard Scott"
+      "William Henry Smyth",
+      "Technocracy Inc.",
+      "Jean Monnet (tecnocracia europea)",
+      "Mario Draghi (como tecnócrata político)"
     ],
     "historicalExamples": [
-      "Sergio Fajardo (Medellín 2004-2007)",
-      "Gobiernos Santos (2010-2018, tecnócratas)"
+      "Technocracy Inc. en Norteamérica (1930s)",
+      "Tecnócratas del Opus Dei en España (Plan de Estabilización, 1959)",
+      "Gobierno Monti en Italia (2011-2013)",
+      "Banco Central Europeo y gestión de la crisis del euro (2010-2015)"
     ]
   }
 ]

@@ -547,7 +547,12 @@ a:hover { text-decoration-color: var(--ink); }
 }
 
 .compass-cell:hover {
-  filter: brightness(1.03);
+  filter: brightness(1.06) saturate(1.08);
+}
+
+/* Hover overlay para resaltar el borde de la celda activa */
+.compass-cell:hover .compass-cell-hover {
+  opacity: 0.9 !important;
 }
 
 .compass-label {
@@ -557,9 +562,18 @@ a:hover { text-decoration-color: var(--ink); }
   pointer-events: none;
   user-select: none;
   paint-order: stroke fill;
-  stroke: rgb(253 250 241 / 0.85);
-  stroke-width: 2.2px;
+  stroke: rgb(253 250 241 / 0.92);
+  stroke-width: 2.4px;
   stroke-linejoin: round;
+}
+
+/* Variante para iniciales: más bold y letter-spacing positivo */
+.compass-label-initials {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  stroke-width: 2.6px;
+  text-transform: uppercase;
 }
 
 .compass-quadrant-label {
@@ -578,13 +592,48 @@ a:hover { text-decoration-color: var(--ink); }
   pointer-events: none;
   background: var(--paper-cream);
   border: 1px solid var(--rule);
-  padding: 14px 18px;
+  border-radius: 2px;
+  padding: 14px 18px 16px;
   box-shadow: var(--shadow-float);
   min-width: 240px;
-  max-width: 340px;
+  max-width: 360px;
   z-index: 10;
   animation: tooltip-in 180ms ease-out;
   font-family: var(--font-serif);
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+
+.compass-tooltip strong,
+.compass-tooltip-title {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-bottom: 6px;
+  color: var(--ink);
+}
+
+.compass-tooltip-subtitle {
+  font-style: italic;
+  color: var(--ink-soft);
+  font-size: 13px;
+  letter-spacing: 0.02em;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.compass-tooltip-meta {
+  font-family: var(--font-display);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin-top: 8px;
+  border-top: 1px solid var(--rule-soft);
+  padding-top: 8px;
 }
 
 @keyframes tooltip-in {

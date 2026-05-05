@@ -184,6 +184,8 @@ export const ideologySchema = z.object({
   description: z.string().min(20).max(3000),
   longDescription: z.string().min(50).max(10000).optional(),
   historicalContext: z.string().min(20).max(5000).optional(),
+  contemporaryRelevance: z.string().min(20).max(3000).optional(),
+  commonCriticisms: z.string().min(20).max(3000).optional(),
   keyThinkers: z.array(z.string().min(2).max(120)).optional(),
   historicalExamples: z.array(z.string().min(2).max(200)).optional(),
   relatedIdeologies: z.array(slugSchema).optional(),

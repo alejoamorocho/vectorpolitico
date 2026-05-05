@@ -14,11 +14,13 @@ type Props = {
 /**
  * Renderiza la grilla de ideologías como un mosaico perfecto sin gaps.
  *
- * Estrategia de legibilidad por zoom:
- *   - Muy pequeña (<18px): solo rect coloreado, sin label.
- *   - Pequeña (18-35px): label truncado en 1 línea, fuente mínima.
- *   - Mediana (35-60px): label en 1-2 líneas.
- *   - Grande (>60px): label completo con wrap en hasta 3 líneas.
+ * Estrategia de legibilidad por zoom — ninguna celda queda completamente vacía,
+ * siempre se muestra al menos un indicador (iniciales o palabra abreviada):
+ *   - Micro    (<10px):     solo color de fondo + dot central de marcador.
+ *   - Iniciales (10-22px):  iniciales mayúsculas (DC, ML, etc.) — al menos hint de identidad.
+ *   - Tiny     (22-40px):   palabra clave o nombre truncado a 1 línea.
+ *   - Medium   (40-65px):   nombre en 1-2 líneas.
+ *   - Grande   (>65px):     nombre completo con wrap en hasta 3 líneas.
  */
 export function IdeologyGrid({
   ideologies,
@@ -53,27 +55,46 @@ export function IdeologyGrid({
         const effectiveH = h * zoomK;
         const effectiveMin = Math.min(effectiveW, effectiveH);
 
-        const showNothing = effectiveMin < 18;
-        const showTiny = effectiveMin >= 18 && effectiveMin < 35;
-        const showMedium = effectiveMin >= 35 && effectiveMin < 60;
-        const showFull = effectiveMin >= 60;
+        // Cinco modos de label, asegurando que ninguna celda quede vacía
+        const mode: 'micro' | 'initials' | 'tiny' | 'medium' | 'full' =
+          effectiveMin < 10
+            ? 'micro'
+            : effectiveMin < 22
+              ? 'initials'
+              : effectiveMin < 40
+                ? 'tiny'
+                : effectiveMin < 65
+                  ? 'medium'
+                  : 'full';
 
         const isMuted = highlightedIds !== null && !highlightedIds.has(ide.id);
 
-        // Font size: scale with cell size but clamp
-        const baseFontSize = Math.min(w, h) * 0.14;
-        const fontSize = showTiny
-          ? Math.max(4.5, Math.min(7, baseFontSize))
-          : showMedium
-            ? Math.max(5.5, Math.min(9, baseFontSize))
-            : Math.max(6, Math.min(11, baseFontSize));
+        // Font size: escala con tamaño de celda con clamp
+        const minSide = Math.min(w, h);
+        const baseFontSize = minSide * 0.16;
+        const fontSize =
+          mode === 'micro'
+            ? 0
+            : mode === 'initials'
+              ? Math.max(5, Math.min(8, minSide * 0.32))
+              : mode === 'tiny'
+                ? Math.max(5.5, Math.min(8, baseFontSize))
+                : mode === 'medium'
+                  ? Math.max(6.5, Math.min(10, baseFontSize))
+                  : Math.max(7, Math.min(12, baseFontSize));
 
         const fill = quadrantColor(ide.quadrant, 'fill');
         const stroke = quadrantColor(ide.quadrant, 'stroke');
         const labelInk = quadrantColor(ide.quadrant, 'label');
 
-        const label = (showTiny || showMedium) ? truncate(ide.name, w, fontSize) : ide.name;
-        const labelLines = showFull ? wrapText(ide.name, w * 0.9, fontSize) : [label];
+        const labelText =
+          mode === 'initials'
+            ? getInitials(ide.name)
+            : mode === 'tiny' || mode === 'medium'
+              ? truncate(ide.name, w, fontSize)
+              : ide.name;
+
+        const fullLines = mode === 'full' ? wrapText(ide.name, w * 0.9, fontSize) : [labelText];
 
         return (
           <g
@@ -92,6 +113,8 @@ export function IdeologyGrid({
             }}
             aria-label={ide.name}
           >
+            <title>{ide.name}</title>
+
             {/* Cell background */}
             <rect
               x={left}
@@ -101,15 +124,55 @@ export function IdeologyGrid({
               fill={fill}
               stroke={stroke}
               strokeWidth={0.6}
-              strokeOpacity={0.7}
+              strokeOpacity={0.75}
               vectorEffect="non-scaling-stroke"
+              className="compass-cell-rect"
             />
 
-            {/* No label for tiny cells */}
-            {showNothing && null}
+            {/* Hover stroke overlay (más visible) */}
+            <rect
+              x={left}
+              y={top}
+              width={w}
+              height={h}
+              fill="transparent"
+              stroke={stroke}
+              strokeWidth={1.5}
+              vectorEffect="non-scaling-stroke"
+              className="compass-cell-hover"
+              style={{ opacity: 0, transition: 'opacity 150ms ease', pointerEvents: 'none' }}
+            />
+
+            {/* Micro: dot central que indica que hay celda clickable */}
+            {mode === 'micro' && (
+              <circle
+                cx={cx}
+                cy={cy}
+                r={Math.max(0.6, minSide * 0.06)}
+                fill={labelInk}
+                opacity={0.45}
+              />
+            )}
+
+            {/* Initials: iniciales centradas */}
+            {mode === 'initials' && (
+              <text
+                x={cx}
+                y={cy}
+                textAnchor="middle"
+                dominantBaseline="middle"
+                className="compass-label compass-label-initials"
+                fill={labelInk}
+                fontSize={fontSize}
+                fontWeight={700}
+                style={{ letterSpacing: '0.02em' }}
+              >
+                {labelText}
+              </text>
+            )}
 
             {/* Single-line label */}
-            {(showTiny || showMedium) && (
+            {(mode === 'tiny' || mode === 'medium') && (
               <text
                 x={cx}
                 y={cy}
@@ -119,17 +182,17 @@ export function IdeologyGrid({
                 fill={labelInk}
                 fontSize={fontSize}
               >
-                {label}
+                {labelText}
               </text>
             )}
 
             {/* Full multi-line label */}
-            {showFull &&
-              labelLines.map((line, i) => (
+            {mode === 'full' &&
+              fullLines.map((line, i) => (
                 <text
                   key={i}
                   x={cx}
-                  y={cy + (i - (labelLines.length - 1) / 2) * fontSize * 1.18}
+                  y={cy + (i - (fullLines.length - 1) / 2) * fontSize * 1.2}
                   textAnchor="middle"
                   dominantBaseline="middle"
                   className="compass-label"
@@ -146,12 +209,40 @@ export function IdeologyGrid({
   );
 }
 
+/**
+ * Devuelve hasta 3 iniciales para nombres compuestos.
+ *  "Democracia Cristiana"     → "DC"
+ *  "Marxismo-leninismo"       → "ML"
+ *  "Anarco-capitalismo"       → "AC"
+ *  "Capitalismo Autoritario"  → "CA"
+ *  "Sionismo"                 → "SI"
+ *  "IngSoc"                   → "IS"
+ */
+function getInitials(name: string): string {
+  // Separar por espacios y guiones
+  const tokens = name
+    .split(/[\s\-—–·/]+/)
+    .filter(Boolean)
+    .filter((t) => t.length > 0 && !isStopWord(t));
+  if (tokens.length >= 2) {
+    return (tokens[0][0] + tokens[1][0]).toUpperCase();
+  }
+  // Una sola palabra: tomar primeras 2 letras
+  const single = tokens[0] ?? name;
+  return single.slice(0, 2).toUpperCase();
+}
+
+function isStopWord(token: string): boolean {
+  const lower = token.toLowerCase();
+  return ['de', 'del', 'la', 'el', 'los', 'las', 'y', 'en'].includes(lower);
+}
+
 function truncate(text: string, widthPx: number, fontSize: number): string {
   const charWidth = fontSize * 0.52;
-  const maxChars = Math.floor((widthPx * 0.88) / charWidth);
+  const maxChars = Math.floor((widthPx * 0.9) / charWidth);
   if (text.length <= maxChars) return text;
   if (maxChars < 4) return text.slice(0, Math.max(1, maxChars));
-  return text.slice(0, maxChars - 1) + '\u2026';
+  return text.slice(0, maxChars - 1) + '…';
 }
 
 function wrapText(text: string, widthPx: number, fontSize: number): string[] {
@@ -164,7 +255,6 @@ function wrapText(text: string, widthPx: number, fontSize: number): string[] {
     return [truncate(text, widthPx, fontSize)];
   }
 
-  // Try to split into 2 or 3 lines
   const lines: string[] = [];
   let current = '';
   for (const word of words) {
@@ -178,7 +268,6 @@ function wrapText(text: string, widthPx: number, fontSize: number): string[] {
   }
   if (current) lines.push(current);
 
-  // Limit to 3 lines, truncate last if needed
   if (lines.length > 3) {
     const first3 = lines.slice(0, 3);
     first3[2] = truncate(first3[2], widthPx, fontSize);
