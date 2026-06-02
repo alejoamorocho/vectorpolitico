@@ -25,8 +25,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 7.19,
-      "y": -1.33,
+      "x": 6.0,
+      "y": -2.0,
       "justification": "César Gaviria se presenta como miembro del Partido Liberal. cuya plataforma programática se alinea con el Neoliberalismo. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=4.4, y=-0.7). con énfasis en su plataforma en: libre mercado.",
       "sources": [
         {
@@ -50,8 +50,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 7.19,
-      "y": -1.33,
+      "x": 6.0,
+      "y": -2.0,
       "justification": "Análisis metodológico del proyecto: Durante su presidencia (1990-1994), Gaviria firmó la Ley 50 de 1990 de flexibilización laboral y la Ley 100 de 1993 de apertura del sistema de salud a privados (evidencia documentada en SUIN-Juriscol). Su posición económica se evidencia en la reducción acelerada de aranceles promedio del 44% al 11% en 1991-1992 y privatizaciones de puertos, banca oficial y telecomunicaciones (registradas en DNP). En lo social, convocó la Constituyente de 1991 (Constitución Política). Su política de seguridad incluyó estrategias contra el narcotráfico. Las dimensiones económicas revelan posición fuertemente pro-mercado mientras que su gestión constitucional produjo avances en derechos fundamentales, reflejando una composición ideológica híbrida entre liberalismo económico y libertarianismo social.",
       "sources": [
         {
@@ -268,8 +268,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 2.5,
-      "y": -1.33,
+      "x": 2.0,
+      "y": -2.8,
       "justification": "Ernesto Samper se presenta como miembro del Partido Liberal. cuya plataforma programática se alinea con el Liberalismo social. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=8.9, y=-0.7).",
       "sources": [
         {
@@ -293,8 +293,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 2.5,
-      "y": -1.33,
+      "x": 2.0,
+      "y": -2.8,
       "justification": "Análisis metodológico del proyecto: Durante su presidencia (1994-1998), Samper decretó el Estado de Conmoción Interior (Decreto 1370 de 1995) en contexto del Proceso 8.000, y promulgó la Ley 241 de 1995 endureciendo la política de orden público (ambos registrados en SUIN-Juriscol). En lo económico, mantuvo continuidad con la apertura de Gaviria pero aumentó el IVA mediante reforma tributaria y firmó el Grupo de los Tres con México y Venezuela (documentado en DNP). Su mandato fue marcado por presiones de Estados Unidos (descertificación 1996-1997) que influyeron en su política exterior. Las evidencias muestran un personaje más al centro-derecha que sus declaraciones iniciales y con mayor concentración de poder ejecutivo que lo declarado, reflejado en su recurso a poderes de excepción constitucional.",
       "sources": [
         {
@@ -515,8 +515,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 8.26,
-      "y": 2.25,
+      "x": 5.2,
+      "y": 2.6,
       "justification": "Andrés Pastrana se presenta como miembro del Partido Conservador. cuya plataforma programática se alinea con el Conservadurismo liberal. Su discurso público y posicionamiento oficial lo ubican en la centro-derecha económica con tendencia moderado-autoritario en el eje social (x=2.2, y=2.1). con énfasis en su plataforma en: procesos de paz.",
       "sources": [
         {
@@ -540,8 +540,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 8.26,
-      "y": 2.25,
+      "x": 5.2,
+      "y": 2.6,
       "justification": "Análisis metodológico del proyecto: Durante su presidencia (1998-2002), Pastrana ejecutó el Plan Colombia que, aunque anunciado como programa de desarrollo social, se transformó en asistencia militar con USD 1.300 millones, del cual 80% fue destinado a fortalecimiento militar y operativos antinarcóticos con fumigaciones aéreas (documentado en DNP y CNMH). Enfrentó la recesión más profunda en 70 años con PIB de -4,2% en 1999, requiriendo acuerdo stand-by con FMI que impuso ajuste fiscal severo (registrado en documentos de DAPRE y SUIN-Juriscol). El proceso de paz en la zona de distensión del Caguán (42.000 km² desmilitarizada) fracasó el 20 de febrero de 2002 tras presuntas violaciones de tregua (documentado en archivos de CNMH). Sus ejecutorias revelan una posición económica de derecha (austeridad fiscal y ajuste estructural) y seguridad de mano dura (militarización), significativamente más a la derecha que su discurso inicial de 'diálogo y paz'.",
       "sources": [
         {
@@ -768,8 +768,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 6.96,
-      "y": 2.25,
+      "x": 6.0,
+      "y": 4.8,
       "justification": "Álvaro Uribe se presenta como miembro del Centro Democrático. cuya plataforma programática se alinea con el Neoconservadurismo. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia autoritario en el eje social (x=4.4, y=3.6).",
       "sources": [
         {
@@ -793,8 +793,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 5.22,
-      "y": 2.25,
+      "x": 5.0,
+      "y": 5.4,
       "justification": "Análisis metodológico del proyecto: Confianza alta por ocho años de gobierno con amplio registro legislativo y ejecutivo. Acciones evaluadas: (1) Política de Seguridad Democrática — incremento del pie de fuerza militar, operaciones ofensivas contra FARC/ELN, programa de desmovilización de paramilitares (Ley de Justicia y Paz 975/2005); (2) reformas económicas de corte neoliberal: tratados de libre comercio, confianza inversionista, zonas francas; (3) reforma constitucional para reelección presidencial inmediata (Acto Legislativo 02/2004); (4) programa Familias en Acción (subsidios focalizados); (5) Ley de Seguridad Nacional, interceptaciones del DAS. El proyecto ubica en derecha autoritaria por combinación de liberalismo económico con concentración de poder ejecutivo y política de seguridad dura.",
       "sources": [
         {
@@ -1010,8 +1010,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 2.5,
-      "y": -1.33,
+      "x": 2.0,
+      "y": -2.8,
       "justification": "Juan Manuel Santos se presenta como miembro del Partido de la U. cuya plataforma programática se alinea con el Liberalismo social. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia moderado-libertario en el eje social (x=9.2, y=-0.6). con énfasis en su plataforma en: seguridad y defensa, procesos de paz.",
       "sources": [
         {
@@ -1035,8 +1035,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 3.33,
-      "y": -9.0,
+      "x": 2.2,
+      "y": -0.8,
       "justification": "Análisis metodológico del proyecto: Durante su presidencia (2010-2018), Santos lideró la negociación del Acuerdo Final con las FARC-EP, firmado el 26 de septiembre de 2016 tras referéndum rechazado el 2 de octubre de 2016 (documentado en SUIN-Juriscol y DAPRE). Aunque promovió reforma política y apertura democrática vía acuerdo transicional, mantuvo en paralelo políticas económicas de continuidad neoliberal: reforma tributaria regresiva, reducción de gasto social y profundización de tratados de libre comercio (registrado en DNP). En seguridad ejecutó operativos militares contra disidencias de FARC. Las evidencias ubican a Santos en centro-izquierda en lo político-institucional (paz, justicia transicional) pero centro-derecha en lo económico (austeridad fiscal, mercado). El 'Santos ambiguo' entre paz y neoliberalismo marca su posición política real como más al centro que sus declaraciones iniciales.",
       "sources": [
         {
@@ -1252,8 +1252,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 6.96,
-      "y": 2.25,
+      "x": 6.0,
+      "y": 4.8,
       "justification": "Iván Duque se presenta como miembro del Centro Democrático. cuya plataforma programática se alinea con el Neoconservadurismo. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia autoritario en el eje social (x=4.7, y=3.7). con énfasis en su plataforma en: procesos de paz.",
       "sources": [
         {
@@ -1277,8 +1277,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 8.26,
-      "y": 2.25,
+      "x": 5.2,
+      "y": 2.6,
       "justification": "Análisis metodológico del proyecto: Durante su presidencia (2018-2022), Duque implementó un Plan Nacional de Desarrollo de cuño fiscal-conservador con énfasis en reducción de gasto público, reforma tributaria regresiva y flexibilización laboral (documentado en DNP y SUIN-Juriscol). En lo político enfrentó paro nacional 2019-2020 por reforma pensional y educativa, y dirigió una política de seguridad enfocada en seguridad ciudadana sin reforma institucional profunda (registrado en Defensoría del Pueblo). Su alineamiento con sectores uribistas y su permanente crítica al Acuerdo de Paz evidencian posición conservadora-autoritaria. Economía fiscal-conservadora, seguridad represiva y resistencia a transformaciones institucionales ubican a Duque claramente en la derecha, confirmando su posición declarada.",
       "sources": [
         {
@@ -1538,8 +1538,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -9.0,
-      "y": -1.33,
+      "x": -5.0,
+      "y": -2.2,
       "justification": "Gustavo Petro se presenta como miembro del Pacto Histórico. cuya plataforma programática se alinea con el Socialismo democrático. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-libertario en el eje social (x=-4.4, y=-2.1). con énfasis en su plataforma en: procesos de paz.",
       "sources": [
         {
@@ -1563,8 +1563,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": -6.67,
-      "y": 0.83,
+      "x": -5.6,
+      "y": 3.0,
       "justification": "Análisis metodológico del proyecto: Petro asume la presidencia el 7 de agosto de 2022 con agenda de transformación: reforma tributaria progresiva, transición energética, Paz Total, reforma rural. Su normativa en SUIN-Juriscol refleja iniciativas redistributivas en materia tributaria y social. El Plan Nacional de Desarrollo 'Colombia Potencia Mundial de la Vida' (DNP) propone giro hacia economía del cuidado y cambio climático. En seguridad implementa la Política de Paz Total buscando negociación con actores armados no estatal. Aunque las evaluaciones están en proceso, las evidencias documentadas en DAPRE, CONPES y SUIN-Juriscol muestran postura de izquierda democrática en distribución fiscal y transformaciones institucionales, confirmando en general su posición declarada de centro-izquierda a izquierda.",
       "sources": [
         {

@@ -1,6 +1,38 @@
+import { useMemo } from 'react';
 import type { Party } from '@brujula/schema';
 import type React from 'react';
 import type { CompassScales } from '../lib/projection';
+
+const CLUSTER_RADIUS = 0.55;
+const GOLDEN_ANGLE = Math.PI * (3 - Math.sqrt(5));
+
+/** Offsets de racimo para partidos que comparten el centroide de una ideología. */
+function computePartyOffsets(parties: Party[]): Map<string, { dx: number; dy: number }> {
+  const groups = new Map<string, Party[]>();
+  for (const p of parties) {
+    if (!p.compassPosition) continue;
+    const k = `${Math.round(p.compassPosition.x * 2) / 2},${Math.round(p.compassPosition.y * 2) / 2}`;
+    const arr = groups.get(k) ?? [];
+    arr.push(p);
+    groups.set(k, arr);
+  }
+  const out = new Map<string, { dx: number; dy: number }>();
+  for (const [, members] of groups) {
+    const n = members.length;
+    if (n === 1) {
+      out.set(members[0].id, { dx: 0, dy: 0 });
+      continue;
+    }
+    const sorted = [...members].sort((a, b) => a.id.localeCompare(b.id));
+    for (let i = 0; i < sorted.length; i++) {
+      const t = i / (n - 1);
+      const r = CLUSTER_RADIUS * Math.sqrt(t);
+      const theta = i * GOLDEN_ANGLE;
+      out.set(sorted[i].id, { dx: r * Math.cos(theta), dy: r * Math.sin(theta) });
+    }
+  }
+  return out;
+}
 
 type Props = {
   parties: Party[];
@@ -26,14 +58,16 @@ export function PartyPoints({
 }: Props) {
   const { xScale, yScale } = scales;
   const showLabels = zoomK >= 1.8;
+  const offsets = useMemo(() => computePartyOffsets(parties), [parties]);
 
   return (
     <g aria-label="Partidos políticos">
       {parties
         .filter((p) => p.compassPosition)
         .map((p) => {
-          const cx = xScale(p.compassPosition!.x);
-          const cy = yScale(p.compassPosition!.y);
+          const off = offsets.get(p.id) ?? { dx: 0, dy: 0 };
+          const cx = xScale(p.compassPosition!.x + off.dx);
+          const cy = yScale(p.compassPosition!.y + off.dy);
           const isFocused = focusedId === p.id;
           const isDimmed = focusedId !== null && !isFocused;
 

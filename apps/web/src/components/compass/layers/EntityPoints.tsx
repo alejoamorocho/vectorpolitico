@@ -1,6 +1,8 @@
+import { useMemo } from 'react';
 import type { EntitySummary } from '@brujula/schema';
 import type React from 'react';
 import type { CompassScales } from '../lib/projection';
+import { computeClusterOffsets } from '../lib/cluster';
 
 type Props = {
   entities: EntitySummary[];
@@ -34,13 +36,17 @@ export function EntityPoints({
 }: Props) {
   const { xScale, yScale } = scales;
 
+  // Desplazamientos de racimo para que figuras en la misma celda no se apilen
+  const offsets = useMemo(() => computeClusterOffsets(entities), [entities]);
+
   return (
     <g aria-label="Figuras politicas">
       {entities.map((e) => {
-        const sx = xScale(e.compassSelfPerceived.x);
-        const sy = yScale(e.compassSelfPerceived.y);
-        const ex = xScale(e.compassEvidenced.x);
-        const ey = yScale(e.compassEvidenced.y);
+        const off = offsets.get(e.id) ?? { dx: 0, dy: 0 };
+        const sx = xScale(e.compassSelfPerceived.x + off.dx);
+        const sy = yScale(e.compassSelfPerceived.y + off.dy);
+        const ex = xScale(e.compassEvidenced.x + off.dx);
+        const ey = yScale(e.compassEvidenced.y + off.dy);
 
         const isFocused = focusedId === e.id;
         const isDimmed = focusedId !== null && !isFocused;

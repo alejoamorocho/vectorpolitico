@@ -10,13 +10,24 @@ import Compass from '@/components/compass/Compass';
 import { entityTypeLabel } from '@/lib/i18n';
 
 export async function getStaticPaths() {
-  return getAllEntities().map((e) => ({
+  const all = getAllEntities();
+  // Orden estable por nombre para navegación prev/next coherente
+  const sorted = [...all].sort((a, b) => a.displayName.localeCompare(b.displayName, 'es'));
+  return sorted.map((e, i) => ({
     params: { slug: e.id },
-    props: { entityId: e.id },
+    props: {
+      entityId: e.id,
+      prev: sorted[(i - 1 + sorted.length) % sorted.length],
+      next: sorted[(i + 1) % sorted.length],
+    },
   }));
 }
 
 const { slug } = Astro.params;
+const { prev, next } = Astro.props as {
+  prev: { id: string; displayName: string };
+  next: { id: string; displayName: string };
+};
 const entity = getEntityBySlug(slug!);
 
 if (!entity) {
@@ -310,9 +321,36 @@ const dimensions = [
       </section>
     )}
 
+    <!-- Navegación entre figuras (prev / next) -->
+    <nav
+      class="mt-16 pt-8 grid grid-cols-2 gap-4"
+      style="border-top: 2px solid var(--ink);"
+      aria-label="Navegación entre figuras"
+    >
+      <a
+        href={`/figuras/${prev.id}`}
+        style="text-decoration: none; color: var(--ink); display: block;"
+      >
+        <span class="section-kicker">← Anterior</span>
+        <span style="display: block; font-family: var(--font-display); font-size: 22px; font-weight: 600; margin-top: 4px; line-height: 1.15;">
+          {prev.displayName}
+        </span>
+      </a>
+      <a
+        href={`/figuras/${next.id}`}
+        style="text-decoration: none; color: var(--ink); display: block; text-align: right;"
+      >
+        <span class="section-kicker">Siguiente →</span>
+        <span style="display: block; font-family: var(--font-display); font-size: 22px; font-weight: 600; margin-top: 4px; line-height: 1.15;">
+          {next.displayName}
+        </span>
+      </a>
+    </nav>
+
     <!-- Meta -->
-    <footer class="mt-16 mb-16 pt-6" style="border-top: 1px solid var(--rule); font-family: var(--font-serif); font-style: italic; font-size: 13px; color: var(--ink-mute);">
+    <footer class="mt-12 mb-16 pt-6" style="border-top: 1px solid var(--rule); font-family: var(--font-serif); font-style: italic; font-size: 13px; color: var(--ink-mute);">
       <p>Última actualización: {entity.lastUpdated}. Contribuyentes: <em>{entity.contributors.join(', ')}</em>.</p>
+      <p style="margin-top: 6px;"><a href="/figuras" style="color: var(--ink); text-decoration: underline; text-decoration-color: var(--rule);">← Ver todas las figuras</a></p>
     </footer>
   </article>
 </BaseLayout>
