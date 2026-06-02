@@ -1,12 +1,10 @@
-name: deploy-api
+name: deploy-api (Cloudflare Workers, manual)
+
+# Despliegue del API a Cloudflare Workers + D1.
+# INACTIVO POR DEFECTO: solo se dispara manualmente. Requiere los
+# secrets CLOUDFLARE_API_TOKEN y la variable CLOUDFLARE_ACCOUNT_ID.
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'apps/api/**'
-      - 'packages/schema/**'
-      - '.github/workflows/deploy-api.yml'
   workflow_dispatch:
 
 concurrency:

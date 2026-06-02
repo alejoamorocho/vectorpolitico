@@ -11,6 +11,7 @@
     "start": "astro dev",
     "build": "astro build && pagefind --site dist",
     "build:node": "astro build --config ./astro.config.dev.mjs && pagefind --site dist",
+    "build:gh-pages": "astro build --config ./astro.config.gh-pages.mjs && node ./scripts/fix-gh-pages-base.mjs && pagefind --site dist",
     "preview": "astro preview",
     "preview:node": "astro preview --config ./astro.config.dev.mjs",
     "serve:dist": "node ./scripts/serve-dist.mjs",

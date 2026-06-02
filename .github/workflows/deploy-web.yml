@@ -1,13 +1,12 @@
-name: deploy-web
+name: deploy-web (Cloudflare Pages, manual)
+
+# Despliegue a Cloudflare Pages.
+# INACTIVO POR DEFECTO: el deploy regular del sitio es a GitHub Pages
+# (deploy-gh-pages.yml). Este workflow solo se dispara manualmente y
+# requiere los secrets CLOUDFLARE_API_TOKEN y la variable
+# CLOUDFLARE_ACCOUNT_ID configurados.
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'apps/web/**'
-      - 'packages/data/**'
-      - 'packages/schema/**'
-      - '.github/workflows/deploy-web.yml'
   workflow_dispatch:
 
 concurrency:

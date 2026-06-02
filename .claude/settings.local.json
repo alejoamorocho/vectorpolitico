@@ -42,7 +42,17 @@
       "WebFetch(domain:www.elespectador.com)",
       "WebFetch(domain:es.wikipedia.org)",
       "WebFetch(domain:timetravel.mementoweb.org)",
-      "WebFetch(domain:www.elcolombiano.com)"
+      "WebFetch(domain:www.elcolombiano.com)",
+      "Bash(git push *)",
+      "Bash(gh --version)",
+      "Bash(gh run *)",
+      "Bash(gh secret *)",
+      "Bash(gh variable *)",
+      "Bash(gh workflow *)",
+      "Bash(git checkout *)",
+      "Bash(gh api *)",
+      "Bash(git merge *)",
+      "Bash(git branch *)"
     ]
   }
 }
