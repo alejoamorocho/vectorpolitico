@@ -13,8 +13,8 @@
       "left-populism"
     ],
     "compassPosition": {
-      "x": -5.0,
-      "y": -2.2,
+      "x": -4.17,
+      "y": -2.5,
       "justification": "Según sus estatutos y plataforma programática, el Pacto Histórico se define como una coalición de izquierda con énfasis en democracia socialista, reformas tributarias progresivas, reforma agraria redistributiva, transición energética, reforma de salud hacia modelo público y reforma laboral favorable al trabajador. Socialmente progresista en derechos reproductivos y diversidad sexual.",
       "sources": [
         {
@@ -161,8 +161,8 @@
       "nationalist-conservatism"
     ],
     "compassPosition": {
-      "x": 6.0,
-      "y": 4.8,
+      "x": 9.17,
+      "y": 2.5,
       "justification": "El partido se define oficialmente como conservador, de centro-derecha, con énfasis en seguridad democrática, combate al terrorismo, libre mercado, propiedad privada, defensa de la institucionalidad y construcción de autoridad estatal.",
       "sources": [
         {
@@ -308,8 +308,8 @@
       "social-democracy"
     ],
     "compassPosition": {
-      "x": 2.0,
-      "y": -2.8,
+      "x": 1.0,
+      "y": -4.17,
       "justification": "Según sus estatutos, el Partido Liberal se define como liberal, de centro-izquierda, con énfasis en democracia liberal, derechos fundamentales, economía social de mercado, reforma social gradual, educación pública y protección de trabajadores.",
       "sources": [
         {
@@ -456,8 +456,8 @@
       "fiscal-conservatism"
     ],
     "compassPosition": {
-      "x": 4.0,
-      "y": 4.4,
+      "x": 4.17,
+      "y": 2.5,
       "justification": "El partido se define oficialmente como conservador, de derecha, con énfasis en valores tradicionales, propiedad privada, economía de mercado, orden público, seguridad, defensa de instituciones eclesiásticas y valores familiares tradicionales.",
       "sources": [
         {
@@ -605,7 +605,7 @@
     ],
     "compassPosition": {
       "x": -3.0,
-      "y": -4.0,
+      "y": -4.17,
       "justification": "El partido se define oficialmente como progresista-ecologista, con énfasis en sostenibilidad ambiental, derechos humanos, justicia social, protección de ecosistemas, derechos de poblaciones vulnerables y transición energética.",
       "sources": [
         {
@@ -752,8 +752,8 @@
       "fiscal-conservatism"
     ],
     "compassPosition": {
-      "x": 5.2,
-      "y": 2.6,
+      "x": 7.5,
+      "y": 0.83,
       "justification": "Según sus estatutos, Cambio Radical se define como de centro, radical-liberal, con énfasis en reforma institucional, modernización estatal, participación ciudadana, defensa de pequeña y mediana empresa y economía solidaria. Reubicado a (6.0, -1.0) en national-liberalism (cuadrante lib_right). El partido es fundamentalmente pro-mercado moderado con dimensión nacionalista de seguridad y desarrollo local (Vargas Lleras), no autoritario-capitalista puro.",
       "sources": [
         {
@@ -900,8 +900,8 @@
       "third-way"
     ],
     "compassPosition": {
-      "x": 5.2,
-      "y": 2.6,
+      "x": 7.5,
+      "y": 0.83,
       "justification": "Según sus documentos constitutivos, el Partido de la U se define como de centro-derecha, con énfasis en desarrollo social, responsabilidad fiscal, orden público, seguridad y soluciones pragmáticas a problemas sociales.",
       "sources": [
         {
@@ -1047,8 +1047,8 @@
       "social-democracy"
     ],
     "compassPosition": {
-      "x": 2.0,
-      "y": 2.2,
+      "x": 0.83,
+      "y": 0.83,
       "justification": "Según sus estatutos, MIRA se define como de centro-derecha, conservador, con énfasis en valores cristianos, familia tradicional, seguridad, orden público y defensa de libertades religiosas. Ajuste post-Fase 1.5: reposicionado a (1.0, 7.0) tras la creación de la celda christian-democracy en auth_right. Refleja mejor el componente de ortodoxia religiosa en socialRights propio del partido.",
       "sources": [
         {
@@ -1189,8 +1189,8 @@
       "progressivism"
     ],
     "compassPosition": {
-      "x": -5.0,
-      "y": -2.2,
+      "x": -4.17,
+      "y": -2.5,
       "justification": "El partido se define oficialmente como de izquierda, progresista y socialdemócrata, con énfasis en reformas sociales, defensa del Estado social, derechos laborales, educación pública, sistema de salud público universal y justicia transicional.",
       "sources": [
         {
@@ -1331,8 +1331,8 @@
       "progressivism"
     ],
     "compassPosition": {
-      "x": 2.0,
-      "y": -2.8,
+      "x": 1.0,
+      "y": -4.17,
       "justification": "Según sus documentos constitutivos, Nuevo Liberalismo se define como liberal, de centro, con énfasis en modernización estatal, eficiencia administrativa, lucha anticorrupción y reformas liberales moderadas.",
       "sources": [
         {
@@ -1473,8 +1473,8 @@
       "technocracy"
     ],
     "compassPosition": {
-      "x": 2.0,
-      "y": -2.8,
+      "x": 1.0,
+      "y": -4.17,
       "justification": "Partido de centro progresista liderado por Jorge Enrique Robledo y Sergio Fajardo, con agenda de descentralización, anticorrupción, calidad de la democracia y gobierno basado en evidencia técnica. Combina socialismo democrático moderado en lo económico con liberalismo en derechos civiles. Énfasis en la defensa de lo público, el respeto institucional y la independencia del ejecutivo, en contraste con los polos populistas del espectro colombiano.",
       "sources": [
         {
@@ -1614,8 +1614,8 @@
       "classical-marxism"
     ],
     "compassPosition": {
-      "x": -5.0,
-      "y": -2.2,
+      "x": -4.17,
+      "y": -2.5,
       "justification": "Según sus documentos constitutivos, Comunes se define como de izquierda, progresista, con énfasis en justicia social, inclusión de víctimas del conflicto, derechos de minorías, democracia participativa y construcción de paz territorial.",
       "sources": [
         {
@@ -1762,8 +1762,8 @@
       "green-politics"
     ],
     "compassPosition": {
-      "x": -5.0,
-      "y": -2.2,
+      "x": -4.17,
+      "y": -2.5,
       "justification": "Según sus documentos constitutivos, Colombia Humana se define como de izquierda progresista, con énfasis en justicia social, reforma integral, derechos de poblaciones vulnerables, transición energética y transformación democrática.",
       "sources": [
         {
@@ -1909,8 +1909,8 @@
       "fiscal-conservatism"
     ],
     "compassPosition": {
-      "x": 5.0,
-      "y": 5.4,
+      "x": 5.83,
+      "y": 4.17,
       "justification": "El movimiento se define como de centro-derecha, pragmático, con énfasis en gestión administrativa eficiente, desarrollo regional, autonomía territorial y soluciones locales a problemas nacionales. Ajuste post-Fase 1.5: la celda right-populism fue creada en auth_right. El partido cae en nationalist-conservatism con su posición actual (5.0, 4.0) y el grid reestructurado; la celda right-populism existe como referencia para futuros casos.",
       "sources": [
         {
@@ -2051,8 +2051,8 @@
       "paleo-conservatism"
     ],
     "compassPosition": {
-      "x": 4.0,
-      "y": 4.4,
+      "x": 4.17,
+      "y": 2.5,
       "justification": "Según sus documentos constitutivos, Salvación Nacional se define como de derecha, conservador, con énfasis en orden público, seguridad, defensa institucional y valores tradicionales. Reubicado a (5.5, 6.0) en traditionalist-conservatism (ideología principal declarada) en vez de right-populism — el movimiento es más conservadurismo tradicionalista gomista que populismo personalista de derecha.",
       "sources": [
         {
@@ -2194,8 +2194,8 @@
       "left-populism"
     ],
     "compassPosition": {
-      "x": -3.4,
-      "y": -2.8,
+      "x": -2.5,
+      "y": -2.5,
       "justification": "El movimiento se define como independiente, de centro, con énfasis en participación ciudadana, lucha anticorrupción, transparencia institucional y reforma política.",
       "sources": [
         {
@@ -2336,8 +2336,8 @@
       "democratic-socialism"
     ],
     "compassPosition": {
-      "x": -3.4,
-      "y": -2.8,
+      "x": -2.5,
+      "y": -2.5,
       "justification": "Según sus documentos constitutivos, MAIS se define como de izquierda, progresista, con énfasis en justicia ambiental, derechos de minorías, inclusión social y defensa de ecosistemas.",
       "sources": [
         {
@@ -2477,8 +2477,8 @@
       "green-politics"
     ],
     "compassPosition": {
-      "x": -3.4,
-      "y": -2.8,
+      "x": -2.5,
+      "y": -2.5,
       "justification": "Según sus documentos constitutivos, AICO se define como movimiento de reivindicación indígena, con énfasis en autonomía territorial, derechos colectivos de pueblos indígenas, protección de cosmovisión indígena y justicia intercultural.",
       "sources": [
         {
@@ -2619,8 +2619,8 @@
       "progressivism"
     ],
     "compassPosition": {
-      "x": -5.0,
-      "y": -2.2,
+      "x": -4.17,
+      "y": -2.5,
       "justification": "Según sus estatutos, la Unión Patriótica se define como de izquierda, progresista, con énfasis en justicia social, reforma agraria, participación política de sectores populares, defensa de derechos humanos y transición hacia un modelo más igualitario.",
       "sources": [
         {
@@ -2767,8 +2767,8 @@
       "progressivism"
     ],
     "compassPosition": {
-      "x": 2.0,
-      "y": -2.8,
+      "x": 1.0,
+      "y": -4.17,
       "justification": "El movimiento se define como de centro-izquierda, progresista, con énfasis en reforma social, equidad, participación ciudadana y transformación democrática.",
       "sources": [
         {
@@ -2909,8 +2909,8 @@
       "christian-democracy"
     ],
     "compassPosition": {
-      "x": 5.2,
-      "y": 2.6,
+      "x": 7.5,
+      "y": 0.83,
       "justification": "Según sus documentos constitutivos, Creemos se define como de centro-derecha, con énfasis en libre mercado, responsabilidad fiscal, eficiencia estatal y soluciones pragmáticas.",
       "sources": [
         {
@@ -3051,8 +3051,8 @@
       "progressivism"
     ],
     "compassPosition": {
-      "x": 2.0,
-      "y": -2.8,
+      "x": 1.0,
+      "y": -4.17,
       "justification": "El movimiento se define como progresista, ecologista, con énfasis en protección ambiental, sostenibilidad, defensa de ecosistemas y justicia ambiental.",
       "sources": [
         {
@@ -3194,8 +3194,8 @@
       "social-gospel"
     ],
     "compassPosition": {
-      "x": 2.0,
-      "y": 2.2,
+      "x": 0.83,
+      "y": 0.83,
       "justification": "Según sus documentos constitutivos, Colombia Justa Libres se define como de centro-derecha, con énfasis en justicia, seguridad, libre mercado y soluciones conservadoras a problemas sociales.",
       "sources": [
         {
