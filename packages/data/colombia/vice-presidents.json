@@ -303,7 +303,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -9.0,
+      "x": -5.0,
       "y": -1.33,
       "confidence": "medium",
       "justification": "Análisis metodológico del proyecto: Como Vicepresidenta y Ministra de Igualdad (2022-presente) impulsó la creación y entrada en funcionamiento del Ministerio de Igualdad y Equidad (Ley 2281 de 2023), una estructura sin precedentes en Colombia orientada a políticas diferenciales para mujeres, afros, indígenas, campesinos y diversidades. Ha respaldado los proyectos centrales del gobierno Petro: reforma tributaria 2022 progresiva, reforma pensional, política de 'paz total' y transición energética. Simultáneamente enfrentó críticas por ejecución presupuestal baja del Ministerio de Igualdad en su primer año, por el uso de aeronaves de la fuerza pública, y por tensiones internas con el presidente sobre la conducción del gabinete. La evidencia legislativa y administrativa la ubica en izquierda progresista pero con menor concentración autoritaria de poder que el promedio presidencial.",
@@ -357,7 +357,7 @@
       "left-populism"
     ],
     "ideologySelf": "eco-socialism",
-    "ideologyEvidenced": "democratic-socialism",
+    "ideologyEvidenced": "progressivism",
     "bio": "Francia Elena Márquez Mina (1981, Suárez, Cauca) es abogada de la Universidad Santiago de Cali, líder social y ambientalista afrocolombiana. Saltó a visibilidad internacional al organizar en 2014 la 'Marcha de los Turbantes' que movilizó a mujeres afro del norte del Cauca contra la minería ilegal en sus territorios; por ese trabajo recibió el Premio Goldman en 2018, considerado el 'Nobel ambiental'. Precandidata presidencial en la consulta del Pacto Histórico de 2022, obtuvo el segundo lugar y fue escogida como fórmula vicepresidencial de Gustavo Petro. Es la primera mujer afrocolombiana en ejercer la Vicepresidencia de Colombia (2022-presente) y primera Ministra de Igualdad y Equidad desde la creación de la cartera en 2023.",
     "incoherences": [
       {
@@ -477,7 +477,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "democratic-socialism",
+      "ideologyId": "progressivism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-4.5, -3.8) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Como Vicepresidenta y Ministra de Igualdad (2022-presente) impulsó la creación y entrada en funcionamiento del Ministerio de Igualdad y Equidad (Ley 2281 de 2023), una estructura sin precedentes en Colombia orientada a políticas diferenciales para mujeres, afros, indígenas, campesinos y diversidades. Ha respaldado los proyectos centrales del gobierno Petro: reforma tributaria 2022 progresiva, reforma pensional, política de 'paz total' y transición energética. Simultáneamente enfrentó críticas por ejecución presupuestal baja del Ministerio de Igualdad en su primer año, por el uso de aeronaves de la fuerza pública, y por tensiones internas con el presidente ",
       "sources": [
         {

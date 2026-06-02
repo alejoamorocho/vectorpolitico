@@ -52,7 +52,9 @@
       "Bash(git checkout *)",
       "Bash(gh api *)",
       "Bash(git merge *)",
-      "Bash(git branch *)"
+      "Bash(git branch *)",
+      "Bash(mkdir -p tmp/relabel)",
+      "Bash(python -c ' *)"
     ]
   }
 }

@@ -38,7 +38,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
+      "x": -9.0,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
@@ -173,7 +173,7 @@
       "ssi-co"
     ],
     "ideologySelf": "democratic-socialism",
-    "ideologyEvidenced": "progressivism",
+    "ideologyEvidenced": "democratic-socialism",
     "ideologySelfAssignment": {
       "ideologyId": "democratic-socialism",
       "justification": "Posición autopercibida (-4.1, -2.0) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
@@ -187,7 +187,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "democratic-socialism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.2, -0.7) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -251,8 +251,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": -6.67,
-      "y": 0.83,
+      "x": -9.0,
+      "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -385,7 +385,7 @@
       "ssi-co"
     ],
     "ideologySelf": "democratic-socialism",
-    "ideologyEvidenced": "left-populism",
+    "ideologyEvidenced": "democratic-socialism",
     "ideologySelfAssignment": {
       "ideologyId": "democratic-socialism",
       "justification": "Posición autopercibida (-4.7, -2.0) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
@@ -399,7 +399,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "left-populism",
+      "ideologyId": "democratic-socialism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-6.4, 5.2) mapeada a 'Populismo de izquierda' (centro -6.667, 5), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Socialismo democrático) es 7.5 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -652,7 +652,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 2.5,
+      "x": -5.0,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
@@ -787,7 +787,7 @@
       "ssi-co"
     ],
     "ideologySelf": "progressivism",
-    "ideologyEvidenced": "social-liberalism",
+    "ideologyEvidenced": "progressivism",
     "ideologySelfAssignment": {
       "ideologyId": "progressivism",
       "justification": "Posición autopercibida (-2.2, -0.7) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. ",
@@ -801,7 +801,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "social-liberalism",
+      "ideologyId": "progressivism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (8.9, -0.7) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Progresismo) es 11.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -865,7 +865,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
+      "x": 2.5,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
@@ -1000,7 +1000,7 @@
       "ssi-co"
     ],
     "ideologySelf": "green-politics",
-    "ideologyEvidenced": "progressivism",
+    "ideologyEvidenced": "social-liberalism",
     "ideologySelfAssignment": {
       "ideologyId": "green-politics",
       "justification": "Posición autopercibida (-8.9, -2.1) mapeada a 'Greenismo' (centro -8.889, -2.143), la ideología del mismo cuadrante más cercana. ",
@@ -1014,7 +1014,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "social-liberalism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-1.9, -0.6) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Greenismo) es 6.8 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -1478,7 +1478,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -9.0,
+      "x": 2.5,
       "y": -1.33,
       "justification": "Armando Benedetti se presenta como miembro del Pacto Histórico. cuya plataforma programática se alinea con el Socialismo democrático. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-libertario en el eje social (x=-4.1, y=-2.3). con énfasis en su plataforma en: reformas sociales.",
       "sources": [
@@ -1503,8 +1503,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
-      "y": -1.33,
+      "x": -6.67,
+      "y": 0.83,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -1635,10 +1635,10 @@
     "contributors": [
       "ssi-co"
     ],
-    "ideologySelf": "democratic-socialism",
-    "ideologyEvidenced": "progressivism",
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "left-populism",
     "ideologySelfAssignment": {
-      "ideologyId": "democratic-socialism",
+      "ideologyId": "social-liberalism",
       "justification": "Posición autopercibida (-4.1, -2.3) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
       "sources": [
         {
@@ -1650,7 +1650,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "left-populism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-1.9, -0.9) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -1714,7 +1714,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 2.5,
+      "x": -5.0,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
@@ -1849,7 +1849,7 @@
       "ssi-co"
     ],
     "ideologySelf": "green-politics",
-    "ideologyEvidenced": "social-liberalism",
+    "ideologyEvidenced": "progressivism",
     "ideologySelfAssignment": {
       "ideologyId": "green-politics",
       "justification": "Posición autopercibida (-8.6, -2.0) mapeada a 'Greenismo' (centro -8.889, -2.143), la ideología del mismo cuadrante más cercana. ",
@@ -1863,7 +1863,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "social-liberalism",
+      "ideologyId": "progressivism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (9.2, -0.6) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Greenismo) es 17.8 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -2150,8 +2150,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 8.75,
-      "y": -9.0,
+      "x": 8.26,
+      "y": 2.25,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -2285,7 +2285,7 @@
       "ssi-co"
     ],
     "ideologySelf": "classical-liberalism",
-    "ideologyEvidenced": "technocracy",
+    "ideologyEvidenced": "liberal-conservatism",
     "ideologySelfAssignment": {
       "ideologyId": "classical-liberalism",
       "justification": "Posición autopercibida (8.9, -2.1) mapeada a 'Liberalismo clásico' (centro 8.889, -2.143), la ideología del mismo cuadrante más cercana. ",
@@ -2299,7 +2299,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "technocracy",
+      "ideologyId": "liberal-conservatism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-6.7, 2.1) mapeada a 'Tecnocracia' (centro -6.667, 2.143), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo clásico) es 16.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -2362,8 +2362,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.25,
-      "y": -9.0,
+      "x": 6.09,
+      "y": 2.25,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -2497,7 +2497,7 @@
       "ssi-co"
     ],
     "ideologySelf": "liberal-conservatism",
-    "ideologyEvidenced": "fiscal-conservatism",
+    "ideologyEvidenced": "traditionalist-conservatism",
     "ideologySelfAssignment": {
       "ideologyId": "liberal-conservatism",
       "justification": "Posición autopercibida (2.5, 2.3) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. ",
@@ -2511,7 +2511,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "fiscal-conservatism",
+      "ideologyId": "traditionalist-conservatism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (7.0, 2.3) mapeada a 'Conservadurismo fiscal' (centro 6.667, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -2793,7 +2793,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
+      "x": -9.0,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
@@ -2928,7 +2928,7 @@
       "ssi-co"
     ],
     "ideologySelf": "democratic-socialism",
-    "ideologyEvidenced": "progressivism",
+    "ideologyEvidenced": "democratic-socialism",
     "ideologySelfAssignment": {
       "ideologyId": "democratic-socialism",
       "justification": "Posición autopercibida (-4.3, -1.8) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
@@ -2942,7 +2942,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "democratic-socialism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.5, -0.9) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -3005,8 +3005,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.25,
-      "y": -9.0,
+      "x": 5.22,
+      "y": 2.25,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -3111,7 +3111,7 @@
       "ssi-co"
     ],
     "ideologySelf": "neo-conservatism",
-    "ideologyEvidenced": "fiscal-conservatism",
+    "ideologyEvidenced": "nationalist-conservatism",
     "ideologySelfAssignment": {
       "ideologyId": "neo-conservatism",
       "justification": "Posición autopercibida (4.1, 3.7) mapeada a 'Neoconservadurismo' (centro 4.444, 3.571), la ideología del mismo cuadrante más cercana. ",
@@ -3125,7 +3125,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "fiscal-conservatism",
+      "ideologyId": "nationalist-conservatism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (6.4, 2.3) mapeada a 'Conservadurismo fiscal' (centro 6.667, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -3188,7 +3188,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
+      "x": 2.5,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
@@ -3323,7 +3323,7 @@
       "ssi-co"
     ],
     "ideologySelf": "social-liberalism",
-    "ideologyEvidenced": "progressivism",
+    "ideologyEvidenced": "social-liberalism",
     "ideologySelfAssignment": {
       "ideologyId": "social-liberalism",
       "justification": "Posición autopercibida (8.6, -0.6) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
@@ -3337,7 +3337,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "social-liberalism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.1, -0.4) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo social) es 11.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -3400,7 +3400,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
+      "x": -9.0,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
@@ -3535,7 +3535,7 @@
       "ssi-co"
     ],
     "ideologySelf": "democratic-socialism",
-    "ideologyEvidenced": "progressivism",
+    "ideologyEvidenced": "democratic-socialism",
     "ideologySelfAssignment": {
       "ideologyId": "democratic-socialism",
       "justification": "Posición autopercibida (-4.6, -1.8) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
@@ -3549,7 +3549,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "democratic-socialism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.4, -0.4) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -3617,7 +3617,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
+      "x": -9.0,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
@@ -3751,7 +3751,7 @@
       "ssi-co"
     ],
     "ideologySelf": "democratic-socialism",
-    "ideologyEvidenced": "progressivism",
+    "ideologyEvidenced": "democratic-socialism",
     "ideologySelfAssignment": {
       "ideologyId": "democratic-socialism",
       "justification": "Posición autopercibida (-4.3, -2.4) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
@@ -3765,7 +3765,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "democratic-socialism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.1, -1.0) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -4014,8 +4014,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 8.26,
-      "y": 2.25,
+      "x": -5.0,
+      "y": -1.33,
       "justification": "Jota Pe Hernández se presenta como miembro del Alianza Verde. cuya plataforma programática se alinea con el Conservadurismo liberal. Su discurso público y posicionamiento oficial lo ubican en la centro-derecha económica con tendencia moderado-autoritario en el eje social (x=1.9, y=2.3). con énfasis en su plataforma en: agenda ambiental.",
       "sources": [
         {
@@ -4039,8 +4039,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.25,
-      "y": -9.0,
+      "x": -5.0,
+      "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -4172,10 +4172,10 @@
     "contributors": [
       "ssi-co"
     ],
-    "ideologySelf": "liberal-conservatism",
-    "ideologyEvidenced": "fiscal-conservatism",
+    "ideologySelf": "progressivism",
+    "ideologyEvidenced": "progressivism",
     "ideologySelfAssignment": {
-      "ideologyId": "liberal-conservatism",
+      "ideologyId": "progressivism",
       "justification": "Posición autopercibida (1.9, 2.3) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. ",
       "sources": [
         {
@@ -4187,7 +4187,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "fiscal-conservatism",
+      "ideologyId": "progressivism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (7.0, 2.0) mapeada a 'Conservadurismo fiscal' (centro 6.667, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -4251,7 +4251,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
+      "x": -7.0,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
@@ -4386,7 +4386,7 @@
       "ssi-co"
     ],
     "ideologySelf": "democratic-socialism",
-    "ideologyEvidenced": "progressivism",
+    "ideologyEvidenced": "social-democracy",
     "ideologySelfAssignment": {
       "ideologyId": "democratic-socialism",
       "justification": "Posición autopercibida (-4.6, -2.4) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
@@ -4400,7 +4400,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "social-democracy",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.4, -1.0) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -4651,8 +4651,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -9.0,
-      "y": -1.33,
+      "x": -7.06,
+      "y": -4.0,
       "justification": "Julián Gallo se presenta como miembro del Comunes. cuya plataforma programática se alinea con el Socialismo democrático. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-libertario en el eje social (x=-3.9, y=-2.1).",
       "sources": [
         {
@@ -4676,8 +4676,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": -6.67,
-      "y": 0.83,
+      "x": -9.0,
+      "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -4809,10 +4809,10 @@
     "contributors": [
       "ssi-co"
     ],
-    "ideologySelf": "democratic-socialism",
-    "ideologyEvidenced": "left-populism",
+    "ideologySelf": "classical-marxism",
+    "ideologyEvidenced": "democratic-socialism",
     "ideologySelfAssignment": {
-      "ideologyId": "democratic-socialism",
+      "ideologyId": "classical-marxism",
       "justification": "Posición autopercibida (-3.9, -2.1) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
       "sources": [
         {
@@ -4824,7 +4824,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "left-populism",
+      "ideologyId": "democratic-socialism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-6.4, 4.8) mapeada a 'Populismo de izquierda' (centro -6.667, 5), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Socialismo democrático) es 7.5 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -4894,7 +4894,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
+      "x": 2.5,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
@@ -5029,7 +5029,7 @@
       "ssi-co"
     ],
     "ideologySelf": "social-liberalism",
-    "ideologyEvidenced": "progressivism",
+    "ideologyEvidenced": "social-liberalism",
     "ideologySelfAssignment": {
       "ideologyId": "social-liberalism",
       "justification": "Posición autopercibida (8.6, -0.9) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
@@ -5043,7 +5043,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "social-liberalism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-1.7, -0.7) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo social) es 11.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -5086,7 +5086,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 6.96,
+      "x": 5.22,
       "y": 2.25,
       "justification": "María Fernanda Cabal se presenta como miembro del Centro Democrático. cuya plataforma programática se alinea con el Neoconservadurismo. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia autoritario en el eje social (x=4.1, y=3.4). con énfasis en su plataforma en: seguridad y defensa.",
       "sources": [
@@ -5245,10 +5245,10 @@
     "contributors": [
       "ssi-co"
     ],
-    "ideologySelf": "neo-conservatism",
+    "ideologySelf": "nationalist-conservatism",
     "ideologyEvidenced": "nationalist-conservatism",
     "ideologySelfAssignment": {
-      "ideologyId": "neo-conservatism",
+      "ideologyId": "nationalist-conservatism",
       "justification": "Posición autopercibida (4.1, 3.4) mapeada a 'Neoconservadurismo' (centro 4.444, 3.571), la ideología del mismo cuadrante más cercana. ",
       "sources": [
         {
@@ -5328,7 +5328,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
+      "x": -9.0,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
@@ -5462,7 +5462,7 @@
       "ssi-co"
     ],
     "ideologySelf": "democratic-socialism",
-    "ideologyEvidenced": "progressivism",
+    "ideologyEvidenced": "democratic-socialism",
     "ideologySelfAssignment": {
       "ideologyId": "democratic-socialism",
       "justification": "Posición autopercibida (-4.9, -2.1) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana. ",
@@ -5476,7 +5476,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "democratic-socialism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.7, -0.7) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -5540,8 +5540,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.25,
-      "y": -9.0,
+      "x": 5.22,
+      "y": 2.25,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -5617,7 +5617,7 @@
       "ssi-co"
     ],
     "ideologySelf": "liberal-conservatism",
-    "ideologyEvidenced": "fiscal-conservatism",
+    "ideologyEvidenced": "nationalist-conservatism",
     "ideologySelfAssignment": {
       "ideologyId": "liberal-conservatism",
       "justification": "Posición autopercibida (2.5, 2.0) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. ",
@@ -5631,7 +5631,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "fiscal-conservatism",
+      "ideologyId": "nationalist-conservatism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (6.4, 2.0) mapeada a 'Conservadurismo fiscal' (centro 6.667, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -5670,8 +5670,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 6.96,
-      "y": 2.25,
+      "x": 2.5,
+      "y": 0.75,
       "justification": "Nadia Blel se presenta como miembro del Partido Conservador. cuya plataforma programática se alinea con el Neoconservadurismo. Su discurso público y posicionamiento oficial lo ubican en la derecha económica con tendencia autoritario en el eje social (x=4.6, y=3.9). con énfasis en su plataforma en: seguridad y defensa.",
       "sources": [
         {
@@ -5828,10 +5828,10 @@
     "contributors": [
       "ssi-co"
     ],
-    "ideologySelf": "neo-conservatism",
+    "ideologySelf": "christian-democracy",
     "ideologyEvidenced": "traditionalist-conservatism",
     "ideologySelfAssignment": {
-      "ideologyId": "neo-conservatism",
+      "ideologyId": "christian-democracy",
       "justification": "Posición autopercibida (4.6, 3.9) mapeada a 'Neoconservadurismo' (centro 4.444, 3.571), la ideología del mismo cuadrante más cercana. ",
       "sources": [
         {
@@ -5907,8 +5907,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.25,
-      "y": -9.0,
+      "x": 5.22,
+      "y": 2.25,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -6013,7 +6013,7 @@
       "ssi-co"
     ],
     "ideologySelf": "nationalist-conservatism",
-    "ideologyEvidenced": "fiscal-conservatism",
+    "ideologyEvidenced": "nationalist-conservatism",
     "ideologySelfAssignment": {
       "ideologyId": "nationalist-conservatism",
       "justification": "Posición autopercibida (9.2, 3.7) mapeada a 'Conservadurismo nacionalista' (centro 8.889, 3.571), la ideología del mismo cuadrante más cercana. ",
@@ -6027,7 +6027,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "fiscal-conservatism",
+      "ideologyId": "nationalist-conservatism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (6.8, 2.4) mapeada a 'Conservadurismo fiscal' (centro 6.667, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -6250,7 +6250,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -9.0,
+      "x": 2.5,
       "y": -1.33,
       "justification": "Roy Barreras se presenta como miembro del Pacto Histórico. cuya plataforma programática se alinea con el Socialismo democrático. Su discurso público y posicionamiento oficial lo ubican en la izquierda económica con tendencia moderado-libertario en el eje social (x=-4.4, y=-1.9). con énfasis en su plataforma en: reformas sociales, procesos de paz.",
       "sources": [
@@ -6275,8 +6275,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 3.33,
-      "y": -9.0,
+      "x": -6.67,
+      "y": 0.83,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -6409,10 +6409,10 @@
     "contributors": [
       "ssi-co"
     ],
-    "ideologySelf": "democratic-socialism",
-    "ideologyEvidenced": "third-way",
+    "ideologySelf": "social-liberalism",
+    "ideologyEvidenced": "left-populism",
     "ideologySelfAssignment": {
-      "ideologyId": "democratic-socialism",
+      "ideologyId": "social-liberalism",
       "justification": "Durante su período como senador del Pacto Histórico (2022-2023), Barreras se presentó públicamente como aliado del proyecto de izquierda de Petro, adoptando el discurso de socialismo democrático del Pacto. Sin embargo, esto contrasta con su trayectoria previa: fue senador por el Partido de la U (2006-2022), partido uribista de centro-derecha. Su autopercepción ideológica cambia según su afiliación partidaria del momento.",
       "sources": [
         {
@@ -6424,7 +6424,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "third-way",
+      "ideologyId": "left-populism",
       "justification": "Análisis metodológico del proyecto: Roy Barreras ha sido senador por Nuevo Liberalismo, Cambio Radical (centro-derecha), Partido de la U (uribismo), y Pacto Histórico (izquierda), cambiando de partido según la coalición ganadora. Como presidente del Senado (2022-2023) apoyó simultáneamente derechos LGBT y políticas de seguridad duras. Su curul fue anulada por doble militancia. Fue nombrado embajador en Reino Unido (2023). En 2025 lanzó 'La Fuerza de la Paz' como proyecto centrista. Su patrón evidencia oportunismo pragmático más que compromiso ideológico: se clasifica como third-way por ser el centro geométrico de sus posiciones históricas, no por convicción centrista. La distancia entre self y evidenced refleja precisamente esta incoherencia entre discurso y trayectoria.",
       "sources": [
         {
@@ -6488,8 +6488,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 3.33,
-      "y": -9.0,
+      "x": 2.5,
+      "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -6593,7 +6593,7 @@
       "ssi-co"
     ],
     "ideologySelf": "social-liberalism",
-    "ideologyEvidenced": "third-way",
+    "ideologyEvidenced": "social-liberalism",
     "ideologySelfAssignment": {
       "ideologyId": "social-liberalism",
       "justification": "Posición autopercibida (9.0, -0.4) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
@@ -6607,7 +6607,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "third-way",
+      "ideologyId": "social-liberalism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (4.1, 0.9) mapeada a 'Tercera Vía' (centro 4.444, 0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas. Análisis realizado con datos de Senado.gov.co, Contraloría y Registraduría.",
       "sources": [
         {
@@ -6671,7 +6671,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
+      "x": -9.0,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Posicionamiento basado en análisis de votaciones en CongresoVisible, iniciativas legislativas, y participación en comisiones parlamentarias. Se ha verificado coherencia entre posición declarada y acciones legislativas concretas.",
       "sources": [
@@ -6805,7 +6805,7 @@
       "ssi-co"
     ],
     "ideologySelf": "democratic-socialism",
-    "ideologyEvidenced": "progressivism",
+    "ideologyEvidenced": "democratic-socialism",
     "ideologySelfAssignment": {
       "ideologyId": "democratic-socialism",
       "justification": "Posición autopercibida (-4.4, -2.4) mapeada a 'Socialismo democrático' (centro -4.444, -2.143), la ideología del mismo cuadrante más cercana.",
@@ -6819,7 +6819,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "democratic-socialism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.2, -0.5) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. Divergencia entre discurso y acciones documentada en incoherencias.",
       "sources": [
         {

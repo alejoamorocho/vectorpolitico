@@ -45,8 +45,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.25,
-      "y": -9.0,
+      "x": 5.22,
+      "y": 2.25,
       "justification": "Análisis metodológico del proyecto: Énfasis en seguridad, infraestructura vial y combate al narcotráfico. Alineación con Centro Democrático. Acciones: Plan de Desarrollo Antioquia 2024-2027 enfocado en seguridad vial y orden público.",
       "sources": [
         {
@@ -186,7 +186,7 @@
       "ssi-co"
     ],
     "ideologySelf": "liberal-conservatism",
-    "ideologyEvidenced": "fiscal-conservatism",
+    "ideologyEvidenced": "nationalist-conservatism",
     "ideologySelfAssignment": {
       "ideologyId": "liberal-conservatism",
       "justification": "Posición autopercibida (1.7, 2.1) mapeada a 'Conservadurismo liberal' (centro 2.222, 2.143), la ideología del mismo cuadrante más cercana. ",
@@ -200,7 +200,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "fiscal-conservatism",
+      "ideologyId": "nationalist-conservatism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (6.2, 2.1) mapeada a 'Conservadurismo fiscal' (centro 6.667, 2.143), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Énfasis en seguridad, infraestructura vial y combate al narcotráfico. Alineación con Centro Democrático. Acciones: Plan de Desarrollo Antioquia 2024-2027 enfocado en seguridad vial y orden público.",
       "sources": [
         {
@@ -281,7 +281,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 2.5,
+      "x": -7.0,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Trayectoria en dos períodos como gobernador con énfasis en sostenibilidad ambiental y desarrollo agrícola. Acciones: Implementación del Plan de Desarrollo Boyacá con políticas ambientales, planes de educación rural según DNP y Planeación Departamental.",
       "sources": [
@@ -393,7 +393,7 @@
       "ssi-co"
     ],
     "ideologySelf": "green-politics",
-    "ideologyEvidenced": "social-liberalism",
+    "ideologyEvidenced": "social-democracy",
     "ideologySelfAssignment": {
       "ideologyId": "green-politics",
       "justification": "Posición autopercibida (-9.2, -2.3) mapeada a 'Greenismo' (centro -8.889, -2.143), la ideología del mismo cuadrante más cercana. ",
@@ -407,7 +407,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "social-liberalism",
+      "ideologyId": "social-democracy",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (9.4, -0.7) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Greenismo) es 17.8 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Trayectoria en dos períodos como gobernador con énfasis en sostenibilidad ambiental y desarrollo agrícola. Acciones: Implementación del Plan de Desarrollo Boyacá con políticas ambientales, planes de educación rural según DNP y Planeación Departamental.",
       "sources": [
         {
@@ -951,7 +951,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
+      "x": 2.5,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Gestión enfocada en educación y conectividad regional. Acciones: Plan de Desarrollo Caldas, informes técnicos de Contraloría de Caldas y Planeación Departamental.",
       "sources": [
@@ -1119,7 +1119,7 @@
       "ssi-co"
     ],
     "ideologySelf": "social-liberalism",
-    "ideologyEvidenced": "progressivism",
+    "ideologyEvidenced": "social-liberalism",
     "ideologySelfAssignment": {
       "ideologyId": "social-liberalism",
       "justification": "Posición autopercibida (8.5, -0.5) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
@@ -1133,7 +1133,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "social-liberalism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.1, -0.4) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo social) es 11.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Gestión enfocada en educación y conectividad regional. Acciones: Plan de Desarrollo Caldas, informes técnicos de Contraloría de Caldas y Planeación Departamental.",
       "sources": [
         {
@@ -1209,8 +1209,8 @@
       ]
     },
     "compassEvidenced": {
-      "x": 3.33,
-      "y": -9.0,
+      "x": 8.26,
+      "y": 2.25,
       "justification": "Análisis metodológico del proyecto: Políticas de continuidad institucional en Cundinamarca. Acciones: Plan de Desarrollo Cundinamarca, informes de Contraloría de Cundinamarca, datos de DNP sobre ejecución presupuestal.",
       "sources": [
         {
@@ -1349,7 +1349,7 @@
       "ssi-co"
     ],
     "ideologySelf": "social-liberalism",
-    "ideologyEvidenced": "third-way",
+    "ideologyEvidenced": "liberal-conservatism",
     "ideologySelfAssignment": {
       "ideologyId": "social-liberalism",
       "justification": "Posición autopercibida (9.3, -0.9) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
@@ -1363,7 +1363,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "third-way",
+      "ideologyId": "liberal-conservatism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (4.7, 0.6) mapeada a 'Tercera Vía' (centro 4.444, 0.714), la ideología del mismo cuadrante más cercana. Análisis metodológico del proyecto: Políticas de continuidad institucional en Cundinamarca. Acciones: Plan de Desarrollo Cundinamarca, informes de Contraloría de Cundinamarca, datos de DNP sobre ejecución presupuestal.",
       "sources": [
         {
@@ -1689,7 +1689,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -5.0,
+      "x": -7.0,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Gestión con énfasis en desarrollo rural y paz territorial. Acciones: Plan de Desarrollo Nariño, informes de Contraloría de Nariño, datos de DNP sobre ejecución presupuestal agrícola.",
       "sources": [
@@ -1857,7 +1857,7 @@
       "ssi-co"
     ],
     "ideologySelf": "social-liberalism",
-    "ideologyEvidenced": "progressivism",
+    "ideologyEvidenced": "social-democracy",
     "ideologySelfAssignment": {
       "ideologyId": "social-liberalism",
       "justification": "Posición autopercibida (8.5, -0.9) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
@@ -1871,7 +1871,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "social-democracy",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-2.4, -0.4) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo social) es 11.1 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Gestión con énfasis en desarrollo rural y paz territorial. Acciones: Plan de Desarrollo Nariño, informes de Contraloría de Nariño, datos de DNP sobre ejecución presupuestal agrícola.",
       "sources": [
         {
@@ -2141,8 +2141,8 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -9.0,
-      "y": -6.33,
+      "x": 2.5,
+      "y": -1.33,
       "justification": "Rafaela Cortés se presenta como miembro del Verde Oxígeno. cuya plataforma programática se alinea con el Ambientalismo. Su discurso público y posicionamiento oficial lo ubican en la centro-izquierda económica con tendencia libertario en el eje social (x=-1.9, y=-3.4). con énfasis en su plataforma en: agenda ambiental.",
       "sources": [
         {
@@ -2332,10 +2332,10 @@
     "contributors": [
       "ssi-co"
     ],
-    "ideologySelf": "environmentalism",
+    "ideologySelf": "social-liberalism",
     "ideologyEvidenced": "social-liberalism",
     "ideologySelfAssignment": {
-      "ideologyId": "environmentalism",
+      "ideologyId": "social-liberalism",
       "justification": "Posición autopercibida (-1.9, -3.4) mapeada a 'Ambientalismo' (centro -2.222, -3.571), la ideología del mismo cuadrante más cercana. ",
       "sources": [
         {
@@ -2418,7 +2418,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -7.0,
+      "x": 2.5,
       "y": -1.33,
       "justification": "Análisis metodológico del proyecto: Énfasis en infraestructura energética y desarrollo agrícola del Huila. Acciones: Plan de Desarrollo Huila, informes de Contraloría del Huila, proyectos de Planeación Departamental.",
       "sources": [
@@ -2585,7 +2585,7 @@
       "ssi-co"
     ],
     "ideologySelf": "social-liberalism",
-    "ideologyEvidenced": "social-democracy",
+    "ideologyEvidenced": "social-liberalism",
     "ideologySelfAssignment": {
       "ideologyId": "social-liberalism",
       "justification": "Posición autopercibida (8.9, -0.7) mapeada a 'Liberalismo social' (centro 8.889, -0.714), la ideología del mismo cuadrante más cercana. ",
@@ -2599,7 +2599,7 @@
       ]
     },
     "ideologyEvidencedAssignment": {
-      "ideologyId": "social-democracy",
+      "ideologyId": "social-liberalism",
       "justification": "Análisis metodológico del proyecto: posición evidenciada (-4.7, -0.6) mapeada a 'Socialdemocracia' (centro -4.444, -0.714), la ideología del mismo cuadrante más cercana. NOTA: distancia con ideologySelf (Liberalismo social) es 13.3 unidades, significativa. La divergencia entre discurso y acciones es precisamente lo que el proyecto documenta — ver incoherencias de la figura. Análisis metodológico del proyecto: Énfasis en infraestructura energética y desarrollo agrícola del Huila. Acciones: Plan de Desarrollo Huila, informes de Contraloría del Huila, proyectos de Planeación Departamental.",
       "sources": [
         {
@@ -3153,7 +3153,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -5.0,
+      "x": 2.5,
       "y": -1.33,
       "justification": "Yamil Arana se presenta como miembro del Pacto Histórico. cuya plataforma programática se alinea con el Progresismo. Su discurso público y posicionamiento oficial lo ubican en la centro-izquierda económica con tendencia moderado-libertario en el eje social (x=-2.4, y=-1.0). con énfasis en su plataforma en: agenda ambiental.",
       "sources": [
@@ -3343,10 +3343,10 @@
     "contributors": [
       "ssi-co"
     ],
-    "ideologySelf": "progressivism",
+    "ideologySelf": "social-liberalism",
     "ideologyEvidenced": "social-liberalism",
     "ideologySelfAssignment": {
-      "ideologyId": "progressivism",
+      "ideologyId": "social-liberalism",
       "justification": "Posición autopercibida (-2.4, -1.0) mapeada a 'Progresismo' (centro -2.222, -0.714), la ideología del mismo cuadrante más cercana. ",
       "sources": [
         {
