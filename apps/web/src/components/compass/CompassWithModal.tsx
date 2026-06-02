@@ -89,16 +89,22 @@ export default function CompassWithModal({ ideologies, entities, parties }: Prop
     return () => document.removeEventListener('fullscreenchange', handleChange);
   }, []);
 
+  // Base URL del sitio (ej. '/' en local, '/vectorpolitico/' en GitHub Pages).
+  // Astro inyecta este valor en build time vía import.meta.env.BASE_URL.
+  const BASE = import.meta.env.BASE_URL.endsWith('/')
+    ? import.meta.env.BASE_URL
+    : import.meta.env.BASE_URL + '/';
+
   const handleIdeologyClick = (id: string) => {
-    window.location.href = `/ideologias/${id}`;
+    window.location.href = `${BASE}ideologias/${id}`;
   };
 
   const handleEntityClick = (id: string) => {
-    window.location.href = `/figuras/${id}`;
+    window.location.href = `${BASE}figuras/${id}`;
   };
 
   const handlePartyClick = (id: string) => {
-    window.location.href = `/partidos/${id}`;
+    window.location.href = `${BASE}partidos/${id}`;
   };
 
   return (
