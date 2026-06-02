@@ -1056,35 +1056,6 @@
         "addedAt": "2026-04-15"
       },
       {
-        "id": "gutierrez-caldas-coca",
-        "category": "seguridad",
-        "severity": "high",
-        "verified": false,
-        "proposal": {
-          "text": "Reducir cultivos de coca en Caldas 60% durante el primer mandato",
-          "source": {
-            "url": "https://www.registraduria.gov.co/candidatos/",
-            "outlet": "Registraduría",
-            "date": "2023-10-12",
-            "archived": "https://web.archive.org/web/2023/https://www.registraduria.gov.co",
-            "title": "Propuestas candidatos"
-          }
-        },
-        "action": {
-          "text": "Cultivos de coca en Caldas se redujeron solo 15% entre 2023-2024",
-          "source": {
-            "url": "https://www.unodc.org/estudios/",
-            "outlet": "UNODC",
-            "date": "2024-09-15",
-            "archived": "https://web.archive.org/web/2024/https://www.unodc.org",
-            "title": "Monitoreo cultivos 2024"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Control de grupos armados sobre territorios limitó efectividad de erradicación."
-      },
-      {
         "id": "gutierrez-caldas-cooperativas",
         "category": "economia",
         "severity": "medium",
@@ -1540,35 +1511,6 @@
         "addedAt": "2026-04-15"
       },
       {
-        "id": "diaz-santander-homicidios",
-        "category": "seguridad",
-        "severity": "high",
-        "verified": false,
-        "proposal": {
-          "text": "Reducir homicidios en Santander 40% en primer año de gestión",
-          "source": {
-            "url": "https://www.registraduria.gov.co/",
-            "outlet": "Registraduría",
-            "date": "2023-08-15",
-            "archived": "https://web.archive.org/web/2023/https://www.registraduria.gov.co",
-            "title": "Propuestas candidatos"
-          }
-        },
-        "action": {
-          "text": "Homicidios en Santander disminuyeron solo 8% en 2024 comparado 2023",
-          "source": {
-            "url": "https://www.policia.gov.co/estadisticas/",
-            "outlet": "Policía Nacional",
-            "date": "2024-12-10",
-            "archived": "https://web.archive.org/web/2024/https://www.policia.gov.co",
-            "title": "Criminalidad 2024"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Disputas territoriales entre organizaciones criminales contrarrestaron esfuerzos."
-      },
-      {
         "id": "diaz-santander-auditoria",
         "category": "corrupcion",
         "severity": "medium",
@@ -1792,35 +1734,6 @@
         "nuances": "El gobernador priorizó el desarrollo económico y la generación de ingresos fiscales sobre las consultas previas con comunidades indígenas.",
         "addedBy": "ssi-co",
         "addedAt": "2026-04-15"
-      },
-      {
-        "id": "escobar-narino-indigenas",
-        "category": "derechos_humanos",
-        "severity": "high",
-        "verified": false,
-        "proposal": {
-          "text": "Proteger derechos de comunidades indígenas frente a operaciones mineras en Nariño",
-          "source": {
-            "url": "https://www.eltiempo.com/nariño/",
-            "outlet": "El Tiempo",
-            "date": "2023-05-18",
-            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com",
-            "title": "Derechos indígenas"
-          }
-        },
-        "action": {
-          "text": "Se aprobaron 3 nuevos proyectos mineros en territorios de resguardos indígenas en 2024",
-          "source": {
-            "url": "https://www.mintrabajo.gov.co/",
-            "outlet": "Ministerio del Trabajo",
-            "date": "2024-10-30",
-            "archived": "https://web.archive.org/web/2024/https://www.mintrabajo.gov.co",
-            "title": "Consulta previa 2024"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Priorizó desarrollo económico sobre consultas previas con indígenas."
       },
       {
         "id": "escobar-narino-bilingue",
@@ -2270,35 +2183,6 @@
         "addedAt": "2026-04-15"
       },
       {
-        "id": "cortes-meta-deforestacion",
-        "category": "medio_ambiente",
-        "severity": "high",
-        "verified": false,
-        "proposal": {
-          "text": "Reducir deforestación en Meta 50% durante el mandato",
-          "source": {
-            "url": "https://www.ideam.gov.co/",
-            "outlet": "IDEAM",
-            "date": "2022-08-20",
-            "archived": "https://web.archive.org/web/2022/https://www.ideam.gov.co",
-            "title": "Monitoreo deforestación"
-          }
-        },
-        "action": {
-          "text": "Deforestación en Meta aumentó 12% en 2024 según monitoreo del IDEAM",
-          "source": {
-            "url": "https://www.ideam.gov.co/sala-de-prensa/informes/Informe-anual-del-monitoreo-de-bosque-y-la-deforestacion",
-            "title": "Monitor 2024",
-            "outlet": "IDEAM - Informe anual del monitoreo de bosque y la deforestación 2024",
-            "date": "2024-12-01",
-            "archived": "https://web.archive.org/web/2024/https://www.ideam.gov.co/sala-de-prensa/informes/Informe-anual-del-monitoreo-de-bosque-y-la-deforestacion"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Presencia de grupos armados en zonas de colonización limitó políticas ambientales."
-      },
-      {
         "id": "cortes-meta-educacion-ambiente",
         "category": "educacion",
         "severity": "medium",
@@ -2520,35 +2404,6 @@
         "nuances": "Limitaciones de financiamiento nacional, conflictos de agua entre municipios y cambio climático afectaron el cronograma de construcción de distritos de riego.",
         "addedBy": "ssi-co",
         "addedAt": "2026-04-15"
-      },
-      {
-        "id": "villalba-huila-riego",
-        "category": "economia",
-        "severity": "medium",
-        "verified": false,
-        "proposal": {
-          "text": "Construir 5 distritos de riego para beneficiar 20.000 agricultores en el Huila",
-          "source": {
-            "url": "https://www.incoder.gov.co/",
-            "outlet": "Incoder",
-            "date": "2022-09-10",
-            "archived": "https://web.archive.org/web/2022/https://www.incoder.gov.co",
-            "title": "Proyectos riego"
-          }
-        },
-        "action": {
-          "text": "Se construyó 1 distrito de riego beneficiando 3.000 agricultores en 2023-2024",
-          "source": {
-            "url": "https://www.huila.gov.co/",
-            "outlet": "Gobernación del Huila",
-            "date": "2024-11-30",
-            "archived": "https://web.archive.org/web/2024/https://www.huila.gov.co",
-            "title": "Proyectos ejecutados"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Limitaciones de financiamiento y conflictos de agua retrasaron construcción."
       },
       {
         "id": "villalba-huila-transparencia",
@@ -2776,35 +2631,6 @@
         "addedAt": "2026-04-15"
       },
       {
-        "id": "uribe-antioquia-justicia",
-        "category": "derechos_humanos",
-        "severity": "high",
-        "verified": false,
-        "proposal": {
-          "text": "Implementar políticas de justicia transicional para víctimas de paramilitarismo en Antioquia",
-          "source": {
-            "url": "https://es.wikipedia.org/wiki/%C3%81lvaro_Uribe",
-            "outlet": "Wikipedia",
-            "date": "2024-02-10",
-            "archived": "https://web.archive.org/web/2024/https://es.wikipedia.org/wiki/%C3%81lvaro_Uribe",
-            "title": "Álvaro Uribe"
-          }
-        },
-        "action": {
-          "text": "Se priorizaron políticas de seguridad sobre mecanismos de justicia transicional",
-          "source": {
-            "url": "https://lasillavacia.com/antioquia/",
-            "outlet": "La Silla Vacía",
-            "date": "2024-08-15",
-            "archived": "https://web.archive.org/web/2024/https://lasillavacia.com",
-            "title": "Justicia transicional"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Énfasis en seguridad limitó desarrollo de espacios para reparación a víctimas."
-      },
-      {
         "id": "uribe-antioquia-autonomia",
         "category": "derechos_humanos",
         "severity": "high",
@@ -3030,35 +2856,6 @@
         "addedAt": "2026-04-15"
       },
       {
-        "id": "villamizar-nortesantander-contrabando",
-        "category": "seguridad",
-        "severity": "high",
-        "verified": false,
-        "proposal": {
-          "text": "Reducir contrabando en frontera N. Santander 50% durante mandato",
-          "source": {
-            "url": "https://www.eltiempo.com/nortesantander/",
-            "outlet": "El Tiempo",
-            "date": "2023-06-18",
-            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com",
-            "title": "Frontera"
-          }
-        },
-        "action": {
-          "text": "Contrabando en frontera se redujo solo 12% en 2024",
-          "source": {
-            "url": "https://www.policia.gov.co/",
-            "outlet": "Policía Nacional",
-            "date": "2024-11-30",
-            "archived": "https://web.archive.org/web/2024/https://www.policia.gov.co",
-            "title": "Estadísticas 2024"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Control de grupos criminales venezolanos limitó efectividad de operativos."
-      },
-      {
         "id": "villamizar-nortesantander-educacion",
         "category": "educacion",
         "severity": "medium",
@@ -3279,35 +3076,6 @@
         "nuances": "Insuficiente capacidad de entidades auditoras independientes en la región y resistencia de algunas secretarías límitó la cobertura de auditoría.",
         "addedBy": "ssi-co",
         "addedAt": "2026-04-15"
-      },
-      {
-        "id": "arana-bolivar-auditoria",
-        "category": "corrupcion",
-        "severity": "high",
-        "verified": false,
-        "proposal": {
-          "text": "Implementar sistema de auditoría independiente para todos los fondos públicos de Bolívar",
-          "source": {
-            "url": "https://www.semana.com/bolivar/",
-            "outlet": "Semana",
-            "date": "2023-11-15",
-            "archived": "https://web.archive.org/web/2023/https://www.semana.com",
-            "title": "Auditoría"
-          }
-        },
-        "action": {
-          "text": "Solo 45% de fondos públicos fueron auditados por entidades independientes en 2024",
-          "source": {
-            "url": "https://www.bolivar.gov.co/",
-            "outlet": "Gobernación de Bolívar",
-            "date": "2024-12-10",
-            "archived": "https://web.archive.org/web/2024/https://www.bolivar.gov.co",
-            "title": "Informe auditoría"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Insuficiente capacidad de entidades auditoras independientes limitó cobertura."
       },
       {
         "id": "arana-bolivar-turismo",

@@ -51,6 +51,14 @@ export function EntityPoints({
         const isFocused = focusedId === e.id;
         const isDimmed = focusedId !== null && !isFocused;
 
+        // Si autopercibido y evidenciado (casi) coinciden, un punto tapa al
+        // otro. Detectarlo para mostrar un marcador combinado (mitad azul /
+        // mitad rojo) que indica coherencia ("dice = hace").
+        const coincide =
+          showSelfPerceived &&
+          showEvidenced &&
+          Math.hypot(ex - sx, ey - sy) < 7;
+
         return (
           <g
             key={e.id}
@@ -68,39 +76,67 @@ export function EntityPoints({
             tabIndex={0}
             aria-label={`${e.displayName}`}
           >
-            {/* Flecha autopercibido -> evidenciado */}
-            {showArrows && showSelfPerceived && showEvidenced && <ArrowPath x1={sx} y1={sy} x2={ex} y2={ey} />}
+            {/* Flecha autopercibido -> evidenciado (solo si NO coinciden) */}
+            {showArrows && showSelfPerceived && showEvidenced && !coincide && (
+              <ArrowPath x1={sx} y1={sy} x2={ex} y2={ey} />
+            )}
 
             {/* Touch targets invisibles (44px min para mobile) */}
             {showSelfPerceived && <circle cx={sx} cy={sy} r={16} fill="transparent" stroke="none" />}
             {showEvidenced && <circle cx={ex} cy={ey} r={16} fill="transparent" stroke="none" />}
 
-            {/* Punto autopercibido (azul) */}
-            {showSelfPerceived && (
-              <circle
-                cx={sx}
-                cy={sy}
-                r={5}
-                fill="#1e3556"
-                stroke="#fdfaf1"
-                strokeWidth={2}
-                vectorEffect="non-scaling-stroke"
-                filter="url(#entity-shadow)"
-              />
-            )}
+            {coincide ? (
+              /* Marcador combinado: coherencia (autopercibido = evidenciado).
+                 Semicírculo izquierdo azul, derecho rojo. */
+              <g filter="url(#entity-shadow)">
+                <path
+                  d={`M ${sx} ${sy - 5.5} A 5.5 5.5 0 0 0 ${sx} ${sy + 5.5} Z`}
+                  fill="#1e3556"
+                />
+                <path
+                  d={`M ${sx} ${sy - 5.5} A 5.5 5.5 0 0 1 ${sx} ${sy + 5.5} Z`}
+                  fill="#6b1f1f"
+                />
+                <circle
+                  cx={sx}
+                  cy={sy}
+                  r={5.5}
+                  fill="none"
+                  stroke="#fdfaf1"
+                  strokeWidth={2}
+                  vectorEffect="non-scaling-stroke"
+                />
+              </g>
+            ) : (
+              <>
+                {/* Punto autopercibido (azul) */}
+                {showSelfPerceived && (
+                  <circle
+                    cx={sx}
+                    cy={sy}
+                    r={5}
+                    fill="#1e3556"
+                    stroke="#fdfaf1"
+                    strokeWidth={2}
+                    vectorEffect="non-scaling-stroke"
+                    filter="url(#entity-shadow)"
+                  />
+                )}
 
-            {/* Punto evidenciado (rojo) */}
-            {showEvidenced && (
-              <circle
-                cx={ex}
-                cy={ey}
-                r={5}
-                fill="#6b1f1f"
-                stroke="#fdfaf1"
-                strokeWidth={2}
-                vectorEffect="non-scaling-stroke"
-                filter="url(#entity-shadow)"
-              />
+                {/* Punto evidenciado (rojo) */}
+                {showEvidenced && (
+                  <circle
+                    cx={ex}
+                    cy={ey}
+                    r={5}
+                    fill="#6b1f1f"
+                    stroke="#fdfaf1"
+                    strokeWidth={2}
+                    vectorEffect="non-scaling-stroke"
+                    filter="url(#entity-shadow)"
+                  />
+                )}
+              </>
             )}
 
             {/* Halo pulsante cuando esta focused */}

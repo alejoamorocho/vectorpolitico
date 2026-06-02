@@ -127,7 +127,11 @@ const dimensions = [
                 </span>
                 <span class="section-byline section-byline--sm">
                   {p.region && <em>{p.region}</em>}
-                  {p.electedWith && <span style="margin-left: 0.5em;">({p.electedWith}%)</span>}
+                  {p.electedWith && (
+                    <span style="margin-left: 0.5em; color: var(--ink-mute);">
+                      · elegido con {p.electedWith}% de los votos
+                    </span>
+                  )}
                 </span>
               </li>
             ))}

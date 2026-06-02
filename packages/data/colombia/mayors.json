@@ -551,35 +551,6 @@
         "addedAt": "2026-04-15"
       },
       {
-        "id": "baquero-villavicencio-relleno",
-        "category": "medio_ambiente",
-        "severity": "high",
-        "verified": false,
-        "proposal": {
-          "text": "Construir relleno sanitario ambiental moderno para Villavicencio",
-          "source": {
-            "url": "https://www.villavicencio.gov.co/",
-            "outlet": "Alcaldía de Villavicencio",
-            "date": "2023-08-15",
-            "archived": "https://web.archive.org/web/2023/https://www.villavicencio.gov.co",
-            "title": "Relleno sanitario"
-          }
-        },
-        "action": {
-          "text": "Proyecto del relleno sanitario se retrasó por conflictos comunitarios en 2024",
-          "source": {
-            "url": "https://lasillavacia.com/",
-            "outlet": "La Silla Vacía",
-            "date": "2024-09-20",
-            "archived": "https://web.archive.org/web/2024/https://lasillavacia.com",
-            "title": "Relleno Villavicencio"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Oposición comunitaria retrasó indefinidamente construcción de infraestructura."
-      },
-      {
         "id": "baquero-villavicencio-comercio",
         "category": "economia",
         "severity": "medium",
@@ -1760,35 +1731,6 @@
         "addedAt": "2026-04-15"
       },
       {
-        "id": "acevedo-cucuta-contrabando",
-        "category": "seguridad",
-        "severity": "high",
-        "verified": false,
-        "proposal": {
-          "text": "Reducir contrabando en frontera Cúcuta-San Cristóbal 40% durante mandato",
-          "source": {
-            "url": "https://www.eltiempo.com/cucuta/",
-            "outlet": "El Tiempo",
-            "date": "2023-06-15",
-            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com",
-            "title": "Contrabando frontera"
-          }
-        },
-        "action": {
-          "text": "Contrabando en frontera aumentó 18% entre 2023-2024",
-          "source": {
-            "url": "https://www.dian.gov.co/",
-            "outlet": "DIAN",
-            "date": "2024-10-30",
-            "archived": "https://web.archive.org/web/2024/https://www.dian.gov.co",
-            "title": "Incautaciones DIAN"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Control de grupos criminales limitó efectividad de operativos."
-      },
-      {
         "id": "acevedo-cucuta-empleo",
         "category": "economia",
         "severity": "high",
@@ -1982,35 +1924,6 @@
         "addedAt": "2026-04-15"
       },
       {
-        "id": "aranda-ibague-colegios",
-        "category": "educacion",
-        "severity": "medium",
-        "verified": false,
-        "proposal": {
-          "text": "Construir 50 colegios nuevos en zonas rurales de Ibagué",
-          "source": {
-            "url": "https://www.ibague.gov.co/",
-            "outlet": "Alcaldía de Ibagué",
-            "date": "2023-10-15",
-            "archived": "https://web.archive.org/web/2023/https://www.ibague.gov.co",
-            "title": "Infraestructura educativa"
-          }
-        },
-        "action": {
-          "text": "Se construyeron 12 colegios nuevos en zonas rurales en 2023-2024",
-          "source": {
-            "url": "https://www.mineducacion.gov.co/",
-            "outlet": "Ministerio de Educación",
-            "date": "2024-11-30",
-            "archived": "https://web.archive.org/web/2024/https://www.mineducacion.gov.co",
-            "title": "Colegios construidos"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Financiamiento insuficiente retrasó construcción de infraestructura."
-      },
-      {
         "id": "aranda-ibague-vacunacion",
         "category": "salud",
         "severity": "medium",
@@ -2181,35 +2094,6 @@
         "addedAt": "2026-04-15"
       },
       {
-        "id": "rojas-manizales-aire",
-        "category": "medio_ambiente",
-        "severity": "high",
-        "verified": false,
-        "proposal": {
-          "text": "Reducir contaminación del aire en Manizales a estándares internacionales",
-          "source": {
-            "url": "https://www.semana.com/manizales/",
-            "outlet": "Semana",
-            "date": "2023-07-20",
-            "archived": "https://web.archive.org/web/2023/https://www.semana.com",
-            "title": "Calidad aire"
-          }
-        },
-        "action": {
-          "text": "Contaminación del aire en Manizales se redujo solo 15% entre 2023-2024",
-          "source": {
-            "url": "https://www.ideam.gov.co/",
-            "outlet": "IDEAM",
-            "date": "2024-11-30",
-            "archived": "https://web.archive.org/web/2024/https://www.ideam.gov.co",
-            "title": "Monitoreo aire"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Geografía montañosa limitó reducción de contaminación atmosférica."
-      },
-      {
         "id": "rojas-manizales-auditoria",
         "category": "corrupcion",
         "severity": "medium",
@@ -2349,35 +2233,6 @@
     "bio": "Mauricio Salazar Peláez es abogado y político colombiano, alcalde de Pereira para el período 2024-2027 por el Centro Democrático. Fue concejal de Pereira en períodos anteriores y funcionario municipal.",
     "incoherences": [
       {
-        "id": "ms-agua-potable",
-        "category": "salud",
-        "severity": "medium",
-        "verified": false,
-        "proposal": {
-          "text": "Garantizar acceso a agua potable de calidad para el 100% de la población de Pereira",
-          "source": {
-            "url": "https://www.elespectador.com/pereira-agua-2021",
-            "title": "Salazar promete reforma del sistema de acueducto",
-            "outlet": "El Espectador",
-            "date": "2020-10-25",
-            "archived": "https://web.archive.org/web/20201025/elespectador.com/pereira-agua"
-          }
-        },
-        "action": {
-          "text": "Al cierre de su mandato, 15% de la ciudad aún sufría cortes de agua recurrentes",
-          "source": {
-            "url": "https://www.bluradio.com/pereira-acueducto-2024",
-            "title": "Pereira: crisis de agua potable persiste",
-            "outlet": "Blu Radio",
-            "date": "2024-01-18",
-            "archived": "https://web.archive.org/web/20240118/bluradio.com/pereira-acueducto"
-          }
-        },
-        "nuances": "Se citaron problemas de infraestructura heredada y cambio climático",
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-12"
-      },
-      {
         "id": "salazar-pereira-agua-potable",
         "category": "salud",
         "severity": "high",
@@ -2403,35 +2258,6 @@
         "nuances": "Limitaciones de infraestructura de acueducto, sequías en cuencas abastecedoras y corrosión de tuberías antiguas afectaron la calidad y cobertura de agua potable.",
         "addedBy": "ssi-co",
         "addedAt": "2026-04-15"
-      },
-      {
-        "id": "salazar-pereira-agua",
-        "category": "salud",
-        "severity": "high",
-        "verified": false,
-        "proposal": {
-          "text": "Garantizar acceso a agua potable de calidad al 100% de población Pereira",
-          "source": {
-            "url": "https://www.pereira.gov.co/",
-            "outlet": "Alcaldía de Pereira",
-            "date": "2023-09-15",
-            "archived": "https://web.archive.org/web/2023/https://www.pereira.gov.co",
-            "title": "Agua potable"
-          }
-        },
-        "action": {
-          "text": "78% de población de Pereira tenía acceso a agua potable de calidad en 2024",
-          "source": {
-            "url": "https://www.minsalud.gov.co/",
-            "outlet": "Ministerio de Salud",
-            "date": "2024-11-20",
-            "archived": "https://web.archive.org/web/2024/https://www.minsalud.gov.co",
-            "title": "Acceso agua"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Corrosión de tuberías antiguas afectó calidad y cobertura de agua."
       },
       {
         "id": "salazar-pereira-bilingue",
@@ -2579,35 +2405,6 @@
     "bio": "Gustavo Petro fue alcalde de Bogotá entre 2012 y 2015 por el Movimiento Progresistas (luego Colombia Humana). Su administración \"Bogotá Humana\" enfatizó políticas sociales, ambiente y movilidad. Fue destituido en diciembre de 2013 por la Procuraduría a raíz del \"nuevo esquema de aseo\"; la destitución fue revertida por acciones de tutela y la CIDH emitió medidas cautelares a su favor.",
     "incoherences": [
       {
-        "id": "pb-ciclovia-expansion",
-        "category": "economia",
-        "severity": "low",
-        "verified": false,
-        "proposal": {
-          "text": "Expandir ciclovía de Bogotá a 500 kilómetros adicionales para promover movilidad sostenible",
-          "source": {
-            "url": "https://www.semana.com/bogota-ciclovia-2016",
-            "title": "Petro presenta ambicioso plan de ciclovías",
-            "outlet": "Semana",
-            "date": "2016-01-25",
-            "archived": "https://web.archive.org/web/20160125/semana.com/bogota-ciclovia"
-          }
-        },
-        "action": {
-          "text": "Durante su gestión se construyeron 87 kilómetros de ciclovías, sin embargo algunos tramos se deterioraron rápidamente",
-          "source": {
-            "url": "https://www.elespectador.com/bogota-ciclovia-mantenimiento-2018",
-            "title": "Problemas de mantenimiento en ciclovías bogotanas",
-            "outlet": "El Espectador",
-            "date": "2018-07-10",
-            "archived": "https://web.archive.org/web/20180710/elespectador.com/bogota-ciclovia"
-          }
-        },
-        "nuances": "Se mencionaron dificultades en operación y mantenimiento de la infraestructura",
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-12"
-      },
-      {
         "id": "petro-bogota-transporte-ciclorutas",
         "category": "economia",
         "severity": "medium",
@@ -2633,35 +2430,6 @@
         "nuances": "Oposición de comerciantes y conductores a la reducción de espacios viales, presupuesto limitado y resistencia política limitaron la expansión de ciclorutas.",
         "addedBy": "ssi-co",
         "addedAt": "2026-04-15"
-      },
-      {
-        "id": "petro-bogota-ciclorrutas",
-        "category": "economia",
-        "severity": "medium",
-        "verified": false,
-        "proposal": {
-          "text": "Construir 500 km de ciclorrutas en Bogotá para movilidad sostenible",
-          "source": {
-            "url": "https://www.bogota.gov.co/",
-            "outlet": "Alcaldía de Bogotá",
-            "date": "2012-08-15",
-            "archived": "https://web.archive.org/web/2012/https://www.bogota.gov.co",
-            "title": "Ciclorrutas Bogotá"
-          }
-        },
-        "action": {
-          "text": "Se construyeron aproximadamente 120 km de ciclorrutas durante Petro",
-          "source": {
-            "url": "https://www.idrd.gov.co/",
-            "outlet": "IDRD",
-            "date": "2015-12-30",
-            "archived": "https://web.archive.org/web/2015/https://www.idrd.gov.co",
-            "title": "Infraestructura ciclorrutas"
-          }
-        },
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15",
-        "nuances": "Oposición de comerciantes limitó expansión de ciclorrutas."
       },
       {
         "id": "petro-bogota-hospitales",
