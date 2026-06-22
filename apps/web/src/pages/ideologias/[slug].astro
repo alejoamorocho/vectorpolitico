@@ -93,6 +93,34 @@ const longParagraphs = (ide.longDescription ?? '')
       </>
     )}
 
+    {ide.contemporaryRelevance && (
+      <>
+        <div class="rule-ornament">
+          <span class="rule-ornament-glyph">◈</span>
+        </div>
+        <section>
+          <p class="section-kicker mb-3">Relevancia contemporánea</p>
+          <p class="prose-editorial" style="font-family: var(--font-serif); font-size: 18px; line-height: 1.75; color: var(--ink-soft);">
+            {ide.contemporaryRelevance}
+          </p>
+        </section>
+      </>
+    )}
+
+    {ide.commonCriticisms && (
+      <>
+        <div class="rule-ornament">
+          <span class="rule-ornament-glyph">※</span>
+        </div>
+        <section>
+          <p class="section-kicker mb-3">Críticas comunes</p>
+          <p class="prose-editorial" style="font-family: var(--font-serif); font-size: 18px; line-height: 1.75; color: var(--ink-soft);">
+            {ide.commonCriticisms}
+          </p>
+        </section>
+      </>
+    )}
+
     {ide.keyThinkers && ide.keyThinkers.length > 0 && (
       <>
         <div class="rule-ornament">

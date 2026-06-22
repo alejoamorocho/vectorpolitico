@@ -95,3 +95,9 @@ packages/etl/data/news/**
 tmp/
 temp/
 *.tmp
+
+# Artefactos intermedios de enriquecimiento (no versionar)
+scripts/enrich/in/
+scripts/enrich/out/
+scripts/enrich/*-ids.json
+scripts/enrich/*-slugs.json

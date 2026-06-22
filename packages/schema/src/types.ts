@@ -215,6 +215,8 @@ export type Ideology = {
   description: string;        // explicación educativa breve (máx. 300 palabras)
   longDescription?: string;   // explicación extendida para vista de detalle (markdown)
   historicalContext?: string; // origen histórico y evolución
+  contemporaryRelevance?: string; // relevancia actual de la corriente
+  commonCriticisms?: string;  // principales críticas desde distintos puntos del espectro
   keyThinkers?: string[];     // pensadores clave asociados
   historicalExamples?: string[]; // ejemplos históricos de aplicación
   relatedIdeologies?: string[]; // slugs de ideologías relacionadas

@@ -102,6 +102,20 @@ const summaries = getCompassSummary().filter((s) => s.party === party.id);
             </ul>
           </div>
         )}
+
+        {party.websiteUrl && (
+          <div class="mt-8 border-t pt-5" style="border-color: var(--rule);">
+            <p class="section-kicker mb-3">Sitio oficial</p>
+            <a
+              href={party.websiteUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              style="font-family: var(--font-serif); font-style: italic; font-size: 16px; color: var(--ink); text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 3px;"
+            >
+              {party.websiteUrl.replace(/^https?:\/\//, '').replace(/\/$/, '')} →
+            </a>
+          </div>
+        )}
       </aside>
     </div>
 
@@ -159,5 +173,87 @@ const summaries = getCompassSummary().filter((s) => s.party === party.id);
         ))}
       </ul>
     </section>
+
+    {party.incoherences && party.incoherences.length > 0 && (
+      <section class="mb-20">
+        <div class="rule-ornament">
+          <span class="rule-ornament-glyph">¶</span>
+        </div>
+        <div class="mb-8 pb-4" style="border-bottom: 2px solid var(--ink);">
+          <p class="section-kicker mb-2">El dicho y el hecho</p>
+          <h2>Incoherencias documentadas</h2>
+        </div>
+        <ul style="list-style: none; padding: 0;">
+          {party.incoherences.map((inc) => (
+            <li class="card-editorial mb-4">
+              <div class="flex items-center gap-3 mb-3">
+                <span class="section-kicker">{inc.category}</span>
+                <span style="color: var(--rule);">·</span>
+                <span class="section-kicker" style="color: var(--evidenced);">severidad {inc.severity}</span>
+              </div>
+              <div class="grid md:grid-cols-2 gap-6 mt-4">
+                <div>
+                  <p class="section-kicker mb-2" style="color: var(--self);">Promesa</p>
+                  <p class="prose-editorial" style="font-size: 15px;">{inc.proposal.text}</p>
+                </div>
+                <div>
+                  <p class="section-kicker mb-2" style="color: var(--evidenced);">Acción</p>
+                  <p class="prose-editorial" style="font-size: 15px;">{inc.action.text}</p>
+                </div>
+              </div>
+              {inc.nuances && (
+                <p class="section-byline section-byline--sm mt-4" style="font-style: italic;">
+                  {inc.nuances}
+                </p>
+              )}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {party.sources && party.sources.length > 0 && (
+      <section class="mb-20">
+        <div class="rule-ornament">
+          <span class="rule-ornament-glyph">✦</span>
+        </div>
+        <div class="mb-8 pb-4" style="border-bottom: 2px solid var(--ink);">
+          <p class="section-kicker mb-2">Para saber más</p>
+          <h2>Fuentes</h2>
+          <p class="section-byline mt-2">Referencias y lecturas sobre el partido</p>
+        </div>
+        <ul style="list-style: none; padding: 0;">
+          {party.sources.map((s) => (
+            <li class="py-3" style="border-bottom: 1px solid var(--rule);">
+              <a
+                href={s.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                style="font-family: var(--font-display); font-size: 17px; font-weight: 500; color: var(--ink); text-decoration: none;"
+              >
+                {s.title ?? s.outlet}
+              </a>
+              <p class="section-byline section-byline--sm" style="margin-top: 4px;">
+                <em>{s.outlet}</em>
+                {s.date && <span style="color: var(--ink-mute);"> · {s.date}</span>}
+                {s.archived && (
+                  <>
+                    <span style="margin: 0 0.4em; color: var(--rule);">·</span>
+                    <a
+                      href={s.archived}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style="color: var(--ink-mute); text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 2px;"
+                    >
+                      copia archivada
+                    </a>
+                  </>
+                )}
+              </p>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
   </article>
 </BaseLayout>
