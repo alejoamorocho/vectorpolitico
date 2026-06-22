@@ -3,8 +3,8 @@ title: Cómo agregar una figura política
 description: Guía paso a paso para proponer una nueva figura en Brújula Política vía pull request.
 order: 40
 section: contributing
-version: 1.1.0
-lastUpdated: 2026-04-15
+version: 1.2.0
+lastUpdated: 2026-06-22
 authors:
   - ssi-co
 relatedDocs:
@@ -94,10 +94,14 @@ Desde v2 cada ideología asignada exige justificación y fuentes. Ver `ideology-
 
 Reglas clave:
 
-- `ideologySelfAssignment` y `ideologyEvidencedAssignment` son opcionales pero recomendados. Sin ellos solo quedan las etiquetas `ideologySelf`/`ideologyEvidenced` (legacy) sin trazabilidad.
+- `ideologySelfAssignment` y `ideologyEvidencedAssignment` son técnicamente opcionales en el schema, pero el **estándar del proyecto es incluirlos siempre**: todas las figuras del dataset (110/110) los tienen. Sin ellos solo quedan las etiquetas `ideologySelf`/`ideologyEvidenced` (legacy) sin trazabilidad.
 - Cuando estén presentes, su `ideologyId` debe coincidir con el string legacy correspondiente — el schema Zod y Pydantic lo validan.
 - Cada `Assignment` exige `justification` (≥20 caracteres) y al menos 1 `Source`.
 - Si la distancia entre las dos ideologías (self vs evidenced) es grande, la justificación debe explicar la razón.
+
+## La biografía (`bio`)
+
+La `bio` es un párrafo **neutral y factual** (mínimo 50 caracteres; el estándar del dataset ronda los 1.000–1.500). Debe cubrir formación/profesión, trayectoria y cargos (coherente con `periods`), hechos verificables de su carrera o gestión y situación actual. Sin juicios de valor ni adjetivos cargados. Las referencias que respaldan la figura van en los `sources` de las posiciones del compass: la página de detalle las reúne automáticamente en una sección **"Fuentes"**.
 
 ## Proceso
 

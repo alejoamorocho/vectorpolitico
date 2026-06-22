@@ -3,8 +3,8 @@ title: Historial de cambios de la metodología
 description: Registro de versiones de cada documento de la metodología — qué cambió, cuándo, y por qué. La metodología es viva — esta página deja constancia de su evolución.
 order: 90
 section: meta
-version: 1.0.0
-lastUpdated: 2026-04-23
+version: 1.1.0
+lastUpdated: 2026-06-22
 authors:
   - ssi-co
 ---
@@ -17,6 +17,38 @@ La metodología del proyecto es viva. A medida que se descubren mejores formas d
 - **¿Por qué cambió?** — para que ninguna decisión metodológica parezca arbitraria.
 
 Cada documento tiene su propio bloque de versiones al final; esta página es el **índice consolidado**.
+
+## 2026-06-22 — Enriquecimiento total de perfiles y fuentes visibles
+
+Las 268 entidades del dataset (135 ideologías, 23 partidos, 110 políticos) quedan con su contenido completo y con fuentes a la vista. Hasta ahora muchos campos existían en el schema pero estaban vacíos, y las fuentes de figuras y partidos no se mostraban en ningún lado.
+
+### Datos enriquecidos
+
+- **Ideologías (135/135):** se llenan los campos que estaban vacíos — `longDescription`, `historicalContext`, `contemporaryRelevance`, `commonCriticisms`, `relatedIdeologies`, `wikipediaUrl` y `externalLinks` — con contenido investigado y fuentes verificadas.
+- **Partidos (23/23):** descripción y justificación del compass ampliadas; `sources[]` curadas y verificadas (CNE, Registraduría, prensa de referencia, sitio oficial).
+- **Políticos (110/110):** biografía expandida (de ~395 a ~1.394 caracteres en promedio) y fuentes verificadas añadidas a `compassEvidenced.sources`.
+
+### Cambios de UI
+
+- **Figuras** (`/figuras/<id>`): nueva sección **"Fuentes"** que agrega y deduplica todas las referencias del perfil (compass, asignaciones ideológicas, incoherencias).
+- **Partidos** (`/partidos/<id>`): sección **"Fuentes"**, enlace al sitio oficial y render de incoherencias documentadas (antes invisibles).
+- **Ideologías** (`/ideologias/<id>`): bloques **"Relevancia contemporánea"** y **"Críticas comunes"**, además de "Lecturas sugeridas".
+
+### Schema y pipeline
+
+- Se agregaron a `Ideology` los campos `contemporaryRelevance` y `commonCriticisms` (`types.ts` sincronizado con Zod).
+- El enriquecimiento usó un pipeline de **investigación + verificación adversarial** por entidad (un agente investiga y verifica cada URL; un segundo agente refuta), con merge determinista y validación Zod (268/268).
+- Se aclara que `ideologies.json` es la **fuente de verdad**; `generate:ideologies` ahora **preserva** el contenido editorial al recalcular el layout.
+
+### Documentos afectados
+
+- [Cómo funciona el mapa](/metodologia/how-it-works) → v3.1.0 (sección "Fuentes" en páginas de detalle, fuente de verdad).
+- [Fuentes de datos](/metodologia/data-sources) → v1.3.0 (conteos y campos completos por tipo).
+- [Estándar de redacción de ideologías](/metodologia/ideology-enrichment) → v1.1.0 (campos completos, pipeline de enriquecimiento).
+- [Cómo agregar una figura política](/metodologia/add-politician) → v1.2.0 (assignments y fuentes obligatorias).
+- [Enriquecimiento de perfiles](/metodologia/data-enrichment) → v1.0.0 (NUEVO).
+
+---
 
 ## 2026-04-23 (tarde) — Giro al universo ideológico completo
 

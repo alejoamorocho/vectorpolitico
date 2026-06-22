@@ -258,6 +258,45 @@ def generate(input_path: Path, output_path: Path, country: str | None = None) ->
 
     output_json = [i.model_dump(mode="json", exclude_none=True) for i in all_ideologies]
 
+    # ─── Preservar contenido editorial enriquecido ──────────────────────────
+    # El YAML solo define layout + description + keyThinkers + historicalExamples.
+    # Los campos de redacción extendida (longDescription, historicalContext,
+    # contemporaryRelevance, commonCriticisms, relatedIdeologies, wikipediaUrl,
+    # externalLinks) y las mejoras editoriales se mantienen en ideologies.json
+    # (enriquecimiento humano/IA, ver metodología "Enriquecimiento de perfiles").
+    # Para que `generate:ideologies` NO borre ese trabajo al recalcular el layout,
+    # fusionamos esos campos desde el JSON existente por `id`.
+    _PRESERVE_FIELDS = (
+        "longDescription",
+        "historicalContext",
+        "contemporaryRelevance",
+        "commonCriticisms",
+        "relatedIdeologies",
+        "wikipediaUrl",
+        "externalLinks",
+        "keyThinkers",
+        "historicalExamples",
+        "nameEn",
+    )
+    if output_path.exists():
+        try:
+            prior_raw = json.loads(output_path.read_text(encoding="utf-8"))
+            prior = {e["id"]: e for e in prior_raw if isinstance(e, dict) and "id" in e}
+            preserved = 0
+            for item in output_json:
+                old = prior.get(item["id"])
+                if not old:
+                    continue
+                for field in _PRESERVE_FIELDS:
+                    val = old.get(field)
+                    if val not in (None, "", []):
+                        item[field] = val
+                        preserved += 1
+            msg = f"[INFO] Preservados {preserved} campos editoriales del JSON existente\n"
+            sys.stdout.buffer.write(msg.encode("utf-8"))
+        except Exception as exc:  # noqa: BLE001 - no romper la generación por esto
+            print(f"[WARN] No se pudo fusionar enriquecimiento previo: {exc}", file=sys.stderr)
+
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with output_path.open("w", encoding="utf-8") as f:
         json.dump(output_json, f, ensure_ascii=False, indent=2)

@@ -2,10 +2,12 @@
 
 > **Versión:** 2.0.0
 > **Última revisión:** 2026-04-23
-> **Estado:** Vigente
+> **Estado:** Referencia histórica — la versión vigente y canónica (v2.2.0) está en el sitio: `/metodologia/ideology-classification` ([`apps/web/src/content/methodology/ideology-classification.md`](../../apps/web/src/content/methodology/ideology-classification.md)).
 > **Complementa:** `compass-scoring.md`, `data-sources.md`, `data-validation.md`
 
-> **Cambios v2.0.0:** grid curado por país (de ~131 ideologías globales a ~46 aplicables a Colombia), tres ideologías nuevas (liberation-theology, indigenous-communalism, right-populism), subdivisión de authoritarian-capitalism en 4 sub-celdas (clientelism-cacicazgo, developmentalism, securitarian-right, autoritarian-capitalism), movimientos de cuadrante para christian-democracy y technocracy, y validador automático de coherencia entre coord y dimensionScores. Detalle en `data-validation.md`.
+> **Nota:** el filtro por país descrito abajo (grid de ~46 celdas) fue **revertido** por ADR-003 el mismo día. El grid vigente muestra las **135 corrientes completas** y ancla cada actor al centroide de su ideología declarada. Ver el changelog y `adr-003-grid-completo-educativo` en el sitio.
+
+> **Cambios v2.0.0:** tres ideologías nuevas (liberation-theology, indigenous-communalism, right-populism), subdivisión de authoritarian-capitalism en 4 sub-celdas (clientelism-cacicazgo, developmentalism, securitarian-right, authoritarian-capitalism), movimientos de cuadrante para christian-democracy y technocracy, y validador automático de coherencia entre coord y dimensionScores. Detalle en `data-validation.md`.
 
 ---
 

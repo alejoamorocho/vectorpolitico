@@ -3,8 +3,8 @@ title: Fuentes de datos — Colombia
 description: Catálogo de fuentes primarias aceptadas para cada tipo de figura política en Colombia, con cobertura temporal y nivel de confiabilidad.
 order: 30
 section: data
-version: 1.2.0
-lastUpdated: 2026-04-15
+version: 1.3.0
+lastUpdated: 2026-06-22
 authors:
   - ssi-co
 relatedDocs:
@@ -70,13 +70,17 @@ El schema Zod y Pydantic exige justificación de al menos 20 caracteres y al men
 
 Para que el lector pueda verificar por sí mismo qué significa cada etiqueta y cada partido, se exige:
 
-### `ideologies.json` (126 ideologías)
+### `ideologies.json` (135 ideologías)
 
-Obligatorio: campos base del schema más `wikipediaUrl` (enlace a Wikipedia en español preferente) y `externalLinks[]` con al menos 1 fuente académica o enciclopédica (Stanford Encyclopedia of Philosophy, Britannica, JSTOR, libros de referencia). Recomendado: `longDescription`, `historicalContext`, `keyThinkers`, `historicalExamples`, `relatedIdeologies`.
+Las 135 corrientes tienen `wikipediaUrl` (enlace a Wikipedia en español preferente) y `externalLinks[]` con fuentes académicas o enciclopédicas verificadas (Stanford Encyclopedia of Philosophy, Britannica, JSTOR, libros de referencia), además de `longDescription`, `historicalContext`, `contemporaryRelevance`, `commonCriticisms`, `keyThinkers`, `historicalExamples` y `relatedIdeologies`. Detalle del estándar editorial en [Enriquecimiento de ideologías](/metodologia/ideology-enrichment).
 
 ### `parties.json` (23 partidos)
 
-Obligatorio: campos base más `websiteUrl` (sitio oficial verificado), `sources[]` con al menos 1 fuente externa (CNE, Registraduría, estatutos archivados, análisis académico) y `compassPosition` con `justification`, `sources[]` y `confidence`. Recomendado: `foundedYear`, `logoUrl`, `ideologies[]`, `incoherences[]`.
+Los 23 partidos tienen `websiteUrl` (sitio oficial verificado), `sources[]` con fuentes externas (CNE, Registraduría, estatutos archivados, análisis académico, prensa de referencia) y `compassPosition` con `justification`, `sources[]` y `confidence`. Recomendado: `foundedYear`, `logoUrl`, `ideologies[]`, `incoherences[]`.
+
+### Figuras (110 políticos)
+
+Cada figura tiene `bio` factual y neutral, `compassSelfPerceived` y `compassEvidenced` con `justification` y `sources[]`, y asignaciones ideológicas con justificación y fuentes. La página de detalle muestra una sección **"Fuentes"** que agrega y deduplica todas esas referencias.
 
 ### Por qué
 

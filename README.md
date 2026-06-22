@@ -25,7 +25,7 @@ La flecha entre los dos puntos es su **índice de coherencia**.
 
 En Colombia existe una percepción generalizada de que la política se reduce a dos o tres opciones (uribismo, petrismo, y "algo de centro"). Esta plataforma busca:
 
-1. **Mostrar la riqueza del espectro ideológico real** — hay más de 150 corrientes políticas documentadas en el compass
+1. **Mostrar la riqueza del espectro ideológico real** — 135 corrientes políticas documentadas en el compass, con perfiles completos y con fuentes para 23 partidos y 110 figuras colombianas
 2. **Separar el discurso de los hechos** — con fuentes verificables y archivadas en Wayback Machine
 3. **Democratizar el análisis político** — una herramienta para cualquier ciudadano, no solo académicos
 4. **Ser replicable** — cualquier país puede usar este framework con sus propios datos
@@ -115,8 +115,10 @@ cp apps/api/.dev.vars.example apps/api/.dev.vars
 pip install pre-commit
 pre-commit install
 
-# 6. Generar compass de ideologías (filtrado por país)
-cd packages/etl && python -m src.generate_ideologies --country=co
+# 6. (Opcional) Regenerar el layout del grid de ideologías.
+#    ideologies.json ya está commiteado y es la fuente de verdad; el generador
+#    recalcula las posiciones desde el YAML y PRESERVA el contenido editorial.
+cd packages/etl && python -m src.generate_ideologies   # grid completo (135 celdas)
 cd ../..
 
 # 7. Validar coherencia del dataset
@@ -213,17 +215,20 @@ El principio rector: **toda posición en el compass debe poder justificarse con 
 
 | Doc | Versión | Tema |
 |---|---|---|
-| `how-it-works` | v2.0.0 | Mapa, capas, filtros, proceso clasificación + auditoría + validación |
-| `compass-scoring` | v1.3.0 | Fórmulas, pesos por dimensión, validación automática |
-| `ideology-classification` | v2.0.0 | Asignación de ideología, grid curado por país |
-| `data-validation` | v1.0.0 | Validador automático de coherencia (NUEVO) |
+| `how-it-works` | v3.1.0 | Mapa, capas, filtros, páginas de detalle y sección de fuentes |
+| `compass-scoring` | v2.0.0 | Posicionamiento: anclaje al centroide de la ideología declarada |
+| `ideology-classification` | v2.2.0 | Asignación de ideología, grid completo de 135 celdas |
+| `ideology-enrichment` | v1.1.0 | Estándar de redacción de las 135 ideologías |
+| `data-enrichment` | v1.0.0 | Enriquecimiento de perfiles y fuentes (NUEVO) |
+| `data-validation` | v2.0.0 | Validador automático de coherencia |
+| `data-sources` | v1.3.0 | Fuentes primarias por tipo de entidad |
 | `incoherence-standard` | v1.0.0 | Estándar mínimo para publicar incoherencias |
-| `data-sources` | v1.2.0 | Fuentes primarias por tipo de figura |
-| `add-politician` | v1.1.0 | Cómo agregar una figura |
+| `add-politician` | v1.2.0 | Cómo agregar una figura |
 | `add-country` | v1.0.0 | Cómo replicar a otro país |
 | `adr-001-stack` | v1.0.0 | Decisión: Astro + Cloudflare |
-| `adr-002-grid-por-pais` | v1.0.0 | Decisión: filtrar grid por país (NUEVO) |
-| `changelog` | v1.0.0 | Historial consolidado de versiones (NUEVO) |
+| `adr-003-grid-completo-educativo` | v1.0.0 | Decisión vigente: grid completo de 135 celdas |
+| `adr-002-grid-por-pais` | v1.0.0 | Decisión: filtrar grid por país (superseded por ADR-003) |
+| `changelog` | v1.1.0 | Historial consolidado de versiones |
 
 ---
 

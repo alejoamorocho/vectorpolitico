@@ -2,7 +2,9 @@
 
 > **Versión:** 1.1.0
 > **Última revisión:** 2026-04-10
-> **Estado:** Vigente
+> **Estado:** Referencia histórica — la versión vigente y canónica (v2.0.0) está en el sitio: `/metodologia/compass-scoring` ([`apps/web/src/content/methodology/compass-scoring.md`](../../apps/web/src/content/methodology/compass-scoring.md)).
+
+> **Nota:** este documento describe el modelo inicial (coordenadas = promedio ponderado de `dimensionScores`). Desde la v2.0.0 las coordenadas se anclan al **centroide de la ideología declarada** y los `dimensionScores` se conservan como evidencia auditable. Ver `adr-003-grid-completo-educativo` y `data-validation` en el sitio.
 
 ---
 

@@ -42,7 +42,7 @@ En Colombia existe una percepción generalizada de que la política se reduce a 
 
 ### V1 — Colombia
 
-- [x] Compass político interactivo con ~150 corrientes ideológicas
+- [x] Compass político interactivo con 135 corrientes ideológicas
 - [x] Doble posicionamiento por figura (autopercibido vs evidenciado)
 - [x] Filtros por tipo de cargo (presidente, candidato, senador, representante, gobernador, alcalde)
 - [x] Filtros por período
@@ -98,7 +98,7 @@ brujula-politica/
 │           └── index.ts
 ├── packages/
 │   ├── data/                   # ← FUENTE DE VERDAD
-│   │   ├── ideologies.json     # Las ~150 corrientes del compass
+│   │   ├── ideologies.json     # Las 135 corrientes del compass
 │   │   └── colombia/
 │   │       ├── parties.json
 │   │       ├── presidents.json

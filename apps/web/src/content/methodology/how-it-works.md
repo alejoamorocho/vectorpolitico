@@ -3,8 +3,8 @@ title: Cómo funciona el mapa
 description: Explicación completa del mapa político — capas, filtros, zoom, detalles al click, enlaces externos y la tecnología detrás de La Brújula.
 order: 5
 section: compass
-version: 3.0.0
-lastUpdated: 2026-04-23
+version: 3.1.0
+lastUpdated: 2026-06-22
 authors:
   - ssi-co
 ---
@@ -70,7 +70,7 @@ Las capas se pueden combinar: por ejemplo, apagar la cuadrícula para ver solo l
 Se pueden filtrar las figuras mostradas por:
 
 - **Cargo** — presidentes, candidatos, senadores, representantes, gobernadores, alcaldes
-- **Partido** — cualquiera de los 8 partidos colombianos seed
+- **Partido** — cualquiera de los 23 partidos colombianos documentados
 - **Confianza** — alta, media o baja del score evidenciado
 
 ### Búsqueda
@@ -95,7 +95,17 @@ Cada ideología tiene automáticamente los mismos 6 enlaces generados dinámicam
 
 Para partidos políticos los enlaces son distintos: Wikipedia, CNE (Consejo Nacional Electoral), Registraduría Nacional, Google News e Internet Archive.
 
-No guardamos estos enlaces en los JSON — se calculan en `packages/web/src/components/compass/lib/external-links.ts` a partir del nombre de la entidad. Esto garantiza que todas las ideologías tengan el mismo conjunto de recursos disponibles sin trabajo manual.
+No guardamos estos enlaces del modal en los JSON — se calculan en `apps/web/src/components/compass/lib/external-links.ts` a partir del nombre de la entidad. Esto garantiza que todas las ideologías tengan el mismo conjunto de recursos disponibles sin trabajo manual.
+
+## Páginas de detalle y la sección "Fuentes"
+
+Más allá del modal del mapa, cada entidad tiene su **página de detalle** con contenido editorial completo y sus fuentes a la vista:
+
+- **Figuras** (`/figuras/<id>`): biografía, trayectoria, las 8 dimensiones, justificación del dicho vs. el hecho, incoherencias y una sección **"Fuentes"** que **agrega y deduplica** todas las referencias citadas en el perfil (posiciones del compass, asignaciones ideológicas e incoherencias), con medio, fecha y copia archivada cuando existe.
+- **Partidos** (`/partidos/<id>`): reseña, posición institucional, miembros, incoherencias documentadas, enlace al sitio oficial y su propia sección **"Fuentes"**.
+- **Ideologías** (`/ideologias/<id>`): descripción extendida, contexto histórico, **relevancia contemporánea**, **críticas comunes**, pensadores, ejemplos, corrientes relacionadas y **"Lecturas sugeridas"** (los `externalLinks` curados).
+
+Estas fuentes provienen de los datos enriquecidos y verificados de cada entidad (ver [Enriquecimiento de perfiles](/metodologia/data-enrichment)). Antes de junio de 2026 las fuentes existían en los datos pero no se mostraban en las páginas de figuras y partidos; ahora son visibles.
 
 ## Controles del zoom
 
@@ -135,11 +145,11 @@ El mapa está implementado con:
 
 ## Cómo contribuir al mapa
 
-Para añadir o corregir una celda:
+La fuente de verdad del catálogo es `packages/data/ideologies.json`.
 
-1. Edita `packages/data/ideologies.source.yaml` con la nueva entrada (respetando la estructura de cuadrantes y familias).
-2. Ejecuta `pnpm generate:ideologies` para regenerar el `ideologies.json`.
-3. Ejecuta `pnpm validate:data` para confirmar que todo cumple el schema.
-4. Abre un PR con el cambio.
+- **Contenido editorial** (descripción, contexto, críticas, fuentes): edítalo **directamente en `ideologies.json`**.
+- **Layout del grid** (posiciones y tamaños): el generador `pnpm generate:ideologies` lo recalcula a partir de `packages/data/ideologies.source.yaml`. Desde junio de 2026 el generador **preserva** el contenido editorial del JSON al regenerar, pero recalcula las posiciones, así que úsalo solo cuando quieras rehacer el layout.
+
+Tras cualquier cambio, ejecuta la validación correspondiente y abre un PR.
 
 Para añadir una figura política, lee [Cómo agregar una figura](/metodologia/add-politician).

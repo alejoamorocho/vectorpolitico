@@ -101,3 +101,4 @@ scripts/enrich/in/
 scripts/enrich/out/
 scripts/enrich/*-ids.json
 scripts/enrich/*-slugs.json
+scripts/enrich/*-manifest.json

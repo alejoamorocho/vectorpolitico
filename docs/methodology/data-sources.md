@@ -125,7 +125,7 @@ El schema Zod y Pydantic exige:
 
 Para que el lector pueda verificar por sí mismo qué significa cada etiqueta y cada partido:
 
-### `ideologies.json` (126 ideologías)
+### `ideologies.json` (135 ideologías)
 
 Obligatorio por ideología:
 
