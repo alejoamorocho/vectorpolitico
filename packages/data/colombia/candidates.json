@@ -54,6 +54,30 @@
           "outlet": "X/Twitter (archivado)",
           "date": "2025-08-01",
           "archived": "https://web.archive.org/web/2025/https://twitter.com/ABORREZCO"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Abelardo_de_la_Espriella",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Abelardo de la Espriella"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/este-es-el-perfil-de-abelardo-de-la-espriella-abogado-con-polemicas-que-busca-la-presidencia-en-2026-como-outsider/",
+          "outlet": "El Espectador",
+          "date": "2026-04-24",
+          "title": "Este es el perfil de Abelardo de la Espriella: abogado con polémicas que busca la Presidencia en 2026 como outsider"
+        },
+        {
+          "url": "https://semana.com/politica/articulo/abelardo-de-la-espriella-biografia-historia-y-trayectoria-del-candidato/202625",
+          "outlet": "Semana",
+          "date": "2026-05-31",
+          "title": "Quién es Abelardo de la Espriella, el candidato que busca la Presidencia en segunda vuelta"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/05/31/sorpresa-en-las-elecciones-de-colombia-abelardo-de-la-espriella-gana-la-primera-vuelta-y-disputara-la-presidencia-con-ivan-cepeda/",
+          "outlet": "Infobae",
+          "date": "2026-05-31",
+          "title": "Sorpresa en las elecciones de Colombia: Abelardo de la Espriella gana la primera vuelta y disputará la presidencia con Iván Cepeda"
         }
       ],
       "confidence": "low",
@@ -83,7 +107,7 @@
       "paleo-conservatism",
       "nationalist-conservatism"
     ],
-    "bio": "Abelardo de la Espriella Otero es abogado, empresario y figura mediática colombiana, fundador del bufete De la Espriella Lawyers. Saltó a la arena política en 2024-2025 con un discurso de extrema derecha centrado en seguridad dura, rechazo al gobierno Petro y defensa explícita del modelo de Nayib Bukele. En septiembre de 2025 anunció su candidatura presidencial para 2026, respaldado por el reactivado Movimiento de Salvación Nacional liderado por Enrique Gómez Martínez.",
+    "bio": "Abelardo Gabriel de la Espriella Otero (Bogotá, 31 de julio de 1978) es un abogado, empresario y político colombiano. Estudió Derecho en la Universidad Sergio Arboleda y cursó estudios de posgrado, entre ellos especializaciones en derecho penal y administrativo y una maestría en derecho. Fundó la firma De la Espriella Lawyers, con la que ejerció el litigio y representó a clientes de alto perfil en casos que tuvieron amplia cobertura mediática. A lo largo de su carrera también incursionó en negocios privados, incluidos emprendimientos de licores y vinos. En el plano político se presentó como un aspirante de tendencia de derecha, con un discurso centrado en seguridad, reducción del tamaño del Estado y anticorrupción, y manifestó admiración por figuras como Nayib Bukele, Javier Milei y Donald Trump. Tras impulsar inicialmente el movimiento Defensores de la Patria, formalizó su candidatura presidencial en septiembre de 2025. En la primera vuelta de las elecciones presidenciales de 2026, celebrada el 31 de mayo, obtuvo la mayor votación con cerca del 43,7 % y pasó a la segunda vuelta, disputada el 21 de junio de 2026 frente al candidato Iván Cepeda, del Pacto Histórico. Su trayectoria ha sido objeto de debate público por la naturaleza de algunos de los casos que defendió como litigante.",
     "incoherences": [
       {
         "id": "delaespriella-defensa-narcos",
@@ -167,7 +191,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -266,6 +290,42 @@
           "title": "Gestión como rector de la Universidad del Magdalena",
           "outlet": "Universidad del Magdalena",
           "date": "2018-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Carlos_Eduardo_Caicedo",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Carlos Eduardo Caicedo"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/quien-es-carlos-caicedo-su-trayectoria-como-alcalde-rector-su-partido-y-mas-de-su-hoja-de-vida/",
+          "outlet": "El Espectador",
+          "date": "2026-04-15",
+          "title": "Carlos Caicedo: la historia del político que logró el poder en el Magdalena"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/05/25/carlos-caicedo-renuncio-a-su-candidatura-presidencial-y-se-sumo-a-la-campana-de-ivan-cepeda-nos-une-un-proposito/",
+          "outlet": "Infobae",
+          "date": "2026-05-25",
+          "title": "Carlos Caicedo renunció a su candidatura presidencial y se sumó a la campaña de Iván Cepeda"
+        },
+        {
+          "url": "https://www.elcolombiano.com/especiales/elecciones-2026/carlos-caicedo-apoya-la-campana-de-ivan-cepeda-EN36911995",
+          "outlet": "El Colombiano",
+          "date": "2026-05-25",
+          "title": "Carlos Caicedo renunció a su candidatura presidencial y se adhiere a la campaña de Iván Cepeda"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/carlos-caicedo-omar/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Carlos Caicedo Omar"
+        },
+        {
+          "url": "https://www.gobernaciondelmagdalena.gov.co/carlos-eduardo-caicedo-omar-2020-2023/",
+          "outlet": "Gobernación del Magdalena",
+          "date": "2026-06-22",
+          "title": "Carlos Eduardo Caicedo Omar 2020-2023"
         }
       ],
       "confidence": "low",
@@ -294,7 +354,7 @@
       "progressivism",
       "social-democracy"
     ],
-    "bio": "Carlos Eduardo Caicedo Omar es abogado, especialista en derecho público administrativo. Fue rector de la Universidad del Magdalena (1997-2006), alcalde de Santa Marta (2012-2015) y gobernador del Magdalena (2020-2023). Fundador del movimiento Fuerza Ciudadana, es candidato presidencial 2026 con fórmula vicepresidencial de Nelson Alarcón. Su plataforma enfatiza modernización estatal, gobernanza local, educación de calidad y reducción de desigualdades territoriales desde una perspectiva progresista centrada en gestión pública.",
+    "bio": "Carlos Eduardo Caicedo Omar (Aracataca, Magdalena, 3 de octubre de 1970) es abogado y político colombiano. Estudió Derecho en la Universidad Nacional de Colombia y cursó una maestría en Dirección Universitaria en la Universidad de los Andes. Inició su trayectoria pública como rector de la Universidad del Magdalena (1997-2006), periodo en el que la institución superó una grave crisis financiera y amplió su cobertura académica. En 2012 fue elegido alcalde de Santa Marta para el periodo 2012-2015. En 2019 fue elegido gobernador del Magdalena con una votación histórica y ejerció el cargo desde 2020 hasta su renuncia, el 13 de octubre de 2023, dos meses antes de finalizar el mandato. Es fundador y líder del movimiento Fuerza Ciudadana, con el que construyó una estructura política en la región Caribe. En 2018 había sido precandidato presidencial en la consulta de la Colombia Humana. Para 2026 se inscribió nuevamente como candidato presidencial, con Nelson Alarcón como fórmula vicepresidencial, sobre una plataforma centrada en el federalismo fiscal, la educación pública, el desarrollo territorial y la reducción de la desigualdad. El 25 de mayo de 2026 renunció a su candidatura y anunció su adhesión a la campaña presidencial de Iván Cepeda, del Pacto Histórico, tras firmar un acuerdo programático. Su carrera ha estado acompañada de investigaciones disciplinarias y procesos judiciales en distintas etapas.",
     "incoherences": [
       {
         "id": "carlos-caicedo-corrupcion-clientelismo",
@@ -326,7 +386,7 @@
         "addedAt": "2026-04-12"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -424,6 +484,30 @@
           "title": "Gestión como Ministra de Trabajo 2016",
           "outlet": "Ministerio de Trabajo",
           "date": "2016-12-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Clara_L%C3%B3pez_Obreg%C3%B3n",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Clara López Obregón"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/clara-eugenia-lopez-obregon/27906/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Clara Eugenia López Obregón | Perfil congresista"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/clara-eugenia-lopez-obregon/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Clara Eugenia López Obregón"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/04/07/clara-lopez-renuncia-a-su-candidatura-presidencial-2026-y-anuncia-alianza-con-ivan-cepeda/",
+          "outlet": "Infobae",
+          "date": "2026-04-06",
+          "title": "Clara López renuncia a su candidatura presidencial 2026 y anuncia alianza con Iván Cepeda"
         }
       ],
       "confidence": "low",
@@ -453,7 +537,7 @@
       "progressivism",
       "democratic-socialism"
     ],
-    "bio": "Clara Eugenia López Obregón es abogada y política colombiana. Fue Ministra del Trabajo (2016-2017), alcaldesa encargada de Bogotá (2011-2012) y senadora por Esperanza Democrática. Fue la primera candidata en inscribirse para las elecciones 2026 (enero 31) con María Consuelo del Río como fórmula vicepresidencial. El 7 de abril de 2026 renunció a su candidatura y adhirió a la campaña de Iván Cepeda del Pacto Histórico.",
+    "bio": "Clara Eugenia López Obregón (Bogotá, 1950) es economista, abogada y política colombiana. Cursó estudios de Economía en la Universidad de Harvard y se graduó en Derecho en la Universidad de los Andes. Proviene de una familia con tradición política, vinculada a los expresidentes Alfonso López Pumarejo y Alfonso López Michelsen. A lo largo de su carrera ocupó diversos cargos públicos: fue Auditora General de la República (2003-2005), alcaldesa encargada de Bogotá (2011-2012) tras la destitución de Samuel Moreno, y Ministra del Trabajo (2016-2017) durante el gobierno de Juan Manuel Santos. Ha sido figura destacada de la izquierda colombiana: presidió el Polo Democrático Alternativo y fue candidata presidencial en 2014 por ese partido, en fórmula con Aída Avella, obteniendo cerca de 1,9 millones de votos (15,23 %) y el cuarto lugar. En 2010 había sido fórmula vicepresidencial de Gustavo Petro. Desde el 20 de julio de 2022 ejerce como senadora de la República por el Pacto Histórico para el periodo 2022-2026. En enero de 2026 se inscribió como candidata presidencial con el aval de Esperanza Democrática, con María Consuelo del Río como fórmula vicepresidencial, siendo la primera aspirante en formalizar su inscripción. El 6 de abril de 2026 comunicó a la Registraduría Nacional su decisión de declinar la candidatura y anunció su adhesión a la campaña de Iván Cepeda, candidato del Pacto Histórico.",
     "incoherences": [
       {
         "id": "clara-lopez-economia-gestion-bogota",
@@ -539,7 +623,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -636,7 +720,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Confianza baja (pendiente verificación detallada). Acciones evaluadas: (1) Sistema Distrital de Cuidado — política social innovadora (izquierda en eje económico); (2) construcción del Metro de Bogotá y TransMilenio — gestión pragmática con APP público-privadas (centro en eje económico); (3) giro pragmático en seguridad durante paro nacional 2021 con tensiones con movimientos sociales (desplazamiento hacia centro en eje social); (4) como senadora, votó contra proyectos de concentración ejecutiva y a favor de transparencia. El proyecto detecta tensión entre discurso libertario (-5 en eje social) y práctica más moderada (-3), especialmente en manejo de orden público.",
       "sources": [
@@ -651,6 +735,36 @@
           "title": "Registros de votación senatorial Claudia López 2014-2018",
           "outlet": "Congreso Visible - Universidad de los Andes",
           "date": "2018-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Claudia_L%C3%B3pez_Hern%C3%A1ndez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Claudia López Hernández"
+        },
+        {
+          "url": "https://bogota.gov.co/mi-ciudad/administracion-distrital/claudia-lopez-hernandez-alcaldesa-mayor-de-bogota",
+          "outlet": "Alcaldía Mayor de Bogotá",
+          "date": "2026-06-22",
+          "title": "Claudia López Hernández, Alcaldesa Mayor de Bogotá"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/consulta-de-las-soluciones/ella-es-claudia-lopez-la-ganadora-de-la-consulta-de-las-soluciones-que-busca-representar-una-opcion-en-el-centro-politico-en-la-primera-vuelta-3538478",
+          "outlet": "El Tiempo",
+          "date": "2026-03-08",
+          "title": "Ella es Claudia López, la ganadora de la 'Consulta de las Soluciones'"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/12/07/claudia-lopez-oficializo-su-intencion-de-participar-en-consulta-de-marzo-de-2026-resultados-y-cero-corrupcion/",
+          "outlet": "Infobae",
+          "date": "2025-12-07",
+          "title": "Claudia López oficializó su intención de participar en consulta de marzo de 2026"
+        },
+        {
+          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/claudia-lopez-gano-la-consulta-del-centro-quien-es-y-como-le-fue-como-alcaldesa-en-bogota/",
+          "outlet": "Bloomberg Línea",
+          "date": "2026-03-08",
+          "title": "Claudia López ganó la consulta del centro: ¿quién es y cómo le fue como alcaldesa en Bogotá?"
         }
       ],
       "confidence": "high",
@@ -680,7 +794,7 @@
       "green-politics",
       "social-liberalism"
     ],
-    "bio": "Claudia Nayibe López Hernández es politóloga, periodista y política colombiana. Fue senadora (2014-2018), primera mujer y primera persona abiertamente LGBTQ+ elegida alcaldesa de Bogotá (2020-2023). Lanzó su precandidatura presidencial bajo el movimiento Imparables y ganó la Consulta de las Soluciones el 8 de marzo de 2026 con 573.450 votos frente a Leonardo Huerta (43.892). Es candidata presidencial para la primera vuelta del 31 de mayo de 2026 posicionándose como opción de centro político.",
+    "bio": "Claudia Nayibe López Hernández (Bogotá, 9 de marzo de 1970) es politóloga, periodista y política colombiana. Es profesional en Finanzas, Gobierno y Relaciones Internacionales de la Universidad Externado de Colombia, magíster en Administración Pública y Política Urbana de la Universidad de Columbia y doctora en Ciencia Política de la Universidad Northwestern. Su vida pública se vinculó al movimiento estudiantil de la Séptima Papeleta, que entre 1989 y 1990 impulsó la Asamblea Nacional Constituyente de 1991. Fue senadora de la República por la Alianza Verde durante el periodo 2014-2018, donde impulsó iniciativas en materia de lucha contra la corrupción. En 2017-2018 fue candidata a la Vicepresidencia en la fórmula de Sergio Fajardo por la Coalición Colombia. En las elecciones locales de octubre de 2019 obtuvo más de 1.100.000 votos y fue elegida alcaldesa mayor de Bogotá para el periodo 2020-2023, convirtiéndose en la primera mujer elegida por voto popular para ese cargo y la primera persona abiertamente LGBTQ+ al frente de la capital. En diciembre de 2025 oficializó, con el grupo ciudadano Imparables, su intención de participar en una consulta interpartidista. El 8 de marzo de 2026 ganó la llamada Consulta de las Soluciones y quedó habilitada como candidata presidencial para la primera vuelta, posicionándose como una opción de centro político.",
     "incoherences": [
       {
         "id": "lopez-esmad-paro-2021",
@@ -764,7 +878,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -852,7 +966,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -9.0,
+      "x": -9,
       "y": 0.83,
       "justification": "Análisis metodológico del proyecto: Confianza baja por ambigüedad entre discurso y gestión. Acciones evaluadas: (1) como alcalde de Medellín enfrentamientos con el Concejo y centralización de decisiones (autoritario); (2) controversia por reestructuración de UNE-EPM — favoreció intervención estatal en empresa pública (izquierda económica); (3) suspensión por Procuraduría por participación en política durante mandato; (4) apoyo explícito a Petro en 2022 rompiendo neutralidad institucional. Participó en consulta Frente por la Vida (marzo 2026) quedando segundo con ~130K votos detrás de Roy Barreras. El proyecto ubica en centro-izquierda pragmática (x=-2) con tendencia a concentración de poder (y=-1).",
       "sources": [
@@ -867,6 +981,36 @@
           "title": "Procesos disciplinarios Daniel Quintero",
           "outlet": "Procuraduría General de la Nación",
           "date": "2022-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Daniel_Quintero_Calle",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Daniel Quintero Calle"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/daniel-quintero-calle/7713/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Daniel Quintero Calle | Perfil"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/medellin/hoja-de-vida-de-daniel-quintero-alcalde-de-medellin-421438",
+          "outlet": "El Tiempo",
+          "date": "2019-10-28",
+          "title": "Esta es la hoja de vida de Daniel Quintero, nuevo alcalde de Medellín"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/03/09/roy-barreras-gana-la-consulta-del-frente-por-la-vida-daniel-quintero-reconocio-su-victoria/",
+          "outlet": "Infobae",
+          "date": "2026-03-09",
+          "title": "Roy Barreras ganó la consulta del Frente por la Vida: Daniel Quintero reconoció su victoria"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/daniel-quintero-hablo-de-resultados-de-consulta-frente-por-la-vida-y-victoria-de-roy-barreras-en-elecciones-del-8-de-marzo-pueden-contar-conmigo-3538519",
+          "outlet": "El Tiempo",
+          "date": "2026-03-09",
+          "title": "Daniel Quintero habló de resultados de consulta 'Frente por la Vida' y victoria de Roy Barreras"
         }
       ],
       "confidence": "medium",
@@ -896,7 +1040,7 @@
       "social-liberalism",
       "technocracy"
     ],
-    "bio": "Daniel Quintero Calle es ingeniero electrónico y político colombiano. Fue alcalde de Medellín (2020-2023), el primero elegido sin respaldo de maquinarias políticas tradicionales. Participó como precandidato en la consulta Frente por la Vida del 8 de marzo de 2026, obteniendo aproximadamente 179.031 votos (2do lugar). La consulta fue ganada por Roy Barreras con ~200.401 votos. Quintero reconoció la victoria de Barreras y anunció su apoyo a la candidatura.",
+    "bio": "Daniel Quintero Calle (Medellín, 26 de julio de 1980) es un ingeniero electrónico, empresario y político colombiano. Se formó como ingeniero electrónico en la Universidad de Antioquia, realizó una especialización en finanzas en la Universidad de los Andes, un diplomado en administración de finanzas públicas en la Escuela de Gobierno John F. Kennedy de la Universidad de Harvard y una maestría en administración de empresas en la Universidad de Boston. Antes de su carrera política se desempeñó en el sector tecnológico, fue fundador de la empresa de software Intrasoft y gerente de iNNpulsa Colombia. Entre 2016 y 2017 ocupó el cargo de viceministro de Economía Digital en el Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC). Fue alcalde de Medellín para el periodo 2020-2023, tras ganar las elecciones de 2019 como candidato independiente, sin el respaldo de los partidos tradicionales; durante su mandato estuvo separado del cargo entre mayo y junio de 2022 por una suspensión de la Procuraduría, posteriormente revocada. Su administración impulsó una agenda de transformación digital y educativa y estuvo marcada por tensiones con sectores políticos de Antioquia. En las elecciones de 2026 participó como precandidato en la consulta de la coalición Frente por la Vida, celebrada el 8 de marzo de 2026, en la que obtuvo cerca de 179.031 votos y quedó en segundo lugar frente a Roy Barreras, que ganó con alrededor de 200.401 votos; Quintero reconoció el resultado y anunció su apoyo a la candidatura ganadora.",
     "incoherences": [
       {
         "id": "quintero-epm-renuncia",
@@ -980,7 +1124,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1067,6 +1211,30 @@
           "title": "Resultados electorales primera vuelta 2022",
           "outlet": "Registraduría Nacional del Estado Civil",
           "date": "2022-05-29"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Enrique_G%C3%B3mez_Mart%C3%ADnez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Enrique Gómez Martínez"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-2022/presidencia/enrique-gomez-martinez-quien-es-el-candidato-a-la-presidencia-668214",
+          "outlet": "El Tiempo",
+          "date": "2022-04-27",
+          "title": "Enrique Gómez Martínez: quién es el candidato a la Presidencia"
+        },
+        {
+          "url": "https://www.radionacional.co/actualidad/politica/principales-propuestas-de-enrique-gomez-elecciones-2022",
+          "outlet": "Radio Nacional de Colombia",
+          "date": "2022-05-05",
+          "title": "Principales propuestas de Enrique Gómez | Elecciones 2022"
+        },
+        {
+          "url": "https://colombiacheck.com/enrique-gomez-martinez",
+          "outlet": "Colombiacheck",
+          "date": "2026-06-22",
+          "title": "Enrique Gómez Martínez"
         }
       ],
       "confidence": "low",
@@ -1096,7 +1264,7 @@
       "nationalist-conservatism",
       "paleo-conservatism"
     ],
-    "bio": "Enrique Gómez Martínez es un abogado, empresario y político colombiano, nieto del expresidente Laureano Gómez y sobrino de Álvaro Gómez Hurtado. En 2019 recuperó la personería jurídica del Movimiento de Salvación Nacional, partido fundado por su tío en 1990. Fue candidato presidencial en 2022 con plataforma conservadora nacionalista y opositor frontal del Acuerdo de Paz.",
+    "bio": "Enrique Gómez Martínez (Bogotá, 23 de diciembre de 1968) es un abogado, empresario, profesor y político colombiano. Es abogado de la Universidad Sergio Arboleda y ha ejercido el litigio durante cerca de tres décadas, con experiencia en derecho corporativo y arbitraje; desde 2007 dirige su propia firma de abogados y ha ocupado cargos directivos en empresas de medios y juntas corporativas. Pertenece a una destacada familia política conservadora: es nieto del expresidente Laureano Gómez (1950-1953) y sobrino de Álvaro Gómez Hurtado, fundador del Movimiento de Salvación Nacional en 1990 y asesinado en 1995. Gómez Martínez ha representado a la familia en los procesos judiciales relacionados con ese homicidio. Tras la pérdida de la personería jurídica del partido luego de la muerte de su fundador, impulsó su recuperación mediante decisión judicial y asumió la dirección del movimiento. En las elecciones presidenciales de 2022 fue candidato por el Movimiento de Salvación Nacional, con una plataforma de derecha centrada en una reforma integral a la justicia, la reducción de trámites y costos para la creación de empresas, y la oposición al Acuerdo de Paz; obtuvo 48.643 votos (alrededor del 0,23 %) y posteriormente respaldó a Rodolfo Hernández para la segunda vuelta. El 8 de marzo de 2026 fue elegido senador de la República.",
     "incoherences": [
       {
         "id": "eg-corrupcion-denuncia",
@@ -1182,7 +1350,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1279,6 +1447,42 @@
           "title": "Resultados electorales 2022",
           "outlet": "Registraduría Nacional del Estado Civil",
           "date": "2022-06-19"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Federico_Guti%C3%A9rrez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Federico Gutiérrez"
+        },
+        {
+          "url": "https://www.medellin.gov.co/es/nuestro-alcalde/",
+          "outlet": "Alcaldía de Medellín",
+          "date": "2026-06-22",
+          "title": "Perfil del alcalde de Medellín Federico Gutiérrez Zuluaga"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/federico-gutierrez/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Federico Gutiérrez"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2023/10/29/esta-es-la-trayectoria-de-federico-gutierrez-el-nuevo-alcalde-de-medellin/",
+          "outlet": "Infobae",
+          "date": "2023-10-29",
+          "title": "Esta es la trayectoria de Federico Gutiérrez, el nuevo alcalde de Medellín"
+        },
+        {
+          "url": "https://telemedellin.tv/perfil-federico-gutierrez-alcalde-medellin/687940/",
+          "outlet": "Telemedellín",
+          "date": "2024-01-01",
+          "title": "Conozca el perfil de Federico Gutiérrez, el alcalde de Medellín más votado en la historia"
+        },
+        {
+          "url": "https://www.radionacional.co/actualidad/politica/federico-fico-gutierrez-es-el-nuevo-alcalde-de-medellin-2024-2027",
+          "outlet": "Radio Nacional de Colombia",
+          "date": "2023-10-29",
+          "title": "Federico Gutiérrez vuelve a ser alcalde de Medellín"
         }
       ],
       "confidence": "medium",
@@ -1308,7 +1512,7 @@
       "fiscal-conservatism",
       "christian-democracy"
     ],
-    "bio": "Federico Andrés 'Fico' Gutiérrez Zuluaga es ingeniero civil y político colombiano. Fue alcalde de Medellín (2016-2019 y 2024-actual), y candidato presidencial en 2022 por la coalición Equipo por Colombia, donde obtuvo el tercer lugar con el 23,9% en primera vuelta. Es el líder del movimiento Creemos Colombia y figura clave de la derecha democrática no-uribista. Aunque no es candidato presidencial 2026, su posicionamiento es relevante en la coalición de derecha.",
+    "bio": "Federico Andrés \"Fico\" Gutiérrez Zuluaga (Medellín, 28 de noviembre de 1974) es ingeniero civil y político colombiano. Se graduó en Ingeniería Civil en la Universidad de Medellín y realizó estudios de posgrado en alta gerencia y ciencia política en la Universidad Pontificia Bolivariana. Inició su trayectoria pública en instancias de participación juvenil y de planeación municipal antes de ser elegido concejal de Medellín, cargo que ejerció entre 2004 y 2011. En 2015 fue elegido alcalde de Medellín para el período 2016-2019, postulado mediante recolección de firmas y no por un partido tradicional, con cerca de 246.000 votos. Durante esa administración orientó su gestión hacia seguridad, educación, empleo y emprendimiento. En 2022 fue candidato presidencial por el movimiento Creemos, que él fundó, dentro de la coalición Equipo por Colombia; en la primera vuelta del 29 de mayo de 2022 obtuvo el tercer lugar con 5.058.010 votos (23,94%). En octubre de 2023 fue elegido nuevamente alcalde de Medellín con 697.910 votos (alrededor del 73%), la votación más alta registrada para ese cargo en la ciudad, y se posesionó para el período 2024-2027, que ejerce en la actualidad. Es reconocido como una de las principales figuras de la derecha colombiana no afiliada al uribismo.",
     "incoherences": [
       {
         "id": "fico-independiente-vs-apoyo-uribista",
@@ -1398,7 +1602,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1506,6 +1710,36 @@
           "title": "Registros de votación senatorial Germán Vargas Lleras",
           "outlet": "Congreso Visible - Universidad de los Andes",
           "date": "2010-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Germ%C3%A1n_Vargas_Lleras",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Germán Vargas Lleras"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/german-vargas-lleras/973/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Germán Vargas Lleras | Perfil congresista"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/german-vargas-lleras/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Germán Vargas Lleras"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/quien-fue-el-vicepresidente-german-vargas-lleras-DC36346360",
+          "outlet": "El Colombiano",
+          "date": "2026-05-08",
+          "title": "¿Quién fue el vicepresidente Germán Vargas Lleras? 5 claves de su vida y legado"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/gobierno/los-cargos-publicos-que-ocupo-german-vargas-lleras-durante-mas-de-tres-decadas-en-la-politica-colombiana-fue-vicepresidente-senador-y-ministro-3554475",
+          "outlet": "El Tiempo",
+          "date": "2026-05-08",
+          "title": "Los cargos públicos que ocupó Germán Vargas Lleras durante más de tres décadas en la política colombiana"
         }
       ],
       "confidence": "high",
@@ -1535,7 +1769,7 @@
       "fiscal-conservatism",
       "liberal-conservatism"
     ],
-    "bio": "Germán Vargas Lleras es abogado y político colombiano. Fue senador durante 16 años, Ministro del Interior (2010-2012), Ministro de Vivienda y Vicepresidente de Colombia (2014-2017) bajo el gobierno de Juan Manuel Santos. Fue candidato presidencial en 2010 y 2018. Es nieto del expresidente Carlos Lleras Restrepo y líder histórico del partido Cambio Radical. Mantiene peso político en la coalición de centro-derecha rumbo a 2026.",
+    "bio": "Germán Vargas Lleras (Bogotá, 19 de febrero de 1962 - Bogotá, 8 de mayo de 2026) fue un abogado y político colombiano, nieto del expresidente Carlos Lleras Restrepo. Se formó como abogado en la Universidad del Rosario y realizó estudios de posgrado en Gobierno y Administración Pública en el Instituto Ortega y Gasset de Madrid. Inició su carrera en el Concejo de Bogotá y llegó al Senado de la República, donde ejerció de manera continua entre 1994 y 2008; presidió esa corporación entre 2003 y 2004. Pasó del Partido Liberal a Cambio Radical, colectividad que dirigió durante más de dos décadas. Fue candidato presidencial en 2010, elección en la que obtuvo la tercera votación más alta. Durante el gobierno de Juan Manuel Santos ocupó los cargos de Ministro del Interior y de Justicia (2010-2012) y Ministro de Vivienda, Ciudad y Territorio (2012-2013). Fue Vicepresidente de la República entre el 7 de agosto de 2014 y marzo de 2017, periodo en el que coordinó programas como la entrega de viviendas de interés prioritario, las concesiones viales de cuarta generación (4G) y obras de infraestructura y agua. Renunció a la Vicepresidencia para presentarse de nuevo a la Presidencia en 2018, comicios en los que quedó en cuarto lugar. Falleció en 2026, a los 64 años, tras un tumor cerebral.",
     "incoherences": [
       {
         "id": "vargas-lleras-paz-giro",
@@ -1619,7 +1853,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1678,7 +1912,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Humberto de la Calle Lombana, de Partido Liberal, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -1703,7 +1937,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Confianza baja por escaso historial legislativo propio (su rol principal fue negociador, no legislador). Acciones evaluadas: (1) negociación del Acuerdo de Paz de La Habana — implementación de justicia transicional, reforma rural integral, participación política de excombatientes (centro-izquierda en derechos civiles); (2) programa de gobierno 2018 con reformas institucionales moderadas; (3) resultado de 2.06% refleja bajo arraigo electoral. El proyecto ubica en centro liberal por énfasis en institucionalidad y reformas graduales.",
       "sources": [
@@ -1718,6 +1952,42 @@
           "title": "Acuerdo Final de Paz - Texto completo",
           "outlet": "Oficina del Alto Comisionado para la Paz",
           "date": "2016-11-24"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Humberto_De_la_Calle",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Humberto De la Calle"
+        },
+        {
+          "url": "https://delacalle.com.co/soy-de-la-calle/",
+          "outlet": "Sitio oficial Humberto de la Calle",
+          "date": "2026-06-22",
+          "title": "Soy de la Calle - Biografía"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-colombia-2018/presidenciales/perfil-del-candidato-humberto-de-la-calle-222764",
+          "outlet": "El Tiempo",
+          "date": "2018-05-26",
+          "title": "Perfil del candidato Humberto de la Calle"
+        },
+        {
+          "url": "https://www.semana.com/nacion/articulo/humberto-de-la-calle-gana-consulta-liberal-y-es-candidato-presidencial-del-partido-liberal/547886/",
+          "outlet": "Semana",
+          "date": "2017-11-19",
+          "title": "De la Calle: la victoria de la opinión y Gaviria"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-colombia-2018/presidenciales/humberto-de-la-calle-en-las-elecciones-presidenciales-2018-en-colombia-222868",
+          "outlet": "El Tiempo",
+          "date": "2018-05-27",
+          "title": "Humberto de la Calle en las elecciones presidenciales 2018 en Colombia"
+        },
+        {
+          "url": "https://alianzaverde.org.co/senadores-2022-2026/humberto-de-la-calle-senador-de-la-republica",
+          "outlet": "Alianza Verde",
+          "date": "2026-06-22",
+          "title": "Humberto de la Calle, senador de la República"
         }
       ],
       "confidence": "low",
@@ -1747,7 +2017,7 @@
       "third-way",
       "progressivism"
     ],
-    "bio": "Humberto de la Calle Lombana es abogado, político y diplomático colombiano. Fue Ministro del Interior, Ministro de Gobierno, Vicepresidente (1994-1996) bajo Ernesto Samper, Registrador Nacional del Estado Civil y jefe negociador del gobierno Santos en los diálogos de paz de La Habana con las FARC (2012-2016). En 2018 fue candidato presidencial del Partido Liberal, con Clara López como fórmula vicepresidencial.",
+    "bio": "Humberto de la Calle Lombana (Manzanares, Caldas, 14 de julio de 1946) es abogado, político, profesor y diplomático colombiano, egresado de la Universidad de Caldas. Su trayectoria pública abarca cargos en las tres ramas del poder. Fue magistrado de la Corte Suprema de Justicia y Registrador Nacional del Estado Civil en la década de 1980. Como Ministro de Gobierno durante la presidencia de César Gaviria fue el delegado del Ejecutivo en la Asamblea Nacional Constituyente de 1991, que redactó la Constitución vigente. Entre 1994 y 1996 ejerció como Vicepresidente de la República en el gobierno de Ernesto Samper, cargo al que renunció en el marco del llamado Proceso 8.000. Posteriormente fue embajador en España y el Reino Unido, Ministro del Interior bajo Andrés Pastrana (2000-2001) y representante de Colombia ante la Organización de los Estados Americanos. En octubre de 2012, el presidente Juan Manuel Santos lo designó jefe del equipo negociador del Gobierno en los diálogos de paz con las FARC en La Habana, proceso que condujo a la firma del Acuerdo Final en 2016. En 2017 ganó la consulta interna del Partido Liberal frente a Juan Fernando Cristo y fue proclamado candidato presidencial para las elecciones de 2018, con Clara López Obregón como fórmula vicepresidencial; en la primera vuelta del 27 de mayo de 2018 obtuvo cerca del 2 % de los votos, sin pasar a la segunda vuelta. En 2022 fue elegido senador de la República con el aval del movimiento Verde Oxígeno. De la Calle es además profesor universitario y autor de varias publicaciones.",
     "incoherences": [
       {
         "id": "humberto-calle-paz-implementacion",
@@ -1804,7 +2074,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1856,7 +2126,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -3.0,
+      "x": -3,
       "y": -4.17,
       "justification": "Íngrid Betancourt Pulecio, de Verde Oxígeno, se presenta públicamente alineado con «Política verde», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -1881,7 +2151,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Confianza baja por ausencia de historial legislativo reciente y retiro de candidatura. Acciones evaluadas: (1) programa de gobierno registrado con enfoque anticorrupción y ambientalista (centro); (2) decisión de retirarse una semana antes de primera vuelta para apoyar a Rodolfo Hernández — alianza con candidato antisistema de centro-derecha; (3) historial senatorial de los años 90 con posiciones anticorrupción. Sin gestión ejecutiva ni votaciones recientes, el proyecto asigna posición centro-ambientalista provisional.",
       "sources": [
@@ -1890,6 +2160,36 @@
           "title": "Resultados y retiro de candidatura 2022",
           "outlet": "Registraduría Nacional del Estado Civil",
           "date": "2022-05-22"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/%C3%8Dngrid_Betancourt",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Íngrid Betancourt"
+        },
+        {
+          "url": "https://www.semana.com/nacion/articulo/atencion-ingrid-betancourt-declina-a-su-candidatura-y-apoya-a-rodolfo-hernandez/202251/",
+          "outlet": "Semana",
+          "date": "2022-05-20",
+          "title": "Atención: Ingrid Betancourt declina su candidatura y apoya a Rodolfo Hernández"
+        },
+        {
+          "url": "https://www.swissinfo.ch/spa/%C3%ADngrid-betancourt-retira-su-candidatura-presidencial-para-apoyar-a-hern%C3%A1ndez/47612220",
+          "outlet": "swissinfo.ch",
+          "date": "2022-05-20",
+          "title": "Íngrid Betancourt retira su candidatura presidencial para apoyar a Hernández"
+        },
+        {
+          "url": "https://www.infobae.com/america/colombia/2022/05/29/ingrid-betancourt-como-afecto-la-lider-del-partido-verde-oxigeno-las-elecciones-presidenciales-de-2022/",
+          "outlet": "Infobae",
+          "date": "2022-05-28",
+          "title": "Ingrid Betancourt: cómo afectó la líder del partido Verde Oxígeno las elecciones presidenciales de 2022"
+        },
+        {
+          "url": "https://es.euronews.com/2022/05/21/colombia-ingrid-betancourt-retira-su-candidatura-para-apoyar-a-hernandez",
+          "outlet": "Euronews",
+          "date": "2022-05-21",
+          "title": "Colombia | Íngrid Betancourt retira su candidatura para apoyar a Hernández"
         }
       ],
       "confidence": "low",
@@ -1919,7 +2219,7 @@
       "social-liberalism",
       "progressivism"
     ],
-    "bio": "Íngrid Betancourt Pulecio es una política franco-colombiana, exsenadora y exrepresentante a la Cámara, conocida mundialmente por su secuestro por las FARC entre 2002 y 2008, durante su campaña presidencial del 2002. En 2021 fundó el partido Verde Oxígeno y fue candidata presidencial en 2022, retirándose días antes de la primera vuelta para apoyar a Rodolfo Hernández.",
+    "bio": "Íngrid Betancourt Pulecio (Bogotá, 1961) es una política franco-colombiana. Se formó en Francia, donde estudió en el Instituto de Estudios Políticos de París (Sciences Po), y años más tarde obtuvo un doctorado en Teología en la Universidad de Oxford (2023). Inició su carrera política en la década de 1990: fue representante a la Cámara entre 1994 y 1998 y senadora de la República entre 1998 y 2001, periodo en el que se destacó por su discurso contra la corrupción. En 1997 fundó el partido ecologista Oxígeno Verde. Como candidata presidencial en 2002 fue secuestrada por las FARC el 23 de febrero de ese año, junto con su jefa de campaña Clara Rojas, cerca de San Vicente del Caguán. Permaneció cautiva en la selva durante más de seis años, hasta su liberación el 2 de julio de 2008 en la Operación Jaque, junto con otros catorce secuestrados. Tras su liberación recibió distinciones internacionales, entre ellas la Legión de Honor de Francia y el Premio Príncipe de Asturias de la Concordia, y publicó libros de memorias sobre su cautiverio. En diciembre de 2021 reactivó el partido Verde Oxígeno y se inscribió como candidata presidencial para las elecciones de 2022. El 20 de mayo de 2022, días antes de la primera vuelta y con una intención de voto inferior al 1% en las encuestas, retiró su candidatura y anunció su apoyo al empresario Rodolfo Hernández.",
     "incoherences": [
       {
         "id": "ib-derechos-humanos-financiamiento",
@@ -2005,7 +2305,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2092,6 +2392,30 @@
           "title": "Debates sobre proyectos de ley presentados por Cepeda",
           "outlet": "Corte Constitucional",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Iv%C3%A1n_Cepeda",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Iván Cepeda"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/quien-es-ivan-cepeda-castro-el-hombre-que-busca-que-la-izquierda-siga-en-la-casa-de-narino-perfil-3560997",
+          "outlet": "El Tiempo",
+          "date": "2026-05-26",
+          "title": "Quién es Iván Cepeda Castro, el hombre que busca que la izquierda siga en la Casa de Nariño"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/quien-es-ivan-cepeda-perfil-de-la-victima-el-senador-y-la-ficha-del-petrismo-para-las-presidenciales-noticias-hoy/",
+          "outlet": "El Espectador",
+          "date": "2026-04-25",
+          "title": "Él es Iván Cepeda: la víctima, el senador y el abanderado del petrismo para las elecciones"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/05/26/el-es-ivan-cepeda-la-victima-y-el-senador-que-busca-reemplazar-a-gustavo-petro-en-la-presidencia-de-colombia/",
+          "outlet": "Infobae",
+          "date": "2026-05-26",
+          "title": "Él es Iván Cepeda, el senador víctima de la violencia que competirá en segunda vuelta"
         }
       ],
       "confidence": "low",
@@ -2121,7 +2445,7 @@
       "left-populism",
       "progressivism"
     ],
-    "bio": "Iván Dario Cepeda Castro nació el 24 de octubre de 1962. Es filósofo, activista de derechos humanos e hijo del líder comunista Manuel Cepeda Vargas, asesinado en 1994. Fue senador de la República desde 2014 por Polo Democrático Alternativo, luego por Pacto Histórico. Ha sido miembro de la Comisión de Verdad, Reconciliación y No Repetición. Ganó la Consulta de las Soluciones del Pacto Histórico en octubre 2025 con 65% de apoyo. Es candidato presidencial 2026 con fórmula vicepresidencial de Aída Quilcué, priorizando justicia transicional, reforma tributaria progresiva y reforma agraria integral.",
+    "bio": "Iván Darío Cepeda Castro nació en Bogotá el 24 de octubre de 1962. Es hijo del dirigente comunista y congresista de la Unión Patriótica Manuel Cepeda Vargas, asesinado en 1994, y de la dirigente Yira Castro. Durante su infancia y juventud vivió periodos en el exterior, entre ellos La Habana, Praga y Sofía. Es filósofo, formado en la Universidad San Clemente de Ojrid de Sofía (Bulgaria), y cuenta con una maestría en Derecho Internacional Humanitario por la Universidad Católica de Lyon (Francia). Se desempeñó como profesor universitario y como activista de derechos humanos enfocado en la defensa de víctimas; en 1994 cofundó la Fundación Manuel Cepeda Vargas y en 2003 participó en la creación del Movimiento Nacional de Víctimas de Crímenes de Estado (Movice), del que fue vocero. En 2010 fue elegido representante a la Cámara por Bogotá por el Polo Democrático Alternativo y desde 2014 es senador de la República, cargo en el que fue reelegido en 2018 y 2022, luego bajo el Pacto Histórico. En el Congreso ha trabajado en temas de derechos humanos, justicia transicional y memoria, y ha integrado la Comisión Segunda del Senado. Participó como facilitador en el proceso de paz entre el Gobierno colombiano y las FARC-EP (2012-2016) y en diálogos con el ELN. En octubre de 2025 ganó la consulta interna del Pacto Histórico para definir su candidatura presidencial. Se inscribió como candidato presidencial para las elecciones de 2026 con Aída Quilcué, lideresa indígena y senadora, como fórmula vicepresidencial, con un programa centrado en la continuidad de la política de paz, la reforma agraria y la justicia transicional.",
     "incoherences": [
       {
         "id": "ivan-cepeda-derechos-humanos-alianzas",
@@ -2180,7 +2504,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2278,6 +2602,36 @@
           "title": "Resultados primera vuelta 2022",
           "outlet": "Registraduría Nacional del Estado Civil",
           "date": "2022-05-29"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/John_Milton_Rodr%C3%ADguez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "John Milton Rodríguez"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-2022/presidencia/john-milton-rodriguez-quien-es-el-candidato-a-la-presidencia-668189",
+          "outlet": "El Tiempo",
+          "date": "2022-04-27",
+          "title": "John Milton Rodríguez: quién es el candidato a la Presidencia"
+        },
+        {
+          "url": "https://www.infobae.com/america/colombia/2021/11/21/la-controversia-por-la-candidatura-de-john-milton-rodriguez-por-colombia-justa-libres-continua/",
+          "outlet": "Infobae",
+          "date": "2021-11-21",
+          "title": "La controversia por la candidatura de John Milton Rodríguez por Colombia Justa Libres continúa"
+        },
+        {
+          "url": "https://www.radionacional.co/actualidad/politica/quien-es-jhon-milton-rodriguez-candidatos-presidenciales-2022",
+          "outlet": "Radio Nacional de Colombia",
+          "date": "2022-04-20",
+          "title": "¿Quién es John Milton Rodríguez? Candidatos presidenciales 2022"
+        },
+        {
+          "url": "https://www.infobae.com/america/colombia/2022/04/22/john-milton-rodriguez-gana-pulso-en-el-cne-y-podra-ser-candidato-presidencial/",
+          "outlet": "Infobae",
+          "date": "2022-04-22",
+          "title": "John Milton Rodríguez gana pulso en el CNE y podrá ser candidato presidencial"
         }
       ],
       "confidence": "low",
@@ -2307,7 +2661,7 @@
       "traditionalist-conservatism",
       "social-gospel"
     ],
-    "bio": "John Milton Rodríguez González es pastor cristiano evangélico, ingeniero y político colombiano. Senador (2018-2022) por el partido Colombia Justa Libres, del cual fue uno de los fundadores. En 2022 fue candidato presidencial con una plataforma de valores cristianos evangélicos, obteniendo cerca del 0.29% en primera vuelta.",
+    "bio": "John Milton Rodríguez González (Cali, 18 de septiembre de 1969) es ingeniero industrial, pastor cristiano evangélico y político colombiano. Se formó como ingeniero industrial en la Universidad Autónoma de Occidente. En 1999 fundó la iglesia Misión Paz a las Naciones, de la cual es pastor general, y posteriormente impulsó la Corporación Universitaria para el Desarrollo Social y Empresarial (CUDES) en el Valle del Cauca. En 2017 fue cofundador del partido Colombia Justa Libres, agrupación de orientación cristiana surgida de la convergencia de movimientos del sector religioso. En las elecciones legislativas de 2018 fue elegido senador de la República para el periodo 2018-2022. En la convención nacional de Colombia Justa Libres, celebrada en noviembre de 2021, fue proclamado candidato presidencial del partido tras obtener el respaldo de cerca del 75 % de los delegados. Su designación fue impugnada ante el Consejo Nacional Electoral por Ricardo Arias, copresidente del partido, lo que derivó en un proceso que se resolvió el 21 de abril de 2022, cuando el CNE decidió no revocar su candidatura. Su fórmula vicepresidencial fue Sandra de las Lajas Torres. Su programa giró en torno a los ejes de desarrollo, seguridad y justicia, junto con la defensa de valores cristianos. En la primera vuelta del 29 de mayo de 2022 obtuvo 338.581 votos, cerca del 1,3 % de la votación. Tras los comicios continuó su actividad como líder religioso al frente de Misión Paz a las Naciones.",
     "incoherences": [
       {
         "id": "jmr-medio-ambiente-mineria",
@@ -2393,7 +2747,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2455,7 +2809,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Juan Manuel Galán Pachón, de Nuevo Liberalismo, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -2480,7 +2834,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Confianza baja (pendiente auditoría completa de votaciones). Acciones evaluadas según CongresoVisible: (1) apoyo a la Ley de Víctimas como ponente; (2) voto a favor del Acuerdo de Paz de 2016; (3) impulso de proyecto de despenalización del consumo personal de drogas (enfoque de salud pública); (4) votaciones a favor de transparencia y anticorrupción. Participó en Gran Consulta por Colombia (marzo 2026) quedando tercero. El proyecto ubica en centro-izquierda liberal (x=-1) con tendencia libertaria (y=-3) por énfasis en derechos individuales.",
       "sources": [
@@ -2489,6 +2843,36 @@
           "title": "Perfil y votaciones Juan Manuel Galán",
           "outlet": "Congreso Visible - Universidad de los Andes",
           "date": "2018-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Juan_Manuel_Gal%C3%A1n",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Juan Manuel Galán"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/juan-manuel-galan-pachon/38/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Juan Manuel Galán Pachón — Perfil del congresista"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-2022/consultas/elecciones-2022-asi-le-fue-a-la-coalicion-centro-esperanza-658174",
+          "outlet": "El Tiempo",
+          "date": "2022-03-13",
+          "title": "Elecciones 2022: así le fue a la Coalición Centro Esperanza"
+        },
+        {
+          "url": "https://www.infobae.com/america/colombia/2022/03/13/coalicion-centro-esperanza-el-susto-que-carlos-amaya-les-causo-a-fajardo-y-galan/",
+          "outlet": "Infobae",
+          "date": "2022-03-13",
+          "title": "Coalición Centro Esperanza: el susto que Carlos Amaya les causó a Fajardo y Galán"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Colombia_de_2026",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Elecciones presidenciales de Colombia de 2026"
         }
       ],
       "confidence": "medium",
@@ -2518,7 +2902,7 @@
       "social-democracy",
       "progressivism"
     ],
-    "bio": "Juan Manuel Galán Pachón es abogado y político colombiano, hijo del líder liberal Luis Carlos Galán asesinado en 1989. Fue senador (2006-2018) y refundó el partido Nuevo Liberalismo en 2021. Participó en la Gran Consulta por Colombia del 8 de marzo de 2026, obteniendo 327.765 votos (3er lugar). Tras el resultado, el Nuevo Liberalismo adhirió a la candidatura de Paloma Valencia.",
+    "bio": "Juan Manuel Galán Pachón (Bogotá, 29 de julio de 1972) es un político colombiano, hijo del dirigente liberal Luis Carlos Galán Sarmiento, asesinado en 1989. Cursó estudios de ciencias políticas en el Instituto de Estudios Políticos de París (Sciences Po) y obtuvo posgrados en relaciones internacionales en Francia y en la Escuela de Servicio Exterior Edmund A. Walsh de la Universidad de Georgetown. Antes de su carrera legislativa se desempeñó en el servicio exterior, entre otros cargos en la Embajada de Colombia en Londres hasta 2005. Fue elegido senador de la República por el Partido Liberal y ejerció el cargo de manera continua entre 2006 y 2018, reelegido en 2010 y 2014. En el Senado impulsó iniciativas en materia de salud pública y política de drogas; fue autor de la Ley 1566 de 2012, que reconoce el consumo de sustancias psicoactivas como un asunto de salud pública. En 2021 lideró la refundación del Nuevo Liberalismo, el partido fundado por su padre, del que es presidente. En 2022 participó como precandidato de la Coalición Centro Esperanza, en cuya consulta del 13 de marzo de 2022 quedó en segundo lugar. En 2025 emprendió una nueva aspiración presidencial y participó en la Gran Consulta por Colombia del 8 de marzo de 2026, en la que obtuvo 327.765 votos y el tercer lugar. Tras ese resultado, el Nuevo Liberalismo adhirió a la candidatura de Paloma Valencia, ganadora de la consulta.",
     "incoherences": [
       {
         "id": "galan-drogas-reforma-pospuesta",
@@ -2608,7 +2992,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2660,7 +3044,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -1.0,
+      "x": -1,
       "y": -4.17,
       "justification": "Luis Gilberto Murillo Urrutia se presenta públicamente alineado con «Ambientalismo», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -2679,7 +3063,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Confianza alta por gestión ministerial verificable. Acciones evaluadas: (1) como Ministro de Ambiente impulsó protección de páramos y transición energética justa — política ambiental redistributiva (izquierda moderada); (2) como Canciller, diplomacia multilateral en foros climáticos con posiciones de soberanía del Sur Global; (3) como gobernador del Chocó, gestión enfocada en infraestructura básica y reducción de pobreza. El proyecto ubica en centro (x=-1, y=0) por pragmatismo institucional combinado con agenda social progresista moderada.",
       "sources": [
@@ -2694,6 +3078,42 @@
           "title": "Gestión como Canciller de Colombia",
           "outlet": "Cancillería de Colombia",
           "date": "2025-06-01"
+        },
+        {
+          "url": "https://www.elpais.com.co/elecciones/oficial-luis-gilberto-murillo-declina-su-aspiracion-presidencial-y-se-suma-a-la-campana-de-ivan-cepeda-0603.html",
+          "outlet": "El País (Cali)",
+          "date": "2026-05-06",
+          "title": "Oficial: Luis Gilberto Murillo declina su aspiración presidencial y se suma a la campaña de Iván Cepeda"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/luis-gilberto-murillo/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Luis Gilberto Murillo"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/luis-gilberto-murillo-busca-la-presidencia-quien-es-cargos-hoja-de-vida-por-que-renuncio-a-cancilleria-noticias-hoy/",
+          "outlet": "El Espectador",
+          "date": "2025-09-24",
+          "title": "Luis Gilberto Murillo busca la Presidencia: quién es, cargos, hoja de vida, por qué renunció a Cancillería"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2024/05/21/luis-gilberto-murillo-asumio-como-canciller-en-propiedad-y-buscara-hacer-una-diplomacia-de-los-pueblos/",
+          "outlet": "Infobae",
+          "date": "2024-05-21",
+          "title": "Luis Gilberto Murillo asumió como canciller en propiedad y buscará \"hacer una diplomacia de los pueblos\""
+        },
+        {
+          "url": "https://www.semana.com/nacion/articulo/confirmado-luis-gilberto-murillo-formula-vicepresidencial-de-sergio-fajardo/202216/",
+          "outlet": "Semana",
+          "date": "2022-03-23",
+          "title": "Confirmado: Luis Gilberto Murillo, fórmula vicepresidencial de Sergio Fajardo"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/10/19/excanciller-luis-gilberto-murillo-quedo-formalmente-inscrito-para-recolectar-firmas-rumbo-a-la-presidencia-de-2026/",
+          "outlet": "Infobae",
+          "date": "2025-10-19",
+          "title": "Excanciller Luis Gilberto Murillo quedó formalmente inscrito para recolectar firmas rumbo a la Presidencia de 2026"
         }
       ],
       "confidence": "low",
@@ -2722,7 +3142,7 @@
       "environmentalism",
       "social-liberalism"
     ],
-    "bio": "Luis Gilberto Murillo Urrutia es exministro de Ambiente y Cambio Climático (2022-2023) y Canciller (2023-2025) en el gobierno Petro. Es especialista en desarrollo sostenible y gobernanza ambiental. Candidato presidencial 2026 por el movimiento Colombia Renaciente con fórmula vicepresidencial de Luz María Zapata. Su plataforma enfatiza transición energética justa, protección de biodiversidad, diplomacia multilateral en cambio climático y desarrollo económico sustentable.",
+    "bio": "Luis Gilberto Murillo Urrutia (San Juan, Chocó, 1 de enero de 1967) es un ingeniero de minas, diplomático y político colombiano. Se formó como ingeniero de minas y obtuvo una maestría en ciencias de la ingeniería en la Universidad Estatal Rusa de Prospección Geológica (1990). Inició su carrera pública en el Chocó, departamento del que fue gobernador en dos ocasiones, la primera de ellas a los 31 años, y posteriormente de nuevo en 2012. En el año 2000 fue secuestrado por un grupo armado ilegal y tras su liberación residió varios años en el exterior. Entre 2016 y 2018 se desempeñó como ministro de Ambiente y Desarrollo Sostenible, siendo el primer afrocolombiano en ocupar ese cargo; durante su gestión se ampliaron las áreas protegidas del país y se impulsaron instrumentos como el impuesto nacional al carbono y el impuesto a las bolsas plásticas. En las elecciones de 2022 fue fórmula vicepresidencial de Sergio Fajardo por la Coalición Centro Esperanza. En el gobierno de Gustavo Petro fue embajador de Colombia en Estados Unidos (2022-2024) y luego ministro de Relaciones Exteriores (canciller), cargo que ocupó hasta enero de 2025. De cara a las elecciones presidenciales de 2026 inscribió su candidatura por firmas, bajo el movimiento \"Luis Gilberto Soy Yo\", con Luz María Zapata como fórmula vicepresidencial y un programa centrado en el desarrollo de regiones históricamente rezagadas, en especial el Pacífico, la educación y la sostenibilidad. El 6 de mayo de 2026 anunció el retiro de su aspiración presidencial y su adhesión a la campaña de Iván Cepeda, del Pacto Histórico.",
     "incoherences": [
       {
         "id": "luis-murillo-desarrollo-social",
@@ -2779,7 +3199,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2870,6 +3290,42 @@
           "title": "Informes de gestión Gobernación de Antioquia 2016-2019",
           "outlet": "Contraloría General de la República",
           "date": "2019-12-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Luis_P%C3%A9rez_Guti%C3%A9rrez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Luis Pérez Gutiérrez"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/luis-perez-gutierrez/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Luis Pérez Gutiérrez — Quién es quién"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2022/luis-perez-renuncia-a-su-candidatura-presidencial/",
+          "outlet": "El Espectador",
+          "date": "2022-05-11",
+          "title": "Luis Pérez renuncia a su candidatura presidencial"
+        },
+        {
+          "url": "https://www.semana.com/nacion/medellin/articulo/el-exgobernador-luis-perez-renuncio-a-su-candidatura-presidencial/202211/",
+          "outlet": "Semana",
+          "date": "2022-05-11",
+          "title": "El exgobernador Luis Pérez renunció a su candidatura presidencial"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/politica/luis-perez-gutierrez-exgobernador-de-antioquia-inscribio-su-precandidatura-presidencial-PH15659547",
+          "outlet": "El Colombiano",
+          "date": "2021-09-14",
+          "title": "Luis Pérez Gutiérrez, exgobernador de Antioquia, inscribió su precandidatura presidencial"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-2022/presidencia/elecciones-2022-luis-perez-inscribio-su-candidatura-presidencial-657397",
+          "outlet": "El Tiempo",
+          "date": "2022-03-17",
+          "title": "Elecciones 2022: Luis Pérez inscribió su candidatura presidencial"
         }
       ],
       "confidence": "low",
@@ -2899,7 +3355,7 @@
       "fiscal-conservatism",
       "technocracy"
     ],
-    "bio": "Luis Pérez Gutiérrez es ingeniero civil y político colombiano, alcalde de Medellín (2001-2003) y gobernador de Antioquia (2016-2019). En 2022 se lanzó como candidato presidencial con su movimiento \"Colombia Piensa en Grande\", obteniendo un resultado marginal en primera vuelta.",
+    "bio": "Luis Emilio Pérez Gutiérrez (Cañasgordas, Antioquia, 30 de noviembre de 1951) es un político colombiano, ingeniero industrial por la Universidad Nacional de Colombia, con maestría en matemáticas en la misma institución y maestría en estadística e investigación de operaciones en la Universidad de Michigan. Antes de su carrera de elección popular fue rector de la Universidad de Antioquia (1990-1993) y director del ICFES (1993). Fue alcalde de Medellín en el periodo 2001-2003, durante el cual se impulsaron proyectos como el sistema Metrocable y el recinto ferial Plaza Mayor. Posteriormente fue elegido gobernador de Antioquia para el periodo 2016-2019, mandato marcado por la contingencia del proyecto hidroeléctrico Hidroituango. Para las elecciones presidenciales de 2022 inscribió su candidatura por firmas con el movimiento ciudadano \"Colombia Piensa en Grande\", llevando como fórmula vicepresidencial a Ceferino Mosquera. El 11 de mayo de 2022 anunció su renuncia a la aspiración presidencial, argumentando que la campaña no daba espacio a las ideas; debido a la cercanía con la jornada electoral, su nombre permaneció en el tarjetón del 29 de mayo, en el que obtuvo una votación marginal. En las elecciones regionales de 2023 se presentó como candidato a la Gobernación de Antioquia, donde quedó en segundo lugar.",
     "incoherences": [
       {
         "id": "luis-perez-educacion-financiamiento",
@@ -2929,7 +3385,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2983,7 +3439,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Óscar Mauricio Lizcano Arango se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -3002,7 +3458,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Confianza alta por historial legislativo y ejecutivo verificable. Acciones evaluadas: (1) como senador por Caldas (CongresoVisible): votaciones pragmáticas sin extremismo, apoyo a reformas tecnológicas y de modernización; (2) como Director DAPRE (2022): gestión administrativa neutral; (3) como Ministro de TIC: impulso de transformación digital, conectividad rural, sin posiciones polarizantes. El proyecto ubica en centro exacto (x=1, y=1) por consistencia de pragmatismo centrista entre discurso y gestión.",
       "sources": [
@@ -3017,6 +3473,36 @@
           "title": "Gestión como Ministro de TIC 2023-2025",
           "outlet": "Ministerio de TIC",
           "date": "2025-06-01"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mauricio_Lizcano",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Mauricio Lizcano"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/oscar-mauricio-lizcano-arango/177/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Óscar Mauricio Lizcano Arango | Perfil congresista"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/quien-es-mauricio-lizcano-estos-son-los-giros-de-la-vida-y-la-politica-detras-de-su-candidatura-presidencial/",
+          "outlet": "El Espectador",
+          "date": "2026-04-13",
+          "title": "Quién es Mauricio Lizcano: estos son los giros de la vida y la política detrás de su candidatura presidencial"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/perfil-de-mauricio-lizcano-el-enlace-del-gobierno-gustavo-petro-partido-de-la-u-PD23137822",
+          "outlet": "El Colombiano",
+          "date": "2026-06-22",
+          "title": "Mauricio Lizcano, la 'banda ancha' del gobierno de Petro con La U"
+        },
+        {
+          "url": "https://www.elpais.com.co/elecciones/de-presidente-del-senado-a-candidato-presidencial-el-recorrido-e-historia-de-mauricio-lizcano-2544.html",
+          "outlet": "El País (Cali)",
+          "date": "2026-06-22",
+          "title": "De presidente del Senado a candidato presidencial: el recorrido e historia de Mauricio Lizcano"
         }
       ],
       "confidence": "low",
@@ -3045,7 +3531,7 @@
       "social-liberalism",
       "democratic-liberalism"
     ],
-    "bio": "Óscar Mauricio Lizcano Arango nació el 12 de agosto de 1976. Es abogado (U. del Rosario), tiene máster en Administración Pública (Harvard) y MBA (MIT). Fue representante por Caldas (2006), senador (2010-2018) por Partido de la U, Director de la Dirección Administrativa de la Presidencia-DAPRE (2022) y Ministro de Tecnología e Información (2023-2025) en el gobierno Petro. Candidato presidencial 2026 bajo el movimiento 'Gente en Movimiento' con fórmula vicepresidencial de Luis Carlos Reyes. Propone modernización estatal, transformación digital inclusiva y reformas institucionales pragmáticas.",
+    "bio": "Óscar Mauricio Lizcano Arango nació el 12 de agosto de 1976 en Medellín y desarrolló su carrera política en el departamento de Caldas. Es abogado de la Universidad del Rosario, magíster en Administración Pública (MPA) por la Universidad de Harvard y MBA por el Instituto Tecnológico de Massachusetts (MIT). Es hijo del excongresista Óscar Tulio Lizcano, secuestrado por las FARC entre 2000 y 2008. Inició su trayectoria legislativa como representante a la Cámara por Caldas (2006-2010) y luego fue senador por el Partido de la U (2010-2014 y reelecto 2014-2018). Entre 2016 y 2017 presidió el Senado de la República. Fue uno de los fundadores del Partido de la U, del que se apartó en 2021 para impulsar el movimiento ciudadano 'Gente en Movimiento'. Durante el gobierno de Gustavo Petro fue director del Departamento Administrativo de la Presidencia (DAPRE) desde agosto de 2022 y, desde mayo de 2023 hasta enero de 2025, ministro de Tecnologías de la Información y las Comunicaciones (TIC), cartera desde la cual actuó como enlace del gobierno con la bancada de La U. En 2026 es candidato presidencial; inscribió inicialmente como fórmula vicepresidencial al exministro Luis Carlos Reyes, quien renunció por motivos familiares y fue reemplazado por el investigador Pedro Luis de la Torre. Su campaña se presenta como una alternativa a los extremos políticos, con énfasis en la modernización del Estado, la transformación digital y soluciones pragmáticas a problemas concretos.",
     "incoherences": [
       {
         "id": "mauricio-lizcano-economia-posicionamiento",
@@ -3131,7 +3617,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -3223,6 +3709,30 @@
           "title": "Gestión como Secretario de Gobierno de Bogotá 2016-2018",
           "outlet": "Alcaldía de Bogotá",
           "date": "2018-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Miguel_Uribe_Londo%C3%B1o",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Miguel Uribe Londoño"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/08/22/asi-ha-sido-la-carrera-politica-de-miguel-uribe-londono-el-padre-de-miguel-uribe-turbay/",
+          "outlet": "Infobae",
+          "date": "2025-08-22",
+          "title": "Así ha sido la carrera política de Miguel Uribe Londoño, el padre de Miguel Uribe Turbay"
+        },
+        {
+          "url": "https://www.elpais.com.co/amp/elecciones/miguel-uribe-londono-aspira-a-la-presidencia-la-historia-detras-de-su-regreso-politico-1715.html",
+          "outlet": "El País (Cali)",
+          "date": "2026-06-22",
+          "title": "Miguel Uribe Londoño aspira a la Presidencia: la historia detrás de su regreso político"
+        },
+        {
+          "url": "https://migueluribe.com/",
+          "outlet": "Sitio oficial de campaña",
+          "date": "2026-06-22",
+          "title": "Miguel Uribe Londoño - Candidato Presidencial 2026"
         }
       ],
       "confidence": "low",
@@ -3251,7 +3761,7 @@
       "neo-conservatism",
       "democratic-liberalism"
     ],
-    "bio": "Miguel Uribe Londoño nació el 2 de noviembre de 1952 en Medellín. Es economista (U. de Miami) y abogado (U. de los Andes). Estuvo casado con Diana Turbay (asesinada en 1991), fue padre del senador Miguel Uribe Turbay (asesinado en 2025). Senador de la República (1990-1991) por Partido Conservador. Candidato presidencial 2026 por Partido Demócrata Colombiano con fórmula vicepresidencial de Luisa Fernanda Villegas. Propone fortalecimiento de seguridad del Estado, defensa del modelo económico de mercado y orden institucional.",
+    "bio": "Miguel Uribe Londoño nació el 2 de noviembre de 1952 en Medellín. Es economista por la Universidad de Miami y abogado por la Universidad de los Andes. Hijo de Rodrigo Uribe Echavarría (exsenador y exgobernador de Antioquia) y de Olga Elena Londoño Villa, ha desarrollado su carrera en el servicio público, la actividad empresarial y el liderazgo gremial. Entre 1979 y 1982 se desempeñó como Secretario Económico de la Presidencia durante el gobierno de Julio César Turbay Ayala y posteriormente dirigió la fundación ProAntioquia en Bogotá. Presidió la Federación Nacional de Cacaoteros (Fedecacao) entre 1989 y 1997. Fue elegido senador de la República por el Partido Conservador y ejerció el cargo entre 1990 y 1991. En el plano personal, estuvo casado con la periodista Diana Turbay Quintero, hija del expresidente Julio César Turbay Ayala, secuestrada por el Cartel de Medellín y fallecida en enero de 1991 durante un operativo de rescate; fue padre del senador y precandidato presidencial Miguel Uribe Turbay, asesinado en 2025. Tras la muerte de su hijo, Uribe Londoño asumió una aspiración presidencial. Inicialmente vinculado al proceso del Centro Democrático, del que se apartó a finales de 2025, relanzó su candidatura en febrero de 2026 con el aval del Partido Demócrata Colombiano. Inscribió oficialmente su candidatura presidencial el 5 de marzo de 2026, acompañado de su fórmula vicepresidencial, Luisa Fernanda Villegas. Su programa enfatiza la seguridad, la economía de mercado y el fortalecimiento institucional.",
     "incoherences": [
       {
         "id": "miguel-uribe-seguridad-defensa",
@@ -3337,7 +3847,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -3437,6 +3947,30 @@
           "title": "Resultados Gran Consulta por Colombia marzo 2026",
           "outlet": "Registraduría Nacional del Estado Civil",
           "date": "2026-03-08"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Paloma_Valencia",
+          "outlet": "Wikipedia en español",
+          "date": "2026-06-22",
+          "title": "Paloma Valencia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Paloma_Valencia",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Paloma Valencia"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/este-es-el-perfil-de-paloma-valencia-senadora-caucana-filosofa-y-uribista-que-quiere-la-presidencia-de-colombia/",
+          "outlet": "El Espectador",
+          "date": "2026-04-23",
+          "title": "Este es el perfil de Paloma Valencia: senadora caucana, filósofa y uribista que quiere la Presidencia de Colombia"
+        },
+        {
+          "url": "https://www.lafm.com.co/politica/quien-es-paloma-valencia-y-como-llego-a-ser-figura-del-centro-democratico-385452",
+          "outlet": "La FM",
+          "date": "2025-12-15",
+          "title": "¿Quién es Paloma Valencia? Perfil y trayectoria de la senadora del Centro Democrático"
         }
       ],
       "confidence": "medium",
@@ -3466,7 +4000,7 @@
       "nationalist-conservatism",
       "fiscal-conservatism"
     ],
-    "bio": "Paloma Susana Valencia Laserna es abogada, filósofa y política colombiana, senadora de la República por el Centro Democrático desde 2014. Es una de las figuras visibles del ala conservadora del uribismo. Ha sido reconocida por sus intervenciones en debates sobre seguridad, paz y reforma tributaria, así como por su activa oposición al gobierno de Gustavo Petro. En 2025-2026 se inscribió en la consulta interna del Centro Democrático para ser candidata presidencial en 2026.",
+    "bio": "Paloma Susana Valencia Laserna es abogada, filósofa y política colombiana, nacida en Popayán (Cauca). Es abogada y filósofa de la Universidad de los Andes y cuenta con una maestría en escritura creativa realizada en Nueva York. Proviene de una familia con larga trayectoria política: es nieta del expresidente Guillermo León Valencia (1962-1966) y, por línea materna, su abuelo Mario Laserna fue fundador de la Universidad de los Andes. Llegó al Senado de la República en 2014 en la lista del Centro Democrático, partido fundado por Álvaro Uribe, y fue reelegida en los comicios siguientes, ejerciendo como senadora durante varios periodos consecutivos. En el Congreso ha sido una de las figuras visibles del uribismo, con intervenciones en debates sobre seguridad, paz, economía y reforma tributaria, y se ha posicionado como opositora al gobierno de Gustavo Petro. Entre su trabajo legislativo se cuenta la promoción de iniciativas orientadas a la formalización económica, como la denominada Ley de la Escalera de la Formalidad. Fue precandidata presidencial en procesos internos de su partido en 2018 y 2022. En el ciclo electoral de 2025-2026 volvió a presentar su nombre y resultó elegida candidata presidencial del Centro Democrático tras los procesos internos de la colectividad. Posteriormente participó en la elección presidencial de 2026.",
     "incoherences": [
       {
         "id": "paloma-cauca-division",
@@ -3550,7 +4084,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -3658,6 +4192,42 @@
           "title": "Resultados segunda vuelta 2022",
           "outlet": "Registraduría Nacional del Estado Civil",
           "date": "2022-06-19"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Rodolfo_Hern%C3%A1ndez_Su%C3%A1rez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Rodolfo Hernández Suárez"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/rodolfo-hernandez-suarez/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Rodolfo Hernández Suárez - Quién es quién"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Colombia_de_2022",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Elecciones presidenciales de Colombia de 2022"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-2022/actualidad-electoral/rodolfo-hernandez-acepto-resultados-en-presidenciales-y-tomaria-curul-681531",
+          "outlet": "El Tiempo",
+          "date": "2022-06-19",
+          "title": "Rodolfo Hernández reconoció resultado; ¿qué se sabe de su curul en Senado?"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/santander/rodolfo-hernandez-inscribio-su-candidatura-para-la-presidencia-en-2022-599687",
+          "outlet": "El Tiempo",
+          "date": "2021-11-15",
+          "title": "Rodolfo Hernández inscribió su candidatura para la Presidencia en 2022"
+        },
+        {
+          "url": "https://www.vanguardia.com/politica/el-exalcalde-de-bucaramanga-rodolfo-hernandez-inscribio-su-candidatura-para-las-presidenciales-de-2022-EN3942530",
+          "outlet": "Vanguardia",
+          "date": "2021-11-15",
+          "title": "El exalcalde de Bucaramanga Rodolfo Hernández inscribió su candidatura para las presidenciales de 2022"
         }
       ],
       "confidence": "high",
@@ -3687,7 +4257,7 @@
       "fiscal-conservatism",
       "nationalist-conservatism"
     ],
-    "bio": "Rodolfo Hernández Suárez (1945-2025) fue ingeniero civil, empresario de la construcción y político colombiano. Fue alcalde de Bucaramanga (2016-2019) por el movimiento Lógica, Ética y Estética. Candidato presidencial en 2022, llegó a la segunda vuelta contra Gustavo Petro con un discurso anticorrupción y outsider, perdiendo con el 47,31% de votos. Fue senador brevemente (2022-2023). Falleció en 2025 a los 80 años.",
+    "bio": "Rodolfo Hernández Suárez (Piedecuesta, Santander, 26 de marzo de 1945 - 2 de septiembre de 2024) fue un ingeniero civil, empresario de la construcción y político colombiano. Se graduó como ingeniero civil de la Universidad Nacional de Colombia en 1971 y desarrolló su carrera en el sector de la construcción de vivienda, principalmente a través de la empresa HG Constructora. Inició su actividad pública como concejal de Piedecuesta. Fue alcalde de Bucaramanga entre 2016 y 2019, elegido por el movimiento Lógica, Ética y Estética, con una gestión que centró su discurso en la lucha contra la corrupción. En 2021 inscribió su candidatura presidencial mediante recolección de firmas y compitió en las elecciones de 2022 con la Liga de Gobernantes Anticorrupción, presentándose como un aspirante por fuera de los partidos tradicionales. Pasó a la segunda vuelta y, el 19 de junio de 2022, perdió frente a la fórmula de Gustavo Petro y Francia Márquez, que obtuvo el 50,44% de los votos frente al 47,31% de la fórmula Hernández-Castillo; reconoció públicamente el resultado. Como aspirante con la segunda votación, ocupó una curul en el Senado de la República a partir del 20 de julio de 2022, en aplicación del Estatuto de Oposición, durante un breve periodo. A finales de 2023 le fue diagnosticado un cáncer. Falleció el 2 de septiembre de 2024 a causa de complicaciones quirúrgicas.",
     "incoherences": [
       {
         "id": "rodolfo-vitalogic-contrato",
@@ -3771,7 +4341,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -3863,6 +4433,36 @@
           "title": "Comparecencias ante la Jurisdicción Especial para la Paz",
           "outlet": "JEP",
           "date": "2021-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Rodrigo_Londo%C3%B1o",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Rodrigo Londoño"
+        },
+        {
+          "url": "https://colombiacheck.com/rodrigo-londono-timochenko",
+          "outlet": "Colombiacheck",
+          "date": "2026-06-22",
+          "title": "Rodrigo Londoño, 'Timochenko'"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/timochenko-sera-el-candidato-a-la-presidencia-de-la-farc-147024",
+          "outlet": "El Tiempo",
+          "date": "2017-11-01",
+          "title": "Timochenko e Imelda Daza, fórmula presidencial de la Farc"
+        },
+        {
+          "url": "https://www.infobae.com/america/colombia/2018/01/28/timochenko-el-ex-jefe-de-la-guerrilla-farc-presento-su-candidatura-presidencial-en-colombia/",
+          "outlet": "Infobae",
+          "date": "2018-01-28",
+          "title": "\"Timochenko\", el ex jefe de la guerrilla FARC, presentó su candidatura presidencial en Colombia"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-colombia-2018/presidenciales/rodrigo-londono-timochenko-renuncia-a-su-candidatura-presidencial-191326",
+          "outlet": "El Tiempo",
+          "date": "2018-03-08",
+          "title": "Rodrigo Londoño, Timochenko, renuncia a su candidatura presidencial"
         }
       ],
       "confidence": "low",
@@ -3892,7 +4492,7 @@
       "democratic-socialism",
       "left-populism"
     ],
-    "bio": "Rodrigo Londoño Echeverri, conocido como \"Timochenko\", es un político colombiano, último comandante de las FARC-EP y firmante del Acuerdo de Paz de 2016. Tras la desmovilización presidió el partido Fuerza Alternativa Revolucionaria del Común (FARC), luego renombrado Comunes en 2021. En 2018 fue candidato presidencial, retirándose antes de la primera vuelta.",
+    "bio": "Rodrigo Londoño Echeverri, conocido como \"Timochenko\" o \"Timoleón Jiménez\", nació el 20 de enero de 1959 en La Tebaida, Quindío. Se vinculó desde joven a la Juventud Comunista en Armenia y realizó estudios en el exterior, incluida una estancia en la Unión Soviética. Ingresó a las FARC-EP en 1976 y ascendió dentro de su estructura hasta integrar el Secretariado en 1986. Tras la muerte de Alfonso Cano en 2011, asumió como último comandante en jefe de la guerrilla. Encabezó la delegación de las FARC-EP en las negociaciones de paz con el Gobierno de Juan Manuel Santos y firmó el Acuerdo Final de Paz el 24 de noviembre de 2016. En el proceso de transición a la vida política, las FARC se constituyeron el 1 de septiembre de 2017 como partido Fuerza Alternativa Revolucionaria del Común (FARC), renombrado Comunes en 2021, del cual ha sido presidente. El 1 de noviembre de 2017 fue proclamado candidato presidencial del partido, con Imelda Daza como fórmula vicepresidencial, para las elecciones de 2018. Su campaña, identificada con el lema \"Timo Presidente\", fue la primera incursión electoral de la colectividad tras el acuerdo de paz. El 1 de marzo de 2018 fue hospitalizado y sometido a una cirugía cardíaca en la Clínica Shaio de Bogotá; el 8 de marzo de 2018 anunció su retiro de la contienda presidencial por motivos de salud, sin que el partido presentara candidato de reemplazo. Posteriormente ha continuado vinculado a la dirigencia de Comunes y a la implementación del Acuerdo de Paz.",
     "incoherences": [
       {
         "id": "rl-desmovilizacion-armas",
@@ -3978,7 +4578,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -4039,7 +4639,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Roy Leonardo Barreras Montealegre se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -4073,6 +4673,36 @@
           "title": "Presidencia del Senado 2022-2023",
           "outlet": "Senado de la República",
           "date": "2023-07-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Roy_Barreras",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Roy Barreras"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/quien-es-roy-barreras-es-de-izquierda-o-derecha-cargos-politicos-trayectoria-y-hoja-de-vida/",
+          "outlet": "El Espectador",
+          "date": "2026-04-20",
+          "title": "Él es Roy Barreras: un político de múltiples banderas que quiere llegar a la Presidencia"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/frente-por-la-vida/roy-barreras-quien-es-el-operador-politico-que-ira-a-primera-vuelta-con-bandera-moderada-del-progresismo-3538488",
+          "outlet": "El Tiempo",
+          "date": "2026-06-22",
+          "title": "¿Quién es Roy Barreras, el operador político que irá a primera vuelta con bandera moderada del progresismo?"
+        },
+        {
+          "url": "https://www.lafm.com.co/politica/roy-barreras-perfil-carrera-politica-propuestas-presidenciales-2026-392386",
+          "outlet": "La FM",
+          "date": "2026-06-22",
+          "title": "Roy Barreras es candidato presidencial: estas son sus propuestas"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/politica/roy-barreras-consulta-marzo-elecciones-2026-frente-por-la-vida-AD34370066",
+          "outlet": "El Colombiano",
+          "date": "2026-06-22",
+          "title": "Roy Barreras, el gran perdedor de las consultas: le ganó a Quintero"
         }
       ],
       "confidence": "high",
@@ -4102,7 +4732,7 @@
       "third-way",
       "progressivism"
     ],
-    "bio": "Roy Leonardo Barreras Montealegre es médico, abogado y político colombiano. Ha sido senador en múltiples legislaturas desde 2006, inicialmente por el Partido de la U, luego alineado con Juan Manuel Santos y posteriormente con Gustavo Petro en el Pacto Histórico. Fue Presidente del Senado (2022-2023), embajador de Colombia en el Reino Unido y es conocido por su rol en la aprobación de reformas clave de los gobiernos Santos y Petro. Se perfila como candidato presidencial para 2026 desde una plataforma propia de centro ('La Fuerza').",
+    "bio": "Roy Leonardo Barreras Montealegre (Bogotá, 27 de noviembre de 1963) es médico, abogado, escritor y político colombiano. Se graduó como médico cirujano de la Universidad Nacional de Colombia (1987) y realizó posgrados en derecho público y otras áreas. Inició su carrera en el Congreso como representante a la Cámara por el Valle del Cauca (2006-2010) y posteriormente fue senador de la República de manera continuada desde 2010 hasta 2023. A lo largo de su trayectoria militó en distintas colectividades, entre ellas el Partido Liberal, Cambio Radical, el Partido de la U y, más adelante, el Pacto Histórico. Fue presidente del Senado en dos ocasiones (2012-2013 y 2022-2023) y participó como negociador en el proceso de paz del Gobierno de Juan Manuel Santos con las FARC. Tras dejar el Senado en 2023, fue nombrado embajador de Colombia en el Reino Unido, cargo que ejerció hasta abril de 2025, cuando renunció para preparar su aspiración presidencial. En la consulta interpartidista del 8 de marzo de 2026 fue elegido candidato presidencial de la coalición Frente por la Vida, derrotando a otros precandidatos como Daniel Quintero. Se ha presentado como una figura de centro y progresismo moderado de cara a las elecciones presidenciales de 2026.",
     "incoherences": [
       {
         "id": "barreras-uribismo-santismo-petrismo",
@@ -4186,7 +4816,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -4260,7 +4890,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Sergio Fajardo Valderrama, de Alianza Verde, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -4285,7 +4915,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Confianza baja (pendiente auditoría completa). Acciones evaluadas: (1) alcaldía Medellín 2004-2007: Parques Biblioteca, Plan de Desarrollo con Presupuesto Participativo — inversión social significativa (centro-izquierda); (2) gobernación Antioquia 2012-2015: continuidad de modelo educativo pero gestión fiscal conservadora; (3) investigación de Contraloría por irregularidades en Hidroituango (pendiente resolución). El proyecto ubica en centro levemente a la derecha (x=1) con tendencia libertaria (y=-2) por énfasis en transparencia institucional y descentralización.",
       "sources": [
@@ -4300,6 +4930,30 @@
           "title": "Plan de Desarrollo 'Medellín Compromiso de Toda la Ciudadanía' 2004-2007",
           "outlet": "Alcaldía de Medellín",
           "date": "2007-12-01"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sergio_Fajardo",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Sergio Fajardo"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/quien-es-sergio-fajardo-su-paso-por-la-alcaldia-de-medellin-la-gobernacion-de-antioquia-y-su-relacion-con-petro-y-uribe-noticias-hoy/",
+          "outlet": "El Espectador",
+          "date": "2026-04-22",
+          "title": "Quién es Sergio Fajardo: su paso por la Alcaldía de Medellín, la Gobernación de Antioquia y su relación con Petro y Uribe"
+        },
+        {
+          "url": "https://especiales.semana.com/elecciones-presidenciales-2018/candidatos-hoja-de-vida/sergio-fajardo.html",
+          "outlet": "Semana",
+          "date": "2026-06-22",
+          "title": "Sergio Fajardo: candidato presidencial de la Coalición Colombia"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/sergio-fajardo/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Sergio Fajardo"
         }
       ],
       "confidence": "high",
@@ -4329,7 +4983,7 @@
       "progressivism",
       "technocracy"
     ],
-    "bio": "Sergio Fajardo Valderrama es matemático y político colombiano. Fue alcalde de Medellín (2004-2007) y gobernador de Antioquia (2012-2015). Candidato presidencial en 2018 (coalición con Claudia López y Jorge Enrique Robledo) y en 2022 (Coalición Centro Esperanza). Ha sido reconocido por su énfasis en educación pública como política social transformadora y por una imagen de independencia frente a los grandes partidos tradicionales. Actualmente mantiene su intención de postularse a la Presidencia en 2026.",
+    "bio": "Sergio Fajardo Valderrama (Medellín, 19 de junio de 1956) es matemático y político colombiano. Realizó estudios de pregrado y maestría en Matemáticas en la Universidad de los Andes y un doctorado en Matemáticas en la Universidad de Wisconsin-Madison, en Estados Unidos. Inició su trayectoria pública desde el movimiento ciudadano Compromiso Ciudadano y fue elegido alcalde de Medellín para el período 2004-2007, gestión asociada al modelo de urbanismo social, con obras como los parques biblioteca y la ampliación del transporte público, y con un fuerte énfasis en la educación pública como política social. Posteriormente fue gobernador de Antioquia entre 2012 y 2015. En 2010 fue fórmula vicepresidencial de Antanas Mockus. Fue candidato presidencial en 2018 por la Coalición Colombia (con apoyo de la Alianza Verde, el Polo Democrático y Compromiso Ciudadano), elección en la que ocupó el tercer lugar en la primera vuelta con más de 4,6 millones de votos. En 2022 volvió a aspirar a la Presidencia como candidato de la Coalición Centro Esperanza. Se ha presentado como una figura de centro, independiente de los partidos tradicionales, con la lucha contra la corrupción y la educación como ejes de su discurso. Inscribió una nueva candidatura presidencial de cara a las elecciones de 2026. También se ha desempeñado como profesor universitario.",
     "incoherences": [
       {
         "id": "fajardo-voto-blanco-2018",
@@ -4413,7 +5067,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -4498,6 +5152,36 @@
           "title": "Resultados Gran Consulta por Colombia marzo 2026",
           "outlet": "Registraduría Nacional del Estado Civil",
           "date": "2026-03-08"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Vicky_D%C3%A1vila",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Vicky Dávila"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Gran_Consulta_por_Colombia_de_2026",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Gran Consulta por Colombia de 2026"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/03/09/vicky-davila-reconocio-el-triunfo-de-paloma-valencia-y-confirmo-que-volvera-al-periodismo-ahora-me-toca-mandar-hojas-de-vida/",
+          "outlet": "Infobae",
+          "date": "2026-03-09",
+          "title": "Vicky Dávila reconoció el triunfo de Paloma Valencia y confirmó que volverá al periodismo"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2024/11/14/vicky-davila-del-periodismo-a-la-politica-perfil-de-una-figura-controversial/",
+          "outlet": "Infobae",
+          "date": "2024-11-14",
+          "title": "Vicky Dávila, del periodismo a la política: perfil de una figura controversial"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/vicky-davila-cual-es-el-perfil-de-la-candidata-presidencial-HK25852674",
+          "outlet": "El Colombiano",
+          "date": "2024-11-14",
+          "title": "Vicky Dávila: cuál es el perfil de la candidata presidencial"
         }
       ],
       "confidence": "low",
@@ -4527,7 +5211,7 @@
       "classical-liberalism",
       "fiscal-conservatism"
     ],
-    "bio": "Vicky Dávila Hoyos es periodista colombiana con más de 30 años de trayectoria. Fue directora de Semana (2020-2024). En noviembre de 2024 renunció a la revista para lanzar su precandidatura presidencial bajo el Movimiento Valientes. Recogió más de 1.3 millones de firmas y participó en la Gran Consulta por Colombia del 8 de marzo de 2026, obteniendo 238.045 votos (5to lugar). La consulta fue ganada por Paloma Valencia con 3.236.286 votos. Tras reconocer la derrota, Dávila anunció su apoyo a Valencia y su retorno al periodismo.",
+    "bio": "Victoria Eugenia Dávila Hoyos, conocida como Vicky Dávila, nació el 30 de mayo de 1973 en el Valle del Cauca. Es comunicadora social egresada de la Universidad Autónoma de Occidente y desarrolló una carrera periodística de más de tres décadas en radio y televisión. Fue presentadora de Noticias RCN entre 1998 y 2015, y trabajó posteriormente en W Radio y La FM. Entre noviembre de 2020 y noviembre de 2024 dirigió la revista Semana. A lo largo de su trayectoria recibió varios reconocimientos, entre ellos premios de periodismo Simón Bolívar. En noviembre de 2024 renunció a Semana para lanzar su precandidatura presidencial de cara a las elecciones de 2026, recogiendo firmas a través del Movimiento Valientes. Participó en la Gran Consulta por Colombia celebrada el 8 de marzo de 2026, en la que obtuvo 238.045 votos (aproximadamente 4 % de la participación), quedando en quinto lugar entre los nueve aspirantes. La consulta fue ganada por Paloma Valencia, del Centro Democrático, con 3.236.286 votos. Tras conocerse los resultados, Dávila reconoció el triunfo de Valencia, le manifestó su apoyo y anunció su regreso al ejercicio periodístico, cerrando así su primera incursión en la actividad electoral.",
     "incoherences": [
       {
         "id": "davila-semana-objetividad",
@@ -4613,7 +5297,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -4692,6 +5376,36 @@
           "title": "Consulta antiadopción 2017 y resultados 2018",
           "outlet": "Registraduría Nacional del Estado Civil",
           "date": "2018-05-27"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Viviane_Morales",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Viviane Morales"
+        },
+        {
+          "url": "https://www.fiscalia.gov.co/la-entidad/el-fiscal/ex-fiscales/viviane-morales-hoyos/",
+          "outlet": "Fiscalía General de la Nación",
+          "date": "2026-06-22",
+          "title": "Viviane Morales Hoyos - Exfiscales"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/viviane-aleyda-morales-hoyos/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Viviane Aleyda Morales Hoyos"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/perfil-de-la-candidata-presidencial-viviane-morales-108828",
+          "outlet": "El Tiempo",
+          "date": "2017-07-13",
+          "title": "Perfil de la candidata presidencial Viviane Morales"
+        },
+        {
+          "url": "https://www.aa.com.tr/es/mundo/una-exfiscal-general-colombiana-lanza-su-candidatura-a-la-presidencia/1031768",
+          "outlet": "Agencia Anadolu",
+          "date": "2018-01-15",
+          "title": "Una exfiscal general colombiana lanza su candidatura a la presidencia"
         }
       ],
       "confidence": "low",
@@ -4721,7 +5435,7 @@
       "traditionalist-conservatism",
       "fiscal-conservatism"
     ],
-    "bio": "Viviane Morales Hoyos es abogada y política colombiana, Fiscal General de la Nación encargada en 2011 —primera mujer en el cargo—, exsenadora del Partido Liberal y luego del movimiento Somos. Cristiana evangélica, lideró en 2017 una consulta popular contra la adopción de menores por parejas del mismo sexo. En 2018 fue precandidata presidencial, retirándose antes de la primera vuelta.",
+    "bio": "Viviane Aleyda Morales Hoyos nació en Bogotá el 17 de marzo de 1962. Es abogada de la Universidad del Rosario (1984) y realizó estudios de posgrado en Derecho Público en la Universidad de París II Panthéon-Assas. Especialista en derecho constitucional, ejerció como docente universitaria. Inició su carrera legislativa en 1991 como representante a la Cámara por Bogotá, vinculada inicialmente a movimientos de origen cristiano, y posteriormente fue senadora de la República por el Partido Liberal (1998-2002 y 2014-2018). En diciembre de 2010 fue elegida Fiscal General de la Nación, convirtiéndose en la primera mujer en ocupar ese cargo; ejerció entre enero de 2011 y el 6 de marzo de 2012. Su designación fue posteriormente anulada por el Consejo de Estado. En 2017 promovió una consulta popular para limitar la adopción de menores a parejas conformadas por un hombre y una mujer. El 15 de enero de 2018 anunció su candidatura presidencial para el periodo 2018-2022 con el partido Somos Región Colombia, renunciando al Partido Liberal y a su curul en el Senado; el 2 de mayo de 2018 retiró su aspiración antes de la primera vuelta y respaldó la candidatura de Iván Duque. Entre noviembre de 2018 y mayo de 2021 fue embajadora de Colombia en Francia durante el gobierno de Duque. Habla español, inglés y francés. Posteriormente se ha desempeñado como columnista de opinión.",
     "incoherences": [
       {
         "id": "viviane-morales-acuerdo-paz",
@@ -4778,7 +5492,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],

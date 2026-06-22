@@ -72,6 +72,30 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Juli%C3%A1n_Rend%C3%B3n",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Andrés Julián Rendón"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/medellin/el-es-andres-julian-rendon-el-nuevo-gobernador-de-antioquia-821050",
+          "outlet": "El Tiempo",
+          "date": "2023-10-29",
+          "title": "Él es Andrés Julián Rendón, el nuevo gobernador de Antioquia"
+        },
+        {
+          "url": "https://www.semana.com/nacion/medellin/articulo/el-centro-democratico-vuelve-al-poder-en-antioquia-andres-julian-rendon-toma-posesion-como-gobernador/202409/",
+          "outlet": "Semana",
+          "date": "2024-01-01",
+          "title": "El Centro Democrático vuelve al poder en Antioquia: Andrés Julián Rendón toma posesión como gobernador"
+        },
+        {
+          "url": "https://www.metrodemedellin.gov.co/quienes-somos/gobierno-corporativo/junta-directiva/andres-julian-rendon-cardona",
+          "outlet": "Metro de Medellín",
+          "date": "2026-06-22",
+          "title": "Andrés Julián Rendón Cardona - Junta Directiva"
         }
       ],
       "confidence": "high",
@@ -91,7 +115,7 @@
       "neo-conservatism",
       "fiscal-conservatism"
     ],
-    "bio": "Andrés Julián Rendón Cardona es abogado, economista y político colombiano, gobernador de Antioquia desde enero de 2024 por el Centro Democrático. Fue alcalde de Rionegro (2016-2019). Es una de las figuras visibles del uribismo en el departamento de Antioquia.",
+    "bio": "Andrés Julián Rendón Cardona (Rionegro, Antioquia, 9 de enero de 1978) es economista y político colombiano, gobernador de Antioquia para el período 2024-2027. Es economista de la Universidad EAFIT, con especialización en Regulación Económica de la misma universidad, maestría en Economía de la Universidad de los Andes y maestría en Administración Pública de la American University de Washington D.C. Inició su trayectoria pública como concejal de Rionegro a comienzos de la década de 2000 y posteriormente fue asesor del Ministerio de Hacienda y Crédito Público. Entre 2008 y 2011 se desempeñó como secretario de Gobierno de Antioquia durante la administración del gobernador Luis Alfredo Ramos. Fue alcalde de Rionegro entre 2016 y 2019, cargo al que llegó tras ser elegido en octubre de 2015 con más del 62 % de los votos. En lo partidista pasó por el Partido Liberal y Cambio Radical antes de vincularse al Centro Democrático, colectividad por la que ha desarrollado su carrera más reciente. En las elecciones regionales del 29 de octubre de 2023 fue elegido gobernador de Antioquia con cerca de un millón de votos, superando a los exgobernadores Luis Pérez Gutiérrez y a Luis Fernando Suárez. Tomó posesión el 1 de enero de 2024 en una ceremonia realizada en el municipio de Cisneros. Entre los ejes anunciados de su gestión figuran la financiación de proyectos viales como las Autopistas de la Montaña, el fortalecimiento de la seguridad y la promoción de iniciativas de orden fiscal. Es una de las figuras visibles del Centro Democrático en el departamento.",
     "incoherences": [
       {
         "id": "rendon-antioquia-independencia-uribismo",
@@ -181,7 +205,7 @@
         "nuances": "La desaceleración económica nacional y cambios en el mercado laboral afectaron el cumplimiento de la meta."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -256,7 +280,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -3.0,
+      "x": -3,
       "y": -4.17,
       "justification": "Carlos Andrés Amaya Rodríguez, de Alianza Verde, se presenta públicamente alineado con «Política verde», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -308,6 +332,30 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Carlos_Andr%C3%A9s_Amaya",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Carlos Andrés Amaya"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/carlos-andres-amaya/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Carlos Andrés Amaya Rodríguez - Quién es Quién"
+        },
+        {
+          "url": "https://www.elpais.com.co/politica/quien-es-carlos-amaya-el-gobernador-de-boyaca-que-repite-mandato-2950.html",
+          "outlet": "El País (Cali)",
+          "date": "2023-10-30",
+          "title": "¿Quién es Carlos Amaya, el gobernador de Boyacá que repite mandato?"
+        },
+        {
+          "url": "https://www.semana.com/politica/articulo/con-un-4270-carlos-amaya-fue-elegido-como-el-nuevo-gobernador-de-boyaca/202324/",
+          "outlet": "Semana",
+          "date": "2023-10-29",
+          "title": "Con 42,6 % de votos, Carlos Amaya fue elegido como el nuevo gobernador de Boyacá"
         }
       ],
       "confidence": "high",
@@ -327,7 +375,7 @@
       "progressivism",
       "social-liberalism"
     ],
-    "bio": "Carlos Andrés Amaya Rodríguez es ingeniero mecánico y político colombiano, gobernador de Boyacá en dos períodos (2016-2019 y 2024-actual) por la Alianza Verde. Fue representante a la Cámara por Boyacá (2010-2015). Es una de las figuras más visibles del Partido Verde en los departamentos andinos.",
+    "bio": "Carlos Andrés Amaya Rodríguez (Socha, Boyacá, 17 de septiembre de 1984) es un ingeniero y político colombiano de la Alianza Verde. Se formó como ingeniero electrónico en la Universidad Pedagógica y Tecnológica de Colombia (UPTC) y cuenta con estudios de posgrado, entre ellos una maestría en Gobierno y Políticas Públicas en la Universidad Externado de Colombia y una maestría en Historia Económica cursada en Barcelona, España. Inició su trayectoria como líder estudiantil en Boyacá. En 2010 fue elegido representante a la Cámara por Boyacá, cargo que ejerció en el período legislativo iniciado ese año, siendo uno de los congresistas más jóvenes de su momento. En octubre de 2015 fue elegido gobernador de Boyacá para el período 2016-2019, convirtiéndose en uno de los gobernadores más jóvenes en la historia del departamento. En 2021 fue precandidato presidencial dentro de la coalición de centro (Coalición de la Esperanza / Centro Esperanza) de cara a las elecciones de 2022. En las elecciones regionales del 29 de octubre de 2023 fue elegido nuevamente gobernador de Boyacá con cerca del 42,6 % de los votos, superando a Rodrigo Rojas. Asumió este segundo mandato el 1 de enero de 2024, cargo que ejerce en la actualidad.",
     "incoherences": [
       {
         "id": "amaya-verde-boyaca-autonomia-pacto",
@@ -388,7 +436,7 @@
         "nuances": "Prioridad declarada en educación vs. avances modestos frente a metas ambiciosas iniciales"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -463,7 +511,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Dilian Francisca Toro Torres, de Partido de la U, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -515,6 +563,36 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/dilian-francisca-toro-torres/87/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Dilian Francisca Toro Torres | Perfil congresista"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dilian_Francisca_Toro",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Dilian Francisca Toro"
+        },
+        {
+          "url": "https://www.valledelcauca.gov.co/publicaciones/31748/curriculum-gobernadora/",
+          "outlet": "Gobernación del Valle del Cauca",
+          "date": "2026-06-22",
+          "title": "Currículum Gobernadora Dilian Francisca Toro Torres"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/cali/quien-es-dilian-francisca-toro-la-nueva-gobernadora-del-valle-820840",
+          "outlet": "El Tiempo",
+          "date": "2023-10-29",
+          "title": "¿Quién es Dilian Francisca Toro, la nueva gobernadora del Valle?"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2023/10/29/dilian-francisca-toro-la-medica-que-regresara-a-la-gobernacion-del-valle-del-cauca/",
+          "outlet": "Infobae",
+          "date": "2023-10-29",
+          "title": "Dilian Francisca Toro, la médica que regresará a la Gobernación del Valle del Cauca"
         }
       ],
       "confidence": "high",
@@ -534,7 +612,7 @@
       "third-way",
       "liberal-conservatism"
     ],
-    "bio": "Dilian Francisca Toro Torres es médica cirujana y política colombiana, gobernadora del Valle del Cauca en dos períodos (2016-2019 y 2024-actual) por el Partido de la U. Fue senadora de la República (2002-2016), presidenta del Senado (2015-2016) y presidenta del Partido de la U. Es una de las figuras centrales del pragmatismo político del suroccidente colombiano.",
+    "bio": "Dilian Francisca Toro Torres (Guacarí, Valle del Cauca, 1959) es médica cirujana y política colombiana. Se formó como médica en la Universidad Libre de Cali y cuenta con especializaciones en áreas como medicina interna, reumatología y administración en salud. Inició su trayectoria pública en su municipio natal, donde fue concejala (1984-1988) y alcaldesa de Guacarí (1992-1994). En 2002 fue elegida senadora de la República, curul que ocupó hasta 2016; durante el período 2006-2007 ejerció como presidenta del Senado, siendo una de las pocas mujeres en alcanzar ese cargo. En el Congreso participó en la tramitación de reformas en materia de salud, como las leyes 1122 de 2007 y 1438 de 2011. En 2004 pasó del Partido Liberal al Partido de la U, colectividad de la que posteriormente fue presidenta. En 2015 fue elegida gobernadora del Valle del Cauca para el período 2016-2019. Tras las elecciones regionales del 29 de octubre de 2023 volvió a ser elegida gobernadora del Valle del Cauca, cargo que ejerce desde 2024. A lo largo de su carrera enfrentó investigaciones y procesos judiciales relacionados con la denominada parapolítica, de los que fue absuelta. Es una de las figuras de mayor proyección política del suroccidente colombiano.",
     "incoherences": [
       {
         "id": "toro-poder-valle-renovacion-continuidad",
@@ -624,7 +702,7 @@
         "nuances": "Insuficiencia de recursos transferidos por la Nación limitó la inversión esperada."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -725,7 +803,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Continuidad en gestión administrativa regional. Acciones: Informes Contraloría del Atlántico, Plan de Desarrollo Atlántico, ejecución presupuestal según DNP.",
       "sources": [
@@ -752,6 +830,36 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eduardo_Verano_de_la_Rosa",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Eduardo Verano de la Rosa"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/eduardo-verano-de-la-rosa/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Eduardo Ignacio Verano de la Rosa - Quién es Quién"
+        },
+        {
+          "url": "https://www.semana.com/politica/articulo/eduardo-verano-de-la-rosa-es-el-nuevo-gobernador-de-atlantico/202325/",
+          "outlet": "Semana",
+          "date": "2023-10-29",
+          "title": "Eduardo Verano de la Rosa es el nuevo gobernador de Atlántico"
+        },
+        {
+          "url": "https://www.elpais.com.co/colombia/eduardo-verano-de-la-rosa-conozca-el-perfil-del-nuevo-gobernador-del-atlantico-3107.html",
+          "outlet": "El País (Cali)",
+          "date": "2023-12-31",
+          "title": "Conozca el perfil de Eduardo Verano de la Rosa, el nuevo gobernador del Atlántico"
+        },
+        {
+          "url": "https://www.atlantico.gov.co/index.php/gobernador",
+          "outlet": "Gobernación del Atlántico",
+          "date": "2026-06-22",
+          "title": "El Gobernador"
         }
       ],
       "confidence": "high",
@@ -770,7 +878,7 @@
       "classical-liberalism",
       "social-liberalism"
     ],
-    "bio": "Eduardo Verano de la Rosa es abogado constitucionalista y político colombiano, gobernador del Atlántico en tres períodos (2008-2011, 2016-2019 y 2024-actual) por Cambio Radical. Fue miembro de la Asamblea Nacional Constituyente que redactó la Constitución de 1991. Aliado político de la casa Char de Barranquilla.",
+    "bio": "Eduardo Ignacio Verano de la Rosa (Barranquilla, 8 de octubre de 1950) es un administrador de empresas y político colombiano del Partido Liberal. Estudió Administración de Empresas en la Universidad del Norte, realizó una especialización en desarrollo regional urbano y obtuvo un MBA en la Universidad de Columbia (Nueva York). Antes de su carrera política ocupó cargos directivos en empresas de cemento, telecomunicaciones y energía de la costa Caribe. En 1990 fue elegido miembro de la Asamblea Nacional Constituyente que redactó la Constitución de 1991, donde impulsó disposiciones a favor de la descentralización y la asociación de departamentos. Durante los años noventa dirigió entidades estatales como Inravisión y la Corporación Eléctrica de la Costa Atlántica (Corelca), y fue ministro de Ambiente en el gobierno de Ernesto Samper (1997-1998). Posteriormente se desempeñó como secretario general del Partido Liberal. Ha sido gobernador del departamento del Atlántico en tres períodos no consecutivos: 2008-2011, 2016-2019 y, tras su elección en octubre de 2023 con aval del Partido Liberal y respaldo de varias fuerzas políticas regionales, el período que inició el 1 de enero de 2024. Su gestión se ha centrado en temas de infraestructura, desarrollo regional y ambiente. A 2026 ejerce como gobernador del Atlántico.",
     "incoherences": [
       {
         "id": "verano-atlantico-continuidad-casa-char",
@@ -860,7 +968,7 @@
         "nuances": "Déficit de infraestructura y migración de docentes impidieron alcanzar la meta."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -926,7 +1034,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Henry Gutiérrez Ángel, de Partido de la U, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -951,7 +1059,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Gestión enfocada en educación y conectividad regional. Acciones: Plan de Desarrollo Caldas, informes técnicos de Contraloría de Caldas y Planeación Departamental.",
       "sources": [
@@ -978,6 +1086,30 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Henry_Guti%C3%A9rrez_%C3%81ngel",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Henry Gutiérrez Ángel"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/otras-ciudades/henry-gutierrez-este-es-el-nuevo-gobernador-de-caldas-elecciones-colombia-2023-821215",
+          "outlet": "El Tiempo",
+          "date": "2023-10-30",
+          "title": "Henry Gutiérrez, este es el nuevo gobernador de Caldas | Elecciones Colombia 2023"
+        },
+        {
+          "url": "https://www.lapatria.com/caldas/henry-gutierrez-toma-la-batuta-como-gobernador-de-caldas-posesion-en-la-plaza-de-bolivar",
+          "outlet": "La Patria",
+          "date": "2024-01-01",
+          "title": "Henry Gutiérrez toma la batuta como gobernador de Caldas: posesión en la Plaza de Bolívar"
+        },
+        {
+          "url": "https://www.lapatria.com/politica/henry-gutierrez-vence-luis-roberto-rivas-y-gana-la-carrera-por-la-gobernacion-de-caldas",
+          "outlet": "La Patria",
+          "date": "2023-10-29",
+          "title": "Henry Gutiérrez vence a Luis Roberto Rivas y gana la carrera por la Gobernación de Caldas"
         }
       ],
       "confidence": "low",
@@ -997,7 +1129,7 @@
       "third-way",
       "progressivism"
     ],
-    "bio": "Gobernador de Caldas para el período 2024-2027 por el Partido Liberal.",
+    "bio": "Henry Gutiérrez Ángel (Santa Rosa de Cabal, Risaralda, 1957) es un médico y político colombiano, gobernador de Caldas para el período 2024-2027. Se formó como médico en la Universidad de Caldas y ejerció la profesión durante más de cuatro décadas, además de desempeñarse como docente universitario en la Universidad de Manizales y en la Universidad Autónoma de Manizales. Su trayectoria política se ha desarrollado en el departamento de Caldas, donde fue diputado de la Asamblea Departamental en los períodos 2012-2015 y 2016-2019, llegando a presidir la corporación, y posteriormente concejal de Manizales. En las elecciones regionales del 29 de octubre de 2023 fue elegido gobernador de Caldas con 200.414 votos, equivalentes al 46,25 % del total, derrotando a su principal contendor, Luis Roberto Rivas. Su candidatura fue avalada por el Partido de la U y respaldada por varias colectividades, entre ellas Gente en Movimiento, el Movimiento Alternativo Indígena y Social (MAIS), Colombia Renaciente y la Alianza Verde. Se posesionó el 1 de enero de 2024 en la Plaza de Bolívar de Manizales y comenzó su mandato con la presentación del Plan de Desarrollo 2024-2027 ante la Asamblea Departamental. Entre las prioridades anunciadas para su gestión figuran proyectos de infraestructura y conectividad vial, programas de alimentación escolar, el fortalecimiento del Hospital San Félix y la generación de empleo. Actualmente ejerce como gobernador en propiedad de Caldas.",
     "incoherences": [
       {
         "id": "hg-educacion-expansion",
@@ -1085,7 +1217,7 @@
         "nuances": "Volatilidad de precios del café y limitado acceso a crédito redujeron expansión laboral."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1155,7 +1287,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Jorge Emilio Rey Ángel, de Partido de la U, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -1207,6 +1339,30 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Jorge_Emilio_Rey",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Jorge Emilio Rey"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/jorge-emilio-rey-angel/8918/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Jorge Emilio Rey Ángel | Perfil congresista"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2023/10/29/jorge-emilio-rey-fue-reelegido-como-gobernador-de-cundinamarca/",
+          "outlet": "Infobae",
+          "date": "2023-10-29",
+          "title": "Jorge Emilio Rey fue reelegido como gobernador de Cundinamarca"
+        },
+        {
+          "url": "https://www.eltiempo.com/bogota/elecciones-2023-jorge-rey-vuelve-a-ganar-la-gobernacion-de-cundinamarca-821074",
+          "outlet": "El Tiempo",
+          "date": "2023-10-29",
+          "title": "Elecciones 2023: Jorge Rey vuelve a ganar la Gobernación de Cundinamarca"
         }
       ],
       "confidence": "medium",
@@ -1225,7 +1381,7 @@
       "social-liberalism",
       "third-way"
     ],
-    "bio": "Jorge Emilio Rey Ángel es abogado y político colombiano, gobernador de Cundinamarca en dos períodos (2016-2019 y 2024-actual) por el Partido de la U. Es una figura central del pragmatismo político del centro del país.",
+    "bio": "Jorge Emilio Rey Ángel (Funza, Cundinamarca, 23 de febrero de 1976) es un administrador público y político colombiano. Estudió en la Escuela Superior de Administración Pública (ESAP) y cursó una especialización en planificación y desarrollo regional, con estudios en la Universidad de los Andes y la Universidad Externado de Colombia. Inició su trayectoria pública como secretario de Gobierno de Funza (2003-2006) y luego fue alcalde de ese municipio (2008-2011). En 2012 dirigió el Instituto Departamental de Acción Comunal y Participación Ciudadana (Idaco). En 2014 fue elegido representante a la Cámara por Cundinamarca, escaño al que renunció pocos meses después para presentarse a la Gobernación. Ganó las elecciones de 2015 y ejerció como gobernador de Cundinamarca durante el período 2016-2019. En las elecciones regionales del 29 de octubre de 2023 fue elegido nuevamente gobernador, con 722.842 votos (57,31 %), y asumió el cargo para el período 2024-2027. A lo largo de su carrera ha estado vinculado a distintas colectividades, entre ellas el Partido Liberal, Cambio Radical y Colombia Renaciente, y ha contado con el aval o coaval de varios partidos, incluido el Partido de la U. Su gestión se ha enfocado en infraestructura, educación y desarrollo regional en el departamento.",
     "incoherences": [
       {
         "id": "rey-cundinamarca-u-continuidad-establecimiento",
@@ -1315,7 +1471,7 @@
         "nuances": "Limitaciones técnicas municipales impidieron implementación completa."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1433,6 +1589,30 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Juvenal_D%C3%ADaz",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Juvenal Díaz"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/santander/juvenal-diaz-el-general-del-ejercito-que-se-convierte-en-gobernador-de-santander-820430",
+          "outlet": "El Tiempo",
+          "date": "2023-10-29",
+          "title": "Juvenal Díaz: el general del Ejército que se convierte en gobernador de Santander"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/el-general-r-juvenal-diaz-es-el-nuevo-gobernador-de-santander-noticias-hoy/",
+          "outlet": "El Espectador",
+          "date": "2023-10-30",
+          "title": "El general (r) Juvenal Díaz es el nuevo gobernador de Santander"
+        },
+        {
+          "url": "https://www.noticiascaracol.com/politica/juvenal-diaz-mateus-conozca-al-nuevo-gobernador-de-santander-so35",
+          "outlet": "Noticias Caracol",
+          "date": "2023-12-30",
+          "title": "Juvenal Díaz Mateus: conozca al nuevo gobernador de Santander"
         }
       ],
       "confidence": "low",
@@ -1452,7 +1632,7 @@
       "neo-conservatism",
       "nationalist-conservatism"
     ],
-    "bio": "Juvenal Díaz Mateus es mayor general retirado del Ejército Nacional y gobernador de Santander para el período 2024-2027 por el Centro Democrático.",
+    "bio": "Juvenal Díaz Mateus (La Paz, Santander, 31 de julio de 1967) es un militar retirado, administrador de empresas y político colombiano, gobernador de Santander para el período 2024-2027. Realizó una carrera de unos 35 años en el Ejército Nacional, en la que alcanzó el grado de mayor general. Entre los cargos que desempeñó figuran la dirección de la Escuela Militar de Cadetes \"José María Córdova\" (2017-2019) y el comando de la Séptima División, con jurisdicción en Antioquia, Córdoba, Chocó y el sur de Sucre. Su formación incluye el título profesional en Ciencias Militares, estudios en administración de empresas solidarias y maestrías en seguridad y defensa nacional realizadas en Colombia, el Reino Unido y los Estados Unidos. En agosto de 2022 pasó al retiro en el marco de los cambios en la cúpula militar dispuestos por el gobierno de Gustavo Petro. En 2023 se postuló por primera vez a un cargo de elección popular como candidato a la Gobernación de Santander. Su candidatura recibió el respaldo del Centro Democrático y de otros partidos y movimientos, entre ellos el Conservador, el Liberal, Cambio Radical y Salvación Nacional. En las elecciones regionales del 29 de octubre de 2023 resultó elegido con cerca de 410.000 votos, equivalentes a alrededor del 39 % de la votación. Asumió la Gobernación de Santander el 1 de enero de 2024, cargo que ejerce para el período 2024-2027.",
     "incoherences": [
       {
         "id": "jd-infraestructura-vias",
@@ -1540,7 +1720,7 @@
         "nuances": "Capacidad limitada de personal de auditoría restriccionó cobertura."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1606,7 +1786,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Luis Alfonso Escobar Jaramillo, de Pacto Histórico, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -1658,6 +1838,36 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Luis_Alfonso_Escobar",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Luis Alfonso Escobar"
+        },
+        {
+          "url": "https://narino.gov.co/gobernador/",
+          "outlet": "Gobernación de Nariño",
+          "date": "2026-06-22",
+          "title": "Gobernador - Luis Alfonso Escobar Jaramillo"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/luis-alfonso-escobar-jaramillo/13752/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Luis Alfonso Escobar Jaramillo | Perfil"
+        },
+        {
+          "url": "https://www.agenciapi.co/noticia/politica/quien-es-luis-alfonso-escobar-de-narino-unica-gobernacion-de-32-que-gano-el-pacto-historico",
+          "outlet": "Agencia PI",
+          "date": "2023-10-29",
+          "title": "¿Quién es Luis Alfonso Escobar de Nariño? Única gobernación de 32 que ganó el Pacto Histórico"
+        },
+        {
+          "url": "https://pagina10.com/web/consejo-de-estado-mantiene-la-eleccion-de-luis-alfonso-escobar-jaramillo-como-gobernador-de-narino/",
+          "outlet": "Página10",
+          "date": "2025-02-27",
+          "title": "Consejo de Estado mantiene la elección de Luis Alfonso Escobar Jaramillo como gobernador de Nariño"
         }
       ],
       "confidence": "low",
@@ -1677,7 +1887,7 @@
       "social-democracy",
       "progressivism"
     ],
-    "bio": "Gobernador de Nariño para el período 2024-2027 por el Partido Liberal en coalición con sectores de centro-izquierda.",
+    "bio": "Luis Alfonso Escobar Jaramillo (Francisco Pizarro, Nariño, 24 de noviembre de 1969) es un economista, académico y político colombiano que se desempeña como gobernador de Nariño para el período 2024-2027. Es economista de la Universidad del Valle (1994), especialista en Gestión Ambiental de la Universidad Autónoma de Occidente (1997) y doctor en Economía Ambiental de la Universidad de Alcalá de Henares, España. Desarrolló buena parte de su carrera en la academia como profesor de la Universidad del Valle entre 1999 y 2016, donde dirigió programas y grupos de investigación en economía ambiental y desarrollo sostenible, y ejerció también en la Universidad ICESI y como profesor invitado en universidades españolas. En el sector público fue secretario de Planeación del Departamento de Nariño (2012-2016), etapa en la que coordinó la formulación de planes de desarrollo departamentales, y posteriormente estuvo vinculado a la gerencia del programa Todos Somos Pazcífico. En 2018 se presentó como candidato al Senado por la Alianza Verde sin resultar elegido. En las elecciones regionales de octubre de 2023 fue elegido gobernador de Nariño en representación de la coalición Pacto Histórico, siendo la única gobernación obtenida por esa coalición entre los 32 departamentos. Asumió el cargo el 1 de enero de 2024. Su elección fue objeto de una demanda de nulidad electoral que el Consejo de Estado negó el 27 de febrero de 2025, confirmando la validez de su mandato. Durante su gestión presentó el Plan de Desarrollo departamental Nariño Región País para el Mundo.",
     "incoherences": [
       {
         "id": "lae-seguridad-homicidios",
@@ -1765,7 +1975,7 @@
         "nuances": "Falta de docentes capacitados y presupuesto limitado restringieron expansión."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1854,7 +2064,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Políticas enfocadas en territorios indígenas y afrodescendientes del Cauca. Acciones: Plan de Desarrollo Cauca, informes de Contraloría del Cauca, registros de Registraduría sobre participación política.",
       "sources": [
@@ -1881,6 +2091,36 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Jorge_Octavio_Guzm%C3%A1n",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Jorge Octavio Guzmán"
+        },
+        {
+          "url": "https://www.cauca.gov.co/LaGobernacion/Paginas/Gobernador.aspx",
+          "outlet": "Gobernación del Cauca",
+          "date": "2026-06-22",
+          "title": "Gobernador del Cauca"
+        },
+        {
+          "url": "https://www.cauca.gov.co/Prensa/SaladePrensa/Paginas/Gobernador-del-Cauca-Octavio-Guzm%C3%A1n-Guti%C3%A9rrez-se-posesion%C3%B3-ante-la-Asamblea-Departamental.aspx",
+          "outlet": "Gobernación del Cauca",
+          "date": "2024-01-01",
+          "title": "Gobernador del Cauca Octavio Guzmán Gutiérrez se posesionó ante la Asamblea Departamental"
+        },
+        {
+          "url": "https://www.periodicolacampana.com/el-nuevo-gobernador-del-cauca-es-jorge-octavio-guzman-gutierrez-para-el-periodo-2024-2027/",
+          "outlet": "Periódico La Campana",
+          "date": "2023-10-29",
+          "title": "El nuevo gobernador del Cauca es Jorge Octavio Guzmán Gutiérrez, para el período 2024-2027"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/otras-ciudades/quienes-son-los-nuevos-mandatarios-en-el-cauca-821115",
+          "outlet": "El Tiempo",
+          "date": "2023-10-29",
+          "title": "Elecciones 2023: así fueron las votaciones en el departamento del Cauca"
         }
       ],
       "confidence": "medium",
@@ -1899,7 +2139,7 @@
       "classical-liberalism",
       "social-liberalism"
     ],
-    "bio": "Octavio Guzmán Gómez es político colombiano, gobernador de Santander desde enero de 2024 por el Partido Liberal. Nota: esta entrada será verificada — existen múltiples figuras del departamento de Santander con este apellido y será confirmada contra información oficial.",
+    "bio": "Jorge Octavio Guzmán Gutiérrez es un abogado y político colombiano que se desempeña como gobernador del departamento del Cauca para el período 2024-2027. Nació el 23 de mayo de 1977 en la vereda El Palmar, del municipio de La Vega, en el sur del Cauca, en el seno de una familia campesina. Es abogado egresado de la Universidad del Cauca y especialista en Derecho Administrativo por la Universidad Externado de Colombia. A lo largo de más de dos décadas en la administración pública, ocupó cargos como secretario de Gobierno y alcalde del municipio de La Vega, secretario general de la Gobernación del Cauca y secretario de Educación y Cultura departamental. En las elecciones regionales de octubre de 2023 resultó elegido gobernador del Cauca con la votación más alta de la contienda; las cifras reportadas oscilan alrededor de los 174.000 votos, equivalentes a cerca del 32% del total. Su candidatura fue avalada por el movimiento Colombia Renaciente, con apoyo de sectores independientes. Se posesionó ante la Asamblea Departamental del Cauca el 1 de enero de 2024 e instaló su gabinete departamental ese mismo día. Su gestión se ha planteado en torno a la representación de las distintas subregiones y la diversidad multicultural del departamento. Nota de verificación: el nombre completo correcto es Jorge Octavio Guzmán Gutiérrez (no \"Gómez\"), el departamento es el Cauca (no Santander) y fue elegido por Colombia Renaciente (no por el Partido Liberal, cuya candidatura fue una de las competidoras en esa elección).",
     "incoherences": [
       {
         "id": "guzman-santander-liberal-tradicional",
@@ -1989,7 +2229,7 @@
         "nuances": "Crisis financiera de instituciones prestadoras limitó expansión de cobertura."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2054,7 +2294,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Rafaela Cortés Zambrano, de Verde Oxígeno, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -2079,7 +2319,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Gestión enfocada en economías ganaderas y agrícolas del departamento. Acciones: Plan de Desarrollo Meta, informes de Contraloría de Meta, datos de DNP sobre producción agrícola regional.",
       "sources": [
@@ -2106,6 +2346,36 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Rafaela_Cort%C3%A9s",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Rafaela Cortés"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/02/07/consejo-de-estado-ratifico-la-eleccion-de-rafaela-cortes-como-gobernadora-del-meta-no-hubo-doble-militancia/",
+          "outlet": "Infobae",
+          "date": "2025-02-07",
+          "title": "Consejo de Estado ratificó la elección de Rafaela Cortés como gobernadora del Meta: no hubo doble militancia"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/otras-ciudades/rafaela-cortes-gobernadora-del-meta-es-elegida-como-nueva-presidenta-de-la-federacion-nacional-de-departamentos-de-colombia-3533888",
+          "outlet": "El Tiempo",
+          "date": "2026-02-19",
+          "title": "Rafaela Cortés, gobernadora del Meta, es la nueva presidenta de la Federación Nacional de Departamentos de Colombia"
+        },
+        {
+          "url": "https://meta.gov.co/noticias/gobernadora-del-meta,-rafaela-cort%C3%A9s-zambrano,-radic%C3%B3-ante-la-asamblea-el-plan-de-desarrollo-%E2%80%98gobierno-de-la-unidad%E2%80%99/2847",
+          "outlet": "Gobernación del Meta",
+          "date": "2026-06-22",
+          "title": "Gobernadora del Meta, Rafaela Cortés Zambrano, radicó ante la Asamblea el Plan de Desarrollo 'Gobierno de la Unidad'"
+        },
+        {
+          "url": "https://www.larepublica.co/economia/entrevista-con-rafaela-cortes-zambrano-gobernadora-del-meta-sobre-la-autonomia-regional-4335880",
+          "outlet": "La República",
+          "date": "2026-06-22",
+          "title": "Entrevista con Rafaela Cortés Zambrano, gobernadora del Meta, sobre la autonomía regional"
         }
       ],
       "confidence": "low",
@@ -2124,7 +2394,7 @@
       "environmentalism",
       "social-liberalism"
     ],
-    "bio": "Rafaela Cortés Zambrano nació el 19 de enero de 1972 en Campoalegre, Huila. Es abogada (U. Libre) con especialización en Derecho Administrativo. Fue personera de Cabuyaro. Electa gobernadora del Meta el 29 de octubre de 2023 con 179.408 votos bajo la coalición 'Fe y Firmeza' integrada por Verde Oxígeno y Partido de la U. Gobierna el Meta 2024-2027 y es presidenta de la Federación Nacional de Departamentos. Su agenda enfatiza protección ambiental, gobernanza territorial democrática y desarrollo sustentable.",
+    "bio": "Rafaela Cortés Zambrano nació el 19 de enero de 1972 en Campoalegre (Huila). Es abogada egresada de la Universidad Libre, con especialización en Derecho Administrativo y en conciliación empresarial. Antes de su carrera electoral ejerció como funcionaria de la Contraloría con seguimiento a regalías en el Meta, trabajó en la Procuraduría General de la Nación, fue personera del municipio de Cabuyaro y se desempeñó como abogada litigante. Llegó a la candidatura a la Gobernación del Meta tras la muerte de su esposo, Jorge Felipe Carreño Sánchez, aspirante original al cargo, fallecido en un accidente aéreo en julio de 2023. En las elecciones regionales del 29 de octubre de 2023 fue elegida gobernadora del Meta para el periodo 2024-2027 con 184.845 votos (36,96%), respaldada por la coalición 'Fe y Firmeza', que reunió a Verde Oxígeno, Centro Democrático, el Partido de la U, Creemos y el Partido Conservador. Se posesionó el 1 de enero de 2024 y radicó ante la Asamblea Departamental el Plan de Desarrollo 'El Gobierno de la Unidad' 2024-2027, con programas como 'Mi Casa Segura', un fondo de educación superior e incentivos al emprendimiento. El Consejo de Estado rechazó las demandas de nulidad de su elección por presunta doble militancia, confirmándola en el cargo. El 19 de febrero de 2026 fue elegida presidenta de la Federación Nacional de Departamentos, en reemplazo de Erasmo Zuleta, desde donde ha promovido la autonomía regional y la articulación de los 32 departamentos.",
     "incoherences": [
       {
         "id": "rafaela-cortes-corrupcion-continuidad",
@@ -2212,7 +2482,7 @@
         "nuances": "Insuficiente capacitación docente limitó implementación efectiva."
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2277,7 +2547,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Rodrigo Villalba Mosquera, de Partido Liberal, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -2302,7 +2572,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Énfasis en infraestructura energética y desarrollo agrícola del Huila. Acciones: Plan de Desarrollo Huila, informes de Contraloría del Huila, proyectos de Planeación Departamental.",
       "sources": [
@@ -2329,6 +2599,30 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Rodrigo_Villalba_Mosquera",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Rodrigo Villalba Mosquera"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/rodrigo-villalba-mosquera/297/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Rodrigo Villalba Mosquera | Perfil congresista"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/otras-ciudades/quien-es-rodrigo-villalba-conozca-al-nuevo-gobernador-del-huila-821017",
+          "outlet": "El Tiempo",
+          "date": "2023-10-29",
+          "title": "Rodrigo Villalba Mosquera, nuevo gobernador de Huila"
+        },
+        {
+          "url": "https://www.huila.gov.co/publicaciones/543/gobernador-del-departamento/",
+          "outlet": "Gobernación del Huila",
+          "date": "2026-06-22",
+          "title": "Gobernador del Departamento"
         }
       ],
       "confidence": "low",
@@ -2347,7 +2641,7 @@
       "social-liberalism",
       "social-democracy"
     ],
-    "bio": "Rodrigo Villalba Mosquera nació aproximadamente en 1952 en Rivera, Huila. Es abogado (U. Libre) con especialización en Derecho Administrativo. Fue alcalde de Rivera (1982), alcalde de Neiva, gobernador del Huila (2004-2007), congresista y ministro de Agricultura. Electo gobernador nuevamente el 29 de octubre de 2023 con 217.833 votos bajo coalición de 7 partidos incluyendo Partido Liberal. Gobierna Huila 2024-2027 con énfasis en agricultura sustentable, bienestar social y fortalecimiento de servicios públicos.",
+    "bio": "Rodrigo Villalba Mosquera nació el 2 de septiembre de 1951 en Rivera, Huila. Es abogado egresado de la Universidad Libre, con especialización en Ciencias Políticas y Derecho Administrativo. Militante del Partido Liberal Colombiano, inició su carrera pública como juez penal municipal en Garzón (1981) y alcalde de Rivera (1982-1983), para luego desempeñarse como secretario privado de la Gobernación del Huila (1984-1985) y alcalde de Neiva (1987-1988). En el ámbito legislativo fue representante a la Cámara por el Huila (1990-1994), periodo en el que presidió la Comisión Primera Constitucional, y senador de la República en varios periodos (1994-1998 y nuevamente en la década siguiente, hasta 2022), ejerciendo como segundo vicepresidente del Senado entre 1995 y 1996. En el Ejecutivo nacional fue gerente general del INCORA (1998-1999) y ministro de Agricultura y Desarrollo Rural durante el gobierno de Andrés Pastrana (1999-2002). Fue gobernador del Huila en el periodo 2004-2007. El 29 de octubre de 2023 fue elegido nuevamente gobernador del departamento con el aval del Partido Liberal y el respaldo de una coalición de varias agrupaciones políticas, obteniendo cerca del 43,6 % de los votos. Asumió el cargo para el periodo 2024-2027, con un plan de gobierno orientado a la seguridad, el desarrollo agrícola, el bienestar social y el fortalecimiento de los servicios públicos en el Huila.",
     "incoherences": [
       {
         "id": "rodrigo-villalba-economia-infraestructura",
@@ -2435,7 +2729,7 @@
         "nuances": "Problemas técnicos de plataforma limitaron publicación completa."
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2553,6 +2847,30 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/%C3%81lvaro_Uribe_V%C3%A9lez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Álvaro Uribe Vélez"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/alvaro-uribe-velez/8439/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Álvaro Uribe Vélez - Perfil de congresista"
+        },
+        {
+          "url": "https://www.senalmemoria.co/la-voz-del-poder/alvaro-uribe-velez",
+          "outlet": "Señal Memoria (RTVC)",
+          "date": "2026-06-22",
+          "title": "Álvaro Uribe Vélez"
+        },
+        {
+          "url": "https://www.biografiasyvidas.com/biografia/u/uribe_alvaro.htm",
+          "outlet": "Biografías y Vidas",
+          "date": "2026-06-22",
+          "title": "Biografía de Álvaro Uribe Vélez"
         }
       ],
       "confidence": "medium",
@@ -2572,7 +2890,7 @@
       "nationalist-conservatism",
       "nationalist-conservatism"
     ],
-    "bio": "Álvaro Uribe Vélez fue gobernador de Antioquia entre 1995 y 1997 por el Partido Liberal (aún antes de su salida del partido). Su gobernación se caracterizó por la expansión de las Cooperativas de Vigilancia y Seguridad Privada \"Convivir\", cuyo régimen fue posteriormente revisado por la Corte Constitucional. Este período consolidó la doctrina de seguridad que luego lo llevaría a la Presidencia de Colombia (2002-2010).",
+    "bio": "Álvaro Uribe Vélez (Medellín, 4 de julio de 1952) es abogado egresado de la Universidad de Antioquia (1977), con estudios posteriores de administración y negociación de conflictos en la Universidad de Harvard y una vinculación académica con el St Antony's College de la Universidad de Oxford. Inició su carrera pública en cargos como las Empresas Públicas de Medellín, el Ministerio de Trabajo y la dirección de la Aeronáutica Civil. En el ámbito electoral fue alcalde de Medellín (1982), concejal, y senador de la República entre 1986 y 1994 por el Partido Liberal. Fue elegido gobernador de Antioquia para el período 1995-1997, cargo en el que impulsó los denominados consejos comunitarios de gobierno y reportó avances en cobertura educativa, vías y afiliación al régimen subsidiado de salud. Durante su gobernación respaldó la expansión de las Cooperativas de Vigilancia y Seguridad Privada \"Convivir\", creadas mediante el Decreto 356 de 1994 del Gobierno nacional; su régimen fue posteriormente revisado por la Corte Constitucional. En 2002 fue elegido presidente de Colombia en primera vuelta y reelegido en 2006, gobernando hasta 2010 bajo la política de \"seguridad democrática\". Tras dejar la Presidencia regresó al Senado y fundó el partido Centro Democrático (2013). En años recientes ha enfrentado procesos judiciales relacionados con investigaciones por presunto fraude procesal y soborno a testigos, que continúan en curso ante la justicia colombiana.",
     "incoherences": [
       {
         "id": "ua-derechos-humanos-paramilitarismo",
@@ -2660,7 +2978,7 @@
         "nuances": "Argumentó necesidad de coordinación para justificar centralización de decisiones."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2778,6 +3096,36 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/William_Villamizar_Laguado",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "William Villamizar Laguado"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/otras-ciudades/william-villamizar-se-convierte-en-gobernador-de-norte-de-santander-por-tercera-vez-821014",
+          "outlet": "El Tiempo",
+          "date": "2023-10-29",
+          "title": "William Villamizar se convierte en gobernador de Norte de Santander por tercera vez"
+        },
+        {
+          "url": "https://www.elespectador.com/colombia/mas-regiones/william-villamizar-alcanza-por-segunda-vez-la-gobernacion-de-norte-de-santander-article-595233/",
+          "outlet": "El Espectador",
+          "date": "2015-10-25",
+          "title": "William Villamizar alcanza por segunda vez la Gobernación de Norte de Santander"
+        },
+        {
+          "url": "https://www.vanguardia.com/colombia/2023/10/29/william-villamizar-laguado-superpoderoso-politico-de-nuevo-es-gobernador-de-norte-de-santander/",
+          "outlet": "Vanguardia",
+          "date": "2023-10-29",
+          "title": "William Villamizar Laguado, de nuevo es gobernador de Norte de Santander"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/william-villamizar/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "William Villamizar - Quién es Quién"
         }
       ],
       "confidence": "low",
@@ -2797,7 +3145,7 @@
       "traditionalist-conservatism",
       "christian-democracy"
     ],
-    "bio": "William Villamizar Laiton es ingeniero y político colombiano, gobernador de Norte de Santander en dos períodos (2016-2019 y 2024-2027) por el Partido Conservador.",
+    "bio": "William Villamizar Laguado (Arboledas, 31 de octubre de 1965) es un ingeniero civil y político colombiano, gobernador de Norte de Santander. Se graduó como ingeniero civil en la Universidad Francisco de Paula Santander y cuenta con una especialización en Gerencia Financiera de la Universidad Libre y estudios en gestión pública en la Escuela Superior de Administración Pública. Inició su trayectoria política en el Partido Conservador y fue concejal de Cúcuta durante tres periodos consecutivos a partir de 1998. En 2007 fue elegido por primera vez gobernador de Norte de Santander con aval conservador, asumiendo el cargo en 2008. Resultó nuevamente elegido para el periodo 2016-2019. En las elecciones regionales del 29 de octubre de 2023 fue elegido gobernador por tercera vez para el periodo 2024-2027, respaldado por el movimiento \"Por amor a nuestra gente del Norte\" y por varios partidos, entre ellos Cambio Radical, el Partido de la U, el Partido Conservador y el Partido Liberal; según el conteo de la Registraduría obtuvo cerca de 259.000 votos, frente a Diego González, su principal contendor. Sus administraciones anteriores no se completaron debido a suspensiones disciplinarias derivadas de investigaciones por presuntas irregularidades en la contratación. En su tercer mandato ha señalado como retos prioritarios la seguridad y la situación humanitaria en la frontera con Venezuela. Actualmente ejerce como gobernador de Norte de Santander.",
     "incoherences": [
       {
         "id": "wv-salud-presupuesto",
@@ -2885,7 +3233,7 @@
         "nuances": "Limitada oferta académica regional y migración de estudiantes afectaron acceso."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2950,7 +3298,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Yamil Arana Peña, de Partido Conservador, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -2975,7 +3323,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Gestión enfocada en inclusión social y desarrollo del sector portuario. Acciones: Plan de Desarrollo Bolívar, informes de Contraloría de Bolívar, registros de Registraduría.",
       "sources": [
@@ -3002,6 +3350,36 @@
           "title": "Registraduría Nacional del Estado Civil",
           "outlet": "Registraduría",
           "date": "2025-12-31"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Yamil_Arana",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Yamil Arana"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/yamil-hernando-arana-padaui/12891/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Yamil Hernando Arana Padauí | Perfil congresista"
+        },
+        {
+          "url": "https://www.bolivar.gov.co/web/seccion/gobernacion/gobernador/",
+          "outlet": "Gobernación de Bolívar",
+          "date": "2026-06-22",
+          "title": "Gobernador de Bolívar - Yamil Arana Padauí"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/yamil-arana-padaui/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Yamil Arana Padauí - Quién es Quién"
+        },
+        {
+          "url": "https://lacontratopediacaribe.com/yamil-arana-el-gobernador-con-el-que-los-blel-retienen-el-poder-en-bolivar-cuatro-anos-mas/",
+          "outlet": "La Contratopedia Caribe",
+          "date": "2023-10-30",
+          "title": "Yamil Arana, el gobernador con el que los Blel retienen el poder en Bolívar cuatro años más"
         }
       ],
       "confidence": "low",
@@ -3020,7 +3398,7 @@
       "progressivism",
       "social-liberalism"
     ],
-    "bio": "Yamil Arana Peña es gobernador del Departamento de Bolívar (2024-2027) por el Pacto Histórico. Ha promovido programas de desarrollo agrícola, turismo sostenible y equidad regional.",
+    "bio": "Yamil Hernando Arana Padauí (Magangué, Bolívar, 5 de diciembre de 1990) es un economista y político colombiano, gobernador del departamento de Bolívar para el periodo 2024-2027. Es economista de la Universidad de los Andes, magíster en Gestión Pública de la Pontificia Universidad Javeriana y cuenta con estudios en comunicación y estrategia pública realizados en el American Center for Political Management (Miami). Inició su trayectoria en el sector público como asesor de la Unidad de Trabajo Legislativo y como contratista del Departamento Administrativo para la Prosperidad Social (DPS) y del Ministerio de Agricultura. En 2018 fue elegido Representante a la Cámara por la circunscripción de Bolívar con el aval del Partido Conservador Colombiano y fue reelegido para el periodo 2022-2026; renunció a su curul a finales de 2022 para aspirar a la Gobernación de Bolívar. En las elecciones regionales del 29 de octubre de 2023 fue elegido gobernador con el respaldo del Partido Conservador, obteniendo más de 590.000 votos. Asumió el cargo el 1 de enero de 2024. Su plan de gobierno plantea líneas de trabajo en desarrollo agrícola, infraestructura, turismo y equidad regional. Durante su carrera ha sido señalado por una indagación de la Corte Suprema de Justicia relacionada con contratación de recursos de paz, proceso del que se ha informado en prensa regional.",
     "incoherences": [
       {
         "id": "arana-transparencia-bolivar",
@@ -3107,7 +3485,7 @@
         "nuances": "Inseguridad en zonas turísticas redujo creación de empleo turístico."
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],

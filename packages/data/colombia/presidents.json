@@ -83,6 +83,30 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/C%C3%A9sar_Gaviria",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "César Gaviria"
+        },
+        {
+          "url": "https://enciclopedia.banrepcultural.org/index.php?title=C%C3%A9sar_Gaviria_Trujillo",
+          "outlet": "Enciclopedia Banrepcultural",
+          "date": "2026-06-22",
+          "title": "César Gaviria Trujillo"
+        },
+        {
+          "url": "https://www.cidob.org/biografias_lideres_politicos/america_del_sur/colombia/cesar_gaviria_trujillo",
+          "outlet": "CIDOB",
+          "date": "2026-06-22",
+          "title": "César Gaviria Trujillo - Colombia"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/cesar-gaviria-trujillo/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "César Gaviria Trujillo - Quién es quién"
         }
       ],
       "confidence": "high",
@@ -102,7 +126,7 @@
       "classical-liberalism",
       "third-way"
     ],
-    "bio": "César Augusto Gaviria Trujillo es un abogado, economista y político colombiano, nacido el 31 de marzo de 1947 en Pereira. Fue Presidente de Colombia entre 1990 y 1994, impulsó la Asamblea Nacional Constituyente que produjo la Constitución Política de 1991 y aplicó la política de apertura económica conocida como 'el revolcón'. Previamente fue representante a la Cámara, senador, Ministro de Hacienda (1986-1987) y Ministro de Gobierno (1987-1989). Después de su presidencia fue Secretario General de la Organización de Estados Americanos (OEA) entre 1994 y 2004. Desde 2005 es el director único del Partido Liberal Colombiano.",
+    "bio": "César Augusto Gaviria Trujillo es un economista y político colombiano nacido el 31 de marzo de 1947 en Pereira. Economista de la Universidad de los Andes, inició su carrera pública como concejal y alcalde de Pereira en los años setenta. Fue representante a la Cámara por Risaralda y, durante el gobierno de Virgilio Barco, se desempeñó como Ministro de Hacienda (1986-1987) y Ministro de Gobierno (1987-1989). Tras el asesinato de Luis Carlos Galán en 1989, lideró la campaña liberal y resultó elegido Presidente de Colombia para el periodo 1990-1994, con el 47,83 % de los votos. Durante su mandato impulsó la Asamblea Nacional Constituyente que promulgó la Constitución Política de 1991, la cual creó instituciones como la Corte Constitucional, la Fiscalía General de la Nación y la Defensoría del Pueblo. Su gobierno aplicó un programa de apertura económica conocido como 'el revolcón', adelantó la desmovilización de grupos guerrilleros como el EPL y enfrentó al narcotráfico, periodo en el que se produjeron la entrega y posterior muerte de Pablo Escobar en 1993. Entre 1994 y 2004 fue Secretario General de la Organización de Estados Americanos (OEA), cargo en el que medió en crisis políticas regionales. Desde 2005 ha sido director del Partido Liberal Colombiano, con una interrupción entre 2011 y 2017, manteniéndose como una figura influyente en la política nacional.",
     "incoherences": [
       {
         "id": "gaviria-apertura-1991",
@@ -192,7 +216,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -268,7 +292,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Ernesto Samper Pizano, de Partido Liberal, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -293,7 +317,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Durante su presidencia (1994-1998), Samper decretó el Estado de Conmoción Interior (Decreto 1370 de 1995) en contexto del Proceso 8.000, y promulgó la Ley 241 de 1995 endureciendo la política de orden público (ambos registrados en SUIN-Juriscol). En lo económico, mantuvo continuidad con la apertura de Gaviria pero aumentó el IVA mediante reforma tributaria y firmó el Grupo de los Tres con México y Venezuela (documentado en DNP). Su mandato fue marcado por presiones de Estados Unidos (descertificación 1996-1997) que influyeron en su política exterior. Las evidencias muestran un personaje más al centro-derecha que sus declaraciones iniciales y con mayor concentración de poder ejecutivo que lo declarado, reflejado en su recurso a poderes de excepción constitucional.",
       "sources": [
@@ -326,6 +350,36 @@
           "title": "Departamento Administrativo de la Presidencia",
           "outlet": "DAPRE",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Ernesto_Samper",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Ernesto Samper"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Proceso_8.000",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Proceso 8.000"
+        },
+        {
+          "url": "https://www.senalmemoria.co/proceso-8000-historia-politica",
+          "outlet": "Señal Memoria",
+          "date": "2026-06-22",
+          "title": "Política y narcotráfico en Colombia: el \"Proceso 8000\""
+        },
+        {
+          "url": "https://www.cidob.org/lider-politico/ernesto-samper-pizano",
+          "outlet": "CIDOB",
+          "date": "2026-06-22",
+          "title": "Ernesto Samper Pizano"
+        },
+        {
+          "url": "https://www.colombia.com/colombia-info/historia-de-colombia/presidentes-de-colombia/ernesto-samper-pizano/",
+          "outlet": "Colombia.com",
+          "date": "2026-06-22",
+          "title": "Ernesto Samper Pizano (1994 - 1998)"
         }
       ],
       "confidence": "high",
@@ -344,7 +398,7 @@
       "social-liberalism",
       "third-way"
     ],
-    "bio": "Ernesto Samper Pizano es abogado, economista y político colombiano nacido el 3 de agosto de 1950 en Bogotá. Fue Presidente de Colombia entre 1994 y 1998. Previamente fue senador (1982-1990), Ministro de Desarrollo del gobierno Gaviria (1990-1991) y embajador en España (1991-1993). Su mandato estuvo atravesado por el Proceso 8.000, investigación sobre la presunta financiación de su campaña con dineros del cartel de Cali, que derivó en un proceso en la Cámara de Representantes donde fue absuelto en junio de 1996. Posteriormente fue Secretario General de la Unión de Naciones Suramericanas (UNASUR) entre 2014 y 2017.",
+    "bio": "Ernesto Samper Pizano (Bogotá, 3 de agosto de 1950) es un abogado, economista y político colombiano que fue presidente de Colombia entre 1994 y 1998. Estudió economía y derecho en la Pontificia Universidad Javeriana, institución en la que también ejerció como profesor, y realizó estudios de posgrado en economía. Inició su carrera pública en gremios económicos y en cargos de elección local antes de llegar al Senado de la República, donde ejerció como senador en la segunda mitad de la década de 1980. Durante el gobierno de César Gaviria fue ministro de Desarrollo Económico (1990-1991) y luego embajador de Colombia en España (1991-1993). En 1989 sufrió un atentado armado en el aeropuerto de Bogotá, hecho en el que resultó herido. Como candidato del Partido Liberal, ganó la presidencia al derrotar a Andrés Pastrana en la segunda vuelta de junio de 1994 con cerca del 50,6 % de los votos. Su mandato estuvo marcado por el llamado Proceso 8.000, investigación sobre la presunta financiación de su campaña con dineros del cartel de Cali; la Cámara de Representantes archivó el proceso en su contra en junio de 1996, mientras que algunos colaboradores de su campaña fueron condenados. Durante este periodo, el gobierno de Estados Unidos le canceló la visa. Posteriormente fue secretario general de la Unión de Naciones Suramericanas (Unasur) entre 2014 y 2017. Continúa activo en la vida pública colombiana y ha publicado libros sobre su trayectoria política.",
     "incoherences": [
       {
         "id": "samper-proceso8000-1995",
@@ -433,7 +487,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -573,6 +627,36 @@
           "title": "Centro Nacional de Memoria Histórica",
           "outlet": "CNMH",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Pastrana",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Andrés Pastrana"
+        },
+        {
+          "url": "https://enciclopedia.banrepcultural.org/Andr%C3%A9s_Pastrana_Arango",
+          "outlet": "Enciclopedia Banrepcultural - Banco de la República",
+          "date": "2026-06-22",
+          "title": "Andrés Pastrana Arango"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Pastrana_Arango",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Andrés Pastrana Arango"
+        },
+        {
+          "url": "https://www.comisiondelaverdad.co/el-caguan",
+          "outlet": "Comisión de la Verdad",
+          "date": "2026-06-22",
+          "title": "El Caguán"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Di%C3%A1logos_de_paz_entre_el_gobierno_de_Andr%C3%A9s_Pastrana_y_las_FARC-EP",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Diálogos de paz entre el gobierno de Andrés Pastrana y las FARC-EP"
         }
       ],
       "confidence": "high",
@@ -592,7 +676,7 @@
       "neo-liberalism",
       "fiscal-conservatism"
     ],
-    "bio": "Andrés Pastrana Arango es abogado, periodista y político colombiano, nacido el 17 de agosto de 1954 en Bogotá. Es hijo del expresidente Misael Pastrana Borrero (1970-1974). Fue concejal y alcalde de Bogotá (1988-1990) —primer alcalde de la capital elegido por voto popular—, senador de la República y Presidente de Colombia entre 1998 y 2002. Su período presidencial estuvo marcado por el proceso de paz fallido con las FARC en la zona de distensión del Caguán, la implementación del Plan Colombia con Estados Unidos y la recesión económica de 1999, la peor en 70 años.",
+    "bio": "Andrés Pastrana Arango (Bogotá, 17 de agosto de 1954) es abogado, periodista y político colombiano, hijo del expresidente Misael Pastrana Borrero (1970-1974). Estudió derecho en la Universidad del Rosario y realizó estudios de posgrado en el exterior. Antes de la política se desempeñó en el periodismo: fundó la revista Guión y dirigió el noticiero de televisión TV Hoy, labor por la que recibió premios como el Rey de España. Inició su carrera política como concejal de Bogotá y, en 1988, fue elegido primer alcalde de la capital por voto popular, cargo que ejerció hasta 1990; semanas antes de su elección fue secuestrado por el cartel de Medellín y liberado días después. Luego fue senador de la República (1991-1994) por el movimiento Nueva Fuerza Democrática. Fue candidato presidencial en 1994, cuando perdió frente a Ernesto Samper, y resultó elegido presidente de Colombia en 1998 con el 50,4 % de los votos, gobernando entre el 7 de agosto de 1998 y el 7 de agosto de 2002. Su mandato estuvo marcado por el proceso de paz con las FARC en la zona de distensión del Caguán, iniciado en 1999 y roto el 21 de febrero de 2002; por el Plan Colombia, acuerdo de cooperación con Estados Unidos enfocado en seguridad y lucha antidrogas; por programas sociales como Familias en Acción; y por la recesión económica de 1999. Tras su presidencia fue embajador de Colombia en Estados Unidos y ha participado en el debate público nacional e internacional.",
     "incoherences": [
       {
         "id": "pastrana-caguan-paz-1999",
@@ -681,7 +765,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -814,6 +898,36 @@
           "title": "Registros legislativos período Uribe",
           "outlet": "Congreso Visible - Universidad de los Andes",
           "date": "2010-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/%C3%81lvaro_Uribe_V%C3%A9lez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Álvaro Uribe Vélez"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Caso_Uribe",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Caso Uribe"
+        },
+        {
+          "url": "https://www.senalmemoria.co/la-voz-del-poder/alvaro-uribe-velez",
+          "outlet": "Señal Memoria (RTVC)",
+          "date": "2026-06-22",
+          "title": "Álvaro Uribe Vélez"
+        },
+        {
+          "url": "https://alvarouribevelez.com.co/biografia/",
+          "outlet": "Sitio oficial de Álvaro Uribe Vélez",
+          "date": "2026-06-22",
+          "title": "Biografía - Álvaro Uribe Vélez"
+        },
+        {
+          "url": "https://www.elespectador.com/judicial/caso-uribe-en-vivo-tribunal-superior-de-bogota-emite-fallo-de-segunda-instancia/",
+          "outlet": "El Espectador",
+          "date": "2025-10-21",
+          "title": "Caso Uribe: Tribunal Superior de Bogotá emite fallo de segunda instancia"
         }
       ],
       "confidence": "high",
@@ -833,7 +947,7 @@
       "nationalist-conservatism",
       "nationalist-conservatism"
     ],
-    "bio": "Álvaro Uribe Vélez es abogado y político colombiano, nacido el 4 de julio de 1952 en Medellín. Fue Presidente de Colombia durante dos períodos consecutivos (2002-2010), lo que lo convirtió en el primer presidente reelegido bajo la Constitución de 1991 tras la aprobación del Acto Legislativo 02 de 2004. Previamente fue concejal de Medellín, alcalde de Medellín (1982), senador (1986-1994) y gobernador de Antioquia (1995-1997). Es fundador del partido Centro Democrático (2013) y figura central del uribismo. En 2020, la Corte Suprema de Justicia le dictó detención domiciliaria como investigado en el caso de presunta manipulación de testigos, proceso que fue posteriormente trasladado a la Fiscalía tras su renuncia al Senado.",
+    "bio": "Álvaro Uribe Vélez (Medellín, 4 de julio de 1952) es abogado y político colombiano. Se graduó como abogado de la Universidad de Antioquia y realizó estudios de extensión en administración, gerencia y negociación de conflictos en la Universidad de Harvard. Inició su carrera pública como director de la Aeronáutica Civil (1980-1982) y alcalde de Medellín (1982); posteriormente fue concejal de Medellín, senador de la República (1986-1994) y gobernador de Antioquia (1995-1997). En 2002 fue elegido presidente de Colombia en primera vuelta y gobernó entre 2002 y 2010, tras ser reelegido en 2006 con el 62,2% de los votos, luego de la aprobación del Acto Legislativo 02 de 2004 que permitió la reelección presidencial inmediata. Durante sus dos mandatos impulsó la política de Seguridad Democrática y el Plan Colombia, orientados a combatir a los grupos armados ilegales y el narcotráfico. En 2013 fundó el partido Centro Democrático y en 2014 regresó al Senado, escaño que ocupó hasta 2020, cuando renunció en medio del proceso judicial por presunta manipulación de testigos. El 28 de julio de 2025 fue condenado en primera instancia por los delitos de fraude procesal y soborno en actuación penal; el 21 de octubre de 2025 el Tribunal Superior de Bogotá revocó ese fallo y lo absolvió de todos los cargos, decisión frente a la cual las partes anunciaron recurso de casación ante la Corte Suprema de Justicia. Es considerado una de las figuras más influyentes de la política colombiana contemporánea.",
     "incoherences": [
       {
         "id": "uribe-falsos-positivos-2008",
@@ -951,7 +1065,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1010,7 +1124,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Juan Manuel Santos Calderón, de Partido de la U, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -1068,6 +1182,36 @@
           "title": "Jurisdicción Especial para la Paz",
           "outlet": "JEP",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Juan_Manuel_Santos",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Juan Manuel Santos"
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/peace/2016/santos/facts/",
+          "outlet": "NobelPrize.org",
+          "date": "2026-06-22",
+          "title": "Juan Manuel Santos – Facts"
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/peace/2016/press-release/",
+          "outlet": "NobelPrize.org",
+          "date": "2016-10-07",
+          "title": "The Nobel Peace Prize 2016 – Press release"
+        },
+        {
+          "url": "https://www.cidob.org/lider-politico/juan-manuel-santos-calderon",
+          "outlet": "CIDOB",
+          "date": "2026-06-22",
+          "title": "Juan Manuel Santos Calderón"
+        },
+        {
+          "url": "https://www.colombia.com/colombia-info/historia-de-colombia/presidentes-de-colombia/juan-manuel-santos-calderon/",
+          "outlet": "Colombia.com",
+          "date": "2026-06-22",
+          "title": "Juan Manuel Santos, el presidente que ganó el premio Nobel de Paz"
         }
       ],
       "confidence": "high",
@@ -1087,7 +1231,7 @@
       "third-way",
       "classical-liberalism"
     ],
-    "bio": "Juan Manuel Santos Calderón es economista, periodista y político colombiano nacido el 10 de agosto de 1951 en Bogotá. Fue Presidente de Colombia entre 2010 y 2018. Proviene de una de las familias más influyentes del poder mediático y político del país (sobrino nieto del expresidente Eduardo Santos). Fue Ministro de Comercio Exterior (1991-1994) de Gaviria, Ministro de Hacienda (2000-2002) de Pastrana y Ministro de Defensa (2006-2009) de Uribe, período durante el cual se ejecutaron las operaciones militares más contundentes contra las FARC pero también ocurrieron los 'falsos positivos'. Lideró el proceso de paz con las FARC que culminó con el Acuerdo Final de 2016, razón por la cual recibió el Premio Nobel de la Paz ese mismo año.",
+    "bio": "Juan Manuel Santos Calderón (Bogotá, 10 de agosto de 1951) es economista, periodista y político colombiano, presidente de la República entre 2010 y 2018. Miembro de la familia Santos, vinculada históricamente al diario El Tiempo, estudió Economía y Administración de Empresas en la Universidad de Kansas y cursó estudios de posgrado en la London School of Economics y en la Universidad de Harvard. Inició su carrera pública como primer Ministro de Comercio Exterior (1991-1994) durante el gobierno de César Gaviria; más tarde fue Ministro de Hacienda y Crédito Público (2000-2002) con Andrés Pastrana y Ministro de Defensa Nacional (2006-2009) en el gobierno de Álvaro Uribe, etapa en la que se intensificaron las operaciones militares contra las FARC. Fue elegido presidente en 2010 con apoyo del Partido de la U y reelegido en 2014. Su gobierno impulsó negociaciones de paz con las FARC-EP, iniciadas formalmente en 2012. El acuerdo alcanzado en 2016 fue sometido a un plebiscito el 2 de octubre de ese año, en el que ganó el rechazo por estrecho margen; tras una renegociación, las partes firmaron un acuerdo revisado el 24 de noviembre de 2016, ratificado posteriormente por el Congreso. En octubre de 2016 recibió el Premio Nobel de la Paz por sus esfuerzos para poner fin al conflicto armado. Tras dejar la presidencia se ha dedicado a actividades académicas e internacionales relacionadas con la construcción de paz.",
     "incoherences": [
       {
         "id": "santos-plebiscito-paz-2016",
@@ -1176,7 +1320,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1310,6 +1454,24 @@
           "title": "Defensoría del Pueblo",
           "outlet": "Defensoría del Pueblo",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Duque_M%C3%A1rquez",
+          "outlet": "Wikipedia en español",
+          "date": "2026-06-22",
+          "title": "Iván Duque Márquez"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ivan_Duque",
+          "outlet": "Wikipedia en inglés",
+          "date": "2026-06-22",
+          "title": "Iván Duque"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/ivan-duque-marquez/9482/",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2026-06-22",
+          "title": "Iván Duque Márquez | Perfil congresista"
         }
       ],
       "confidence": "high",
@@ -1329,7 +1491,7 @@
       "fiscal-conservatism",
       "liberal-conservatism"
     ],
-    "bio": "Iván Duque Márquez es abogado, político y funcionario internacional colombiano, nacido el 1 de agosto de 1976 en Bogotá. Es hijo del ex registrador, ex ministro y ex gobernador Iván Duque Escobar. Fue senador (2014-2018) antes de ser elegido Presidente de Colombia con apoyo del Centro Democrático para el período 2018-2022. Antes de su carrera política trabajó en el Banco Interamericano de Desarrollo (BID) durante 12 años. Su mandato estuvo marcado por el paro nacional de 2021, la pandemia de COVID-19, la implementación parcial del Acuerdo de Paz y una baja aprobación ciudadana en encuestas.",
+    "bio": "Iván Duque Márquez es un abogado y político colombiano nacido el 1 de agosto de 1976 en Bogotá. Es hijo de Iván Duque Escobar, exgobernador de Antioquia, exministro y exregistrador nacional. Se graduó en Derecho en la Universidad Sergio Arboleda y obtuvo maestrías en la American University y la Universidad de Georgetown, en Estados Unidos. Inició su carrera como asesor del Ministerio de Hacienda y, entre 2001 y 2013, trabajó en el Banco Interamericano de Desarrollo (BID), donde dirigió la División de Cultura, Creatividad y Solidaridad y promovió el concepto de \"economía naranja\" sobre industrias creativas. En 2014 fue elegido senador de la República por el Centro Democrático para el período 2014-2018; durante ese cargo fue autor de varias leyes, entre ellas la que amplió la licencia de maternidad (Ley 1822 de 2017) y la Ley Naranja (Ley 1834 de 2017). En 2018 ganó la segunda vuelta presidencial con 54,03 % de los votos y asumió la Presidencia de Colombia el 7 de agosto de 2018, para un mandato que concluyó el 7 de agosto de 2022. Su gobierno enfrentó la pandemia de COVID-19, los paros nacionales de 2019 y 2021, la continuidad parcial de la implementación del Acuerdo de Paz con las FARC y niveles de aprobación bajos en las encuestas durante buena parte del período. Tras dejar el cargo, fue nombrado \"distinguished fellow\" del Woodrow Wilson Center en Washington y ha mantenido actividad como conferencista y comentarista político.",
     "incoherences": [
       {
         "id": "duque-tributaria-2021",
@@ -1446,7 +1608,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1563,7 +1725,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -9.0,
+      "x": -9,
       "y": 0.83,
       "justification": "Análisis metodológico del proyecto: Petro asume la presidencia el 7 de agosto de 2022 con agenda de transformación: reforma tributaria progresiva, transición energética, Paz Total, reforma rural. Su normativa en SUIN-Juriscol refleja iniciativas redistributivas en materia tributaria y social. El Plan Nacional de Desarrollo 'Colombia Potencia Mundial de la Vida' (DNP) propone giro hacia economía del cuidado y cambio climático. En seguridad implementa la Política de Paz Total buscando negociación con actores armados no estatal. Aunque las evaluaciones están en proceso, las evidencias documentadas en DAPRE, CONPES y SUIN-Juriscol muestran postura de izquierda democrática en distribución fiscal y transformaciones institucionales, confirmando en general su posición declarada de centro-izquierda a izquierda.",
       "sources": [
@@ -1596,6 +1758,36 @@
           "title": "Consejo Nacional de Política Económica y Social",
           "outlet": "CONPES",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Gustavo_Petro",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Gustavo Petro"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/gustavo-francisco-petro-urrego/811/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Gustavo Francisco Petro Urrego | Perfil congresista"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/gustavo-francisco-petro-urrego/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Gustavo Francisco Petro Urrego"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Colombia_de_2022",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Elecciones presidenciales de Colombia de 2022"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/cuantos-votos-tuvieron-en-primera-vuelta-gustavo-petro-rodolfo-hernandez-y-mas-candidatos-en-2022-noticias-hoy/",
+          "outlet": "El Espectador",
+          "date": "2026-06-22",
+          "title": "¿Cuántos votos tuvieron en primera vuelta Gustavo Petro, Rodolfo Hernández y más candidatos en 2022?"
         }
       ],
       "confidence": "high",
@@ -1615,7 +1807,7 @@
       "progressivism",
       "left-populism"
     ],
-    "bio": "Gustavo Francisco Petro Urrego es economista, político y ex guerrillero colombiano nacido el 19 de abril de 1960 en Ciénaga de Oro, Córdoba. Fue Presidente de Colombia elegido en 2022. Fue representante a la Cámara por Cundinamarca (1991-1994), senador (2006-2010, 2018-2022) y alcalde de Bogotá (2012-2015). Perteneció al M-19 en su juventud y se desmovilizó en 1990 con la firma del Acuerdo de Paz. Ha sido figura central de la izquierda colombiana durante dos décadas, reconocido por sus denuncias sobre parapolítica durante su etapa como congresista. Su elección en 2022 marcó la primera vez que un candidato de izquierda llegó a la Presidencia de Colombia.",
+    "bio": "Gustavo Francisco Petro Urrego es un economista y político colombiano nacido el 19 de abril de 1960 en Ciénaga de Oro, Córdoba. Estudió economía en la Universidad Externado de Colombia y realizó estudios de posgrado en administración pública y en temas ambientales y de desarrollo. En su juventud integró el movimiento guerrillero M-19, que se desmovilizó tras la firma del Acuerdo de Paz en 1990. Inició su carrera en cargos locales en Zipaquirá y fue representante a la Cámara por Cundinamarca (1991-1994) con la Alianza Democrática M-19. Entre 1994 y 1996 se desempeñó como agregado diplomático para los Derechos Humanos en la embajada de Colombia en Bélgica. Fue senador de la República (2006-2010), etapa en la que adquirió notoriedad por sus debates de control político sobre los vínculos entre políticos y grupos paramilitares, conocidos como el escándalo de la parapolítica. Fue alcalde de Bogotá (2012-2015) y nuevamente senador (2018-2022). Tras participar como candidato presidencial en 2010 y 2018, ganó las elecciones de 2022 en segunda vuelta con el 50,44 % de los votos, en fórmula con Francia Márquez, convirtiéndose en el primer presidente de orientación de izquierda elegido en Colombia. Su mandato presidencial está previsto para el periodo 2022-2026.",
     "incoherences": [
       {
         "id": "petro-extractivismo-2023",
@@ -1734,7 +1926,7 @@
         "addedAt": "2026-04-11"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],

@@ -39,7 +39,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Énfasis en seguridad urbana con incremento en inversión en CRUE (2024). Alianzas público-privadas en turismo y reactivación económica post-pandemia. Reforma del MIO iniciada en 2024. Posicionamiento de centro-derecha pragmático en gobernanza municipal.",
       "sources": [
@@ -54,6 +54,30 @@
           "title": "Plan de Desarrollo Municipal 2024-2027",
           "outlet": "Municipio de Cali",
           "date": "2024-05-31"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alejandro_Eder",
+          "outlet": "Wikipedia",
+          "date": "2024-01-02",
+          "title": "Alejandro Eder"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/cali/quien-es-alejandro-eder-el-nuevo-alcalde-de-cali-820829",
+          "outlet": "El Tiempo",
+          "date": "2023-10-29",
+          "title": "Alejandro Éder venció en Cali; ¿quién es el nuevo alcalde de la capital del Valle?"
+        },
+        {
+          "url": "https://www.cali.gov.co/gobierno/publicaciones/180184/alejandro-eder-es-el-nuevo-alcalde-de-cali/",
+          "outlet": "Alcaldía de Santiago de Cali",
+          "date": "2023-10-30",
+          "title": "Alejandro Eder es el nuevo alcalde de Cali"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/alejandro-eder-garces/",
+          "outlet": "La Silla Vacía",
+          "date": "2024-01-15",
+          "title": "Alejandro Eder Garcés - Quién es quién"
         }
       ],
       "confidence": "low",
@@ -73,7 +97,7 @@
       "social-liberalism",
       "fiscal-conservatism"
     ],
-    "bio": "Alejandro Eder Garcés es politólogo y empresario colombiano, alcalde de Cali desde enero de 2024 por el Nuevo Liberalismo. Fue Alto Consejero Presidencial para la Reintegración durante el gobierno de Juan Manuel Santos (2009-2013), con rol en el diseño de la política de reintegración de excombatientes. Es miembro de una de las familias empresariales tradicionales del Valle del Cauca.",
+    "bio": "Álvaro Alejandro Eder Garcés (Washington D. C., 1 de diciembre de 1975) es un politólogo, gestor público y empresario colombiano, alcalde de Cali para el periodo 2024-2027. Pertenece a la quinta generación de la familia Eder, una de las familias empresariales tradicionales del Valle del Cauca; su padre, Henry Eder, fue alcalde de Cali entre 1986 y 1988. Estudió Relaciones Internacionales y Filosofía en Hamilton College y obtuvo una maestría en la Escuela de Asuntos Internacionales y Públicos (SIPA) de la Universidad de Columbia. Trabajó en el sector financiero antes de regresar a Colombia para dedicarse a temas de reintegración y resolución de conflictos. Entre 2010 y 2014 fue Alto Consejero Presidencial para la Reintegración durante el gobierno de Juan Manuel Santos, cargo desde el cual participó en el diseño de la política de reintegración de excombatientes y en la creación de la Agencia Colombiana para la Reintegración (ACR). Estuvo vinculado a los procesos de negociación de paz del gobierno con las FARC. Posteriormente dirigió la fundación ProPacífico, orientada al desarrollo de la región Pacífico, y trabajó en investigaciones sobre reclutamiento de menores para la Comisión de la Verdad. Se presentó por primera vez a la Alcaldía de Cali en 2019. En las elecciones regionales de octubre de 2023 fue elegido alcalde con el respaldo de varios partidos, entre ellos el Nuevo Liberalismo, el Conservador, Cambio Radical, Colombia Justa Libres y Colombia Renaciente. Asumió el cargo el 1 de enero de 2024.",
     "incoherences": [
       {
         "id": "eder-tecnocracia-empresarial-agenda-social",
@@ -163,7 +187,7 @@
         "nuances": "Insuficiencia de recursos nacionales y crisis fiscal municipal limitó inversión."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -272,6 +296,36 @@
           "title": "Plan de Desarrollo Barranquilla 2024-2027",
           "outlet": "Municipio de Barranquilla",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Alejandro_Char_Chaljub",
+          "outlet": "Wikipedia",
+          "date": "2024-01-15",
+          "title": "Alejandro Char Chaljub"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/alejandro-char-gano-en-barranquilla-y-sera-alcalde-por-tercera-vez-perfil-de-su-carrera-y-cuestionamientos/",
+          "outlet": "El Espectador",
+          "date": "2023-10-29",
+          "title": "Alejandro Char ganó en Barranquilla y será alcalde por tercera vez"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/barranquilla/alejandro-char-proyectos-prioritarios-del-alcalde-de-barranquilla-2024-840376",
+          "outlet": "El Tiempo",
+          "date": "2024-01-02",
+          "title": "Prioridades del alcalde de Barranquilla, Alejandro Char, en 2024: ¿qué tan viables son?"
+        },
+        {
+          "url": "https://www.noticiascaracol.com/politica/elecciones-colombia/perfil-de-alejandro-char-el-heredero-politico-en-la-alcaldia-de-barranquilla-rg10",
+          "outlet": "Noticias Caracol",
+          "date": "2023-10-29",
+          "title": "Alejandro Char: perfil del heredero político que logró, por tercera vez, la Alcaldía de Barranquilla"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2023/10/29/alex-char-el-primer-politico-en-colombia-en-ocupar-la-alcaldia-de-barranquilla-en-tres-ocasiones/",
+          "outlet": "Infobae",
+          "date": "2023-10-29",
+          "title": "Álex Char: el primer político en Colombia en ocupar la Alcaldía de Barranquilla en tres ocasiones"
         }
       ],
       "confidence": "high",
@@ -291,7 +345,7 @@
       "fiscal-conservatism",
       "liberal-conservatism"
     ],
-    "bio": "Alejandro 'Alex' Char Chaljub es empresario y político colombiano, alcalde de Barranquilla en tres períodos (2008-2011, 2016-2019 y 2024-actual) por el partido Cambio Radical. Es hijo del empresario Fuad Char y miembro del 'Grupo Char', una de las casas políticas más influyentes del Caribe colombiano. Fue senador (2014-2016) y candidato presidencial 2018 (se retiró durante la campaña).",
+    "bio": "Alejandro 'Alex' Char Chaljub (Barranquilla, 16 de abril de 1966) es ingeniero civil, empresario y político colombiano. Se formó como ingeniero civil en la Universidad del Norte, cursó estudios de alta gerencia en la Universidad de los Andes y obtuvo una maestría en gerencia de proyectos en el Georgia Institute of Technology (Estados Unidos). Pertenece al Grupo Char, una influyente familia empresarial y política del Caribe colombiano vinculada al Grupo Empresarial Olímpica; es hijo del exsenador y exgobernador Fuad Char y hermano del exsenador Arturo Char. Inició su carrera pública como concejal de Barranquilla y en 2003 ejerció como gobernador del Atlántico. Ha sido alcalde de Barranquilla en tres períodos: 2008-2011, 2016-2019 y desde 2024, por el partido Cambio Radical, convirtiéndose en el primer político en ocupar ese cargo en tres ocasiones. Entre 2014 y 2016 fue senador de la República. En sus administraciones impulsó obras de infraestructura urbana como el Gran Malecón del Río, la recuperación de espacio público y la red de parques de la ciudad. Fue precandidato presidencial en el proceso de 2018 y nuevamente aspirante en 2022. Su tercer mandato (2024-2027) ha priorizado seguridad, movilidad, educación e infraestructura. Su trayectoria ha estado acompañada de cuestionamientos judiciales relacionados con financiación de campañas, sobre los que han actuado las autoridades.",
     "incoherences": [
       {
         "id": "char-continuidad-familiar-barranquilla",
@@ -381,7 +435,7 @@
         "nuances": "Crisis financiera de prestadores de salud limitó cobertura esperada."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -474,6 +528,30 @@
           "title": "Plan de Desarrollo Villavicencio 2024-2027",
           "outlet": "Municipio de Villavicencio",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://villavicencio.gov.co/alcaldia/nuestro-alcalde/",
+          "outlet": "Alcaldía de Villavicencio",
+          "date": "2026-06-22",
+          "title": "Nuestro Alcalde - Alexander Baquero Sanabria"
+        },
+        {
+          "url": "https://www.radionacional.co/noticias-colombia/alexander-baquero-nuevo-alcalde-de-villavicencio-perfil",
+          "outlet": "Radio Nacional de Colombia",
+          "date": "2023-10-30",
+          "title": "Alexander Baquero, nuevo alcalde de Villavicencio | Perfil"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/otras-ciudades/alexander-baquero-es-el-nuevo-alcade-de-villavicencio-821301",
+          "outlet": "El Tiempo",
+          "date": "2023-10-29",
+          "title": "El conservador Alexander Baquero se convirtió en el nuevo alcalde de Villavicencio"
+        },
+        {
+          "url": "https://www.noticiascaracol.com/politica/alexander-baquero-perfil-alcalde-villavicencio-2024-rg10",
+          "outlet": "Noticias Caracol",
+          "date": "2024-01-01",
+          "title": "Alexander Baquero: conozca al nuevo alcalde de Villavicencio"
         }
       ],
       "confidence": "low",
@@ -492,7 +570,7 @@
       "neo-conservatism",
       "traditionalist-conservatism"
     ],
-    "bio": "Alexander Baquero Sanabria es contador público (U. del Meta) con especialización en derecho público. Fue concejal de Villavicencio. Electo alcalde el 29 de octubre de 2023 con 54.432 votos bajo la coalición 'Recuperemos Villavo' integrada por Salvación Nacional, Centro Democrático y Colombia Justa Libres. Gobierna Villavicencio 2024-2027 con énfasis en seguridad ciudadana, gobernanza institucional y desarrollo económico local bajo iniciativa privada.",
+    "bio": "Alexander Baquero Sanabria es un político colombiano, alcalde de Villavicencio para el período 2024-2027. De profesión es contador público egresado de la Universidad del Meta, con especializaciones en derecho público (Universidad Autónoma de Colombia) y derecho urbano (Universidad Nuestra Señora del Rosario). Antes de llegar a la alcaldía desarrolló una trayectoria comunitaria y política en su ciudad como presidente de junta de acción comunal y como concejal de Villavicencio en dos períodos (2008-2011 y 2012-2015), respaldado en su momento por distintas colectividades. En las elecciones territoriales del 29 de octubre de 2023 fue elegido alcalde con 54.432 votos (cerca del 31,17 % de la votación), por delante de los demás candidatos. Su candidatura se presentó bajo la coalición 'Recuperemos Villavicencio', integrada por los partidos Salvación Nacional, Centro Democrático, Colombia Justa Libres y MIRA. Asumió el cargo el 1 de enero de 2024 y su gestión se ha enfocado en seguridad ciudadana, ordenamiento e institucionalidad y desarrollo económico local. Su administración formuló el Plan de Desarrollo Municipal 'Villavo Somos Todos' 2024-2027, que contempla cerca de 299 metas y un presupuesto plurianual estimado en 4,2 billones de pesos, con prioridades como infraestructura vial, suministro de agua y proyectos urbanos para la capital del departamento del Meta.",
     "incoherences": [
       {
         "id": "alexander-baquero-seguridad-criminalidad",
@@ -580,7 +658,7 @@
         "nuances": "Limitada capacidad de emprendimiento limitó alcance del programa."
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -637,7 +715,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Carlos Fernando Galán Pachón, de Nuevo Liberalismo, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -662,7 +740,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Promoción de proyectos de transporte masivo (Metro Bogotá) como eje redistributivo. Políticas de movilidad e integración territorial. Discurso progresista con ejecución acotada por presupuesto y capacidades institucionales. Apertura a participación democrática en decisiones de ciudad.",
       "sources": [
@@ -677,6 +755,36 @@
           "title": "Plan de Desarrollo Bogotá 2024-2027",
           "outlet": "Alcaldía de Bogotá",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://bogota.gov.co/mi-ciudad/administracion-distrital/quien-es-carlos-fernando-galan-pachon-alcalde-de-bogota-2024-2027",
+          "outlet": "Alcaldía Mayor de Bogotá",
+          "date": "2026-06-22",
+          "title": "¿Quién es Carlos Fernando Galán Pachón, Alcalde de Bogotá 2024-2027?"
+        },
+        {
+          "url": "https://concejodebogota.gov.co/perfil-h-c-carlos-fernando-galan/concejo/2020-01-03/120848.php",
+          "outlet": "Concejo de Bogotá D.C.",
+          "date": "2026-06-22",
+          "title": "Perfil H.C. Carlos Fernando Galán"
+        },
+        {
+          "url": "https://www.elespectador.com/bogota/carlos-fernando-galan-esta-es-la-trayectoria-del-nuevo-alcalde-de-bogota/",
+          "outlet": "El Espectador",
+          "date": "2023-10-29",
+          "title": "Carlos Fernando Galán, esta es la trayectoria del nuevo alcalde de Bogotá"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2023/10/29/conozca-la-historia-de-carlos-fernando-galan-con-un-48-se-quedo-con-la-alcaldia-de-bogota-en-primer-vuelta/",
+          "outlet": "Infobae",
+          "date": "2023-10-29",
+          "title": "Conozca la historia de Carlos Fernando Galán: con un 48% se quedó con la Alcaldía de Bogotá en primera vuelta"
+        },
+        {
+          "url": "https://www.cidob.org/lider-politico/carlos-fernando-galan-pachon",
+          "outlet": "CIDOB",
+          "date": "2026-06-22",
+          "title": "Carlos Fernando Galán Pachón"
         }
       ],
       "confidence": "medium",
@@ -696,7 +804,7 @@
       "social-democracy",
       "progressivism"
     ],
-    "bio": "Carlos Fernando Galán Pachón es abogado y político colombiano, alcalde de Bogotá desde enero de 2024 por el Nuevo Liberalismo. Es hijo del líder liberal Luis Carlos Galán Sarmiento (asesinado en 1989) y hermano de Juan Manuel Galán. Fue concejal de Bogotá, senador (2018-2019) y candidato a la alcaldía en 2019 (donde quedó en segundo lugar frente a Claudia López) y finalmente elegido en 2023 en su tercer intento.",
+    "bio": "Carlos Fernando Galán Pachón (Bogotá, 4 de junio de 1977) es periodista y político colombiano, alcalde de Bogotá para el periodo 2024-2027 por el Nuevo Liberalismo. Es hijo del líder político Luis Carlos Galán Sarmiento, asesinado en 1989 y fundador del Nuevo Liberalismo, y de la periodista Gloria Pachón; es hermano de Juan Manuel Galán. Estudió Servicio Exterior con énfasis en Economía Internacional en la Universidad de Georgetown y realizó posgrados en asuntos internacionales en la Universidad de Columbia y una maestría en Administración Pública en la Universidad de Nueva York. Inició su carrera en el periodismo como corresponsal de la revista Semana en Washington y como editor político en El Tiempo. En política fue elegido concejal de Bogotá en 2007 por Cambio Radical, partido por el que también fue elegido senador de la República en 2014; renunció a esa colectividad y a su curul en 2018. Entre 2012 y 2013 se desempeñó como Secretario de Transparencia de la Presidencia. Fue candidato a la Alcaldía de Bogotá en 2011 y en 2019, comicio en el que quedó segundo frente a Claudia López, tras lo cual ocupó un escaño en el Concejo de Bogotá con su movimiento Bogotá para la Gente. En las elecciones de octubre de 2023 ganó la Alcaldía en primera vuelta con 1.499.734 votos, la votación más alta en la historia de la ciudad, y asumió el cargo el 1 de enero de 2024.",
     "incoherences": [
       {
         "id": "cf-galan-antimaquinaria-apoyo-tradicional",
@@ -786,7 +894,7 @@
         "nuances": "Procesos complejos de concertación retrasaron inicio de construcción."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -874,7 +982,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Énfasis en transparencia con publicación de datos públicos y contrataciones abiertas. Políticas de movilidad con énfasis redistributivo. Implementación de seguridad con perspectiva de derechos. Limitaciones presupuestales y de gobernanza en ejecución de agenda progresista amplia. Conflictividad con sectores empresariales.",
       "sources": [
@@ -895,6 +1003,30 @@
           "title": "Departamento Administrativo Nacional de Estadística",
           "outlet": "DANE",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Claudia_L%C3%B3pez_Hern%C3%A1ndez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Claudia López Hernández"
+        },
+        {
+          "url": "https://bogota.gov.co/mi-ciudad/administracion-distrital/claudia-lopez-hernandez-alcaldesa-mayor-de-bogota",
+          "outlet": "Alcaldía Mayor de Bogotá",
+          "date": "2026-06-22",
+          "title": "Claudia López Hernández, Alcaldesa Mayor de Bogotá"
+        },
+        {
+          "url": "https://www.infobae.com/america/colombia/2019/10/28/quien-es-claudia-lopez-la-nueva-alcaldesa-de-bogota-mujer-y-lesbiana-que-revoluciona-la-politica-colombiana/",
+          "outlet": "Infobae",
+          "date": "2019-10-28",
+          "title": "Quién es Claudia López, la alcaldesa electa de Bogotá, mujer y lesbiana, que revoluciona la política colombiana"
+        },
+        {
+          "url": "https://www.aa.com.tr/es/mundo/qui%C3%A9n-es-claudia-l%C3%B3pez-la-primera-mujer-alcaldesa-de-bogot%C3%A1-colombia/1690395",
+          "outlet": "Agencia Anadolu",
+          "date": "2020-01-02",
+          "title": "Quién es Claudia López, la primera mujer alcaldesa de Bogotá, Colombia"
         }
       ],
       "confidence": "high",
@@ -914,7 +1046,7 @@
       "green-politics",
       "social-liberalism"
     ],
-    "bio": "Claudia Nayibe López Hernández es politóloga, periodista y política colombiana. Fue senadora de la República (2014-2018), candidata a la Vicepresidencia en 2018 y Alcaldesa de Bogotá (2020-2023), la primera mujer elegida en ese cargo. Es reconocida por su trabajo en investigación sobre parapolítica y su activismo en temas de género, corrupción y derechos LGBTIQ+.",
+    "bio": "Claudia Nayibe López Hernández nació en Bogotá el 9 de marzo de 1970. Es politóloga, investigadora y periodista. Cursó estudios de Finanzas, Gobierno y Relaciones Internacionales en la Universidad Externado de Colombia, una maestría en Administración Pública en la Universidad de Columbia y un doctorado en Ciencia Política en la Universidad Northwestern (Estados Unidos), con apoyo de una beca Fulbright. Participó en el movimiento estudiantil de la Séptima Papeleta (1989-1990), que impulsó la Asamblea Constituyente de 1991. Como investigadora, trabajó en temas de organización electoral y en el análisis del fenómeno conocido como parapolítica, que documentó vínculos entre grupos paramilitares y dirigentes políticos. Fue senadora de la República por la Alianza Verde entre 2014 y 2018. En 2018 integró la fórmula vicepresidencial de Sergio Fajardo en la coalición Colombia. En las elecciones locales del 27 de octubre de 2019 fue elegida alcaldesa de Bogotá con más de un millón de votos, y ejerció el cargo entre el 1 de enero de 2020 y el 31 de diciembre de 2023, convirtiéndose en la primera mujer elegida para esa alcaldía. Su administración, denominada Nuevo Contrato Social y Ambiental, incluyó programas como Jóvenes a la U y las Manzanas del Cuidado, y avanzó en la contratación de la primera línea del metro de Bogotá. Tras dejar la alcaldía renunció a la Alianza Verde y se postuló como precandidata presidencial para los comicios de 2026.",
     "incoherences": [
       {
         "id": "lopez-transparencia-publicidad-oficial-contratos",
@@ -1004,7 +1136,7 @@
         "nuances": "Conflictos con operadores privados retrasaron implementación completa."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1098,7 +1230,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Preservación del patrimonio histórico de Cartagena con enfoque en turismo de élite. Políticas de orden público con énfasis en seguridad. Gestión concentrada en centro histórico con limitada expansión hacia periferias. Gobierno de transición con énfasis administrativo sobre reformista.",
       "sources": [
@@ -1113,6 +1245,36 @@
           "title": "Plan de Desarrollo Cartagena 2024-2027",
           "outlet": "Municipio de Cartagena",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Dumek_Turbay",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Dumek Turbay"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/dumek-turbay-paz/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Dumek Turbay Paz - Quién es Quién"
+        },
+        {
+          "url": "https://lacontratopediacaribe.com/dumek-turbay-el-alcalde-con-el-que-la-clase-politica-de-bolivar-recupera-el-poder-en-la-aduana/",
+          "outlet": "La Contratopedia Caribe",
+          "date": "2023-10-29",
+          "title": "Dumek Turbay, el alcalde con el que la clase política de Bolívar recupera el poder en La Aduana"
+        },
+        {
+          "url": "https://www.kienyke.com/politica/quien-es-dumek-turbay-paz-nuevo-alcalde-de-cartagena",
+          "outlet": "KienyKe",
+          "date": "2023-10-30",
+          "title": "¿Quién es Dumek Turbay Paz, nuevo alcalde de Cartagena?"
+        },
+        {
+          "url": "https://www.noticiascaracol.com/politica/elecciones-colombia/dumek-turbay-paz-es-el-nuevo-alcalde-de-cartagena-rg10",
+          "outlet": "Noticias Caracol",
+          "date": "2023-10-29",
+          "title": "Dumek Turbay Paz es el nuevo alcalde de Cartagena"
         }
       ],
       "confidence": "high",
@@ -1131,7 +1293,7 @@
       "classical-liberalism",
       "social-liberalism"
     ],
-    "bio": "Dumek Jaime Turbay Paz es abogado y político colombiano, alcalde de Cartagena desde enero de 2024. Fue representante a la Cámara por Bolívar (2010-2014), Gobernador de Bolívar (2016-2019) y alcalde de Cartagena electo en 2023. Su gestión busca estabilizar la capital bolivarense tras años de inestabilidad administrativa (varios alcaldes fueron destituidos entre 2020 y 2023).",
+    "bio": "Dumek Jaime Turbay Paz (El Carmen de Bolívar, 10 de febrero de 1971) es un abogado y político colombiano, alcalde de Cartagena de Indias desde el 1 de enero de 2024 para el período 2024-2027. Es abogado de la Universidad de Cartagena, con especializaciones en Derecho Público en la Universidad Externado de Colombia y en estudios políticos y económicos en la Universidad del Norte. Inició su trayectoria pública como concejal de El Carmen de Bolívar a finales de la década de 1980 y, posteriormente, ocupó cargos en la administración distrital de Cartagena, entre ellos secretario de Gobierno. Desde 2006 y hasta 2014 se desempeñó como gerente del Instituto Departamental de Deportes y Recreación de Bolívar (Iderbol). En octubre de 2015 fue elegido gobernador de Bolívar, cargo que ejerció durante el período 2016-2019. En las elecciones regionales del 29 de octubre de 2023 fue elegido alcalde de Cartagena con cerca del 42,6 % de los votos. A lo largo de su carrera ha estado vinculado al Partido Liberal y, más recientemente, a los movimientos En Marcha y Nuevo Liberalismo. Su llegada a la Alcaldía se produjo tras un período de inestabilidad administrativa en la ciudad, marcado por la sucesión de varios alcaldes entre 2020 y 2023. Pertenece a una familia de tradición política en la región Caribe.",
     "incoherences": [
       {
         "id": "turbay-familia-tradicion-renovacion",
@@ -1221,7 +1383,7 @@
         "nuances": "Limitaciones presupuestales y conflictos de tierras retrasaron construcción."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1324,6 +1486,30 @@
           "title": "Plan de Desarrollo Medellín 2024-2027",
           "outlet": "Municipio de Medellín",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Federico_Guti%C3%A9rrez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Federico Gutiérrez"
+        },
+        {
+          "url": "https://www.medellin.gov.co/es/nuestro-alcalde/",
+          "outlet": "Alcaldía de Medellín",
+          "date": "2026-06-22",
+          "title": "Perfil de nuestro Alcalde distrital"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-2022/presidencia/federico-gutierrez-la-derrota-en-primera-vuelta-a-pesar-de-sus-alianzas-676333",
+          "outlet": "El Tiempo",
+          "date": "2022-05-30",
+          "title": "Federico Gutiérrez: la derrota en primera vuelta a pesar de sus alianzas"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/politica/federico-gutierrez-fico-en-votos-en-la-consulta-de-equipo-por-colombia-AO16903650",
+          "outlet": "El Colombiano",
+          "date": "2022-03-13",
+          "title": "Federico Gutiérrez 'Fico' ganó la consulta de Equipo por Colombia"
         }
       ],
       "confidence": "medium",
@@ -1343,7 +1529,7 @@
       "fiscal-conservatism",
       "christian-democracy"
     ],
-    "bio": "Federico Andrés 'Fico' Gutiérrez Zuluaga es ingeniero civil y político colombiano, alcalde de Medellín en dos períodos (2016-2019 y 2024-actual). Fue candidato presidencial en 2022 por la coalición Equipo por Colombia, donde obtuvo el tercer lugar con el 23,9% en primera vuelta. Es el líder del movimiento Creemos Colombia y figura clave de la derecha democrática no-uribista.",
+    "bio": "Federico Andrés Gutiérrez Zuluaga, conocido como 'Fico', nació el 28 de noviembre de 1974 en Medellín. Es ingeniero civil egresado de la Universidad de Medellín y realizó estudios de posgrado en alta gerencia y en ciencia política en la Universidad Pontificia Bolivariana. Inició su carrera política como concejal de Medellín, cargo que ocupó durante ocho años, entre 2004 y 2012. En 2015 fue elegido alcalde de Medellín por firmas ciudadanas, y gobernó la ciudad entre 2016 y 2019. Posteriormente fundó el movimiento político Creemos. En 2022 fue precandidato presidencial y ganó la consulta interna de la coalición Equipo por Colombia el 13 de marzo de ese año, con cerca de 1,6 millones de votos. En la primera vuelta presidencial del 29 de mayo de 2022 obtuvo el tercer lugar con alrededor de 5 millones de votos (cerca del 23,9%), sin pasar a la segunda vuelta. En octubre de 2023 fue elegido nuevamente alcalde de Medellín con más del 73% de la votación, una de las cifras más altas en la historia de la ciudad, y asumió el cargo para el periodo 2024-2027. Es considerado una figura del centro-derecha y la derecha colombiana.",
     "incoherences": [
       {
         "id": "fico-medellin-pacto-fusil-seguridad",
@@ -1404,7 +1590,7 @@
         "nuances": "Defensa retórica del patrimonio de EPM vs. inacción frente a los responsables políticos de la contingencia Hidroituango"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1485,6 +1671,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría General de Colombia",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.noticiasrcn.com/colombia/quien-es-jaime-andres-beltran-el-nuevo-alcalde-de-bucaramanga-457131",
+          "outlet": "Noticias RCN",
+          "date": "2023-10-29",
+          "title": "¿Quién es Jaime Andrés Beltrán, el nuevo alcalde de Bucaramanga?"
+        },
+        {
+          "url": "https://www.semana.com/politica/articulo/este-es-jaime-andres-beltran-el-nuevo-alcalde-de-bucaramanga-que-es-considerado-el-bukele-colombiano/202358/",
+          "outlet": "Semana",
+          "date": "2023-10-30",
+          "title": "Este es Jaime Andrés Beltrán, el nuevo alcalde de Bucaramanga"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2024/12/12/tumban-la-eleccion-de-jaime-andres-beltran-como-alcalde-de-bucaramanga-por-doble-militancia-anuncio-que-apelara/",
+          "outlet": "Infobae",
+          "date": "2024-12-12",
+          "title": "Tumban la elección de Jaime Andrés Beltrán como alcalde de Bucaramanga por doble militancia: anunció que apelará"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/santander/se-fue-jaime-andres-beltran-como-alcalde-de-bucaramanga-gobernador-de-santander-designo-como-encargado-a-director-de-gestion-de-riesgo-3494208",
+          "outlet": "El Tiempo",
+          "date": "2025-09-25",
+          "title": "Jaime Andrés Beltrán deja la Alcaldía de Bucaramanga: gobernador de Santander nombra al director de Gestión del Riesgo como encargado"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/santander/jaime-andres-beltran-desiste-de-su-candidatura-al-senado-y-se-une-a-la-campana-de-abelardo-de-la-espriella-por-que-hizo-este-movimiento-politico-3525576",
+          "outlet": "El Tiempo",
+          "date": "2026-01-20",
+          "title": "Jaime Andrés Beltrán desiste de su candidatura al Senado y se une a campaña de Abelardo de la Espriella"
         }
       ],
       "confidence": "low",
@@ -1504,7 +1720,7 @@
       "traditionalist-conservatism",
       "nationalist-conservatism"
     ],
-    "bio": "Jaime Andrés Beltrán Martínez es pastor cristiano, abogado y político colombiano, alcalde de Bucaramanga desde enero de 2024. Fue concejal de Bucaramanga. Su elección representa la consolidación del poder electoral de las iglesias evangélicas en política local colombiana, particularmente en Santander.",
+    "bio": "Jaime Andrés Beltrán Martínez es comunicador social, pastor cristiano y político colombiano, nacido en Bucaramanga (Santander). Ha ejercido como líder de una iglesia cristiana en la ciudad. Inició su trayectoria política vinculado al Partido Liberal y posteriormente al partido Colombia Justa Libres, de orientación cristiana. En 2019 se presentó por primera vez a la Alcaldía de Bucaramanga, quedó en segundo lugar y obtuvo una curul en el Concejo de la ciudad. En las elecciones regionales del 29 de octubre de 2023 fue elegido alcalde de Bucaramanga para el periodo 2024-2027, postulado por la coalición Defendamos Bucaramanga, conformada por Colombia Justa Libres, el Partido de la U y el Movimiento de Salvación Nacional. Durante la campaña centró su discurso en la seguridad y la prensa lo comparó con el mandatario salvadoreño Nayib Bukele. Asumió el cargo el 1 de enero de 2024. En diciembre de 2024 el Tribunal Administrativo de Santander declaró en primera instancia la nulidad de su elección por doble militancia; Beltrán apeló la decisión. En agosto de 2025 la Sección Quinta del Consejo de Estado confirmó la nulidad, y en septiembre de 2025 dejó la Alcaldía, tras lo cual el gobernador de Santander designó como alcalde encargado a Eduard Sánchez, entonces director de Gestión del Riesgo del departamento. Posteriormente Beltrán anunció aspiraciones al Senado, candidatura que enfrentó cuestionamientos ante el Consejo Nacional Electoral. En enero de 2026 desistió de esa aspiración y se sumó a la campaña presidencial de Abelardo de la Espriella.",
     "incoherences": [
       {
         "id": "beltran-pastor-religion-laicidad",
@@ -1565,7 +1781,7 @@
         "nuances": "Discurso de outsider renovador vs. alianzas con sectores empresariales y políticos tradicionales de Santander"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1653,6 +1869,36 @@
           "title": "Departamento Administrativo Nacional de Estadística",
           "outlet": "DANE",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Jairo_Y%C3%A1%C3%B1ez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Jairo Yáñez"
+        },
+        {
+          "url": "https://www.semana.com/nacion/articulo/nuevo-alcalde-de-cucuta-jairo-yanez-gano-y-enfrento-el-poder-de-ramiro-suarez/638172/",
+          "outlet": "Semana",
+          "date": "2019-10-28",
+          "title": "Nuevo alcalde de Cúcuta: Jairo Yáñez ganó y enfrentó el poder de Ramiro Suárez"
+        },
+        {
+          "url": "https://www.lafm.com.co/colombia/jairo-yanez-la-sorpresa-en-las-elecciones-elegido-alcalde-de-cucuta",
+          "outlet": "La FM",
+          "date": "2019-10-28",
+          "title": "Jairo Yáñez, la sorpresa en las elecciones: elegido alcalde de Cúcuta"
+        },
+        {
+          "url": "https://cucuta.gov.co/alcalde-jairo-yanez-ganador-en-premio-mejores-gobernantes-2020-2023/",
+          "outlet": "Alcaldía de Cúcuta",
+          "date": "2023-12-12",
+          "title": "Alcalde Jairo Yáñez, ganador en premio 'Mejores Gobernantes 2020-2023'"
+        },
+        {
+          "url": "https://elecciones2026.alianzaverde.org.co/candidatos-camara-de-representantes-norte-de-santander/jairo-yanez/",
+          "outlet": "Partido Alianza Verde",
+          "date": "2026-06-22",
+          "title": "Jairo Yáñez - Candidato a Cámara de Representantes por Norte de Santander"
         }
       ],
       "confidence": "low",
@@ -1672,7 +1918,7 @@
       "fiscal-conservatism",
       "technocracy"
     ],
-    "bio": "Alcalde de Cúcuta para el período 2024-2027 por Cambio Radical.",
+    "bio": "Jairo Tomás Yáñez Rodríguez (Tunja, 1951) es un ingeniero civil, empresario y político colombiano que se desempeñó como alcalde de San José de Cúcuta durante el período 2020-2023. Es ingeniero civil de formación y, antes de su paso por la política, desarrolló una extensa trayectoria en el sector privado y académico: ejerció como docente universitario en áreas técnicas y ocupó cargos directivos y gerenciales en empresas del sector industrial y de la construcción, entre ellas la fábrica Cerámica Andina, así como funciones en gremios como Camacol. Fue elegido alcalde de Cúcuta el 27 de octubre de 2019 con cerca de 110.000 votos, avalado por el partido Alianza Verde, en una elección considerada una sorpresa por su bajo perfil previo en encuestas y por una campaña de presupuesto reducido. Su candidatura recibió respaldo de figuras como Rodolfo Hernández, Sergio Fajardo y Antanas Mockus, y se presentó con un mensaje de lucha contra la corrupción y de oposición a las estructuras políticas tradicionales de la ciudad. Durante su gestión, la administración fue reconocida con el Reconocimiento Territorial en Gobernanza Migratoria en Ciudades Capitales, en el marco de los Premios Mejores Gobernantes 2020-2023, por iniciativas dirigidas a la atención de población migrante en la zona de frontera. Concluido su mandato el 31 de diciembre de 2023, ha continuado vinculado a la vida pública: figura como candidato a la Cámara de Representantes por Norte de Santander por el partido Alianza Verde de cara a las elecciones de 2026.",
     "incoherences": [
       {
         "id": "jy-migrantes-servicios",
@@ -1760,7 +2006,7 @@
         "nuances": "Dependencia histórica del comercio transfronterizo limitó diversificación."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1847,6 +2093,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría General de Colombia",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Johana_Ximena_Aranda",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Johana Ximena Aranda"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/otras-ciudades/johana-aranda-rivera-nueva-alcaldesa-de-ibague-821019",
+          "outlet": "El Tiempo",
+          "date": "2023-10-30",
+          "title": "Johana Aranda, la ex secretaria de Salud que ahora será alcaldesa de Ibagué"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/johana-aranda-candidata-a-la-alcaldia-de-ibague-esta-son-sus-propuestas-voten-por-mi/",
+          "outlet": "El Espectador",
+          "date": "2023-09-26",
+          "title": "Johana Aranda, candidata a la Alcaldía de Ibagué, estas son sus propuestas"
+        },
+        {
+          "url": "https://www.ecosdelcombeima.com/ibague/nota-231629-ibague-eligio-johana-aranda-sera-la-alcaldesa-para-el-periodo-2024-2027",
+          "outlet": "Ecos del Combeima",
+          "date": "2023-10-29",
+          "title": "Ibagué eligió: Johana Aranda será la alcaldesa para el periodo 2024-2027"
+        },
+        {
+          "url": "https://elcronista.co/politica/johana-aranda-la-segunda-alcaldesa-en-la-historia-de-ibague",
+          "outlet": "El Cronista",
+          "date": "2023-10-29",
+          "title": "Johana Aranda, la segunda alcaldesa en la historia de Ibagué"
         }
       ],
       "confidence": "low",
@@ -1865,7 +2141,7 @@
       "progressive-conservatism",
       "traditionalist-conservatism"
     ],
-    "bio": "Johana Ximena Aranda Rivera nació el 16 de abril de 1977 en Ibagué. Es bacterióloga (U. Católica de Manizales). Fue Secretaria de Salud de Ibagué. Electa alcaldesa el 29 de octubre de 2023 con 74.889 votos bajo la coalición 'Ibagué Para Todos' integrada por Centro Democrático, Partido de la U, Cambio Radical y MIRA. Gobierna Ibagué 2024-2027 con énfasis en modernización administrativa, fortalecimiento del sistema público de salud y desarrollo local inclusivo.",
+    "bio": "Johana Ximena Aranda Rivera nació el 16 de abril de 1977 en Ibagué, Tolima. Es bacterióloga egresada de la Universidad Católica de Manizales, con especializaciones en gestión de la calidad y en gerencia de servicios de salud cursadas en la Universidad Politécnica de Valencia. Antes de su carrera política trabajó cerca de dos décadas en la Empresa Ibaguereña de Acueducto y Alcantarillado (IBAL), donde se desempeñó en la Dirección de Control de Calidad. El 1 de enero de 2020 asumió como Secretaria de Salud de Ibagué durante la administración del alcalde Andrés Fabián Hurtado, cargo que ejerció durante la pandemia de COVID-19. En mayo de 2022 ocupó de manera transitoria la Alcaldía de Ibagué mientras el alcalde titular estuvo suspendido. En las elecciones territoriales del 29 de octubre de 2023 fue elegida alcaldesa de Ibagué con 74.941 votos según el escrutinio final, respaldada por la coalición \"Ibagué Para Todos\", que reunió avales del Centro Democrático, el Partido de la U, Cambio Radical, el Partido MIRA, ADA y Colombia Justa Libres. Se convirtió en la segunda mujer en ocupar la Alcaldía de la capital tolimense y la primera elegida por voto popular. El Consejo de Estado ratificó posteriormente su elección tras demandas presentadas contra su designación. Gobierna Ibagué para el periodo 2024-2027 con un programa orientado a seguridad, movilidad, fortalecimiento del sistema público de salud y desarrollo económico local.",
     "incoherences": [
       {
         "id": "johana-aranda-corrupcion-transparencia",
@@ -1953,7 +2229,7 @@
         "nuances": "Desconfianza comunitaria limitó cobertura de inmunización."
       }
     ],
-    "lastUpdated": "2026-04-12",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2011,7 +2287,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Jorge Iván Ospina se presenta como miembro de Alianza Verde, cuya plataforma programática se alinea con el progresismo y la política verde. Su discurso público como alcalde de Cali enfatizó salud pública, gestión ambiental y participación comunitaria.",
       "sources": [
@@ -2045,6 +2321,36 @@
           "title": "Departamento Administrativo Nacional de Estadística",
           "outlet": "DANE",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Jorge_Iv%C3%A1n_Ospina",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Jorge Iván Ospina"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/jorge-ivan-ospina-gomez/8827/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Jorge Iván Ospina Gómez — Perfil del congresista"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/jorge-ivan-ospina-gomez/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Jorge Iván Ospina Gómez — Quién es Quién"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/04/14/gobierno-prorroga-intervencion-de-nueva-eps-hasta-2027-y-designa-a-jorge-ivan-ospina-como-agente-interventor/",
+          "outlet": "Infobae",
+          "date": "2026-04-14",
+          "title": "Gobierno prorroga intervención de Nueva EPS hasta 2027 y designa a Jorge Iván Ospina como agente interventor"
+        },
+        {
+          "url": "https://www.eltiempo.com/colombia/cali/hoja-de-vida-de-jorge-ivan-ospina-alcalde-de-cali-422318",
+          "outlet": "El Tiempo",
+          "date": "2019-10-28",
+          "title": "Conozca la hoja de vida de Jorge Iván Ospina, nuevo alcalde de Cali"
         }
       ],
       "confidence": "low",
@@ -2064,7 +2370,7 @@
       "third-way",
       "progressivism"
     ],
-    "bio": "Jorge Iván Ospina Gómez es médico cirujano y político colombiano, dos veces alcalde de Cali (2008-2011 y 2020-2023) por la Alianza Verde. Fue senador de la República (2014-2018). En abril de 2026 fue designado interventor de Nueva EPS por la Superintendencia Nacional de Salud. Es hijo de Iván Marino Ospina, cofundador del M-19, asesinado en 1985.",
+    "bio": "Jorge Iván Ospina Gómez (Cali, 1 de octubre de 1965) es médico cirujano y político colombiano. Se graduó como médico en el Instituto de Ciencias Médicas \"Victoria de Girón\" de La Habana, Cuba, y posteriormente se especializó en gestión de la salud en la Universidad Icesi de Cali. Inició su carrera en el sector público en la Secretaría de Salud Municipal de Cali. Es hijo de Iván Marino Ospina, comandante del movimiento guerrillero M-19, y fue elegido concejal de Cali antes de su salto a cargos de mayor jerarquía. Ha sido dos veces alcalde de Santiago de Cali, en los periodos 2008-2011 y 2020-2023. Entre ambos mandatos, en 2014 resultó electo senador de la República por el partido Alianza Verde, cargo que ejerció durante el periodo 2014-2018. Durante su segunda alcaldía gobernó la ciudad en el contexto de la pandemia de COVID-19 y del paro nacional de 2021, que tuvo en Cali uno de sus principales epicentros. En abril de 2026, la Superintendencia Nacional de Salud lo designó agente interventor de la Nueva EPS, una de las mayores aseguradoras del sistema de salud colombiano, en el marco de la prórroga de la intervención de esa entidad. Su designación fue objeto de cuestionamientos públicos sobre el cumplimiento de los requisitos de experiencia para el cargo. Ospina también enfrenta procesos judiciales relacionados con su gestión como alcalde.",
     "incoherences": [
       {
         "id": "rojas-manizales-medio-ambiente-contaminacion",
@@ -2123,7 +2429,7 @@
         "nuances": "Capacidad limitada de ciudadanía limitó cobertura de auditoría."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2211,6 +2517,30 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría General de Colombia",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Mauricio_Salazar_Pel%C3%A1ez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Mauricio Salazar Peláez"
+        },
+        {
+          "url": "https://www.elpais.com.co/elecciones/mauricio-salazar-quien-es-el-nuevo-alcalde-de-pereira-3111.html",
+          "outlet": "El País (Cali)",
+          "date": "2023-10-31",
+          "title": "Mauricio Salazar: ¿quién es el nuevo alcalde de Pereira?"
+        },
+        {
+          "url": "https://www.pereira.gov.co/portaldeninos/publicaciones/824/nuestro-alcalde-mauricio-salazar-pelaez/",
+          "outlet": "Alcaldía de Pereira",
+          "date": "2026-06-22",
+          "title": "Nuestro alcalde Mauricio Salazar Peláez"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/encuesta-del-cnc-en-pereira-tiene-a-salazar-y-lopera-arriba-803817",
+          "outlet": "El Tiempo",
+          "date": "2023-09-19",
+          "title": "Salazar y Lopera comandan la intención de voto en Pereira según el CNC"
         }
       ],
       "confidence": "low",
@@ -2230,7 +2560,7 @@
       "fiscal-conservatism",
       "nationalist-conservatism"
     ],
-    "bio": "Mauricio Salazar Peláez es abogado y político colombiano, alcalde de Pereira para el período 2024-2027 por el Centro Democrático. Fue concejal de Pereira en períodos anteriores y funcionario municipal.",
+    "bio": "Mauricio Salazar Peláez (Pereira, 1974) es abogado y político colombiano, alcalde de Pereira para el período 2024-2027. Es egresado de Derecho de la Universidad Libre seccional Pereira y cuenta con una maestría en Administración (MBA) de la Universidad EAFIT. Inició su vida laboral en el comercio y desarrolló actividad de liderazgo comunitario en el sector de Cuba, en Pereira. En lo institucional se desempeñó como personero de Pereira (2006-2007) y como asesor de la Gobernación de Risaralda. Entre 2014 y 2018 fue representante a la Cámara por Risaralda, elegido con aval del Partido Conservador Colombiano. En las elecciones locales de 2019 fue candidato a la Alcaldía de Pereira y ocupó el segundo lugar, por lo que accedió al Concejo de la ciudad por la curul de oposición, que ejerció en el período 2020-2023. En las elecciones del 29 de octubre de 2023 fue elegido alcalde de Pereira con 82.304 votos, en su segundo intento por el cargo, respaldado por la coalición Primero Pereira, integrada por los partidos Unión por la Gente, MIRA, En Marcha y Alianza Social Independiente. Se posesionó el 1 de enero de 2024 para el período 2024-2027. Su programa de gobierno abarca temas de seguridad, educación, movilidad, desarrollo económico y cultura.",
     "incoherences": [
       {
         "id": "salazar-pereira-agua-potable",
@@ -2289,7 +2619,7 @@
         "nuances": "Insuficiente capacitación docente limitó expansión del programa."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2362,7 +2692,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -9.0,
+      "x": -9,
       "y": 0.83,
       "justification": "Análisis metodológico del proyecto: Políticas de transformación urbana con énfasis redistributivo en transporte y servicios. Implementación de presupuestos participativos y gobernanza democrática. Conflictos con sectores empresariales y de derecha sobre alcances de reformas. Gobierno de izquierda con limitaciones presupuestales y de gobernanza. Énfasis en igualdad, ambiente, derechos humanos.",
       "sources": [
@@ -2383,6 +2713,36 @@
           "title": "Departamento Administrativo Nacional de Estadística",
           "outlet": "DANE",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.eltiempo.com/bogota/gustavo-petro-como-fue-su-paso-por-la-alcaldia-de-bogota-2012-2015-676282",
+          "outlet": "El Tiempo",
+          "date": "2022-05-30",
+          "title": "Gustavo Petro: ¿cómo fue su paso por la Alcaldía de Bogotá 2012-2015?"
+        },
+        {
+          "url": "https://www.semana.com/nacion/articulo/gustavo-petro-fue-destituido-por-la-procuraduria/367687-3/",
+          "outlet": "Semana",
+          "date": "2013-12-08",
+          "title": "Procuraduría destituye a Gustavo Petro y lo inhabilita por 15 años"
+        },
+        {
+          "url": "https://www.elespectador.com/bogota/como-le-fue-a-gustavo-petro-en-la-alcaldia-de-bogota/",
+          "outlet": "El Espectador",
+          "date": "2022-06-19",
+          "title": "¿Cómo le fue a Gustavo Petro en la Alcaldía de Bogotá?"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/gustavo-francisco-petro-urrego/811/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Perfil de Gustavo Francisco Petro Urrego"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/gustavo-francisco-petro-urrego/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Gustavo Francisco Petro Urrego - Quién es quién"
         }
       ],
       "confidence": "medium",
@@ -2402,7 +2762,7 @@
       "progressivism",
       "left-populism"
     ],
-    "bio": "Gustavo Petro fue alcalde de Bogotá entre 2012 y 2015 por el Movimiento Progresistas (luego Colombia Humana). Su administración \"Bogotá Humana\" enfatizó políticas sociales, ambiente y movilidad. Fue destituido en diciembre de 2013 por la Procuraduría a raíz del \"nuevo esquema de aseo\"; la destitución fue revertida por acciones de tutela y la CIDH emitió medidas cautelares a su favor.",
+    "bio": "Gustavo Francisco Petro Urrego (Ciénaga de Oro, Córdoba, 19 de abril de 1960) es economista de la Universidad Externado de Colombia, con estudios de posgrado en administración pública y economía. En su juventud militó en el grupo guerrillero M-19, que se desmovilizó entre 1989 y 1990. Tras la Asamblea Constituyente fue elegido representante a la Cámara en 1991 por la Alianza Democrática M-19, y posteriormente senador desde 2006, periodo en el que tuvo notoriedad por sus denuncias sobre la parapolítica. Fue elegido alcalde mayor de Bogotá para el periodo 2012-2015 con cerca del 32 % de los votos, encabezando el programa \"Bogotá Humana\", orientado a reducir la segregación social y a políticas en ambiente, movilidad y educación. Su administración impulsó la reorganización del esquema público de aseo y la ampliación del Sistema Integrado de Transporte Público (SITP). En diciembre de 2012, el cambio en el esquema de recolección de basuras generó una crisis sanitaria temporal en la ciudad. Por ese episodio, la Procuraduría General de la Nación, bajo Alejandro Ordóñez, lo destituyó e inhabilitó por 15 años en diciembre de 2013; la sanción fue luego revocada tras acciones de tutela y medidas cautelares de la Comisión Interamericana de Derechos Humanos, y Petro completó su periodo. Posteriormente fue candidato presidencial en 2018, quedando segundo, y en 2022 fue elegido presidente de Colombia para el periodo 2022-2026.",
     "incoherences": [
       {
         "id": "petro-bogota-transporte-ciclorutas",
@@ -2461,7 +2821,7 @@
         "nuances": "Crisis financiera de hospitales públicos limitó inversión."
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],

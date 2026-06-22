@@ -68,6 +68,36 @@
           "title": "Marco normativo de la JEP — Ley 1957 de 2019",
           "outlet": "Jurisdicción Especial para la Paz",
           "date": "2019-06-06"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/%C3%81ngela_Robledo",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Ángela Robledo"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/angela-maria-robledo-gomez/",
+          "outlet": "Cámara de Representantes de Colombia",
+          "date": "2026-06-22",
+          "title": "Ángela María Robledo Gómez - Representante a la Cámara"
+        },
+        {
+          "url": "https://www.semana.com/nacion/articulo/angela-robledo-una-congresista-de-alianza-verde-es-la-formula-de-petro/560567/",
+          "outlet": "Semana",
+          "date": "2018-03-16",
+          "title": "Ángela Robledo, una congresista de Alianza Verde, es la fórmula de Petro"
+        },
+        {
+          "url": "https://www.elcolombiano.com/elecciones-2018-colombia/angela-robledo-es-la-formula-vicepresidencial-de-gustavo-petro-BA8398993",
+          "outlet": "El Colombiano",
+          "date": "2018-03-16",
+          "title": "Ángela Robledo es la fórmula vicepresidencial de Gustavo Petro"
+        },
+        {
+          "url": "https://lasillavacia.com/quienesquien/perfilquien/angela-maria-robledo",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Ángela María Robledo - Perfil Quién es Quién"
         }
       ],
       "dimensionScores": {
@@ -89,7 +119,7 @@
     ],
     "ideologySelf": "progressivism",
     "ideologyEvidenced": "progressivism",
-    "bio": "Ángela María Robledo Gómez (1954, Manizales) es psicóloga de la Pontificia Universidad Javeriana con maestría en Teoría Psicoanalítica, académica e investigadora en temas de infancia, familia y género. Fue directora de la Facultad de Psicología de la Javeriana y del Instituto Pensar. Fue Representante a la Cámara por Bogotá por el Partido Verde (2010-2014 y 2014-2018) y fórmula vicepresidencial de Gustavo Petro en la coalición Colombia Humana en las elecciones presidenciales de 2018, en las que pasaron a segunda vuelta con 41.77% del voto.",
+    "bio": "Ángela María Robledo Gómez (Bogotá, 1953) es psicóloga egresada de la Pontificia Universidad Javeriana, con maestría en Política Social. Desarrolló una carrera académica como profesora e investigadora en temas de infancia, familia, género y políticas sociales, y se desempeñó como decana de la Facultad de Psicología de la Javeriana. Fue elegida Representante a la Cámara por Bogotá para los periodos 2010-2014 y 2014-2018, inicialmente en las filas del Partido Verde (luego Alianza Verde). En el Congreso se concentró en la defensa de los derechos de las mujeres, la niñez y las víctimas, y fue coautora de la Ley 1719 de 2014 sobre acceso a la justicia para víctimas de violencia sexual, en particular en el marco del conflicto armado. Fue reconocida por paneles de opinión como una de las congresistas más destacadas. En marzo de 2018 renunció a su curul y al partido para aceptar la fórmula vicepresidencial de Gustavo Petro en la coalición Colombia Humana; la fórmula pasó a segunda vuelta en las elecciones presidenciales de 2018, donde obtuvo el 41,77 % de los votos frente a Iván Duque. Tras los comicios ingresó nuevamente a la Cámara por el Estatuto de la Oposición, aunque su elección fue posteriormente anulada por el Consejo de Estado por doble militancia. En el gobierno de Gustavo Petro integró la junta directiva de Ecopetrol.",
     "incoherences": [
       {
         "id": "angelarobledo-doble-militancia-2018",
@@ -179,7 +209,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -296,6 +326,36 @@
           "title": "Decretos gobierno Santos 2011-2015 — Defensa",
           "outlet": "SUIN-Juriscol",
           "date": "2015-12-01"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Juan_Carlos_Pinz%C3%B3n",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Juan Carlos Pinzón"
+        },
+        {
+          "url": "https://colombiacheck.com/juan-carlos-pinzon",
+          "outlet": "Colombiacheck",
+          "date": "2026-06-22",
+          "title": "Juan Carlos Pinzón"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/juan-carlos-pinzon-oficializo-su-entrada-a-la-gran-consulta-por-colombia-noticias-hoy/?outputType=amp",
+          "outlet": "El Espectador",
+          "date": "2026-01-07",
+          "title": "Juan Carlos Pinzón oficializó su entrada a la Gran Consulta por Colombia"
+        },
+        {
+          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/trayectoria-y-hoja-de-vida-de-juan-carlos-pinzon-posible-precandidato-del-centro-democratico/",
+          "outlet": "Bloomberg Línea",
+          "date": "2026-06-22",
+          "title": "Trayectoria y hoja de vida de Juan Carlos Pinzón, posible precandidato"
+        },
+        {
+          "url": "https://www.eltiempo.com/amp/politica/elecciones-colombia-2026/juan-carlos-pinzon-oficializa-su-intencion-de-participar-en-la-gran-consulta-interpartidista-esta-consulta-es-indispensable-3514508",
+          "outlet": "El Tiempo",
+          "date": "2026-06-22",
+          "title": "Juan Carlos Pinzón oficializa su intención de participar en una gran consulta interpartidista"
         }
       ],
       "dimensionScores": {
@@ -316,7 +376,7 @@
     ],
     "ideologySelf": "liberal-conservatism",
     "ideologyEvidenced": "securitarian-right",
-    "bio": "Juan Carlos Pinzón Bueno (1971, Bogotá) es economista de la Universidad Javeriana con maestría en Relaciones Internacionales de la Johns Hopkins SAIS. Fue Vicepresidente Ejecutivo de Asobancaria, Viceministro de Defensa (2006-2009) bajo Uribe y Ministro de Defensa Nacional (2011-2015) bajo Santos, el más joven de la historia reciente. Fue Embajador de Colombia en Washington (2015-2017), fórmula vicepresidencial de Germán Vargas Lleras por Cambio Radical en las elecciones de 2018 (obtuvo 7.28% en primera vuelta), y nuevamente Embajador en Washington (2021-2022) bajo Duque.",
+    "bio": "Juan Carlos Pinzón Bueno (Bogotá, 22 de diciembre de 1972) es economista, diplomático y político colombiano. Es economista de la Pontificia Universidad Javeriana, con maestría en Políticas Públicas de la Escuela Woodrow Wilson de la Universidad de Princeton y estudios adicionales en relaciones internacionales y estudios estratégicos en la Universidad Johns Hopkins. Inició su carrera pública en el sector financiero y multilateral, con experiencia en el Banco Mundial, Citigroup y la Asociación Bancaria de Colombia (Asobancaria). En el Ministerio de Defensa se desempeñó como viceministro para Estrategia y Planeación (2006-2009) y, tras ser secretario general de la Presidencia (2010-2011), fue Ministro de Defensa Nacional (2011-2015) durante el gobierno de Juan Manuel Santos. Posteriormente fue Embajador de Colombia en Estados Unidos en dos periodos (2015-2017 y 2021-2022), gestión durante la cual se tramitó el esquema de cooperación conocido como \"Paz Colombia\" o \"Plan Colombia II\". En 2017 anunció una aspiración presidencial para los comicios de 2018 y luego declinó para integrarse como fórmula vicepresidencial de Germán Vargas Lleras por Cambio Radical; esa candidatura obtuvo el 7,28 % en la primera vuelta del 27 de mayo de 2018. De cara a las elecciones de 2026, Pinzón promovió una nueva aspiración presidencial con el aval de los partidos Verde Oxígeno y Alianza Democrática Amplia (ADA) y participó en la \"Gran Consulta por Colombia\" del 8 de marzo de 2026.",
     "incoherences": [
       {
         "id": "juancarlospinzon-falsos-positivos-2014",
@@ -406,7 +466,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -546,6 +606,42 @@
           "title": "Actos administrativos Ministerio del Trabajo 2016-2017",
           "outlet": "SUIN-Juriscol",
           "date": "2017-05-30"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Clara_L%C3%B3pez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Clara López"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/clara-eugenia-lopez-obregon/27906/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Clara Eugenia López Obregón | Perfil congresista"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/clara-eugenia-lopez-obregon/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Clara Eugenia López Obregón"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-colombia-2018/presidenciales/clara-lopez-es-la-formula-vicepresidencial-de-humberto-de-la-calle-177018",
+          "outlet": "El Tiempo",
+          "date": "2018-01-30",
+          "title": "Clara López será fórmula vicepresidencial de Humberto de la Calle"
+        },
+        {
+          "url": "https://www.elpais.com.co/elecciones/la-historia-de-clara-lopez-la-senadora-que-busca-llegar-a-la-casa-de-narino-2732.html",
+          "outlet": "El País (Cali)",
+          "date": "2026-06-22",
+          "title": "Clara López Obregón: de senadora del Pacto Histórico a candidata presidencial"
+        },
+        {
+          "url": "https://colombiacheck.com/clara-lopez-obregon",
+          "outlet": "Colombiacheck",
+          "date": "2026-06-22",
+          "title": "Clara López Obregón"
         }
       ],
       "dimensionScores": {
@@ -566,7 +662,7 @@
     ],
     "ideologySelf": "social-democracy",
     "ideologyEvidenced": "social-democracy",
-    "bio": "Clara Eugenia López Obregón (1950, Bogotá) es economista de Harvard University con maestría en la misma institución y abogada de la Universidad de los Andes. Ha sido Concejala de Bogotá, Contralora Distrital de Bogotá (2004-2007), Alcaldesa Mayor encargada de Bogotá (2011) tras la destitución de Samuel Moreno, Presidenta del Polo Democrático Alternativo (2009-2011), candidata presidencial por el Polo en 2014, Ministra del Trabajo (2016-2017) bajo Juan Manuel Santos, fórmula vicepresidencial de Humberto de la Calle por el Partido Liberal en 2018, Embajadora de Colombia en España (2020-2021) y Senadora de la República por el Pacto Histórico desde 2022.",
+    "bio": "Clara Eugenia López Obregón (Bogotá, 12 de abril de 1950) es economista, abogada y política colombiana. Se graduó en Economía en la Universidad de Harvard (1972), es abogada de la Universidad de los Andes y realizó estudios de doctorado en Derecho en la Universidad de Salamanca. Sobrina del expresidente Alfonso López Michelsen, inició su trayectoria pública en los años setenta y desarrolló una larga carrera en cargos distritales y nacionales. Fue concejala de Bogotá, contralora distrital y secretaria de Gobierno de Bogotá. Entre el 8 de junio de 2011 y el 1 de enero de 2012 ejerció como alcaldesa mayor encargada de Bogotá, tras la suspensión de Samuel Moreno Rojas. Presidió el Polo Democrático Alternativo y fue su candidata presidencial en 2014, elección en la que ocupó uno de los primeros lugares. Entre el 25 de abril de 2016 y el 5 de mayo de 2017 se desempeñó como ministra de Trabajo en el gobierno de Juan Manuel Santos. En 2018 fue fórmula vicepresidencial de Humberto de la Calle, en una candidatura que respaldó la implementación del acuerdo de paz con las FARC. En las elecciones legislativas de 2022 resultó electa senadora de la República por la lista del Pacto Histórico, para el periodo 2022-2026. De cara a las elecciones de 2026 inscribió una candidatura presidencial por fuera del Pacto Histórico, con el aval del partido Esperanza Democrática.",
     "incoherences": [
       {
         "id": "claralopez-migracion-partidos-2018",
@@ -627,7 +723,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -729,7 +825,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "confidence": "low",
       "justification": "Análisis metodológico del proyecto: Como fórmula vicepresidencial de Rodolfo Hernández en 2022, acompañó una plataforma de anticorrupción, reducción del Estado, austeridad, reducción del tamaño del Congreso y 'no más politiquería', sin una articulación ideológica de largo alcance. Como Representante a la Cámara por Valle del Cauca desde 2022 por la Liga de Gobernantes Anticorrupción ha tenido baja visibilidad legislativa y una agenda centrada en educación y transparencia. La confianza en su ubicación es baja por la brevedad de su trayectoria política, la ausencia de cargos ejecutivos y la corta serie de votaciones registradas.",
@@ -751,6 +847,36 @@
           "title": "Cámara de Representantes — perfil Marelen Castillo",
           "outlet": "Cámara de Representantes",
           "date": "2024-12-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/marelen-castillo-torres/",
+          "outlet": "Cámara de Representantes de Colombia",
+          "date": "2026-06-22",
+          "title": "Marelen Castillo Torres - Perfil oficial"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/marelen-castillo-torres/28012/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Marelen Castillo Torres | Perfil congresista"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marelen_Castillo",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Marelen Castillo"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-2022/presidencia/marelen-castillo-la-formula-vicepresidencia-de-rodolfo-hernandez-655362",
+          "outlet": "El Tiempo",
+          "date": "2022-03-02",
+          "title": "Quién es Marelen Castillo, la fórmula vicepresidencial de Rodolfo Hernández"
+        },
+        {
+          "url": "https://www.radionacional.co/actualidad/politica/candidatos-vicepresidenciales-quien-es-marelen-castillo",
+          "outlet": "Radio Nacional de Colombia",
+          "date": "2022-05-29",
+          "title": "Candidatos vicepresidenciales | ¿Quién es Marelen Castillo?"
         }
       ],
       "dimensionScores": {
@@ -771,7 +897,7 @@
     ],
     "ideologySelf": "third-way",
     "ideologyEvidenced": "social-liberalism",
-    "bio": "Marelen Castillo Torres (1969, Buenaventura) es ingeniera industrial, magíster en Administración de Empresas, doctora en Educación por la Universidad de Sarasota. Ha sido docente universitaria y Vicerrectora de la Universidad Minuto de Dios (UNIMINUTO). En 2022 fue la fórmula vicepresidencial de Rodolfo Hernández por la Liga de Gobernantes Anticorrupción en las elecciones presidenciales, alcanzando la segunda vuelta con 47.31% de los votos. Desde el 20 de julio de 2022 es Representante a la Cámara por el Valle del Cauca.",
+    "bio": "Marelen Castillo Torres (Cali, 30 de agosto de 1968) es una académica y política colombiana. Es licenciada en Biología y Química por la Universidad Santiago de Cali e ingeniera industrial por la Universidad Autónoma de Occidente. Cursó una maestría en Administración en el Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM, México) y obtuvo un doctorado en Educación con énfasis en Liderazgo Organizacional en la Nova Southeastern University (Florida, Estados Unidos), titulándose en 2017. Desarrolló una extensa carrera en la educación superior: entre 2009 y 2021 trabajó en la Corporación Universitaria Minuto de Dios (UNIMINUTO), donde se desempeñó como investigadora, directora de iniciativas estratégicas, rectora de la modalidad virtual y a distancia y vicerrectora académica general. En marzo de 2022 aceptó ser la fórmula vicepresidencial del candidato Rodolfo Hernández Suárez, con el aval del grupo significativo de ciudadanos Liga de Gobernantes Anticorrupción, sin experiencia política previa. En la primera vuelta de las elecciones presidenciales la candidatura ocupó el segundo lugar y pasó a la segunda vuelta del 19 de junio de 2022, en la que resultó derrotada. Por el estatuto de oposición, que asigna una curul a la fórmula vicepresidencial que queda en segundo lugar, Castillo se posesionó el 20 de julio de 2022 como representante a la Cámara para el periodo 2022-2026. En el Congreso integra la Comisión Primera Constitucional y comisiones legales como la de Equidad de la Mujer y la de Comunidades Afrocolombianas.",
     "incoherences": [
       {
         "id": "marelencastillo-silencio-rodolfo-2022",
@@ -861,7 +987,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -931,7 +1057,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Se autodefine como liberal reformista y centrista, defensor de la institucionalidad, la seguridad humana, la lucha contra la corrupción y la modernización del Estado. Se posiciona como heredero del legado de Rodrigo Lara Bonilla (su padre, asesinado por narcotráfico), con énfasis en política anticorrupción y Estado fuerte pero democrático.",
       "sources": [
@@ -951,7 +1077,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "confidence": "medium",
       "justification": "Análisis metodológico del proyecto: Como Alcalde de Neiva (2016-2019) por el Nuevo Liberalismo-La U ejecutó una política de seguridad urbana, ordenamiento territorial y obras de infraestructura, con gestión calificada de manera mixta por observatorios locales. Como fórmula vicepresidencial de Federico Gutiérrez por la coalición Equipo por Colombia en 2022 (23.91% primera vuelta) defendió una plataforma centro-derecha: disciplina fiscal, seguridad, mayor articulación con sector privado, continuidad institucional del gobierno Duque con acentos reformistas. La evidencia ejecutiva y de campaña lo ubica en centro-derecha liberal.",
@@ -979,6 +1105,36 @@
           "title": "Plan de Desarrollo Neiva 2016-2019",
           "outlet": "Concejo Municipal de Neiva",
           "date": "2016-05-30"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Rodrigo_Armando_Lara_S%C3%A1nchez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Rodrigo Lara Sánchez"
+        },
+        {
+          "url": "https://www.infobae.com/america/colombia/2022/03/26/quien-es-rodrigo-lara-sanchez-formula-vicepresidencial-de-federico-gutierrez/",
+          "outlet": "Infobae",
+          "date": "2022-03-26",
+          "title": "Quién es Rodrigo Lara Sánchez, fórmula vicepresidencial de Federico Gutiérrez"
+        },
+        {
+          "url": "https://www.semana.com/nacion/articulo/atencion-rodrigo-lara-sanchez-exalcalde-de-neiva-es-la-formula-vicepresidencial-de-federico-gutierrez/202244/",
+          "outlet": "Semana",
+          "date": "2022-03-26",
+          "title": "Rodrigo Lara Sánchez, exalcalde de Neiva, es la fórmula vicepresidencial de Federico Gutiérrez"
+        },
+        {
+          "url": "https://www.noticiasrcn.com/colombia/rodrigo-lara-sanchez-el-exalcalde-de-neiva-que-va-por-la-vicepresidencia-412133",
+          "outlet": "Noticias RCN",
+          "date": "2022-03-26",
+          "title": "Rodrigo Lara Sánchez, el exalcalde de Neiva que va por la Vicepresidencia"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/rodrigo-lara-sanchez/1424/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Perfil de Rodrigo Lara Sánchez"
         }
       ],
       "dimensionScores": {
@@ -999,7 +1155,7 @@
     ],
     "ideologySelf": "social-liberalism",
     "ideologyEvidenced": "social-liberalism",
-    "bio": "Rodrigo Lara Sánchez (1967, Neiva) es hijo del político liberal Rodrigo Lara Bonilla, Ministro de Justicia asesinado por el narcotráfico en 1984. Es abogado de la Universidad de los Andes y ha desarrollado su carrera entre la empresa privada y la política regional. Fue Alcalde de Neiva (2016-2019) por el Nuevo Liberalismo-La U, y en 2022 fue la fórmula vicepresidencial de Federico Gutiérrez por la coalición Equipo por Colombia en las elecciones presidenciales, obteniendo 23.91% en primera vuelta.",
+    "bio": "Rodrigo Armando Lara Sánchez (Neiva, 9 de marzo de 1971) es médico cirujano y político colombiano. Es hijo de Rodrigo Lara Bonilla, ministro de Justicia asesinado por el narcotráfico en 1984; obtuvo legalmente el apellido paterno en el año 2000 tras una prueba de ADN. Estudió Medicina y se especializó en Cirugía General en la Universidad del Cauca, con subespecialización en Cirugía de Tórax (Universidad El Bosque, Hospital Santa Clara e Instituto Nacional de Cancerología), y cursó estudios en gestión pública en la Pontificia Universidad Javeriana. Ejerció la medicina y la docencia universitaria en hospitales de Bogotá y Neiva. En política, fue elegido alcalde de Neiva para el periodo 2016-2019 por la Alianza Verde. Durante su gestión municipal se destacaron programas en educación, como la Expedición Educativa, e iniciativas de transparencia en la contratación pública. En 2022 fue la fórmula vicepresidencial de Federico Gutiérrez por el movimiento Creemos, dentro de la coalición Equipo por Colombia, en las elecciones presidenciales; la fórmula obtuvo cerca del 23,9 % de los votos en primera vuelta y no pasó a segunda vuelta. Desde enero de 2024 se desempeña como diputado de la Asamblea Departamental del Huila para el periodo 2024-2027.",
     "incoherences": [
       {
         "id": "rodrigolara-nuevo-liberalismo-coalicion-2022",
@@ -1089,7 +1245,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1193,6 +1349,36 @@
           "title": "FECODE — Wikipedia",
           "outlet": "Wikipedia",
           "date": "2024-08-15"
+        },
+        {
+          "url": "https://www.elpais.com.co/elecciones/nelson-alarcon-el-lider-sindicalista-que-quiere-lograr-que-el-rol-del-vicepresidente-no-sea-decorativo-2725.html",
+          "outlet": "El País (Cali)",
+          "date": "2026-03-27",
+          "title": "Nelson Alarcón, el líder sindicalista que quiere lograr que el rol del vicepresidente 'no sea decorativo'"
+        },
+        {
+          "url": "https://eldiarioboyaca.com/el-profe-nelson-alarcon-suarez-encabeza-lista-de-fuerza-ciudadana-al-senado/",
+          "outlet": "El Diario (Boyacá)",
+          "date": "2025-12-09",
+          "title": "'El Profe' Nelson Alarcón Suárez encabeza lista de Fuerza Ciudadana al Senado"
+        },
+        {
+          "url": "https://eldiarioboyaca.com/boyacense-nelson-alarcon-se-posesiono-como-presidente-de-fecode/",
+          "outlet": "El Diario (Boyacá)",
+          "date": "2018-10-04",
+          "title": "Boyacense Nelson Alarcón se posesionó como presidente de Fecode"
+        },
+        {
+          "url": "https://ail.ens.org.co/entrevistas/se-requiere-un-gran-acuerdo-en-defensa-de-la-educacion-publica-dice-nelson-alarcon-nuevo-presidente-de-fecode/",
+          "outlet": "Agencia de Información Laboral (ENS)",
+          "date": "2018-11-22",
+          "title": "\"Se requiere un gran acuerdo en defensa de la educación pública\", dice Nelson Alarcón, nuevo presidente de Fecode"
+        },
+        {
+          "url": "https://www.lasillavacia.com/en-vivo/nelson-alarcon-la-formula-vicepresidencial-de-carlos-caicedo/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Nelson Alarcón, la fórmula vicepresidencial de Carlos Caicedo"
         }
       ],
       "dimensionScores": {
@@ -1237,7 +1423,7 @@
         }
       ]
     },
-    "bio": "Nelson Javier Alarcón Suárez es un educador y dirigente sindical colombiano. Fue presidente de la Federación Colombiana de Trabajadores de la Educación (FECODE) entre 2017 y 2023, periodo durante el cual lideró movilizaciones nacionales del magisterio. Para las elecciones presidenciales de 2026 es anunciado como fórmula vicepresidencial de Carlos Caicedo por el partido Fuerza Ciudadana.",
+    "bio": "Nelson Javier Alarcón Suárez es un educador y dirigente sindical colombiano nacido en Güicán, Boyacá. Es licenciado en Educación Básica Primaria, especialista en el área educativa y magíster en Tecnología Educativa, y ejerció como docente durante más de dos décadas, entre otros establecimientos en el INEM Carlos Arturo Torres de Tunja. Su trayectoria sindical avanzó por distintos cargos: fue dirigente del Sindicato de Maestros de Boyacá (Sindimaestros) y, en 2013, ingresó al Comité Ejecutivo de la Federación Colombiana de Trabajadores de la Educación (FECODE). El 21 de septiembre de 2018 fue elegido presidente de FECODE y se posesionó el 3 de octubre de ese año, convirtiéndose en uno de los presidentes más jóvenes en la historia de la Federación. Durante su periodo al frente del magisterio fue vocero de las movilizaciones nacionales de los maestros y defendió mayores recursos para la educación pública y la reforma del Sistema General de Participaciones. También fue directivo de la Central Unitaria de Trabajadores (CUT) y representó a Colombia y América Latina ante la Internacional de la Educación. De cara a las elecciones de 2026 encabezó la lista al Senado de Fuerza Ciudadana y posteriormente fue anunciado como fórmula vicepresidencial del candidato presidencial Carlos Caicedo, con una campaña centrada en el acceso y la calidad de la educación.",
     "incoherences": [
       {
         "id": "nelson-alarcon-apoliticismo-2021",
@@ -1298,7 +1484,7 @@
         "addedAt": "2026-04-16"
       }
     ],
-    "lastUpdated": "2026-04-16",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ]
@@ -1353,6 +1539,36 @@
           "title": "Plataforma programática Pacto Histórico 2026",
           "outlet": "Pacto Histórico",
           "date": "2026-02-01"
+        },
+        {
+          "url": "https://www.elpais.com.co/elecciones/maria-consuelo-del-rio-la-jurista-de-derechos-humanos-que-llego-a-la-formula-vicepresidencial-de-clara-lopez-2718.html",
+          "outlet": "El País (Cali)",
+          "date": "2026-03-16",
+          "title": "Quién es María Consuelo del Río, la fórmula vicepresidencial de Clara López para 2026"
+        },
+        {
+          "url": "https://www.bluradio.com/nacion/elecciones/no-hay-una-sola-izquierda-clara-lopez-confirma-formula-con-maria-consuelo-del-rio-pr30",
+          "outlet": "Blu Radio",
+          "date": "2026-03-13",
+          "title": "\"No hay una sola izquierda\": Clara López confirma fórmula con María Consuelo del Río"
+        },
+        {
+          "url": "https://www.elpais.com.co/elecciones/la-historia-de-clara-lopez-la-senadora-que-busca-llegar-a-la-casa-de-narino-2732.html",
+          "outlet": "El País (Cali)",
+          "date": "2026-03-20",
+          "title": "Clara López Obregón: de senadora del Pacto Histórico a candidata presidencial"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/04/07/clara-lopez-renuncia-a-su-candidatura-presidencial-2026-y-anuncia-alianza-con-ivan-cepeda/",
+          "outlet": "Infobae",
+          "date": "2026-04-07",
+          "title": "Clara López renuncia a su candidatura presidencial 2026 y anuncia alianza con Iván Cepeda"
+        },
+        {
+          "url": "https://www.elespectador.com/bogota/nombrarian-a-veedora-distrital-como-contralora-encargada-article-257223/",
+          "outlet": "El Espectador",
+          "date": "2011-03-16",
+          "title": "Nombrarían a veedora distrital como contralora encargada"
         }
       ],
       "dimensionScores": {
@@ -1397,9 +1613,9 @@
         }
       ]
     },
-    "bio": "María Consuelo del Río Mantilla es una abogada colombiana especialista en derechos humanos. Se desempeñó como Veedora Distrital de Bogotá, Defensora Delegada para los Derechos Económicos, Sociales y Culturales de la Defensoría del Pueblo, Directora Nacional de Promoción y Divulgación de DDHH, Defensora Regional de los Nuevos Departamentos, Secretaria General de Findeter, y ocupó cargos directivos en Ecopetrol y la Consejería Presidencial para DDHH. El 14 de marzo de 2026 fue confirmada como fórmula vicepresidencial de Clara López Obregón (Esperanza Democrática / Pacto Histórico), fórmula que se mantuvo hasta el retiro de López en abril de 2026 en favor de Iván Cepeda.",
+    "bio": "María Consuelo del Río Mantilla es una abogada colombiana egresada de la Universidad Externado de Colombia, especializada en derecho público y en la defensa de los derechos humanos. A lo largo de su carrera ha combinado el ejercicio jurídico con el trabajo en organizaciones sociales y la cooperación internacional, y es reconocida como cofundadora del Colectivo de Abogados José Alvear Restrepo. En el sector público ocupó diversos cargos: fue Veedora Distrital de Bogotá, posición que ejercía en 2011 cuando fue considerada para asumir de manera encargada la Contraloría de Bogotá. Según su trayectoria, también se desempeñó como Defensora Delegada para los Derechos Económicos, Sociales y Culturales de la Defensoría del Pueblo, Directora Nacional de Promoción y Divulgación de los Derechos Humanos, Defensora Regional de los Nuevos Departamentos y Secretaria General de Findeter, además de haber tenido cargos directivos en Ecopetrol y en la Consejería Presidencial para los Derechos Humanos. En marzo de 2026 fue confirmada como fórmula vicepresidencial de la senadora Clara López Obregón, candidata presidencial inscrita con el aval del partido Esperanza Democrática, en una fórmula integrada por dos mujeres. El 6 de abril de 2026 Clara López renunció a su candidatura presidencial —renuncia que incluyó a Del Río como fórmula— y anunció su respaldo a la campaña de Iván Cepeda, dentro de la coalición del Pacto Histórico.",
     "incoherences": [],
-    "lastUpdated": "2026-04-16",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ]
@@ -1425,7 +1641,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -5.0,
+      "x": -5,
       "y": -4.17,
       "justification": "Se autodefine como lideresa indígena nasa del Cauca y defensora histórica de los derechos de los pueblos originarios, de la Madre Tierra y de la paz. En su paso como directora de Derechos Humanos del Consejo Regional Indígena del Cauca (CRIC) y actualmente como senadora por el MAIS ha reivindicado la consulta previa, la autonomía territorial, el derecho al agua y la justicia ambiental, así como los acuerdos de paz.",
       "sources": [
@@ -1466,6 +1682,42 @@
           "title": "CRIC — Posiciones históricas del movimiento",
           "outlet": "CRIC",
           "date": "2020-01-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/aida-marina-quilcue-vivas/28028/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Aida Marina Quilcué Vivas | Perfil congresista"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-aida-marina-quilcue-vivas/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Aída Marina Quilcué Vivas"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Aida_Quilcu%C3%A9",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Aida Quilcué"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/aida-quilcue-formula-vicepresidencial-de-ivan-cepeda-iniciara-la-campana-en-el-cauca-comenzare-en-mi-territorio-ancestral-3541275",
+          "outlet": "El Tiempo",
+          "date": "2026-03-18",
+          "title": "Aida Quilcué, fórmula vicepresidencial de Iván Cepeda, iniciará la campaña en el Cauca: 'Comenzaré en mi territorio ancestral'"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/03/10/ella-es-aida-quilcue-la-formula-vicepresidencial-de-ivan-cepeda-pacto-historico-busca-llegar-a-los-pueblos-indigenas/",
+          "outlet": "Infobae",
+          "date": "2026-03-10",
+          "title": "Ella es Aida Quilcué, la fórmula vicepresidencial de Iván Cepeda: Pacto Histórico busca llegar a los pueblos indígenas"
+        },
+        {
+          "url": "https://www.semana.com/politica/articulo/quien-es-aida-quilcue-formula-vicepresidencial-de-ivan-cepeda/202613/",
+          "outlet": "Semana",
+          "date": "2026-03-10",
+          "title": "¿Quién es Aida Quilcué, fórmula vicepresidencial de Iván Cepeda?"
         }
       ],
       "dimensionScores": {
@@ -1510,9 +1762,9 @@
         }
       ]
     },
-    "bio": "Aída Marina Quilcué Vivas es una lideresa indígena nasa del departamento del Cauca. Exconsejera mayor del Consejo Regional Indígena del Cauca (CRIC) y consejera de derechos humanos de la ONIC, fue elegida senadora por el MAIS para el periodo 2022-2026. En 2026 es anunciada como fórmula vicepresidencial de Iván Cepeda por el Pacto Histórico.",
+    "bio": "Aída Marina Quilcué Vivas (Páez, Cauca, 2 de febrero de 1973) es una lideresa indígena del pueblo nasa, del resguardo Piçkwe Tha Fiw, y política colombiana. Antes de su paso por el Congreso desarrolló una extensa trayectoria en el movimiento indígena: fue autoridad y gobernadora de su resguardo, consejera mayor del Consejo Regional Indígena del Cauca (CRIC) —siendo la primera mujer en dirigir esa organización— y consejera de derechos humanos de la Organización Nacional Indígena de Colombia (ONIC). Desde el CRIC participó en la construcción del capítulo étnico del Acuerdo de Paz firmado en 2016 con las FARC. En 2008 su esposo, Edwin Legarda Vásquez, murió tras recibir disparos de militares en una vía del Cauca, hecho por el cual la justicia condenó a varios uniformados. En 2021 recibió el Premio Nacional a la Defensa de los Derechos Humanos en Colombia, en la categoría 'Defensa a toda una vida'. En las elecciones de 2022 fue elegida senadora de la República por la circunscripción especial indígena con el aval del Movimiento Alternativo Indígena y Social (MAIS), para el periodo 2022-2026, integrando la Comisión Primera Constitucional. El 9 de marzo de 2026 fue anunciada como fórmula vicepresidencial de Iván Cepeda en la candidatura presidencial del Pacto Histórico; la inscripción de la fórmula se formalizó en marzo de 2026.",
     "incoherences": [],
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ]
@@ -1532,7 +1784,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Se presenta como fórmula vicepresidencial de Luis Gilberto Murillo bajo la plataforma de Colombia Renaciente. La campaña se autodefine como centrista-libertaria con énfasis en medio ambiente, diplomacia multilateral y desarrollo territorial de regiones históricamente excluidas. Su posicionamiento público la ubica en el espectro centro-izquierda con tendencia libertaria.",
       "sources": [
@@ -1545,7 +1797,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "confidence": "low",
       "justification": "Análisis metodológico del proyecto: La trayectoria política pública de Luz María Zapata es limitada, sin cargos legislativos o ejecutivos previos documentados públicamente. La evaluación se basa principalmente en la plataforma de la campaña de Murillo, que combina agenda ambiental (transición energética justa, protección de ecosistemas) con pragmatismo de gestión institucional y diplomacia multilateral. La confianza es baja por ausencia de historial verificable fuera del rol actual en la campaña.",
@@ -1555,6 +1807,30 @@
           "title": "Inscripción oficial — Campaña Murillo 2026",
           "outlet": "Registraduría Nacional del Estado Civil",
           "date": "2026-01-20"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/luis-gilberto-murillo-oficializa-a-luz-maria-zapata-como-su-formula-vicepresidencial-3539587",
+          "outlet": "El Tiempo",
+          "date": "2026-03-12",
+          "title": "Luis Gilberto Murillo oficializa a Luz María Zapata como su fórmula vicepresidencial"
+        },
+        {
+          "url": "https://www.elheraldo.co/politica/2026/03/13/luis-gilberto-murillo-y-su-formula-vicepresidencial-luz-maria-zapata-inscribieron-su-candidatura-ante-la-registraduria/",
+          "outlet": "El Heraldo",
+          "date": "2026-03-13",
+          "title": "Luis Gilberto Murillo y su fórmula vicepresidencial, Luz María Zapata, inscribieron su candidatura ante la Registraduría"
+        },
+        {
+          "url": "https://www.elpais.com.co/politica/luis-gilberto-murillo-presenta-a-luz-maria-zapata-como-su-formula-vicepresidencial-esta-es-su-trayectoria-1201.html",
+          "outlet": "El País (Cali)",
+          "date": "2026-03-12",
+          "title": "Luis Gilberto Murillo presenta a Luz María Zapata como su fórmula vicepresidencial; esta es su trayectoria"
+        },
+        {
+          "url": "https://www.kienyke.com/politica/quien-es-luz-maria-zapata-la-formula-vicepresidencial-de-murillo",
+          "outlet": "KienyKe",
+          "date": "2026-03-12",
+          "title": "¿Quién es Luz María Zapata? La fórmula vicepresidencial de Murillo"
         }
       ],
       "dimensionScores": {
@@ -1599,9 +1875,9 @@
         }
       ]
     },
-    "bio": "Luz María Zapata es la fórmula vicepresidencial inscrita de Luis Gilberto Murillo para las elecciones presidenciales colombianas de 2026 por el movimiento Colombia Renaciente. Su trayectoria política pública previa al registro de la campaña es limitada.",
+    "bio": "Luz María Zapata es una politóloga colombiana que se desempeña como fórmula vicepresidencial de Luis Gilberto Murillo para las elecciones presidenciales de Colombia de 2026, en una candidatura asociada al movimiento Colombia Renaciente. Es politóloga de la Universidad de los Andes, con una maestría en inteligencia emocional de la Universidad del Rosario y estudios especializados en liderazgo y seguridad en instituciones como la Universidad de Harvard y la National Defense University. En su trayectoria profesional se destaca su gestión gremial: fue directora ejecutiva de la Asociación Colombiana de Ciudades Capitales (Asocapitales) desde 2018 hasta febrero de 2025, entidad que agrupa a las alcaldías de las capitales del país. En julio de 2025 anunció una aspiración presidencial propia y registró el movimiento ciudadano \"Una luz para Colombia\", pero meses después se retiró de ese proyecto. El 12 de marzo de 2026 confirmó públicamente que sería la fórmula vicepresidencial de Murillo y, el 13 de marzo de 2026, la candidatura quedó inscrita ante la Registraduría Nacional del Estado Civil. La campaña ha presentado la fórmula como una alianza que busca articular la gestión territorial con una visión de los sectores público, privado y comunitario. Su trayectoria política electoral previa al registro de esta campaña es limitada.",
     "incoherences": [],
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ]
@@ -1644,6 +1920,30 @@
           "title": "Inscripción oficial — Campaña Lizcano 2026",
           "outlet": "Registraduría Nacional del Estado Civil",
           "date": "2026-01-20"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Colombia_de_2026",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Elecciones presidenciales de Colombia de 2026"
+        },
+        {
+          "url": "https://newsroom.rcnradio.com/colombia/elecciones-2026-quienes-son-las-formulas-vicepresidenciales-de-los-candidatos-presidenciales-para-el-31-de-mayo",
+          "outlet": "RCN Radio",
+          "date": "2026-03-12",
+          "title": "Elecciones 2026: quiénes son las fórmulas vicepresidenciales de los candidatos presidenciales para el 31 de mayo"
+        },
+        {
+          "url": "https://www.semana.com/politica/articulo/asi-se-definen-las-formulas-de-los-candidatos-a-la-primera-vuelta-estos-son-los-rostros-que-buscan-la-vicepresidencia/202655/",
+          "outlet": "Semana",
+          "date": "2026-03-12",
+          "title": "Así se definen las fórmulas de los candidatos a la primera vuelta: estos son los rostros que buscan la vicepresidencia"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/luis-carlos-reyes-ya-no-sera-formula-vicepresidencial-de-mauricio-lizcano-dio-un-paso-al-costado-por-una-situacion-familiar-3540618",
+          "outlet": "El Tiempo",
+          "date": "2026-03-16",
+          "title": "Luis Carlos Reyes ya no será fórmula vicepresidencial de Mauricio Lizcano: dio un paso al costado por una situación familiar"
         }
       ],
       "dimensionScores": {
@@ -1688,9 +1988,9 @@
         }
       ]
     },
-    "bio": "Adriana Ramírez es la fórmula vicepresidencial inscrita de Mauricio Lizcano para las elecciones presidenciales colombianas de 2026 por el movimiento Gente en Movimiento. Su trayectoria política pública previa al registro de la campaña es limitada.",
+    "bio": "Adriana María Ramírez Martínez es una funcionaria pública colombiana, oriunda del departamento de Caldas, con experiencia en gestión institucional. Su trayectoria pública se vincula al Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC), donde se desempeñó como asesora durante el periodo en que Mauricio Lizcano dirigió esa cartera en el Gobierno de Gustavo Petro. En el marco de las elecciones presidenciales colombianas de 2026, Lizcano la anunció el 12 de marzo de 2026 como su fórmula vicepresidencial, destacando su trabajo conjunto en el MinTIC y su experiencia en gestión pública. Pocos días después, la candidatura modificó su fórmula: Ramírez fue reemplazada inicialmente por Luis Carlos Reyes, exdirector de la DIAN, quien a su vez declinó por razones familiares, y posteriormente la inscripción definitiva ante la Registraduría Nacional del Estado Civil quedó con Pedro Luis de la Torre Márquez como fórmula vicepresidencial. La información pública verificable sobre la trayectoria de Adriana Ramírez es limitada y se concentra en su paso por el MinTIC y en su breve papel como fórmula vicepresidencial anunciada durante el ciclo electoral de 2026.",
     "incoherences": [],
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ]
@@ -1733,6 +2033,30 @@
           "title": "Inscripción oficial — Campaña Uribe Londoño 2026",
           "outlet": "Registraduría Nacional del Estado Civil",
           "date": "2026-01-20"
+        },
+        {
+          "url": "https://www.semana.com/politica/articulo/ella-es-luisa-fernanda-villegas-formula-vicepresidencial-de-miguel-uribe-londono/202602/",
+          "outlet": "Semana",
+          "date": "2026-03-05",
+          "title": "Ella es Luisa Fernanda Villegas, fórmula vicepresidencial de Miguel Uribe Londoño"
+        },
+        {
+          "url": "https://www.elpais.com.co/elecciones/la-trayectoria-de-luisa-fernanda-villegas-formula-vicepresidencial-de-miguel-uribe-londono-1728.html",
+          "outlet": "El País (Cali)",
+          "date": "2026-03-17",
+          "title": "La trayectoria de Luisa Fernanda Villegas, fórmula vicepresidencial de Miguel Uribe Londoño"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/luisa-fernanda-villegas-formula-vicepresidencial-de-miguel-uribe-estamos-trabajando-para-llegar-a-ese-gran-porcentaje-de-indecisos-3542884",
+          "outlet": "El Tiempo",
+          "date": "2026-03-25",
+          "title": "Luisa Fernanda Villegas, fórmula vicepresidencial de Miguel Uribe: 'Estamos trabajando para llegar a ese gran porcentaje de indecisos'"
+        },
+        {
+          "url": "https://www.lafm.com.co/politica/quien-es-luisa-fernanda-villegas-formula-de-miguel-uribe-londono-392507",
+          "outlet": "La FM",
+          "date": "2026-03-05",
+          "title": "¿Quién es Luisa Fernanda Villegas, fórmula de Miguel Uribe Londoño?"
         }
       ],
       "dimensionScores": {
@@ -1777,9 +2101,9 @@
         }
       ]
     },
-    "bio": "Luisa Fernanda Villegas es la fórmula vicepresidencial inscrita de Miguel Uribe Londoño para las elecciones presidenciales colombianas de 2026 por el Partido Demócrata Colombiano. Su trayectoria política pública previa al registro de la campaña es limitada.",
+    "bio": "Luisa Fernanda Villegas es una administradora de empresas colombiana, fórmula vicepresidencial de Miguel Uribe Londoño para las elecciones presidenciales de 2026, candidatura avalada por el Partido Demócrata Colombiano. Es graduada del Colegio de Estudios Superiores de Administración (CESA), donde también cursó una especialización en Mercadeo Estratégico. Cuenta con más de tres décadas de experiencia profesional en los sectores público, privado y académico. En el sector público se desempeñó como secretaria privada del entonces ministro de Comercio, Industria y Turismo, José Manuel Restrepo, y ocupó diversos cargos en ProColombia durante el gobierno de Iván Duque, incluida la dirección comercial para Argentina, Uruguay y Paraguay. En el ámbito académico estuvo vinculada durante más de una década al CESA, donde dirigió el programa de Administración de Empresas y lideró procesos de formación en liderazgo, innovación y emprendimiento. Su inscripción como fórmula vicepresidencial se formalizó el 5 de marzo de 2026 ante la Registraduría Nacional del Estado Civil. Su trayectoria política electoral previa al registro de la campaña es limitada, pues su carrera se desarrolló principalmente en la gestión pública, la promoción del comercio internacional y la educación superior. Durante la campaña ha señalado como ejes de su propuesta la seguridad, la educación y la unidad nacional, e incluye un programa de becas denominado Beca Miguel Uribe Turbay. Su período como candidata vicepresidencial está registrado para 2026.",
     "incoherences": [],
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ]
@@ -1799,7 +2123,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Tras aceptar la fórmula vicepresidencial de Paloma Valencia (Centro Democrático) el 12 de marzo de 2026, su posición autopercibida se alinea con un centro-derecha moderado: defensa del libre mercado con énfasis técnico-gerencial, transparencia institucional y apertura a derechos civiles. Su discurso de 2024 \"No es derecha ni izquierda, no es Uribe ni Petro\" fue reemplazado por adhesión explícita a la coalición uribista.",
       "sources": [
@@ -1840,6 +2164,30 @@
           "title": "Gestión Director DANE 2018-2022",
           "outlet": "DANE",
           "date": "2022-07-30"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Juan_Daniel_Oviedo",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Juan Daniel Oviedo"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/quien-es-juan-daniel-oviedo-el-fenomeno-politico-que-logro-la-segunda-mayor-votacion-de-todas-las-consultas-interpartidistas-del-3538506",
+          "outlet": "El Tiempo",
+          "date": "2026-03-08",
+          "title": "¿Quién es Juan Daniel Oviedo, el fenómeno político que logró la segunda mayor votación de todas las consultas interpartidistas del 2026?"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/03/12/paloma-valencia-ya-tiene-formula-vicepresidencial-juan-daniel-oviedo-sera-su-companero-en-primera-vuelta/",
+          "outlet": "Infobae",
+          "date": "2026-03-12",
+          "title": "Paloma Valencia confirmó que irá a las elecciones en fórmula con Juan Daniel Oviedo"
+        },
+        {
+          "url": "https://juandanieloviedo.com.co/perfil/",
+          "outlet": "Sitio oficial Juan Daniel Oviedo",
+          "date": "2026-06-22",
+          "title": "Perfil Juan Daniel Oviedo #ConTodaPorColombia"
         }
       ],
       "dimensionScores": {
@@ -1896,7 +2244,7 @@
         }
       ]
     },
-    "bio": "Juan Daniel Oviedo Arango (1977, Bogotá) es un economista colombiano. Doctor en Economía por la Universidad de Toulouse 1 (Francia), fue Director del Departamento Administrativo Nacional de Estadística (DANE) entre 2018 y 2022, donde se ganó reconocimiento por publicar sistemáticamente datos de pobreza y desigualdad durante la pandemia. En 2023 fue candidato a la Alcaldía de Bogotá por el movimiento Con Toda por Bogotá, obteniendo el segundo lugar con 616.902 votos (20,19%). Su elección como concejal fue anulada por inhabilidad por el Consejo de Estado, sección quinta, el 27 de junio de 2025. El 12 de marzo de 2026 fue confirmado como fórmula vicepresidencial de Paloma Valencia por el Centro Democrático.",
+    "bio": "Juan Daniel Oviedo Arango (Bogotá, 16 de marzo de 1977) es un economista colombiano. Es economista de la Universidad del Rosario, con maestría en economía matemática y econometría y doctorado en Economía por la Universidad de Toulouse 1 (Francia). Antes de ingresar a la política se desempeñó en el ámbito académico y técnico. Entre el 7 de agosto de 2018 y el 7 de agosto de 2022 fue director del Departamento Administrativo Nacional de Estadística (DANE), durante el gobierno de Iván Duque, periodo en el que la entidad publicó de manera frecuente cifras de pobreza, desigualdad y empleo, incluidas las generadas durante la pandemia de COVID-19. En las elecciones regionales de 2023 fue candidato a la Alcaldía de Bogotá por la plataforma Con Toda por Bogotá y obtuvo el segundo lugar con más de 616.000 votos. Posteriormente ejerció como concejal de Bogotá, cargo al que renunció el 31 de mayo de 2025 para dedicarse a la campaña presidencial bajo el movimiento Con Toda por Colombia. El 8 de marzo de 2026 participó en la Gran Consulta por Colombia, donde alcanzó la segunda votación más alta entre los aspirantes de las consultas interpartidistas de esa jornada, con más de 900.000 votos. El 12 de marzo de 2026, Paloma Valencia, ganadora de la consulta y candidata presidencial del Centro Democrático, lo confirmó como su fórmula vicepresidencial para las elecciones de 2026.",
     "incoherences": [
       {
         "id": "juan-daniel-oviedo-polarizacion-2026",
@@ -1957,7 +2305,7 @@
         "addedAt": "2026-04-16"
       }
     ],
-    "lastUpdated": "2026-04-16",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ]

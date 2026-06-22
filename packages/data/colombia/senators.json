@@ -59,6 +59,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/aida-yolanda-avella-esquivel/13660/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Aída Yolanda Avella Esquivel — Perfil de congresista"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/A%C3%ADda_Avella",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Aída Avella"
+        },
+        {
+          "url": "https://partido-up.org/gestionaavella24-25/",
+          "outlet": "Unión Patriótica",
+          "date": "2026-06-22",
+          "title": "Gestión legislativa y social de la senadora Aída Avella Esquivel (2024-2025)"
+        },
+        {
+          "url": "https://www.movimientopactohistorico.co/candidatos/aida-yolanda-avella-esquivel",
+          "outlet": "Pacto Histórico",
+          "date": "2026-06-22",
+          "title": "Aída Yolanda Avella Esquivel — Candidata"
+        },
+        {
+          "url": "https://boyaca7dias.com.co/2026/02/18/la-senadora-aida-avella-esquivel-vuelve-a-aspirar-este-2026-por-el-pacto-historico/",
+          "outlet": "Boyacá 7 Días",
+          "date": "2026-02-18",
+          "title": "La senadora Aída Avella Esquivel vuelve a aspirar este 2026 por el Pacto Histórico"
         }
       ],
       "confidence": "medium",
@@ -78,7 +108,7 @@
       "classical-marxism",
       "progressivism"
     ],
-    "bio": "Aída Yolanda Avella Esquivel es dirigente sindical, política y defensora de derechos humanos colombiana, senadora de la República por la Unión Patriótica desde 2018. Fue presidenta de FENALTRASE (sindicato de trabajadores del Estado) y una de las figuras centrales en la reconstrucción de la UP tras el exterminio político de más de 3.000 militantes de ese partido entre 1986 y 2002. Fue candidata vicepresidencial en 2014 en fórmula con Clara López. Debió exiliarse en 1996 tras un atentado contra su vida y regresó a Colombia en 2013.",
+    "bio": "Aída Yolanda Avella Esquivel (Sogamoso, Boyacá, 23 de enero de 1949) es una política, sindicalista y defensora de derechos humanos colombiana. Formada en la Universidad Nacional de Colombia en pedagogía y psicología, inició su carrera pública en el sindicalismo del sector educativo y estatal: fue presidenta de FENALTRASE y participó en la fundación de la Central Unitaria de Trabajadores (CUT). Vinculada al Partido Comunista Colombiano y luego a la Unión Patriótica (UP), fue elegida a la Asamblea Nacional Constituyente de 1991 y se desempeñó como concejal de Bogotá entre 1992 y 1996. El 7 de mayo de 1996 sobrevivió a un atentado con un cohete contra su vehículo en la Autopista Norte de Bogotá, hecho que la llevó a un exilio de aproximadamente 17 años en Suiza, en el contexto del exterminio de militantes de la UP. Regresó a Colombia en 2013 y se convirtió en una de las principales figuras de la reconstrucción del partido, del cual es presidenta. En 2014 fue candidata a la Vicepresidencia en fórmula con Clara López. Fue elegida senadora de la República para el periodo 2018-2022 y reelegida en 2022 dentro de la lista cerrada del Pacto Histórico. En el Senado ha trabajado en temas de derechos humanos, equidad de género, protección ambiental y justicia económica. En 2026 figura nuevamente como aspirante por el Pacto Histórico.",
     "incoherences": [
       {
         "id": "avella-up-renovacion-generacional",
@@ -168,7 +198,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -272,6 +302,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Alex%C3%A1nder_L%C3%B3pez_Maya",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Alexánder López Maya"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/alexander-lopez-maya/668/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Alexánder López Maya | Perfil congresista"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2023/06/07/alexander-lopez-maya-el-sindicalista-caleno-que-llego-a-ser-el-primer-presidente-de-izquierda-del-senado-de-colombia/",
+          "outlet": "Infobae",
+          "date": "2023-06-07",
+          "title": "Alexánder López Maya: el sindicalista caleño que se convirtió en el primer presidente de izquierda del Senado de Colombia"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-posesiono-a-alexander-lopez-y-critico-a-anteriores-directores-del-dnp-3322155",
+          "outlet": "El Tiempo",
+          "date": "2024-03-06",
+          "title": "Presidente Petro posesionó a Alexander López y criticó a anteriores directores del DNP"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/02/12/alexander-lopez-ficha-de-petro-y-exdirector-del-dnp-volvio-al-senado-terminara-la-legislatura-luego-de-fallo-que-le-devolvio-la-curul/",
+          "outlet": "Infobae",
+          "date": "2026-02-12",
+          "title": "Alexander López, ficha de Petro y exdirector del DNP, volvió al Senado tras fallo que le devolvió la curul"
         }
       ],
       "confidence": "medium",
@@ -290,7 +350,7 @@
       "democratic-socialism",
       "left-populism"
     ],
-    "bio": "Alexander López Maya es ingeniero y político colombiano, senador desde 2018 por el Polo Democrático. Ha sido crítico del TLC, defensor de reforma agraria y de derechos de trabajadores.",
+    "bio": "Alexánder López Maya (Cali, 26 de junio de 1967) es un abogado, dirigente sindical y político colombiano. Se graduó como abogado en la Universidad de San Buenaventura y cursó especializaciones en políticas públicas y en administración de empresas sociales del Estado. Inició su trayectoria pública como trabajador de las Empresas Municipales de Cali (Emcali) y como líder del sindicato Sintraemcali, del que llegó a ser presidente, encabezando la oposición a la privatización de la empresa de servicios públicos. Llegó al Congreso como representante a la Cámara por el Valle del Cauca para el periodo 2002-2006 con el Frente Social y Político y, en 2006, fue elegido senador, cargo en el que fue reelegido en varias ocasiones. Entre marzo de 2021 y marzo de 2024 presidió el Polo Democrático Alternativo. Del 6 de junio al 20 de julio de 2023 ejerció como presidente del Senado de la República. El 6 de marzo de 2024 se posesionó como director del Departamento Nacional de Planeación (DNP) en el gobierno de Gustavo Petro, en reemplazo de Jorge Iván González, cargo que dejó en marzo de 2025. Su elección como senador para el periodo 2022-2026 fue anulada por el Consejo de Estado en 2023, decisión que la Corte Constitucional revocó en septiembre de 2025; tras ese fallo retornó al Senado en febrero de 2026 para completar la legislatura. A lo largo de su carrera ha sido identificado con posturas de izquierda, la defensa de los trabajadores y los servicios públicos.",
     "incoherences": [
       {
         "id": "lopez-maya-clase-obrera",
@@ -380,7 +440,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -485,6 +545,24 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/%C3%81lvaro_Uribe_V%C3%A9lez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Álvaro Uribe Vélez"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/alvaro-uribe-velez/8439/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Álvaro Uribe Vélez — Perfil del congresista"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/10/21/alvaro-uribe-fue-declarado-inocente-de-todos-los-cargos-en-su-contra-tribunal-superior-de-bogota-revoco-la-condena-en-segunda-instancia/",
+          "outlet": "Infobae",
+          "date": "2025-10-21",
+          "title": "Álvaro Uribe fue declarado inocente de todos los cargos: el Tribunal Superior de Bogotá revocó la condena en segunda instancia"
         }
       ],
       "confidence": "medium",
@@ -504,7 +582,7 @@
       "neo-conservatism",
       "nationalist-conservatism"
     ],
-    "bio": "Álvaro Uribe Vélez es abogado y político colombiano. Fue gobernador de Antioquia (1995-1997), presidente de la República (2002-2010) y senador (2014-2020) por el Centro Democrático, partido que él mismo fundó tras su salida de Casa de Nariño. Renunció al Senado en agosto de 2020 al ser llamado a indagatoria por la Corte Suprema de Justicia en el caso de presunta manipulación de testigos.",
+    "bio": "Álvaro Uribe Vélez (Medellín, 4 de julio de 1952) es un abogado y político colombiano. Estudió derecho en la Universidad de Antioquia y realizó estudios complementarios de administración en la Escuela de Extensión de la Universidad de Harvard y en el St Antony's College de la Universidad de Oxford. Inició su trayectoria pública como alcalde de Medellín (1982) y senador de la República (1986-1994). Fue gobernador de Antioquia (1995-1997) y presidente de Colombia durante dos mandatos consecutivos (2002-2010), tras una reforma constitucional que permitió la reelección presidencial inmediata; durante su gobierno impulsó la llamada política de seguridad democrática. En 2013 fundó el partido Centro Democrático y en 2014 fue elegido senador por lista cerrada de esa colectividad, para el periodo 2014-2020, con votación nacional. En 2016 lideró la campaña por el No en el plebiscito sobre los acuerdos de paz con las FARC, opción que se impuso por un estrecho margen. En agosto de 2020 renunció a su curul en el Senado en el marco de un proceso ante la justicia por presunta manipulación de testigos. El 28 de julio de 2025 fue condenado en primera instancia por los delitos de soborno en actuación penal y fraude procesal. El 21 de octubre de 2025, el Tribunal Superior de Bogotá revocó esa condena en segunda instancia y lo absolvió de los cargos; la decisión podía ser objeto de recursos ante la Corte Suprema de Justicia.",
     "incoherences": [
       {
         "id": "au-seguridad-democracia",
@@ -565,7 +643,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -673,6 +751,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/angelica-lozano-correa/2305/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Angélica Lozano Correa | Perfil congresista"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/angelica-lisbeth-lozano-correa/",
+          "outlet": "Cámara de Representantes de Colombia",
+          "date": "2026-06-22",
+          "title": "Angélica Lisbeth Lozano Correa - Perfil"
+        },
+        {
+          "url": "https://alianzaverde.org.co/senadores-2022-2026/angelica-lozano",
+          "outlet": "Alianza Verde",
+          "date": "2022-04-06",
+          "title": "Angélica Lozano - Senadora de la República"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-angelica-lozano-correa/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Angélica Lozano Correa"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ang%C3%A9lica_Lozano",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Angélica Lozano"
         }
       ],
       "confidence": "medium",
@@ -692,7 +800,7 @@
       "green-politics",
       "social-liberalism"
     ],
-    "bio": "Angélica Lisbeth Lozano Correa es abogada y política colombiana, senadora de la República por la Alianza Verde desde 2018. Previamente fue representante a la Cámara por Bogotá (2014-2018) y edil de Chapinero. Es una de las voces visibles del progresismo verde en el Congreso y ha sido pionera en la agenda de derechos LGBTIQ+.",
+    "bio": "Angélica Lisbeth Lozano Correa (Bogotá, 7 de mayo de 1976) es abogada y política colombiana. Es abogada de la Universidad de la Sabana y magíster en Gerencia y Práctica del Desarrollo de la Universidad de los Andes. Inició su trayectoria pública como asesora en el Congreso y como alcaldesa local de Chapinero (2005-2008), y posteriormente fue concejal de Bogotá (2012-2013). En las elecciones de 2014 fue elegida representante a la Cámara por Bogotá para el periodo 2014-2018 con el aval de la Alianza Verde. En 2018 fue elegida senadora de la República, cargo en el que ha sido reelegida y que ejerce de forma continua desde el 20 de julio de 2018. Su trabajo legislativo se ha centrado en la lucha contra la corrupción, la transparencia, los derechos humanos, la equidad de género y los derechos de la población LGBTIQ+; fue una de las promotoras de la Consulta Anticorrupción de 2018. Es reconocida por ser la primera congresista abiertamente homosexual de Colombia. En diciembre de 2019 contrajo matrimonio con Claudia López, quien fue alcaldesa de Bogotá entre 2020 y 2023. En el Senado ha integrado la Comisión Cuarta, que presidió durante el periodo 2024-2025. Continúa ejerciendo como senadora por la Alianza Verde.",
     "incoherences": [
       {
         "id": "lozano-transparencia-publicidad-oficial-distrito",
@@ -782,7 +890,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -840,7 +948,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -3.0,
+      "x": -3,
       "y": -4.17,
       "justification": "Aurelijus Rūtenis Antanas Mockus Šivickas, de Alianza Verde, se presenta públicamente alineado con «Política verde», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -865,7 +973,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Posición evidenciada de Aurelijus Rūtenis Antanas Mockus Šivickas, derivada de su trayectoria política, afiliación a Alianza Verde y registro público disponible. Mejor descrita como «Liberalismo social». Posición preliminar derivada de su afiliación partidaria y discurso; aún sin auditoría detallada de votaciones. Una auditoría sistemática de votaciones (CongresoVisible) y decretos profundizará esta ubicación.",
       "sources": [
@@ -886,6 +994,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Antanas_Mockus",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Antanas Mockus"
+        },
+        {
+          "url": "https://www.colombia.com/actualidad/judicial/antanas-mockus-sale-del-congreso-257388",
+          "outlet": "Colombia.com",
+          "date": "2020-01-21",
+          "title": "Consejo de Estado anula investidura de Antanas Mockus como senador de la República"
+        },
+        {
+          "url": "https://www.eltiempo.com/justicia/cortes/claves-de-la-demanda-que-saco-a-mockus-del-congreso-454230",
+          "outlet": "El Tiempo",
+          "date": "2020-01-22",
+          "title": "Claves de la demanda que sacó a Mockus del Congreso"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/politica/consejo-de-estado-anulo-eleccion-de-antanas-mockus-MC12324008",
+          "outlet": "El Colombiano",
+          "date": "2020-01-21",
+          "title": "Consejo de Estado anuló elección de Antanas Mockus"
+        },
+        {
+          "url": "https://www.eltiempo.com/justicia/cortes/decision-sobre-la-perdida-de-investidura-de-antanas-mockus-398094",
+          "outlet": "El Tiempo",
+          "date": "2019-08-06",
+          "title": "Decisión sobre la pérdida de investidura de Antanas Mockus"
         }
       ],
       "confidence": "low",
@@ -905,7 +1043,7 @@
       "social-liberalism",
       "progressivism"
     ],
-    "bio": "Aurelijus Rūtenis Antanas Mockus Šivickas es un matemático, filósofo y político colombiano de origen lituano. Fue rector de la Universidad Nacional (1991-1993), alcalde de Bogotá en dos períodos (1995-1997 y 2001-2003) y candidato presidencial en 2010 por el Partido Verde. Fue senador entre 2018 y 2019, cuando el Consejo de Estado le retiró la investidura.",
+    "bio": "Aurelijus Rūtenis Antanas Mockus Šivickas (Bogotá, 25 de marzo de 1952) es un matemático, filósofo y político colombiano, hijo de inmigrantes lituanos. Obtuvo un pregrado en Matemáticas en la Universidad de Borgoña (Dijon, Francia) y una maestría en Filosofía en la Universidad Nacional de Colombia, institución de la que fue rector entre 1991 y 1993. Se dio a conocer en la vida pública como alcalde de Bogotá en dos períodos no consecutivos (1995-1997 y 2001-2003), gestiones asociadas a programas de cultura ciudadana orientados a la convivencia, la seguridad vial y el cumplimiento de normas. En 1998 fue fórmula vicepresidencial de Noemí Sanín y posteriormente fue candidato presidencial en 2006 y en 2010, año en que su campaña por el Partido Verde alcanzó la segunda vuelta. En las elecciones legislativas de 2018 fue elegido senador por la Alianza Verde con una de las votaciones más altas del país. Su período en el Senado se desarrolló entre el 20 de julio de 2018 y enero de 2020, cuando la Sala Plena del Consejo de Estado anuló su elección por considerar que la fundación Corpovisionarios, de la que era representante, celebró un contrato con el Estado dentro del plazo de inhabilidad previo a los comicios. El alto tribunal anuló la elección, pero no le impuso la pérdida de investidura. Mockus ha informado públicamente que vive con la enfermedad de Parkinson, diagnosticada hacia 2010.",
     "incoherences": [
       {
         "id": "am-cultura-civica",
@@ -995,7 +1133,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1099,6 +1237,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Antonio_Sanguino",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Antonio Sanguino"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/antonio-sanguino/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Antonio Sanguino - Quién es quién"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/gobierno/presidente-petro-anuncia-que-antonio-sanguino-sera-el-nuevo-ministro-del-trabajo-3426234",
+          "outlet": "El Tiempo",
+          "date": "2025-02-12",
+          "title": "Presidente Petro anuncia que Antonio Sanguino será el nuevo ministro del Trabajo"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/antonio-sanguino-nuevo-ministro-de-trabajo-de-petro-PI26591691",
+          "outlet": "El Colombiano",
+          "date": "2025-02-12",
+          "title": "Petro confirma al nuevo ministro de Trabajo: será Antonio Sanguino, exsenador y exfuncionario de Claudia López"
+        },
+        {
+          "url": "https://www.mintrabajo.gov.co/antonio-sanguino-paez-se-posesiono-como-nuevo-ministro-del-trabajo-del-gobierno-petro",
+          "outlet": "Ministerio del Trabajo de Colombia",
+          "date": "2026-06-22",
+          "title": "Antonio Sanguino Páez se posesionó como nuevo Ministro del Trabajo del Gobierno Petro"
         }
       ],
       "confidence": "low",
@@ -1118,7 +1286,7 @@
       "green-politics",
       "progressivism"
     ],
-    "bio": "Antonio Eresmid Sanguino Páez es sociólogo, sindicalista y político colombiano. Fue concejal de Bogotá durante varios períodos (1997-2014), senador por la Alianza Verde (2018-2022) y Ministro del Trabajo del gobierno de Gustavo Petro desde julio de 2024.",
+    "bio": "Antonio Eresmid Sanguino Páez (Ocaña, Norte de Santander, 1 de junio de 1965) es sociólogo y político colombiano. Cursó estudios de pregrado en la Universidad Cooperativa de Colombia, una maestría en la Universidad de los Andes y estudios de posgrado en administración pública en la Universidad Complutense de Madrid. Inició su trayectoria pública ligado al trabajo social y comunitario, y desarrolló su carrera política principalmente en Bogotá. Fue concejal de Bogotá entre 2008 y 2017. En las elecciones de marzo de 2018 fue elegido senador de la República por la Alianza Verde, colectividad a la que pertenece desde 2009, y ejerció su curul durante el periodo 2018-2022, ubicándose en la oposición al gobierno de Iván Duque. Tras dejar el Senado, se desempeñó como jefe de gabinete de la alcaldesa de Bogotá Claudia López entre julio de 2022 y abril de 2023. El 12 de febrero de 2025, el presidente Gustavo Petro lo anunció como nuevo ministro del Trabajo, en reemplazo de Gloria Inés Ramírez, y se posesionó en el cargo el 18 de febrero de 2025. Como titular de la cartera, sus prioridades anunciadas incluyeron impulsar la reforma laboral y la reforma pensional, así como orientar el ministerio hacia los trabajadores y las organizaciones sociales y sindicales.",
     "incoherences": [
       {
         "id": "as-tierra-reforma",
@@ -1208,7 +1376,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1311,6 +1479,30 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Ariel_%C3%81vila",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Ariel Ávila"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/ariel-fernando-avila-martinez/27963/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Ariel Fernando Ávila Martínez — Perfil del congresista"
+        },
+        {
+          "url": "https://alianzaverde.org.co/senadores-2022-2026/ariel-fernando-avila",
+          "outlet": "Partido Alianza Verde",
+          "date": "2026-06-22",
+          "title": "Ariel Fernando Ávila — Senador 2022-2026"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/quien-es-ariel-avila-y-por-que-tiene-ofertas-para-ser-senador-biografia-626629",
+          "outlet": "El Tiempo",
+          "date": "2021-10-20",
+          "title": "Quién es Ariel Ávila y por qué tiene ofertas para ser senador: biografía"
         }
       ],
       "confidence": "medium",
@@ -1330,7 +1522,7 @@
       "social-liberalism",
       "social-democracy"
     ],
-    "bio": "Ariel Fernando Ávila Martínez es politólogo, investigador y político colombiano, senador de la República por la Alianza Verde desde 2022. Fue subdirector de la Fundación Paz y Reconciliación (PARES) durante más de una década y es autor de varios libros sobre conflicto armado, narcotráfico y política en Colombia. Es una de las voces independientes del progresismo verde en el Congreso.",
+    "bio": "Ariel Fernando Ávila Martínez (San Bernardo, Cundinamarca, 1983) es politólogo, investigador y político colombiano. Estudió Ciencias Políticas en la Universidad Nacional de Colombia y cursó una maestría en Sociología. Antes de su carrera legislativa se desempeñó como coordinador del Observatorio de Conflicto Armado de la Corporación Nuevo Arco Iris y, posteriormente, como subdirector de la Fundación Paz y Reconciliación (PARES) durante más de una década, donde dirigió investigaciones sobre conflicto armado, narcotráfico, grupos ilegales y poderes políticos regionales. También ha sido docente universitario, entre otras en la Universidad Externado de Colombia, y columnista en distintos medios. Es autor de varios libros sobre seguridad y conflicto en Colombia, como \"Detrás de la guerra en Colombia\" (2019) y \"¿Por qué los matan?\" (2020). Por sus investigaciones sobre violencia y paramilitarismo recibió amenazas y vivió un periodo fuera del país. En las elecciones legislativas de 2022 fue elegido senador de la República por la Alianza Verde, en el marco de la Coalición Centro Esperanza, con una votación superior a los 97.000 votos, e inició su periodo el 20 de julio de 2022. En el Senado ha integrado la Comisión Primera, encargada de asuntos constitucionales, y ha presidido dicha comisión. Se ha enfocado en temas de seguridad, paz, lucha contra la corrupción y reformas institucionales. Continúa ejerciendo como senador en el periodo legislativo vigente.",
     "incoherences": [
       {
         "id": "avila-analista-senador-tono",
@@ -1420,7 +1612,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1478,7 +1670,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Armando Benedetti Villaneda, de Partido de la U, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -1503,7 +1695,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -9.0,
+      "x": -9,
       "y": 0.83,
       "justification": "Posición evidenciada de Armando Benedetti Villaneda, derivada de su trayectoria política, afiliación a Partido de la U y registro público disponible. Mejor descrita como «Populismo de izquierda». Posición derivada de su trayectoria pública y afiliación; evidencia parcial. Una auditoría sistemática de votaciones (CongresoVisible) y decretos profundizará esta ubicación.",
       "sources": [
@@ -1524,6 +1716,30 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Armando_Benedetti",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Armando Benedetti"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/armando-benedetti/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Armando Benedetti Villaneda - Quién es Quién"
+        },
+        {
+          "url": "https://www.valoraanalitik.com/quien-es-armando-benedetti-el-que-sera-el-nuevo-ministro-del-interior-en-colombia/",
+          "outlet": "Valora Analitik",
+          "date": "2025-02-25",
+          "title": "¿Quién es Armando Benedetti, el que será el nuevo ministro del Interior en Colombia?"
+        },
+        {
+          "url": "https://www.funcionpublica.gov.co/dafpIndexerBHV/hvSigep/detallarHV/S3181216-8008-4",
+          "outlet": "Función Pública - SIGEP",
+          "date": "2026-06-22",
+          "title": "Hoja de vida - Armando Alberto Benedetti Villaneda (SIGEP)"
         }
       ],
       "confidence": "medium",
@@ -1542,7 +1758,7 @@
       "democratic-socialism",
       "progressivism"
     ],
-    "bio": "Armando Alberto Benedetti Villaneda es comunicador social, periodista y político colombiano. Fue senador durante 16 años (2006-2022) por el Partido de la U. Tras apoyar a Gustavo Petro, fue nombrado embajador en Venezuela y posteriormente Ministro del Interior. Conocido por cambios de alianza política: pasó de ser uribista a santista a petrista.",
+    "bio": "Armando Alberto Benedetti Villaneda (Barranquilla, 29 de agosto de 1967) es comunicador social, periodista y político colombiano. Se graduó en comunicación social y periodismo en la Pontificia Universidad Javeriana y trabajó en medios como Telecaribe, El Tiempo y QAP antes de dedicarse a la política. Inició su carrera como concejal de Bogotá (1998-2000) por el Partido Liberal y luego fue representante a la Cámara (2002-2006). En 2006 resultó elegido senador y ocupó esa curul durante dieciséis años, hasta 2022, con sucesivas reelecciones. Entre 2010 y 2011 fue presidente del Senado de la República, cargo desde el cual tomó juramento al presidente Juan Manuel Santos. Durante buena parte de su trayectoria militó en el Partido de la U, del que también fue presidente. Posteriormente se sumó al proyecto político de Gustavo Petro y participó en la coalición del Pacto Histórico. Bajo el gobierno de Petro fue embajador de Colombia en Venezuela (2022-2023), donde acompañó la normalización de relaciones diplomáticas entre ambos países, y luego embajador ante la FAO en Roma. A comienzos de 2025 fue designado jefe de despacho de la Presidencia y, en marzo de ese año, ministro del Interior en reemplazo de Juan Fernando Cristo. Su trayectoria se ha caracterizado por sucesivos cambios de alianza política.",
     "incoherences": [
       {
         "id": "benedetti-anticorrupcion",
@@ -1631,7 +1847,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1689,7 +1905,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -3.0,
+      "x": -3,
       "y": -4.17,
       "justification": "Claudia Nayibe López Hernández, de Alianza Verde, se presenta públicamente alineado con «Política verde», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -1735,6 +1951,42 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Claudia_L%C3%B3pez_Hern%C3%A1ndez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Claudia López Hernández"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/quien-es-claudia-lopez-su-paso-por-la-alcaldia-de-bogota-en-el-senado-y-su-salida-de-alianza-verde-noticias-hoy/",
+          "outlet": "El Espectador",
+          "date": "2026-04-21",
+          "title": "Claudia López: la exalcaldesa quiere llegar a la Presidencia sin el impulso de los partidos"
+        },
+        {
+          "url": "https://bogota.gov.co/mi-ciudad/administracion-distrital/claudia-lopez-hernandez-alcaldesa-mayor-de-bogota",
+          "outlet": "Alcaldía Mayor de Bogotá",
+          "date": "2026-06-22",
+          "title": "Claudia López Hernández: Alcaldesa Mayor de Bogotá"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/04/14/claudia-lopez-se-enfurecio-por-el-apoyo-de-alianza-verde-a-la-candidatura-de-ivan-cepeda-es-el-fin-del-verde-mockusiano/",
+          "outlet": "Infobae",
+          "date": "2026-04-14",
+          "title": "Claudia López le confesó a Infobae su molestia por el apoyo de la Alianza Verde a la candidatura de Iván Cepeda"
+        },
+        {
+          "url": "https://www.agenciapi.co/noticia/politica/claudia-lopez-rompe-con-la-alianza-verde-y-lanza-imparables-rumbo-2026",
+          "outlet": "Agencia PI",
+          "date": "2026-04-16",
+          "title": "Claudia López rompe con la Alianza Verde y lanza Imparables rumbo a 2026"
+        },
+        {
+          "url": "https://claudia-lopez.com/mi-vida/",
+          "outlet": "Sitio oficial de Claudia López",
+          "date": "2026-06-22",
+          "title": "Biografía completa | Claudia López"
         }
       ],
       "confidence": "low",
@@ -1754,7 +2006,7 @@
       "progressivism",
       "social-liberalism"
     ],
-    "bio": "Claudia Nayibe López Hernández es politóloga y política colombiana, senadora de la Alianza Verde (2014-2018), candidata vicepresidencial en 2018 como fórmula de Sergio Fajardo, alcaldesa de Bogotá (2020-2023) —primera mujer y primera persona abiertamente lesbiana en ocupar el cargo— y precandidata presidencial 2026.",
+    "bio": "Claudia Nayibe López Hernández, nacida en Bogotá el 9 de marzo de 1970, es politóloga y política colombiana. Se formó en Finanzas, Gobierno y Relaciones Internacionales en la Universidad Externado de Colombia, obtuvo una maestría en Administración Pública y Política Urbana en la Universidad de Columbia (Nueva York) y un doctorado en Ciencia Política en la Universidad Northwestern (Estados Unidos), como becaria Fulbright. Participó en el movimiento estudiantil de la Séptima Papeleta, antecedente de la Asamblea Nacional Constituyente de 1991. Antes de su carrera electoral trabajó como consultora e investigadora, y fue conocida por sus análisis sobre la denominada parapolítica. Fue senadora de la República por la Alianza Verde durante el periodo 2014-2018. En 2018 fue candidata vicepresidencial en la fórmula de Sergio Fajardo por la Coalición Colombia, que ocupó el tercer lugar en la primera vuelta presidencial; ese mismo año impulsó la Consulta Anticorrupción. En octubre de 2019 ganó la Alcaldía de Bogotá y la ejerció entre el 1 de enero de 2020 y el 31 de diciembre de 2023, siendo la primera mujer elegida en las urnas para ese cargo y la primera persona abiertamente lesbiana en ocuparlo. En 2024 renunció a la Alianza Verde y en 2025 inscribió el movimiento ciudadano Imparables para aspirar a la Presidencia en 2026, candidatura que recogió firmas pero no avanzó en la contienda.",
     "incoherences": [
       {
         "id": "cl-transparencia-bogota",
@@ -1844,7 +2096,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1953,6 +2205,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/david-alejandro-barguil-assis/1693/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "David Alejandro Barguil Assis | Perfil congresista"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Barguil",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "David Barguil"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/quien-es-david-barguil-el-nuevo-candidato-del-partido-conservador-623796",
+          "outlet": "El Tiempo",
+          "date": "2021-10-07",
+          "title": "Quién es David Barguil, el nuevo candidato del Partido Conservador"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/politica/senador-david-barguil-candidato-presidencial-2022-partido-conservador-EK15979368",
+          "outlet": "El Colombiano",
+          "date": "2021-11-04",
+          "title": "David Barguil será el candidato presidencial del Partido Conservador en 2022"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-2022/candidatos/equipo-por-colombia-quienes-son-los-precandidatos-presidenciales-654712",
+          "outlet": "El Tiempo",
+          "date": "2022-03-13",
+          "title": "Equipo por Colombia: conozca quiénes son los precandidatos presidenciales"
         }
       ],
       "confidence": "medium",
@@ -1972,7 +2254,7 @@
       "liberal-conservatism",
       "traditionalist-conservatism"
     ],
-    "bio": "David Andrés Barguil Assis es ingeniero y senador colombiano por el Partido Conservador, representante de Córdoba. Precandidato presidencial en 2022 —ganador de la consulta interna del partido— hizo parte luego del Equipo por Colombia. Conocido por su ley de \"borrón y cuenta nueva\" en centrales de riesgo crediticio.",
+    "bio": "David Andrés Barguil Assis (Cereté, Córdoba, 23 de junio de 1981) es un político colombiano del Partido Conservador. Se formó en Finanzas, Gobierno y Relaciones Internacionales en la Universidad Externado de Colombia, con especialización en Derecho Contractual, y cursó una maestría en Gerencia Pública (estudios de posgrado) en la Universidad de los Andes. Inició su carrera legislativa como representante a la Cámara por Córdoba entre 2010 y 2018, periodo en el que, en 2014, fue elegido presidente de la Dirección Nacional del Partido Conservador, cargo que ocupó hasta diciembre de 2016 y en el que figura como uno de los dirigentes más jóvenes en la historia de la colectividad. En 2018 fue elegido senador de la República, obteniendo una de las votaciones más altas de su partido. En el Congreso impulsó iniciativas de protección al consumidor financiero, entre ellas la conocida como ley de \"borrón y cuenta nueva\", que estableció condiciones para la eliminación de reportes negativos en las centrales de riesgo crediticio tras el pago de las obligaciones. En 2021 fue ratificado como candidato presidencial del Partido Conservador y participó en la coalición Equipo por Colombia, cuya consulta interpartidista se realizó el 13 de marzo de 2022 junto a Federico Gutiérrez, Alejandro Char, Enrique Peñalosa y Aydeé Lizarazo. Tras esa contienda continuó su actividad en el Senado, donde mantiene su curul.",
     "incoherences": [
       {
         "id": "db-corrupcion-mineria",
@@ -2062,7 +2344,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2171,6 +2453,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/david-luna-sanchez/",
+          "outlet": "La Silla Vacía",
+          "date": "2025-07-18",
+          "title": "Quién es David Luna Sánchez"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/david-luna-sanchez/180/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "David Luna Sánchez — Perfil congresista"
+        },
+        {
+          "url": "https://www.partidocambioradical.org/lideres-cambio-radical/david-luna/",
+          "outlet": "Partido Cambio Radical",
+          "date": "2026-06-22",
+          "title": "David Luna — Líderes Cambio Radical"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/congreso/david-luna-renuncia-a-su-curul-en-senado-y-a-cambio-radical-para-aspira-a-la-presidencia-en-3421251",
+          "outlet": "El Tiempo",
+          "date": "2025-01-27",
+          "title": "David Luna renuncia a su curul en Senado y a Cambio Radical para aspirar a la Presidencia en 2026"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/david-luna-formalizo-su-renuncia-senado-para-aspirar-presidencia-en-solitario-2026-OF26457595",
+          "outlet": "El Colombiano",
+          "date": "2025-01-27",
+          "title": "David Luna formaliza su renuncia al Senado para aspirar a la Presidencia en solitario"
         }
       ],
       "confidence": "high",
@@ -2190,7 +2502,7 @@
       "social-liberalism",
       "technocracy"
     ],
-    "bio": "David Luna Sánchez es abogado y político colombiano. Ha sido representante a la Cámara por Bogotá (2002-2014), Alto Consejero Presidencial de Buen Gobierno (2014-2015), Ministro TIC (2015-2018) y senador por Cambio Radical desde 2018. Es una de las figuras visibles del centro liberal reformador.",
+    "bio": "David Andrés Luna Sánchez (Bogotá, 27 de febrero de 1975) es un abogado y político colombiano. Es abogado de la Universidad del Rosario, con especialización en derecho administrativo de esa misma institución, y magíster en gobierno y políticas públicas de la Universidad Externado de Colombia; además fue investigador visitante (research fellow) en el Instituto Tecnológico de Massachusetts (MIT). Inició su carrera en cargos locales de Bogotá, como edil de Chapinero (1998-2000) y concejal de la ciudad. Fue representante a la Cámara por Bogotá y, durante el gobierno de Juan Manuel Santos, ocupó cargos en el Ejecutivo: viceministro de Relaciones Laborales del Ministerio del Trabajo, alto consejero presidencial para las Regiones y ministro de Tecnologías de la Información y las Comunicaciones (MinTIC) entre 2015 y 2018. En su gestión como ministro impulsó programas de conectividad, incluida la instalación de zonas de WiFi gratuito y políticas de economía digital. En 2018 dejó el gobierno y posteriormente dirigió el gremio de plataformas digitales Alianza IN. En las elecciones de 2022 fue elegido senador por Cambio Radical, donde se ubicó como una de las voces de oposición al gobierno de Gustavo Petro en la Comisión Primera. El 27 de enero de 2025 renunció a su curul en el Senado y a Cambio Radical para aspirar de manera independiente a la Presidencia de la República en las elecciones de 2026. Ha sido docente universitario y autor de libros.",
     "incoherences": [
       {
         "id": "luna-modernizacion-tic-olimpica-cr",
@@ -2280,7 +2592,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2383,6 +2695,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Efra%C3%ADn_Cepeda",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Efraín Cepeda"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/efrain-jose-cepeda-sarabia/20/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Efraín José Cepeda Sarabia | Perfil congresista"
+        },
+        {
+          "url": "https://www.semana.com/politica/articulo/el-es-efrain-cepeda-el-conservador-con-nueve-periodos-en-el-congreso-que-repite-en-la-presidencia-del-senado/202410/",
+          "outlet": "Semana",
+          "date": "2024-07-20",
+          "title": "Él es Efraín Cepeda, el conservador con nueve periodos en el Congreso que repite en la Presidencia del Senado"
+        },
+        {
+          "url": "https://www.senado.gov.co/index.php/el-senado/noticias/5684-conozca-mas-sobre-el-nuevo-presidente-del-senado",
+          "outlet": "Senado de la República de Colombia",
+          "date": "2026-06-22",
+          "title": "Conozca más sobre el nuevo presidente del Senado"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/efrain-cepeda-sarabia/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Efraín José Cepeda Sarabia"
         }
       ],
       "confidence": "medium",
@@ -2402,7 +2744,7 @@
       "christian-democracy",
       "fiscal-conservatism"
     ],
-    "bio": "Efraín José Cepeda Sarabia es abogado, empresario y político colombiano, senador por el Partido Conservador desde 1994 (más de 30 años de trayectoria legislativa continua). Ha sido presidente del Senado (2017-2018 y 2023-2024). Es una de las figuras históricas del conservatismo colombiano.",
+    "bio": "Efraín José Cepeda Sarabia (Barranquilla, 24 de mayo de 1950) es economista, empresario y político colombiano, miembro del Partido Conservador. Es economista industrial con especialización en altas finanzas, formado en la Universidad de los Andes, y tiene el grado de capitán de corbeta de la reserva naval. Antes de la política, se desempeñó como dirigente empresarial y gremial en la región Caribe. Inició su carrera legislativa con el movimiento Nueva Fuerza Democrática de Andrés Pastrana y fue elegido senador de la República por primera vez para el período que comenzó en 1994, con reelecciones sucesivas que lo han mantenido en el Congreso de manera continua durante más de tres décadas. Posteriormente se integró al Partido Conservador, del que ha sido presidente del directorio nacional en varios períodos. Ha ejercido la presidencia del Senado en dos ocasiones no consecutivas: 2017-2018, durante el gobierno de Juan Manuel Santos, y 2024-2025, tras ser elegido el 20 de julio de 2024 con 97 votos. En el Senado ha integrado y presidido la Comisión Cuarta y ha ocupado vicepresidencias de la corporación. Durante el gobierno de Gustavo Petro, lideró la decisión del Partido Conservador de declararse independiente del Ejecutivo. En diciembre de 2025 fue reelegido presidente del directorio nacional conservador.",
     "incoherences": [
       {
         "id": "e-cepeda-etica-conservadora-contratos-atlantico",
@@ -2492,7 +2834,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2575,7 +2917,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -9.0,
+      "x": -9,
       "y": 0.83,
       "justification": "Posición evidenciada de Gustavo Alonso Bolívar Moreno, derivada de su trayectoria política, afiliación a Pacto Histórico y registro público disponible. Mejor descrita como «Populismo de izquierda». Posición derivada de su trayectoria pública y afiliación; evidencia parcial. Una auditoría sistemática de votaciones (CongresoVisible) y decretos profundizará esta ubicación.",
       "sources": [
@@ -2596,6 +2938,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Gustavo_Bol%C3%ADvar",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Gustavo Bolívar"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/gustavo-bolivar-moreno/13649/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Gustavo Bolívar Moreno | Perfil congresista"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/04/30/otra-ficha-clave-del-gobierno-petro-se-aparta-gustavo-bolivar-renuncia-al-dps-con-miras-a-la-presidencia-de-2026/",
+          "outlet": "Infobae",
+          "date": "2025-04-30",
+          "title": "Gustavo Bolívar renuncia al DPS con miras a la presidencia de 2026"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/consulta-popular-pacto-historico-conteo-de-votos-registraduria-NB30317291",
+          "outlet": "El Colombiano",
+          "date": "2025-10-26",
+          "title": "Así terminó la consulta del Pacto Histórico: Iván Cepeda 64,40%"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2023/10/09/perfil-de-gustavo-bolivar-de-las-letras-y-las-telenovelas-a-aspirar-a-ser-uno-de-los-politicos-mas-poderosos-del-pais/",
+          "outlet": "Infobae",
+          "date": "2023-10-09",
+          "title": "Perfil de Gustavo Bolívar: de las letras y las telenovelas a la política"
         }
       ],
       "confidence": "medium",
@@ -2615,7 +2987,7 @@
       "progressivism",
       "left-populism"
     ],
-    "bio": "Gustavo Alonso Bolívar Moreno es guionista de televisión, escritor y político colombiano. Autor de obras como 'Sin tetas no hay paraíso' y 'El Capo'. Fue senador de la República por el Pacto Histórico (2018-2023) y uno de los aliados más cercanos de Gustavo Petro. Renunció al Senado en octubre de 2023 para competir por la Alcaldía de Bogotá, donde quedó en cuarto lugar. Posteriormente fue Director del Departamento para la Prosperidad Social (2024-2025).",
+    "bio": "Gustavo Alonso Bolívar Moreno (Girardot, Cundinamarca, 22 de julio de 1966) es escritor, guionista y político colombiano. Cursó varios semestres de Comunicación Social en la Universidad de la Sabana y se dio a conocer como autor de novelas y guionista de televisión, con obras como 'Sin tetas no hay paraíso' y 'El capo', adaptadas a series de amplia difusión internacional. En 2018 fue elegido senador de la República dentro de una coalición de partidos de izquierda, y en 2022 fue reelegido encabezando la lista del Pacto Histórico, coalición vinculada al gobierno de Gustavo Petro. En octubre de 2023 renunció a su curul para presentarse como candidato a la Alcaldía de Bogotá, comicios en los que no resultó electo. Posteriormente fue nombrado director del Departamento Administrativo para la Prosperidad Social, cargo que ejerció desde marzo de 2024 hasta su renuncia, presentada a finales de abril de 2025, con miras a una eventual aspiración presidencial. En 2025 figuró como precandidato del sector petrista para las elecciones presidenciales de 2026. En octubre de ese año declinó su aspiración para respaldar la candidatura de Iván Cepeda, quien ganó la consulta interna del Pacto Histórico realizada el 26 de octubre de 2025.",
     "incoherences": [
       {
         "id": "bolivar-outsider-renuncia-recurso",
@@ -2705,7 +3077,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2814,6 +3186,30 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/gustavo-francisco-petro-urrego/811/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Gustavo Francisco Petro Urrego | Perfil congresista"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/gustavo-francisco-petro-urrego/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Gustavo Francisco Petro Urrego"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Gustavo_Petro",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Gustavo Petro"
+        },
+        {
+          "url": "https://especiales.semana.com/elecciones-presidenciales-2018/candidatos-hoja-de-vida/gustavo-petro.html",
+          "outlet": "Semana",
+          "date": "2018-01-01",
+          "title": "Gustavo Petro Urrego: hoja de vida del candidato de 'Colombia Humana'"
         }
       ],
       "confidence": "medium",
@@ -2833,7 +3229,7 @@
       "left-populism",
       "progressivism"
     ],
-    "bio": "Gustavo Francisco Petro Urrego es un economista y político colombiano. Exintegrante del M-19, fue representante a la Cámara (1991-1994, 2002-2006), senador (2006-2010 por el Polo Democrático y 2018-2022 por Colombia Humana), alcalde de Bogotá (2012-2015) y presidente de la República desde el 7 de agosto de 2022. Es el primer presidente de izquierda en la historia de Colombia.",
+    "bio": "Gustavo Francisco Petro Urrego (Ciénaga de Oro, Córdoba, 19 de abril de 1960) es un economista y político colombiano, egresado de la Universidad Externado de Colombia, con estudios posteriores en administración pública (ESAP) y en la Universidad Católica de Lovaina, en Bélgica. En su juventud se vinculó al movimiento guerrillero M-19, en el que militó bajo el alias de \"Aureliano\" y participó en el proceso de desmovilización y reincorporación a la vida civil de esa organización entre 1989 y 1990. Tras los acuerdos de paz inició su carrera en la política institucional como concejal de Zipaquirá y como representante a la Cámara, cargo que ejerció en distintos periodos durante la década de 1990 y a comienzos de los años 2000. Fue elegido senador de la República para el periodo 2006-2010 por el Polo Democrático Alternativo, etapa en la que adelantó debates de control político relacionados con la llamada \"parapolítica\". Entre 2012 y 2015 se desempeñó como alcalde mayor de Bogotá. En 2018 volvió a ser elegido senador, esta vez por el movimiento Colombia Humana, escaño al que tenía derecho como candidato presidencial que ocupó el segundo lugar en las elecciones de ese año. Fue candidato presidencial en 2010, 2018 y 2022. En las elecciones de 2022 resultó elegido presidente de la República, con Francia Márquez como vicepresidenta, y asumió el cargo el 7 de agosto de 2022 para el periodo 2022-2026, convirtiéndose en el primer presidente de izquierda en la historia de Colombia.",
     "incoherences": [
       {
         "id": "gp-transicion-energetica",
@@ -2923,7 +3319,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -3026,6 +3422,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Honorio_Henr%C3%ADquez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Honorio Henríquez"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/honorio-miguel-henriquez-pinedo/9537/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Honorio Miguel Henríquez Pinedo | Perfil congresista"
+        },
+        {
+          "url": "https://www.senado.gov.co/index.php/el-senado/noticias/13-senadores/4736-senador-honorio-henriquez-y-bancada-del-centro-democratico-radican-dos-proyectos-de-ley-para-mejorar-sistema-de-salud-y-vinculacion-laboral-de-colaboradores-en-plataformas-digitales-bogota-23-de-agosto-de-2023-dos-importantes-iniciativas-para-el-pais-fueron-radicadas-por-el-senador-honorio-henriquez-con-apoyo-de-la-bancada-del-centro-democratico-las-cuales-buscan-fortalecer-y-mejorar-el-sistema-de",
+          "outlet": "Senado de la República de Colombia",
+          "date": "2023-08-23",
+          "title": "Senador Honorio Henríquez y bancada del Centro Democrático radican dos proyectos de ley"
+        },
+        {
+          "url": "https://seguimiento.co/colombia/el-samario-honorio-henriquez-es-el-nuevo-primer-vicepresidente-del-senado-27336",
+          "outlet": "Seguimiento.co",
+          "date": "2019-07-21",
+          "title": "El samario Honorio Henríquez es el nuevo vicepresidente del Senado"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-honorio-miguel-henriquez-pinedo/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Honorio Miguel Henríquez Pinedo"
         }
       ],
       "confidence": "medium",
@@ -3045,7 +3471,7 @@
       "nationalist-conservatism",
       "fiscal-conservatism"
     ],
-    "bio": "Honorio Miguel Henríquez Pinedo es abogado y político colombiano, senador de la República por el Centro Democrático desde 2022. Desde 2023 es el presidente del Centro Democrático, partido fundado por Álvaro Uribe Vélez. Representa al ala conservadora del uribismo en el Congreso.",
+    "bio": "Honorio Miguel Henríquez Pinedo (Santa Marta, Magdalena, 24 de julio de 1971) es un abogado y político colombiano. Se graduó como abogado en la Universidad de la Sabana y cuenta con una especialización en Opinión Pública y Mercadeo Político de la Pontificia Universidad Javeriana, además de estudios en seguridad y defensa nacional en la Escuela Superior de Guerra. Antes de su carrera legislativa se desempeñó en el sector público; entre otros cargos fue director nacional de la Escuela Superior de Administración Pública (ESAP). Es senador de la República por el partido Centro Democrático, colectividad fundada por Álvaro Uribe Vélez. Según los registros de Congreso Visible, ha ejercido como senador en los periodos 2018-2022 y 2022-2026, y diversas fuentes reseñan su vinculación al Senado desde 2014. En el Congreso ha integrado la Comisión Séptima, encargada de asuntos como salud, trabajo y seguridad social. A lo largo de su trayectoria ha integrado la mesa directiva del Senado como vicepresidente, en representación de su colectividad. En su actividad legislativa ha promovido y respaldado iniciativas en materia de salud, empleo y pensiones, y ha figurado entre los voceros de su bancada frente a las reformas presentadas por el Gobierno nacional. Continúa ejerciendo su curul en el Senado dentro del periodo 2022-2026.",
     "incoherences": [
       {
         "id": "henriquez-costa-caribe-votos-sociales",
@@ -3106,7 +3532,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -3163,7 +3589,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Humberto de la Calle Lombana, de Verde Oxígeno, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -3188,7 +3614,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Posición evidenciada de Humberto de la Calle Lombana, derivada de su trayectoria política, afiliación a Verde Oxígeno y registro público disponible. Mejor descrita como «Liberalismo social». Posición derivada de su trayectoria pública y afiliación; evidencia parcial. Una auditoría sistemática de votaciones (CongresoVisible) y decretos profundizará esta ubicación.",
       "sources": [
@@ -3209,6 +3635,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/humberto-de-la-calle-lombana/25136/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Humberto de la Calle Lombana | Perfil congresista"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Humberto_De_la_Calle",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Humberto De la Calle"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/02/02/humberto-de-la-calle-renuncio-a-su-curul-en-el-senado-y-revelo-su-nuevo-rumbo-ser-presidente-no-es-la-unica-forma-de-hacer-politica/",
+          "outlet": "Infobae",
+          "date": "2025-02-02",
+          "title": "Humberto de la Calle renunció a su curul en el Senado y reveló su nuevo rumbo"
+        },
+        {
+          "url": "https://www.voanews.com/a/colombia-farc-peace-deal-humberto-de-la-calle/3516926.html",
+          "outlet": "Voice of America",
+          "date": "2016-09-26",
+          "title": "Once Little Known, Colombia's Peacemaker Hailed as Hero"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/congreso/leon-fredy-munoz-presento-su-carta-de-renuncia-para-asumir-la-curul-que-dejo-el-senador-humberto-de-la-calle-3422879",
+          "outlet": "El Tiempo",
+          "date": "2025-01-31",
+          "title": "León Fredy Muñoz presentó su carta de renuncia para asumir la curul que dejó el senador Humberto de la Calle"
         }
       ],
       "confidence": "medium",
@@ -3228,7 +3684,7 @@
       "social-democracy",
       "progressivism"
     ],
-    "bio": "Humberto de la Calle Lombana es abogado, académico y político colombiano. Fue Ministro de Gobierno (1993-1994), Vicepresidente de la República (1994-1996), Ministro del Interior (2000), embajador en España y Reino Unido, magistrado de la Corte Constitucional, y jefe negociador del gobierno Santos en el proceso de paz con las FARC en La Habana (2012-2016). Fue candidato presidencial en 2018 y es senador por el Nuevo Liberalismo desde 2022.",
+    "bio": "Humberto de la Calle Lombana (Manzanares, Caldas, 14 de julio de 1946) es un abogado, académico, diplomático y político colombiano. Se graduó como abogado en la Universidad de Caldas, de la que fue decano de la Facultad de Derecho, y amplió su formación en derecho internacional. Inició su carrera pública en Caldas y luego desempeñó cargos en el Estado como magistrado de la Corte Suprema de Justicia y registrador nacional del Estado Civil. Durante el gobierno de César Gaviria fue ministro de Gobierno (1990-1993) y participó en el proceso de la Asamblea Nacional Constituyente que dio origen a la Constitución de 1991. Fue elegido vicepresidente de la República en la fórmula de Ernesto Samper (1994) y renunció en 1996 en el contexto del llamado proceso 8.000. Posteriormente fue embajador en España y en el Reino Unido, ministro del Interior (2000) y representante ante la Organización de los Estados Americanos. En octubre de 2012, el presidente Juan Manuel Santos lo designó jefe del equipo negociador del Gobierno en los diálogos de paz con las FARC en La Habana, que culminaron con la firma del Acuerdo Final en 2016. Fue candidato presidencial en 2018. En 2022 fue elegido senador de la República por el partido Verde Oxígeno. El 27 de enero de 2025 anunció su renuncia a la curul; fue reemplazado por León Fredy Muñoz a comienzos de febrero de 2025.",
     "incoherences": [
       {
         "id": "delacalle-paz-constructor-voto-blanco-2018",
@@ -3318,7 +3774,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -3421,6 +3877,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Isabel_Zuleta",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Isabel Zuleta"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/isabel-cristina-zuleta-lopez/27905/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Isabel Cristina Zuleta López | Perfil congresista"
+        },
+        {
+          "url": "https://www.senado.gov.co/index.php/component/sppagebuilder/?view=page&id=5154",
+          "outlet": "Senado de la República de Colombia",
+          "date": "2026-06-22",
+          "title": "Isabel Cristina Zuleta López"
+        },
+        {
+          "url": "https://isabelzuleta.com/sobre-mi/",
+          "outlet": "Sitio oficial de Isabel Cristina Zuleta López",
+          "date": "2026-06-22",
+          "title": "Sobre mí"
+        },
+        {
+          "url": "https://www.eltiempo.com/elecciones-2022/isabel-zuleta-quien-es-la-senadora-electa-del-pacto-historico-670878",
+          "outlet": "El Tiempo",
+          "date": "2022-05-09",
+          "title": "Isabel Zuleta: quién es la senadora electa del Pacto Histórico"
         }
       ],
       "confidence": "medium",
@@ -3440,7 +3926,7 @@
       "eco-socialism",
       "progressivism"
     ],
-    "bio": "Isabel Cristina Zuleta López es socióloga, activista ambiental y política colombiana, senadora de la República desde 2022 por el Pacto Histórico. Es una de las voceras históricas del Movimiento Ríos Vivos Antioquia, que ha documentado durante más de una década los impactos sociales y ambientales del proyecto Hidroituango. Es una de las voces más visibles del eco-socialismo colombiano en el Congreso.",
+    "bio": "Isabel Cristina Zuleta López (Ituango, Antioquia, 12 de abril de 1982) es socióloga, activista ambiental y política colombiana. Estudió sociología en la Universidad de Antioquia e historia en la Universidad Nacional de Colombia, y orientó buena parte de su trayectoria a la defensa del agua, el territorio y los derechos humanos en las comunidades del cañón del río Cauca. Es una de las voceras del Movimiento Ríos Vivos Antioquia, organización que ha documentado durante más de una década los impactos sociales y ambientales del proyecto hidroeléctrico Hidroituango y que ha acompañado a pescadores, campesinos y habitantes de las zonas afectadas. Como lideresa social fue reconocida con el Premio Nacional a la Defensa de los Derechos Humanos en Colombia en 2018. En las elecciones legislativas de 2022 fue elegida senadora de la República por la coalición Pacto Histórico, con aval de Colombia Humana, y se posesionó el 20 de julio de 2022 para el periodo 2022-2026. En el Senado ha integrado la Comisión Quinta Constitucional, que tramita asuntos ambientales, mineros y agropecuarios, y ha participado en instancias legislativas vinculadas a comunidades afrodescendientes. Su gestión se ha centrado en temas ambientales, de minería y de defensa de poblaciones rurales, posición desde la cual se la asocia con corrientes ecosocialistas dentro del Congreso. Su actividad pública ha sido objeto de debate político en medios de comunicación. Continúa ejerciendo como senadora.",
     "incoherences": [
       {
         "id": "zuleta-movimiento-rios-vivos-pactos",
@@ -3530,7 +4016,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -3638,6 +4124,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Iv%C3%A1n_Cepeda",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Iván Cepeda"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/ivan-cepeda-castro/2395/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Iván Cepeda Castro | Perfil congresista"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/quien-es-ivan-cepeda-castro-el-hombre-que-busca-que-la-izquierda-siga-en-la-casa-de-narino-perfil-3560997",
+          "outlet": "El Tiempo",
+          "date": "2026-05-31",
+          "title": "¿Quién es Iván Cepeda Castro, el hombre que busca que la izquierda siga en la Casa de Nariño?"
+        },
+        {
+          "url": "https://www.semana.com/politica/articulo/quien-es-ivan-cepeda-biografia-trayectoria-profesional-y-politica-del-candidato-a-la-presidencia-de-colombia/202620/",
+          "outlet": "Semana",
+          "date": "2026-05-31",
+          "title": "¿Quién es Iván Cepeda? Biografía, trayectoria profesional y política del candidato a la presidencia de Colombia"
+        },
+        {
+          "url": "https://colombiareports.com/ivan-cepeda/",
+          "outlet": "Colombia Reports",
+          "date": "2026-06-22",
+          "title": "Ivan Cepeda"
         }
       ],
       "confidence": "high",
@@ -3656,7 +4172,7 @@
       "democratic-socialism",
       "progressivism"
     ],
-    "bio": "Iván Cepeda Castro es filósofo, defensor de derechos humanos y político colombiano, senador de la República desde 2014 por el Pacto Histórico. Es hijo del senador Manuel Cepeda Vargas (Unión Patriótica), asesinado en 1994. Ha dedicado su carrera a la defensa de víctimas del conflicto armado y al seguimiento del proceso de paz con las FARC.",
+    "bio": "Iván Cepeda Castro (Bogotá, 24 de octubre de 1962) es filósofo, defensor de derechos humanos y político colombiano. Es hijo de Manuel Cepeda Vargas, dirigente del Partido Comunista Colombiano y senador de la Unión Patriótica asesinado en 1994, y de Yira Castro. Durante su infancia y juventud vivió en el exilio en Checoslovaquia y en Cuba, y más tarde en Francia. Estudió filosofía en la Universidad de Sofía (Bulgaria) y cursó estudios de posgrado en la Universidad Católica de Lyon (Francia). Tras el asesinato de su padre creó la Fundación Manuel Cepeda Vargas y, en 2003, participó en la creación del Movimiento Nacional de Víctimas de Crímenes de Estado (Movice), del que ha sido vocero. En el plano legislativo fue representante a la Cámara por Bogotá entre 2010 y 2014 y, desde 2014, senador de la República, cargo para el que fue reelegido en 2018 y 2022; inicialmente llegó al Congreso por el Polo Democrático Alternativo y posteriormente integró el Pacto Histórico. Participó como facilitador en los diálogos con las FARC que condujeron al acuerdo de paz de 2016 y en acercamientos con el ELN. En 2007 recibió la Medalla a la Libertad Roger N. Baldwin, otorgada por la Unión Estadounidense por las Libertades Civiles. En octubre de 2025 ganó la consulta interna del Pacto Histórico y en 2026 fue su candidato a la Presidencia de Colombia, con Aida Quilcué como fórmula vicepresidencial. Pasó a la segunda vuelta de la elección presidencial, en la que resultó derrotado.",
     "incoherences": [
       {
         "id": "cepeda-ddhh-vs-silencio-venezuela",
@@ -3746,7 +4262,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -3803,7 +4319,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Iván Leonidas Name Vásquez, de Alianza Verde, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -3828,7 +4344,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -3.0,
+      "x": -3,
       "y": -4.17,
       "justification": "Posición evidenciada de Iván Leonidas Name Vásquez, derivada de su trayectoria política, afiliación a Alianza Verde y registro público disponible. Mejor descrita como «Política verde». Posición derivada de su trayectoria pública y afiliación; evidencia parcial. Una auditoría sistemática de votaciones (CongresoVisible) y decretos profundizará esta ubicación.",
       "sources": [
@@ -3849,6 +4365,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Iv%C3%A1n_Name",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Iván Name"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/ivan-leonidas-name-vasquez/2734/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Iván Leonidas Name Vásquez | Perfil congresista"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/ivan-name/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Iván Name, expresidente del Senado detenido por caso UNGRD"
+        },
+        {
+          "url": "https://www.semana.com/nacion/articulo/corrupcion-en-la-ungrd-ordenan-pruebas-en-la-demanda-que-pide-la-muerte-politica-del-senador-ivan-name/202421/",
+          "outlet": "Semana",
+          "date": "2024-08-13",
+          "title": "Corrupción en la UNGRD: ordenan pruebas en la demanda que pide la \"muerte política\" del senador Iván Name"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/07/12/equipo-de-trabajo-de-ivan-name-queda-fuera-del-congreso-tras-resolucion-administrativa/",
+          "outlet": "Infobae",
+          "date": "2025-07-12",
+          "title": "Equipo de trabajo de Iván Name queda fuera del Congreso tras resolución administrativa"
         }
       ],
       "confidence": "medium",
@@ -3867,7 +4413,7 @@
       "social-liberalism",
       "green-politics"
     ],
-    "bio": "Iván Leonidas Name Vásquez es abogado y político colombiano, senador de la República por la Alianza Verde desde 2018. Fue presidente del Senado 2023-2024. Es hijo del político verde José Name Terán. En 2024 fue imputado por la Corte Suprema de Justicia en el marco del escándalo de la UNGRD por presuntas coimas relacionadas con votaciones en el Congreso durante su período como presidente de la corporación.",
+    "bio": "Iván Leonidas Name Vásquez (Barranquilla, 18 de junio de 1957) es un abogado y político colombiano. Cursó estudios de Derecho en la Pontificia Universidad Javeriana. Pertenece a una familia con tradición en la política, vinculada al dirigente José Name Terán. Su trayectoria en cargos de elección popular comenzó en la década de 1980: fue representante a la Cámara y, posteriormente, llegó al Senado de la República, corporación a la que ingresó el 20 de julio de 2010 y en la que ha ejercido como senador por la Alianza Verde. Dentro del Senado ocupó la segunda vicepresidencia de la mesa directiva y, entre el 20 de julio de 2023 y el 20 de julio de 2024, presidió la corporación. En 2024 la Corte Suprema de Justicia abrió investigación en su contra en el marco del escándalo de la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD), por presuntas irregularidades relacionadas con votaciones y trámite de proyectos en el Congreso. El 7 de mayo de 2025 fue capturado por orden de la Corte Suprema y recluido en la cárcel La Picota de Bogotá, en un proceso por presuntos delitos de cohecho y peculado asociados al mismo caso. Al momento de su captura mantenía la condición de senador en ejercicio.",
     "incoherences": [
       {
         "id": "name-anticorrupcion-ungrd-caso",
@@ -3957,7 +4503,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -4060,6 +4606,42 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/jonathan-ferney-jota-pe-pulido-hernandez/27962/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Jonathan Ferney 'Jota Pe' Pulido Hernández - Perfil del congresista"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jota_Pe_Hern%C3%A1ndez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Jota Pe Hernández"
+        },
+        {
+          "url": "https://alianzaverde.org.co/senadores-2022-2026/jota-pe-hernandez-senador-de-la-republica",
+          "outlet": "Partido Alianza Verde",
+          "date": "2026-06-22",
+          "title": "Jonathan Ferney Pulido Hernández - Senador de la República"
+        },
+        {
+          "url": "https://www.semana.com/elecciones/articulo/jonathan-ferney-pulido-sorpresa-para-el-senado-de-la-alianza-verde-y-centro-esperanza/202206/",
+          "outlet": "Semana",
+          "date": "2022-03-14",
+          "title": "Jonathan Ferney Pulido: la sorpresa en la elección para el Senado de la Alianza Verde y Centro Esperanza"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/05/07/jota-pe-hernandez-anuncio-su-precandidatura-presidencial-para-2026-y-exigio-garantias-totales/",
+          "outlet": "Infobae",
+          "date": "2025-05-07",
+          "title": "Jota Pe Hernández anunció su precandidatura presidencial para 2026 y exigió 'garantías totales'"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/jota-pe-hernandez-lanza-oficialmente-su-aspiracion-presidencial-asegura-que-es-precandidato-por-los-verdes-3451389",
+          "outlet": "El Tiempo",
+          "date": "2025-05-07",
+          "title": "'Jota Pe Hernández' lanza oficialmente su aspiración presidencial: asegura que es precandidato por los verdes"
         }
       ],
       "confidence": "medium",
@@ -4078,7 +4660,7 @@
       "liberal-conservatism",
       "fiscal-conservatism"
     ],
-    "bio": "Jonathan Ferney Pulido Hernández, conocido como 'Jota Pe Hernández', es influencer, comunicador y político colombiano, senador de la República por la Alianza Verde desde 2022. Llegó al Congreso por el fenómeno de votos de opinión digital. Ha sido figura controversial por sus posiciones críticas del progresismo y sus tensiones internas con la bancada de la Alianza Verde. Ha anunciado aspiraciones a la Presidencia 2026.",
+    "bio": "Jonathan Ferney Pulido Hernández, conocido como 'Jota Pe' Hernández, es un comunicador, creador de contenido digital y político colombiano. Nació el 6 de enero de 1992 en Bucaramanga (Santander). Cursó estudios de comunicación social en la Universidad Pontificia Bolivariana, que no finalizó, y antes de su actividad pública trabajó como músico. Adquirió notoriedad como activista y creador de contenido en redes sociales, donde reunió audiencias de más de un millón de seguidores en distintas plataformas, comentando asuntos de actualidad política nacional. En las elecciones legislativas del 13 de marzo de 2022 fue elegido senador de la República por la coalición Alianza Verde y Centro Esperanza, en su primera candidatura electoral. Obtuvo una de las votaciones más altas del país, superando a figuras reconocidas de su coalición, hecho que la prensa describió como una de las sorpresas de esos comicios. Inició su periodo el 20 de julio de 2022 e integra la Primera Comisión Constitucional del Senado. Durante su gestión se ha caracterizado por posiciones críticas frente al gobierno de Gustavo Petro y por tensiones internas con sectores de la bancada de la Alianza Verde. En mayo de 2025 anunció oficialmente su precandidatura presidencial para las elecciones de 2026, solicitando a su colectividad garantías para el proceso de selección del candidato. Continúa ejerciendo como senador y mantiene una activa presencia en medios digitales.",
     "incoherences": [
       {
         "id": "jota-pe-independiente-verde-bancada",
@@ -4168,7 +4750,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -4272,6 +4854,30 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/jorge-enrique-robledo-castillo/77/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Jorge Enrique Robledo Castillo | Perfil congresista"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jorge_Enrique_Robledo",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Jorge Enrique Robledo"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/quien-es-jorge-enrique-robledo-623155",
+          "outlet": "El Tiempo",
+          "date": "2021-10-05",
+          "title": "Quién es Jorge Enrique Robledo, el senador que busca la Presidencia en 2022"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/jorge-enrique-robledo-castillo/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Jorge Enrique Robledo Castillo - Quién es quién"
         }
       ],
       "confidence": "medium",
@@ -4291,7 +4897,7 @@
       "social-democracy",
       "progressivism"
     ],
-    "bio": "Jorge Enrique Robledo Castillo es arquitecto y político colombiano. Fue senador de la República durante 20 años consecutivos (2002-2022), inicialmente por el MOIR y el Polo Democrático, y después como fundador del movimiento Dignidad y Compromiso tras su salida del Polo en 2019. Es reconocido por su rol en debates de control político y su oposición consistente al libre comercio, siendo una de las voces más influyentes de la izquierda democrática colombiana.",
+    "bio": "Jorge Enrique Robledo Castillo nació en Ibagué el 11 de febrero de 1950. Es arquitecto de la Universidad de los Andes y profesor universitario; dictó clases en la Facultad de Arquitectura de la Universidad Nacional, sede Manizales, durante 26 años. Recibió la Medalla al Mérito Gerardo Molina de la Universidad Nacional y obtuvo un reconocimiento en la XVII Bienal Colombiana de Arquitectura (1997) en la categoría de teoría, historia y crítica. Es autor de varios libros sobre economía y política. Vinculado al Movimiento Obrero Independiente Revolucionario (MOIR), inició su trayectoria pública como concejal de Soacha en los años setenta. Fue senador de la República de forma consecutiva entre 2002 y 2022, primero por el MOIR y el Polo Democrático Alternativo y, tras su salida del Polo, por el movimiento Dignidad, que obtuvo personería jurídica del Consejo Nacional Electoral en 2021. Durante sus mandatos se destacó por su labor de control político, con más de 150 debates en el Congreso, y por sus posturas críticas frente a los tratados de libre comercio y el modelo económico. En 2014 fue el senador más votado del país. En 2022 fue precandidato presidencial dentro de la Coalición de la Esperanza. En 2023 su movimiento se unió con el sector de Sergio Fajardo para conformar Dignidad y Compromiso.",
     "incoherences": [
       {
         "id": "robledo-oposicion-antipetro-alianzas-centro",
@@ -4381,7 +4987,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -4485,6 +5091,30 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Obdulio_Gaviria",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "José Obdulio Gaviria"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/jose-obdulio-gaviria-velez/9464/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "José Obdulio Gaviria Vélez | Perfil congresista"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/jose-obdulio-gaviria-llega-al-senado-article-479719/",
+          "outlet": "El Espectador",
+          "date": "2014-03-10",
+          "title": "José Obdulio Gaviria llega al Senado"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/05/06/exsenador-del-centro-democratico-dio-detalles-del-porque-no-han-escogido-a-su-candidato-atribuyo-la-demora-a-un-vacio-de-liderazgo/",
+          "outlet": "Infobae",
+          "date": "2025-05-06",
+          "title": "José Obdulio Gaviria atribuyó la demora en escoger candidato del Centro Democrático a un vacío de liderazgo"
         }
       ],
       "confidence": "medium",
@@ -4503,7 +5133,7 @@
       "neo-conservatism",
       "nationalist-conservatism"
     ],
-    "bio": "José Obdulio Gaviria es abogado y político colombiano, senador desde 2018 por el Centro Democrático. Cercano al expresidente Álvaro Uribe. Ha tenido participación activa en debates sobre seguridad y justicia transicional.",
+    "bio": "José Obdulio Gaviria Vélez (La Ceja, Antioquia, 29 de noviembre de 1952) es un abogado, académico y político colombiano del partido Centro Democrático. Se graduó como abogado en la Universidad Autónoma Latinoamericana y ha ejercido la docencia en varias universidades, entre ellas la del Rosario y la de Los Andes. En su juventud militó en sectores de izquierda y participó en el movimiento Firmes, antes de desplazarse hacia posiciones de derecha. Entre 2003 y 2009 se desempeñó como asesor presidencial de Álvaro Uribe Vélez, periodo en el que participó en la redacción de discursos y en la formulación de mensajes del gobierno. Es fundador de la Fundación Primero Colombia, centro de pensamiento dedicado a difundir la doctrina del uribismo, y autor de varios libros de análisis político. Llegó al Senado de la República por el Centro Democrático, partido cuya lista cerrada obtuvo una alta votación en 2014, y ejerció como senador durante los cuatrienios 2014-2018 y 2018-2022. En su labor legislativa intervino en debates sobre seguridad, justicia transicional y reforma política. Es primo del narcotraficante Pablo Escobar Gaviria, vínculo familiar señalado reiteradamente por la prensa. Tras dejar el Senado se ha mantenido como una de las voces públicas del partido; en 2025 participó en el debate interno sobre la selección del candidato presidencial del Centro Democrático para las elecciones de 2026.",
     "incoherences": [
       {
         "id": "gaviria-democracia-autoritarismo",
@@ -4593,7 +5223,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -4697,6 +5327,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/julian-gallo-cubillos/13419/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Julián Gallo Cubillos | Perfil congresista"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carlos_Antonio_Lozada",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Carlos Antonio Lozada"
+        },
+        {
+          "url": "https://www.juliangallo.co/conoceme/",
+          "outlet": "Sitio oficial de Julián Gallo",
+          "date": "2026-06-22",
+          "title": "Conóceme — Julián Gallo"
+        },
+        {
+          "url": "https://colombiacheck.com/julian-gallo-carlos-lozada",
+          "outlet": "Colombiacheck",
+          "date": "2026-06-22",
+          "title": "Julián Gallo Cubillos (Carlos Antonio Lozada)"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/proceso-de-paz/continua-su-descarrilamiento-julian-gallo-de-comunes-tras-decisiones-de-la-jep-3334344",
+          "outlet": "El Tiempo",
+          "date": "2024-04-16",
+          "title": "'Continúa su descarrilamiento': Julián Gallo, del partido Comunes, lanza nuevas críticas a la JEP"
         }
       ],
       "confidence": "medium",
@@ -4715,7 +5375,7 @@
       "democratic-socialism",
       "left-populism"
     ],
-    "bio": "Julián Gallo es político colombiano, senador desde 2018 como representante del movimiento Comunes (ex-FARC). Ha participado en debates sobre justicia transicional, reparación de víctimas y reintegración.",
+    "bio": "Julián Gallo Cubillos (Bogotá, 24 de marzo de 1961), conocido durante su etapa como guerrillero con el alias de Carlos Antonio Lozada, es un político colombiano y senador de la República. Vinculado desde joven a la militancia comunista, ingresó a las FARC-EP a finales de la década de 1970, donde permaneció cerca de 39 años; llegó a integrar el Secretariado de la organización y a coordinar estructuras urbanas. Participó como negociador en los diálogos de paz del Caguán (1999-2002) y, posteriormente, en las negociaciones de La Habana (2012-2016) con el gobierno de Juan Manuel Santos, donde fue parte de la subcomisión técnica para el fin del conflicto y firmante del Acuerdo Final de Paz. Tras la firma del acuerdo y la transformación de la antigua guerrilla en partido político, asumió como senador el 20 de julio de 2018, ocupando una de las diez curules transitorias que el Acuerdo de Paz otorgó al nuevo partido en el Congreso. Fue reelegido para el periodo 2022-2026 por el partido Comunes (antes Fuerza Alternativa Revolucionaria del Común). En el Senado ha integrado la Comisión Primera y ha trabajado en temas de justicia transicional, reincorporación de excombatientes y derechos de las víctimas. Es una voz frecuente en los debates sobre la implementación del acuerdo y ha formulado críticas públicas al funcionamiento de la Jurisdicción Especial para la Paz (JEP). Según su sitio oficial, es profesional en Ciencias Políticas. Su periodo en el Senado concluye en julio de 2026.",
     "incoherences": [
       {
         "id": "gallo-paz-reincorporacion",
@@ -4805,7 +5465,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -4869,7 +5529,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Luis Fernando Velasco Chaves, de Partido Liberal, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -4894,7 +5554,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Posición evidenciada de Luis Fernando Velasco Chaves, derivada de su trayectoria política, afiliación a Partido Liberal y registro público disponible. Mejor descrita como «Liberalismo social». Posición derivada de su trayectoria pública y afiliación; evidencia parcial. Una auditoría sistemática de votaciones (CongresoVisible) y decretos profundizará esta ubicación.",
       "sources": [
@@ -4915,6 +5575,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/luis-fernando-velasco-chaves/92/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Luis Fernando Velasco Cháves | Perfil congresista"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Luis_Fernando_Velasco",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Luis Fernando Velasco"
+        },
+        {
+          "url": "https://www.semana.com/politica/articulo/luis-fernando-velasco-el-experimentado-politico-que-llega-al-ministerio-del-interior/202325/",
+          "outlet": "Semana",
+          "date": "2023-04-26",
+          "title": "¿Quién es Luis Fernando Velasco, el nuevo ministro del Interior?"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/12/01/caso-ungrd-exministros-ricardo-bonilla-y-luis-fernando-velasco-seran-imputados-por-la-fiscalia/",
+          "outlet": "Infobae",
+          "date": "2025-12-01",
+          "title": "Por corrupción en la Ungrd, Fiscalía acusó a los exministros Ricardo Bonilla y Luis Fernando Velasco de liderar un 'pacto criminal'"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/04/30/caso-ungrd-exministro-luis-fernando-velasco-seguira-preso-tras-decision-clave-del-tribunal-superior-de-bogota/",
+          "outlet": "Infobae",
+          "date": "2026-04-30",
+          "title": "Caso Ungrd: exministro Luis Fernando Velasco seguirá preso tras decisión clave del Tribunal Superior de Bogotá"
         }
       ],
       "confidence": "medium",
@@ -4934,7 +5624,7 @@
       "social-democracy",
       "progressivism"
     ],
-    "bio": "Luis Fernando Velasco Chaves es abogado y político colombiano del Cauca. Fue representante a la Cámara (1998-2006) y senador de la República por el Partido Liberal durante cuatro períodos consecutivos (2006-2022). Ejerció como Ministro del Interior del gobierno de Gustavo Petro entre junio de 2023 y julio de 2024.",
+    "bio": "Luis Fernando Velasco Chaves (Popayán, Cauca, 18 de octubre de 1964) es abogado de la Universidad del Cauca y político colombiano, con estudios de posgrado en gobierno y administración pública. Inició su trayectoria en el Cauca, donde fue concejal de Popayán y secretario de Gobierno departamental, y participó en procesos de paz regionales. En 1992 fue elegido alcalde de Popayán. Entre 1998 y 2006 ejerció como representante a la Cámara por el Cauca durante dos períodos consecutivos, y presidió la Comisión Primera Constitucional. En 2006 fue elegido senador de la República por el Partido Liberal y se mantuvo en el Senado durante cuatro períodos consecutivos (2006-2022); en la legislatura 2015-2016 fue presidente del Senado. Tras la llegada de Gustavo Petro a la Presidencia, fue designado consejero para las Regiones en 2022 y, posteriormente, ministro del Interior, cargo que ocupó entre 2023 y julio de 2024. A partir de 2025 su nombre quedó vinculado al escándalo de corrupción en la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). El 1 de diciembre de 2025 la Fiscalía le imputó, junto con el exministro Ricardo Bonilla, delitos de concierto para delinquir agravado, interés indebido en la celebración de contratos y cohecho, cargos que no aceptó. Desde diciembre de 2025 permanece privado de la libertad, y en 2026 tribunales ratificaron la medida de aseguramiento mientras avanza el proceso judicial.",
     "incoherences": [
       {
         "id": "lfv-educacion-rural",
@@ -5024,7 +5714,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -5132,6 +5822,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/maria-fernanda-cabal-molina/7312/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "María Fernanda Cabal Molina | Perfil congresista"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Fernanda_Cabal",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "María Fernanda Cabal"
+        },
+        {
+          "url": "https://www.elpais.com.co/elecciones-2026/conozca-en-profundidad-a-maria-fernanda-cabal-precandidata-presidencial-para-el-2026-1024.html",
+          "outlet": "El País (Cali)",
+          "date": "2025-07-11",
+          "title": "Conozca en profundidad a María Fernanda Cabal, precandidata presidencial para el 2026"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/centro-democratico-defiende-seleccion-de-paloma-valencia-como-candidata-tras-senalamientos-de-irregularidades-hechos-por-jose-felix-lafaurie-3527493",
+          "outlet": "El Tiempo",
+          "date": "2026-01-27",
+          "title": "Centro Democrático defiende selección de Paloma Valencia como candidata tras señalamientos de irregularidades hechos por José Félix Lafaurie"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/12/15/centro-democratico-se-pronuncio-oficialmente-sobre-la-eleccion-de-su-candidata-presidencial-para-las-elecciones-en-2026/",
+          "outlet": "Infobae",
+          "date": "2025-12-15",
+          "title": "Centro Democrático aclaró oficialmente si María Fernanda Cabal es su candidata para las elecciones en 2026"
         }
       ],
       "confidence": "medium",
@@ -5151,7 +5871,7 @@
       "fiscal-conservatism",
       "nationalist-conservatism"
     ],
-    "bio": "María Fernanda Cabal Molina es abogada y política colombiana, senadora de la República desde 2018 por el Centro Democrático. Previamente fue representante a la Cámara por Bogotá (2014-2018). Es una de las voces más prominentes del ala conservadora del uribismo, con activa participación en debates sobre seguridad, propiedad rural y relaciones con Venezuela.",
+    "bio": "María Fernanda Cabal Molina (Cali, 8 de agosto de 1966) es politóloga y política colombiana. Se graduó en Ciencia Política en la Universidad de los Andes y cursó estudios de literatura e historia en la Fundación Ortega y Gasset, en España. Antes de su carrera legislativa se desempeñó como directora de Asuntos Internacionales de la Fiscalía General de la Nación (2005-2007) y participó en iniciativas del sector ganadero y rural. Está casada con José Félix Lafaurie, dirigente gremial. En 2014 fue elegida representante a la Cámara por Bogotá dentro de la primera lista del Centro Democrático, partido fundado por Álvaro Uribe Vélez, y ejerció el cargo hasta 2018. Ese año fue elegida senadora de la República y resultó reelegida en 2022, comicios en los que figuró entre las congresistas más votadas. En el Senado se ha destacado por su participación en debates sobre seguridad, propiedad rural, política exterior y oposición al Gobierno de Gustavo Petro. De cara a las elecciones presidenciales de 2026 se postuló para ser la candidata del Centro Democrático, en una contienda interna con Paloma Valencia y Paola Holguín. Tras la elección de Valencia como candidata en diciembre de 2025, Cabal y su esposo cuestionaron el mecanismo de selección y, en enero de 2026, anunciaron su renuncia al partido, alegando presuntas irregularidades en las encuestas internas; la dirección del Centro Democrático defendió la legitimidad del proceso.",
     "incoherences": [
       {
         "id": "cabal-libertad-empresa-vs-proteccionismo-agro",
@@ -5241,7 +5961,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -5349,6 +6069,30 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/maria-jose-pizarro-rodriguez/12582/",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2026-06-22",
+          "title": "María José Pizarro Rodríguez | Perfil congresista"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Pizarro",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "María José Pizarro"
+        },
+        {
+          "url": "https://mariajosepizarro.com/perfil/",
+          "outlet": "Sitio oficial de María José Pizarro",
+          "date": "2026-06-22",
+          "title": "Perfil - María José Pizarro"
+        },
+        {
+          "url": "https://www.radionacional.co/actualidad/personajes/quien-es-maria-jose-pizarro",
+          "outlet": "Radio Nacional de Colombia",
+          "date": "2022-08-08",
+          "title": "¿Quién es María José Pizarro, la mujer que impuso la banda presidencial a Petro?"
         }
       ],
       "confidence": "medium",
@@ -5367,7 +6111,7 @@
       "democratic-socialism",
       "progressivism"
     ],
-    "bio": "María José Pizarro Rodríguez es politóloga, artista plástica y política colombiana, senadora de la República desde 2022 por el Pacto Histórico. Es hija de Carlos Pizarro Leongómez, comandante del M-19 y candidato presidencial asesinado en 1990. Previamente fue representante a la Cámara por Bogotá (2018-2022). Es una de las voces más visibles del feminismo político en el Congreso.",
+    "bio": "María José Pizarro Rodríguez (Bogotá, 30 de marzo de 1978) es artista plástica, gestora cultural y política colombiana, senadora de la República desde 2022 por el Pacto Histórico. Es hija de Carlos Pizarro Leongómez, comandante del M-19 y candidato presidencial asesinado en 1990. Durante su infancia y juventud vivió en el exilio en países como Ecuador, Nicaragua, Francia y España; en Barcelona se formó en joyería artística en la Escola Massana (2007) y posteriormente regresó de forma definitiva a Colombia. Antes de su carrera legislativa trabajó en la Secretaría de Cultura de Bogotá y en el Centro Nacional de Memoria Histórica, vinculada a temas de memoria, derechos de las víctimas y reparación del conflicto armado. Llegó al Congreso como representante a la Cámara por Bogotá para el período 2018-2022, encabezando la Lista de la Decencia, y durante esa etapa se desempeñó como Segunda Vicepresidenta de la Cámara y copresidenta de la Comisión de Paz. Desde julio de 2022 es senadora; el 7 de agosto de 2022 impuso la banda presidencial a Gustavo Petro en su posesión, gesto poco habitual al no ser presidenta del Congreso. En el Senado ejerció como Primera Vicepresidenta (2023-2024) e integró el equipo negociador del Gobierno con el ELN. Ha impulsado iniciativas legislativas en materia de víctimas, igualdad de género y reconocimientos a víctimas del conflicto. De cara a las elecciones presidenciales de 2026 ha tenido un papel destacado en el entorno del Pacto Histórico.",
     "incoherences": [
       {
         "id": "pizarro-memoria-sectarismo",
@@ -5457,7 +6201,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -5561,6 +6305,30 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Miguel_Uribe_Turbay",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Miguel Uribe Turbay"
+        },
+        {
+          "url": "https://www.senado.gov.co/index.php/el-senado/noticias/6739-quien-fue-miguel-uribe-turbay-semblanza-del-senador-mas-votado-del-congreso",
+          "outlet": "Senado de la República de Colombia",
+          "date": "2025-08-11",
+          "title": "¿Quién fue Miguel Uribe Turbay? Semblanza del senador más votado del Congreso"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Asesinato_de_Miguel_Uribe_Turbay",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Asesinato de Miguel Uribe Turbay"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/12/30/miguel-uribe-turbay-el-magnicidio-que-estremecio-2025-y-se-sumo-a-la-historia-de-crimenes-politicos-en-colombia/",
+          "outlet": "Infobae",
+          "date": "2025-12-30",
+          "title": "Miguel Uribe Turbay, historia del magnicidio que estremeció 2025 y se sumó a la historia de crímenes políticos en Colombia"
         }
       ],
       "confidence": "medium",
@@ -5580,7 +6348,7 @@
       "neo-conservatism",
       "fiscal-conservatism"
     ],
-    "bio": "Miguel Uribe Turbay (1986-2025) fue abogado y político colombiano, senador de la República por el Centro Democrático desde 2022. Nieto del expresidente Julio César Turbay Ayala, hijo de la periodista Diana Turbay (asesinada por el Cartel de Medellín en 1991). Fue Concejal de Bogotá (2015-2016), Secretario de Gobierno de Bogotá (2016-2018) y candidato a la alcaldía de Bogotá (2019). Era precandidato presidencial para 2026. Fue víctima de un atentado el 7 de junio de 2025 durante un mitin político en Bogotá, y falleció el 11 de agosto de 2025 tras más de dos meses en cuidados intensivos.",
+    "bio": "Miguel Uribe Turbay (Bogotá, 28 de enero de 1986 - 11 de agosto de 2025) fue un abogado y político colombiano. Nieto del expresidente Julio César Turbay Ayala (1978-1982) e hijo de la periodista Diana Turbay, secuestrada por el Cartel de Medellín y fallecida en 1991 durante un operativo de rescate. Se graduó como abogado en la Universidad de los Andes, donde también cursó una maestría en Políticas Públicas, y obtuvo una maestría en Administración Pública en la Escuela de Gobierno John F. Kennedy de la Universidad de Harvard. Inició su carrera política como concejal de Bogotá, llegando a presidir el Concejo Distrital, y entre 2016 y 2018 se desempeñó como Secretario de Gobierno de Bogotá durante la alcaldía de Enrique Peñalosa. En 2019 fue candidato a la Alcaldía de Bogotá, elección en la que obtuvo más de 420.000 votos. En las elecciones legislativas de 2022 fue elegido senador de la República por el Centro Democrático con una de las votaciones más altas del Congreso, superando los 220.000 votos. En el Senado integró la Comisión Tercera. En octubre de 2024 anunció su precandidatura presidencial para las elecciones de 2026. El 7 de junio de 2025 fue víctima de un atentado armado durante un acto de campaña en el parque El Golfito, barrio Modelia, localidad de Fontibón, en Bogotá, donde recibió varios disparos. Tras más de dos meses hospitalizado en cuidados intensivos, falleció el 11 de agosto de 2025.",
     "incoherences": [
       {
         "id": "miguel-uribe-turbay-economia-2024",
@@ -5612,7 +6380,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -5716,6 +6484,42 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/nadia-georgette-blel-scaff/8467/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2025-07-01",
+          "title": "Nadia Georgette Blel Scaff | Perfil congresista"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nadia_Blel",
+          "outlet": "Wikipedia",
+          "date": "2025-12-12",
+          "title": "Nadia Blel"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/quien-es-nadia-blel-la-primera-mujer-en-la-historia-en-ser-presidenta-del-partido-conservador-3366094",
+          "outlet": "El Tiempo",
+          "date": "2024-07-26",
+          "title": "¿Quién es Nadia Blel, la primera mujer en la historia en ser presidenta del Partido Conservador?"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2024/07/25/la-senadora-nadia-blel-fue-elegida-presidenta-del-partido-conservador/",
+          "outlet": "Infobae",
+          "date": "2024-07-25",
+          "title": "La senadora Nadia Blel fue elegida presidenta del Partido Conservador"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/nadia-blel-renuncio-a-presidencia-del-partido-conservador-estas-son-las-razones-noticias-hoy/",
+          "outlet": "El Espectador",
+          "date": "2025-12-11",
+          "title": "Nadia Blel renunció a presidencia del Partido Conservador: estas son las razones"
+        },
+        {
+          "url": "https://www.partidoconservador.com/2024/07/nadia-blel-scaff-primera-mujer-presidenta-del-partido-en-sus-175-anos-de-historia/",
+          "outlet": "Partido Conservador Colombiano",
+          "date": "2024-07-25",
+          "title": "Nadia Blel Scaff, primera mujer presidenta del partido en sus 175 años de historia"
         }
       ],
       "confidence": "medium",
@@ -5734,7 +6538,7 @@
       "neo-conservatism",
       "traditionalist-conservatism"
     ],
-    "bio": "Nadia Blel es abogada y política colombiana, senadora desde 2018 por el Partido Conservador Colombiano. Ha defendido temas de seguridad, familia e identidad cristiana.",
+    "bio": "Nadia Georgette Blel Scaff (Cartagena, 11 de agosto de 1981) es abogada y política colombiana, militante del Partido Conservador Colombiano. Es abogada de la Universidad Externado de Colombia y cuenta con estudios de posgrado en ciencias jurídicas. Inició su trayectoria como concejal de Cartagena (2001-2003) y posteriormente desempeñó funciones de asesoría en la administración departamental de Bolívar. Llegó al Senado de la República en 2014 y ha sido reelegida de forma consecutiva en 2018 y 2022. En su labor legislativa ha impulsado iniciativas como la ley que inhabilita para ejercer cargos públicos a personas condenadas por delitos sexuales contra menores y normas relacionadas con la prohibición del asbesto. El 25 de julio de 2024 fue elegida presidenta del Partido Conservador Colombiano, convirtiéndose en la primera mujer en dirigir la colectividad en sus más de 175 años de historia, en reemplazo de Efraín Cepeda. En diciembre de 2025 presentó su renuncia a la presidencia del partido, argumentando su intención de competir en igualdad de condiciones como aspirante al Senado. Proviene de una familia con tradición política en el departamento de Bolívar. Continúa ejerciendo como senadora de la República.",
     "incoherences": [
       {
         "id": "blel-salud-region",
@@ -5824,7 +6628,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -5928,6 +6732,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Paloma_Valencia",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Paloma Valencia"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/paloma-valencia-laserna/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Paloma Valencia Laserna"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/este-es-el-perfil-de-paloma-valencia-senadora-caucana-filosofa-y-uribista-que-quiere-la-presidencia-de-colombia/",
+          "outlet": "El Espectador",
+          "date": "2026-04-23",
+          "title": "Este es el perfil de Paloma Valencia: senadora caucana, filósofa y uribista que quiere la Presidencia de Colombia"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/05/28/ella-es-paloma-valencia-la-senadora-mama-y-filosofa-que-quiere-ser-la-primera-mujer-presidenta-de-colombia/",
+          "outlet": "Infobae",
+          "date": "2026-05-28",
+          "title": "Ella es Paloma Valencia, la senadora, mamá y filósofa que quiere ser la primera mujer presidenta de Colombia"
+        },
+        {
+          "url": "https://www.eltiempo.com/archivo/documento/cms-15410396",
+          "outlet": "El Tiempo",
+          "date": "2015-04-22",
+          "title": "Paloma Valencia dice que se debe dividir Cauca entre indígenas y 'mestizos'"
         }
       ],
       "confidence": "medium",
@@ -5947,7 +6781,7 @@
       "liberal-conservatism",
       "fiscal-conservatism"
     ],
-    "bio": "Paloma Susana Valencia Laserna es abogada y senadora colombiana por el Centro Democrático desde 2014. Nieta del expresidente Guillermo León Valencia, es una de las figuras más visibles del uribismo contemporáneo, con activa presencia mediática como vocera de oposición. Anunció su precandidatura presidencial para 2026.",
+    "bio": "Paloma Susana Valencia Laserna (Popayán, Cauca, 1976) es abogada y filósofa de la Universidad de los Andes, con estudios de posgrado en escritura creativa en la Universidad de Nueva York. Antes de su carrera legislativa se desempeñó como columnista y docente. Proviene de una familia de larga tradición política: es nieta del expresidente Guillermo León Valencia (1962-1966) y bisnieta del poeta y político Guillermo Valencia.\n\nIniciada en la política en el Partido Conservador y luego en Alas Equipo Colombia, fue candidata a la Cámara de Representantes en 2006 sin resultar elegida. En 2014 llegó al Senado de la República por la lista cerrada del Centro Democrático encabezada por Álvaro Uribe Vélez, y ha mantenido su curul de forma ininterrumpida desde entonces, integrando la Comisión Primera Constitucional. Es una de las voceras más visibles del Centro Democrático y figura activa de la oposición durante el gobierno de Gustavo Petro.\n\nEntre las iniciativas legislativas asociadas a su gestión se mencionan la ley conocida como \"Estado Contigo\", orientada a hogares vulnerables, y la \"Escalera de la Formalidad\", sobre formalización empresarial. En 2015 generó controversia su propuesta de promover una consulta para dividir el departamento del Cauca. En diciembre de 2025 fue designada candidata presidencial del Centro Democrático y, tras ganar la consulta interpartidista de la centroderecha el 8 de marzo de 2026, fue su aspirante en las elecciones presidenciales de ese año.",
     "incoherences": [
       {
         "id": "paloma-valencia-economia-2024",
@@ -6008,7 +6842,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -6112,6 +6946,42 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/paola-andrea-holguin-moreno/9488/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Paola Andrea Holguín Moreno | Perfil congresista"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/paola-holguin-moreno/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Paola Holguín Moreno"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/senadora-paola-holguin-partido-politico-y-su-biografia-621855",
+          "outlet": "El Tiempo",
+          "date": "2026-06-22",
+          "title": "¿Quién es la senadora Paola Holguín del Centro Democrático?"
+        },
+        {
+          "url": "https://www.elheraldo.co/politica/2026/06/19/paola-holguin-renuncia-al-centro-democratico-y-a-su-curul-en-el-senado/",
+          "outlet": "El Heraldo",
+          "date": "2026-06-19",
+          "title": "Paola Holguín renuncia al Centro Democrático y a su curul en el Senado"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Paola_Holgu%C3%ADn",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Paola Holguín"
+        },
+        {
+          "url": "https://paolaholguin.com/",
+          "outlet": "Paola Holguín (sitio oficial)",
+          "date": "2026-06-22",
+          "title": "Sitio web oficial de Paola Holguín, Senadora de la República"
         }
       ],
       "confidence": "medium",
@@ -6131,7 +7001,7 @@
       "neo-conservatism",
       "traditionalist-conservatism"
     ],
-    "bio": "Paola Andrea Holguín Moreno es senadora colombiana por el Centro Democrático desde 2014 y reelecta en 2018 y 2022. Previamente fue asesora del presidente Álvaro Uribe. En 2022 fue precandidata presidencial del Centro Democrático, resultando segunda en la consulta interna ganada por Óscar Iván Zuluaga.",
+    "bio": "Paola Andrea Holguín Moreno nació en Medellín el 12 de noviembre de 1973. Es comunicadora social y periodista de la Universidad Pontificia Bolivariana, con maestría en Estudios Políticos (con énfasis en economía y desarrollo) de la misma universidad y maestría en Seguridad y Defensa Nacional de la Escuela Superior de Guerra. También realizó estudios en política y estrategia de seguridad y defensa en el Centro de Estudios Hemisféricos de Defensa de la Universidad de Defensa Nacional, en Washington. Antes de su carrera legislativa fue asesora de la Presidencia de la República durante el gobierno de Álvaro Uribe Vélez (2003-2008 y 2009-2010), encargada de asuntos políticos en la Embajada de Colombia en México (2008-2009), consultora de USAID y asesora del gobierno mexicano de Felipe Calderón (2011-2012). Es autora de la biografía \"Uribe de carne y hueso\" y compiladora de \"Del escritorio del Presidente\". Fue elegida senadora por el Centro Democrático para el periodo iniciado el 20 de julio de 2014, y reelegida en 2018 y 2022, con votación concentrada principalmente en Antioquia. En 2021 fue precandidata presidencial del Centro Democrático y, tras el proceso interno del partido, declinó su aspiración en favor de Óscar Iván Zuluaga. Posteriormente volvió a figurar como precandidata presidencial de cara a 2026. El 19 de junio de 2026 anunció su renuncia al Centro Democrático y a su curul en el Senado, en medio de diferencias internas relacionadas con la campaña presidencial del partido.",
     "incoherences": [
       {
         "id": "paola-holguin-seguridad-2024",
@@ -6192,7 +7062,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -6250,7 +7120,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Roy Aurelio Barreras Montaño, de Pacto Histórico, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -6275,7 +7145,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": -9.0,
+      "x": -9,
       "y": 0.83,
       "justification": "Posición evidenciada de Roy Aurelio Barreras Montaño, derivada de su trayectoria política, afiliación a Pacto Histórico y registro público disponible. Mejor descrita como «Populismo de izquierda». Posición derivada de su trayectoria pública y afiliación; evidencia parcial. Una auditoría sistemática de votaciones (CongresoVisible) y decretos profundizará esta ubicación.",
       "sources": [
@@ -6296,6 +7166,30 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Roy_Barreras",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Roy Barreras"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/roy-leonardo-barreras-montealegre/112/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Roy Leonardo Barreras Montealegre | Perfil congresista"
+        },
+        {
+          "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/quien-es-roy-barreras-es-de-izquierda-o-derecha-cargos-politicos-trayectoria-y-hoja-de-vida/",
+          "outlet": "El Espectador",
+          "date": "2026-04-20",
+          "title": "¿Quién es Roy Barreras? Cargos políticos, trayectoria y hoja de vida"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/frente-por-la-vida/roy-barreras-quien-es-el-operador-politico-que-ira-a-primera-vuelta-con-bandera-moderada-del-progresismo-3538488",
+          "outlet": "El Tiempo",
+          "date": "2026-03-08",
+          "title": "¿Quién es Roy Barreras, el operador político que irá a primera vuelta con bandera moderada del progresismo?"
         }
       ],
       "confidence": "medium",
@@ -6315,7 +7209,7 @@
       "progressivism",
       "left-populism"
     ],
-    "bio": "Roy Barreras es abogado y político colombiano, senador de la República desde 2018. Miembro del Pacto Histórico y anteriormente del Polo Democrático. Ha sido vocal en debates sobre derechos humanos, reforma laboral y procesos de paz. Candidato presidencial en 2022.",
+    "bio": "Roy Leonardo Barreras Montealegre (27 de noviembre de 1963) es un médico cirujano y político colombiano. Se graduó como médico de la Universidad Nacional de Colombia en 1987 y ejerció la profesión durante varios años antes de dedicarse a la política, con estudios posteriores en áreas como administración, derecho público y derechos humanos. Inició su carrera legislativa como representante a la Cámara por el Valle del Cauca (2006-2010) y luego fue senador de la República de forma continua entre 2010 y 2023. A lo largo de su trayectoria militó en distintas colectividades, entre ellas el Partido Liberal, Cambio Radical y el Partido de la U, y desde 2021-2022 se integró al Pacto Histórico, coalición con la que respaldó la candidatura presidencial de Gustavo Petro. Ejerció como presidente del Senado en los periodos 2012-2013 y 2022-2023. Participó como negociador en el proceso de paz con las FARC y promovió iniciativas legislativas en materia de paz, derechos humanos y reformas sociales. En 2022 fue precandidato presidencial. En mayo de 2023 el Consejo de Estado anuló su elección como senador por doble militancia. Posteriormente se desempeñó como embajador de Colombia ante el Reino Unido (2023-2025). De cara a las elecciones de 2026 retomó la actividad electoral como aspirante presidencial tras participar en consultas interpartidistas.",
     "incoherences": [
       {
         "id": "barreras-paz-pragmatismo",
@@ -6405,7 +7299,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -6463,7 +7357,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Temístocles Ortega García, de Cambio Radical, se presenta públicamente alineado con «Liberalismo social», según su discurso, plataforma y afiliación. Esta es su posición autopercibida —lo que declara ser— y no necesariamente coincide con la evidenciada por sus acciones.",
       "sources": [
@@ -6488,7 +7382,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Posición evidenciada de Temístocles Ortega García, derivada de su trayectoria política, afiliación a Cambio Radical y registro público disponible. Mejor descrita como «Liberalismo social». Posición derivada de su trayectoria pública y afiliación; evidencia parcial. Una auditoría sistemática de votaciones (CongresoVisible) y decretos profundizará esta ubicación.",
       "sources": [
@@ -6509,6 +7403,36 @@
           "title": "Contraloría General de la República",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/perfil-de-temistocles-ortega-el-senador-que-se-le-enfrento-a-duque-350004",
+          "outlet": "El Tiempo",
+          "date": "2019-04-15",
+          "title": "Perfil de Temístocles Ortega: el senador que se le enfrentó a Duque"
+        },
+        {
+          "url": "https://www.semana.com/confidenciales/articulo/temistocles-ortega-el-senador-que-reemplazo-a-david-luna-ya-se-posesiono-hay-expectativa-en-cambio-radical-porque-es-cercano-a-petro/202510/",
+          "outlet": "Semana",
+          "date": "2025-02-03",
+          "title": "Temístocles Ortega, el senador que reemplazó a David Luna, ya se posesionó"
+        },
+        {
+          "url": "https://www.asuntoslegales.com.co/actualidad/temistocles-ortega-fue-posicionado-como-el-nuevo-senador-en-la-curul-de-cambio-radical-4052961",
+          "outlet": "Asuntos Legales",
+          "date": "2025-02-03",
+          "title": "Temístocles Ortega es nuevo senador de Cambio Radical tras tomar la curul de Luna"
+        },
+        {
+          "url": "https://www.lafm.com.co/politica/quien-es-temistocles-ortega-el-senador-que-se-salvo-de-un-atentado-en-via-cali-popayan-382582",
+          "outlet": "La FM",
+          "date": "2025-11-14",
+          "title": "¿Quién es Temístocles Ortega, senador que se salvó de atentado en la vía Cali-Popayán?"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/temistocles-ortega-defiende-su-independencia-tras-llegar-al-senado-ND26527974",
+          "outlet": "El Colombiano",
+          "date": "2025-02-04",
+          "title": "\"Una oposición ciega y cerrada no es útil\": senador Temístocles Ortega, de Cambio Radical"
         }
       ],
       "confidence": "medium",
@@ -6527,7 +7451,7 @@
       "social-liberalism",
       "third-way"
     ],
-    "bio": "Temístocles Ortega es abogado y político colombiano, senador desde 2018 por Cambio Radical. Ha participado en debates sobre reforma política y gobernanza.",
+    "bio": "Temístocles Ortega García es un abogado y político colombiano nacido en Mercaderes, Cauca. Estudió Derecho en la Universidad del Cauca y cuenta con estudios de especialización en gestión, gobierno y asuntos públicos. A lo largo de su carrera ha ocupado cargos en la administración pública departamental, entre ellos secretarías municipales y la Secretaría de Educación, y fue magistrado de la Sala Jurisdiccional Disciplinaria del Consejo Superior de la Judicatura. Fue gobernador del Cauca en dos periodos: 1992-1995 y 2012-2015. Inició su trayectoria política en sectores liberales y posteriormente se integró a Cambio Radical. El 3 de febrero de 2025 se posesionó como senador de la República por Cambio Radical, ocupando la curul que dejó vacante David Luna tras su renuncia. Su llegada generó atención porque, pese a que el partido se mantenía en la oposición al gobierno de Gustavo Petro, Ortega se desempeñó como embajador de Colombia en Chile durante esa administración. En noviembre de 2025 denunció haber sido víctima de un ataque armado contra su vehículo en la vía entre Cali y Popayán, del que resultó ileso. Ortega también ha sido objeto de investigaciones judiciales relacionadas con su gestión como gobernador, incluido un proceso ante la Corte Suprema de Justicia. Su periodo como senador está previsto hasta el 20 de julio de 2026.",
     "incoherences": [
       {
         "id": "temistocles-ortega-democracia-2024",
@@ -6588,7 +7512,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -6692,6 +7616,36 @@
           "title": "Contraloría General",
           "outlet": "Contraloría.gov.co",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Wilson_Arias",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Wilson Arias"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/wilson-neber-arias-castillo/2533/",
+          "outlet": "Congreso Visible",
+          "date": "2026-06-22",
+          "title": "Wilson Neber Arias Castillo - Perfil congresista"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/wilson-arias-castillo/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Wilson Neber Arias Castillo - Quién es quién"
+        },
+        {
+          "url": "https://colombiacheck.com/wilson-arias-castillo",
+          "outlet": "Colombiacheck",
+          "date": "2026-06-22",
+          "title": "Wilson Arias Castillo"
+        },
+        {
+          "url": "https://www.elpais.com.co/elecciones/estos-son-los-senadores-por-el-valle-del-cauca-pato-historico-aumenta-sus-curules-0816.html",
+          "outlet": "El País (Cali)",
+          "date": "2026-03-09",
+          "title": "Estos son los senadores elegidos por el Valle del Cauca: Pacto Histórico aumenta sus curules"
         }
       ],
       "confidence": "medium",
@@ -6710,7 +7664,7 @@
       "democratic-socialism",
       "progressivism"
     ],
-    "bio": "Wilson Arias es agrimensor y político colombiano, senador desde 2018. Representante de Caquetá en debates sobre política ambiental, derechos indígenas y economía rural. Miembro del Pacto Histórico.",
+    "bio": "Wilson Neber Arias Castillo (Cali, 17 de diciembre de 1962) es dirigente sindical y político colombiano. Se formó en el Servicio Nacional de Aprendizaje (SENA), con orientación técnica en el área electromecánica, y desarrolló buena parte de su trayectoria en el sindicalismo: fue presidente de SINDESENA e integrante de comités ejecutivos de la Central Unitaria de Trabajadores (CUT). Inició su carrera de elección popular como concejal de Cali (2008-2009) y luego fue representante a la Cámara por el Valle del Cauca (2010-2014). En la Cámara adelantó debates e investigaciones sobre la concentración y adquisición de tierras en departamentos como Vichada y Meta. Desde 2018 es senador de la República. Inicialmente llegó al Senado por el Polo Democrático Alternativo y posteriormente se integró al Pacto Histórico, coalición por la que ejerció en el período 2022-2026. En el Congreso ha centrado su trabajo legislativo en temas de tierras, economía rural, política ambiental, derechos laborales y vigilancia fiscal, manteniendo vínculos con movimientos sociales, sindicales, estudiantiles y de pensionados. En las elecciones legislativas de marzo de 2026 fue reelegido senador por el Valle del Cauca en representación del Pacto Histórico para el período 2026-2030.",
     "incoherences": [
       {
         "id": "arias-mineria-transicion",
@@ -6800,7 +7754,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-29",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],

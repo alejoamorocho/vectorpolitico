@@ -53,6 +53,36 @@
           "title": "Registro de Votos y Producción Legislativa",
           "outlet": "Cámara de Representantes",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/luvi-katherine-miranda-pena/",
+          "outlet": "Cámara de Representantes de Colombia",
+          "date": "2026-06-22",
+          "title": "Luvi Katherine Miranda Peña - perfil oficial"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/luvi-katherine-miranda-pena/13162/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Luvi Katherine Miranda Peña | Perfil congresista"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Katherine_Miranda",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Katherine Miranda"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/katherine-miranda-pena/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Luvi Katherine Miranda Peña - Quién es quién"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/katherine-miranda-representante-a-la-camara-del-partido-verde-hablo-tras-quemarse-en-las-elecciones-de-este-8-de-marzo-nada-vale-mas-que-la-conciencia-3538710",
+          "outlet": "El Tiempo",
+          "date": "2026-03-09",
+          "title": "Katherine Miranda habló tras las elecciones del 8 de marzo"
         }
       ],
       "confidence": "medium",
@@ -72,7 +102,7 @@
       "green-politics",
       "social-liberalism"
     ],
-    "bio": "Katherine Miranda Peña es administradora de empresas y política colombiana, representante a la Cámara por Bogotá desde 2018 por la Alianza Verde. Es una de las voces visibles del progresismo independiente en el Congreso, crítica del gobierno Petro desde posiciones verdes.",
+    "bio": "Luvi Katherine Miranda Peña (Bogotá, 14 de diciembre de 1985) es politóloga y política colombiana. Es egresada de Ciencia Política de la Universidad del Rosario y cursó una especialización en Cultura de Paz, Cohesión Social y Diálogo Intercultural en la Universidad de Barcelona. Inició su actividad pública en movimientos ciudadanos: participó en la campaña presidencial de Antanas Mockus y en la \"Ola Verde\" en 2010, y se desempeñó como coordinadora de la Unidad de Trabajo Legislativo del senador John Sudarsky entre 2010 y 2014. En 2016, tras el plebiscito sobre los acuerdos de paz, impulsó el \"Campamento por la Paz\" en la Plaza de Bolívar de Bogotá. Fue elegida representante a la Cámara por la circunscripción de Bogotá por el partido Alianza Verde para el periodo 2018-2022 y reelegida para el periodo 2022-2026. Durante su gestión integró la Comisión Tercera Constitucional Permanente (Hacienda y Crédito Público), así como la Comisión Legal de Cuentas y la Comisión Legal de Investigación y Acusación, y participó en comisiones accidentales sobre paz, juventud y movilidad. En las elecciones legislativas del 8 de marzo de 2026 aspiró al Senado, sin alcanzar una curul tras obtener cerca de 30.000 votos. Concluyó así dos periodos consecutivos como representante a la Cámara por Bogotá.",
     "incoherences": [
       {
         "id": "miranda-independencia-alianza-verde-rupturas",
@@ -160,7 +190,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -256,6 +286,36 @@
           "title": "Registro de Votos y Producción Legislativa",
           "outlet": "Cámara de Representantes",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/alirio-uribe-munoz/",
+          "outlet": "Cámara de Representantes de Colombia",
+          "date": "2026-06-22",
+          "title": "Alirio Uribe Muñoz - Perfil de Representante"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alirio_Uribe_Mu%C3%B1oz",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Alirio Uribe Muñoz"
+        },
+        {
+          "url": "https://www.infobae.com/america/colombia/2021/12/09/quien-es-alirio-uribe-la-cabeza-de-lista-del-pacto-historico-en-bogota/",
+          "outlet": "Infobae",
+          "date": "2021-12-09",
+          "title": "Quién es Alirio Uribe, la cabeza de lista del Pacto Histórico en Bogotá"
+        },
+        {
+          "url": "https://www.semana.com/politica/articulo/representante-alirio-uribe-del-pacto-historico-recusado-para-investigar-a-gustavo-petro-en-la-comision-de-acusacion-de-la-camara/202422/",
+          "outlet": "Semana",
+          "date": "2024-10-30",
+          "title": "El representante Alirio Uribe, del Pacto Histórico, recusado para investigar a Gustavo Petro en la Comisión de Investigación y Acusación de la Cámara"
+        },
+        {
+          "url": "https://www.colectivodeabogados.org/defensoras-y-defensores-de-derechos-humanos-fueron-condecorados-por-el-congreso-de-la-republica-por-su-aporte-a-la-justicia-verdad-y-democracia-en-colombia/",
+          "outlet": "Colectivo de Abogados José Alvear Restrepo (CAJAR)",
+          "date": "2026-06-22",
+          "title": "Defensoras y defensores de derechos humanos fueron condecorados por el Congreso de la República"
         }
       ],
       "confidence": "medium",
@@ -274,7 +334,7 @@
       "democratic-socialism",
       "progressivism"
     ],
-    "bio": "Alirio Uribe Muñoz es abogado defensor de derechos humanos y político colombiano, representante a la Cámara por Bogotá en dos períodos (2014-2018 y 2022-actual) por el Pacto Histórico. Es miembro del Colectivo de Abogados José Alvear Restrepo (CAJAR), una de las organizaciones de derechos humanos más emblemáticas del país, desde hace más de tres décadas.",
+    "bio": "Alirio Uribe Muñoz (Bucaramanga, Santander, 28 de noviembre de 1960) es abogado y político colombiano, representante a la Cámara por Bogotá. Estudió Derecho en la Universidad Católica de Colombia, con especialización en Derecho Laboral y Relaciones Industriales en la Universidad Externado de Colombia y en Derechos Humanos en la Escuela Superior de Administración Pública (ESAP). A finales de la década de 1990 ingresó al Colectivo de Abogados José Alvear Restrepo (CAJAR), una de las organizaciones de derechos humanos más reconocidas del país, que dirigió durante varios años y donde acompañó casos como los del humorista Jaime Garzón y el senador Manuel Cepeda Vargas. Entre 1998 y 2006 fue vicepresidente de la Federación Internacional de Derechos Humanos (FIDH). En 2003 recibió el Premio Martin Ennals para defensores de derechos humanos. En 2014 fue elegido representante a la Cámara por Bogotá por el Polo Democrático Alternativo, cargo que ejerció hasta 2018. En las elecciones de 2022 regresó a la Cámara como cabeza de lista por Bogotá dentro de la coalición Pacto Histórico, para el periodo constitucional 2022-2026. En el Congreso integra la Comisión Primera Constitucional Permanente, encargada de asuntos constitucionales, derechos y reforma política.",
     "incoherences": [
       {
         "id": "alirio-uribe-ddhh-cjl-disciplina-bancada",
@@ -362,7 +422,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -438,7 +498,7 @@
       ]
     },
     "compassEvidenced": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
       "justification": "Análisis metodológico del proyecto: Juvinao fue vocera principal de la reforma política 2022-2023, de acuerdo a registro en Cámara de Representantes. Como representante por Bogotá desde 2022, ha participado en iniciativas legislativas sobre transparencia, equidad de género y reforma al Congreso, documentadas en CongresoVisible. Su posición crítica independiente frente al gobierno Petro se evidencia en sus votos y participación en debates sobre reformas estructurales registrados en actas de la Cámara. Con énfasis en democracia radical, anticorrupción y derechos civiles, su posición se confirma como progresista de centro-izquierda con fuerte componente libertario (control institucional).",
       "sources": [
@@ -453,6 +513,36 @@
           "title": "Registro de Votos y Producción Legislativa",
           "outlet": "Cámara de Representantes",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/catherine-juvinao-clavijo/",
+          "outlet": "Cámara de Representantes de Colombia",
+          "date": "2026-06-22",
+          "title": "Catherine Juvinao Clavijo - Perfil oficial"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/catherine-juvinao-clavijo/28005/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Catherine Juvinao Clavijo | Perfil de congresista"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-catherine-juvinao-clavijo/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Catherine Juvinao Clavijo"
+        },
+        {
+          "url": "https://www.alianzaverde.org.co/liderando-congreso/las-congresistas-catherine-juvinao-y-angelica-lozano-radican-proyecto-para-fortalecer-la-rendicion-de-cuentas-de-congresistas",
+          "outlet": "Partido Alianza Verde",
+          "date": "2026-06-22",
+          "title": "Catherine Juvinao y Angélica Lozano radican proyecto para fortalecer la rendición de cuentas de congresistas"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/no-hablo-de-promesas-ya-les-cumpli-a-mis-electores-cathy-juvinao-representante-y-candidata-a-la-camara-por-bogota-3537348",
+          "outlet": "El Tiempo",
+          "date": "2026-03-04",
+          "title": "'No hablo de promesas, ya les cumplí a mis electores': Cathy Juvinao, representante y candidata a la Cámara por Bogotá"
         }
       ],
       "confidence": "low",
@@ -472,7 +562,7 @@
       "green-politics",
       "social-liberalism"
     ],
-    "bio": "Catherine Juvinao Clavijo es politóloga colombiana, representante a la Cámara por Bogotá desde 2022 por la Alianza Verde. Es vocera principal de los impulsos de reforma política y transparencia en el Congreso. Figura emergente del progresismo independiente.",
+    "bio": "Catherine Juvinao Clavijo nació el 14 de mayo de 1983 en La Paz (Cesar) y se crió entre Santa Marta y Barranquilla. Es comunicadora social y periodista egresada de la Universidad del Norte (2005) y magíster en Estudios Políticos de la Pontificia Universidad Javeriana (2016). Antes de su paso al Congreso trabajó como periodista —entre otros espacios, en La Luciérnaga de Caracol Radio— y como consultora en comunicación estratégica y política. Fue fundadora de la iniciativa ciudadana de veeduría al Congreso \"¡Trabajen Vagos!\". En las elecciones legislativas de 2022 fue elegida representante a la Cámara por la circunscripción de Bogotá por el Partido Alianza Verde, con 45.882 votos, para el periodo constitucional 2022-2026, e integra la Comisión Primera Constitucional. En su gestión ha impulsado iniciativas en materia de transparencia y rendición de cuentas del Congreso, incluyendo un proyecto de ley estatutaria radicado junto con la senadora Angélica Lozano para crear un sistema integral de rendición de cuentas de las corporaciones públicas, así como propuestas sobre el receso legislativo y la regulación del cabildeo. Figura como autora y coautora de numerosos proyectos de ley y ha participado en debates sobre las reformas pensional y política del Gobierno. En 2026 se presentó como candidata a la reelección a la Cámara por Bogotá.",
     "incoherences": [
       {
         "id": "juvinao-alianza-verde-independencia-tono",
@@ -560,7 +650,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -651,6 +741,36 @@
           "title": "Registro de Votos y Producción Legislativa",
           "outlet": "Cámara de Representantes",
           "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/jennifer-dalley-pedraza-sandoval/",
+          "outlet": "Cámara de Representantes de Colombia",
+          "date": "2026-06-22",
+          "title": "Jennifer Dalley Pedraza Sandoval - perfil oficial"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Jennifer_Pedraza",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Jennifer Pedraza"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/jennifer-dalley-pedraza-saldoval/28019/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Jennifer Dalley Pedraza Sandoval - perfil congresista"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-jennifer-dalley-pedraza-sandoval/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Jennifer Dalley Pedraza Sandoval"
+        },
+        {
+          "url": "https://congresoalamano.elespectador.com/congresista-perfil/140/",
+          "outlet": "El Espectador (Congreso a la Mano)",
+          "date": "2026-06-22",
+          "title": "Jennifer Dalley Pedraza Sandoval - biografía y votaciones"
         }
       ],
       "confidence": "low",
@@ -670,7 +790,7 @@
       "social-democracy",
       "progressivism"
     ],
-    "bio": "Jennifer Dalley Pedraza Sandoval es politóloga y política colombiana, representante a la Cámara por Bogotá desde 2022 por el movimiento Dignidad y Compromiso. Fue vocera de la Unión Nacional de Estudiantes de Educación Superior (UNEES) durante el Paro Nacional Estudiantil 2018 y durante el Paro Nacional 2019-2021.",
+    "bio": "Jennifer Dalley Pedraza Sandoval (Floridablanca, Santander, 14 de febrero de 1996) es economista y política colombiana. Estudió Economía en la Universidad Nacional de Colombia, sede Bogotá, donde también cursó una maestría en Ciencias Económicas con beca. Inició su trayectoria pública en el movimiento estudiantil: fue representante estudiantil ante el Consejo Superior Universitario de la Universidad Nacional y vocera de organizaciones estudiantiles durante el Paro Nacional Estudiantil de 2018 y las movilizaciones de 2019 a 2021, en las que participó en instancias del Comité Nacional de Paro. En las elecciones legislativas de 2022 fue elegida representante a la Cámara por la circunscripción de Bogotá con 22.809 votos, en la lista del movimiento Dignidad y Compromiso dentro de la Coalición Centro Esperanza, e inició su periodo el 20 de julio de 2022. En la Cámara integró la Comisión Primera Constitucional Permanente y orientó su agenda legislativa hacia la financiación de la educación superior pública, la participación de la juventud y la prevención de la violencia contra las mujeres y las niñas. Fue reconocida por el diario El Tiempo como una de las mejores representantes a la Cámara en 2024. En las elecciones legislativas del 8 de marzo de 2026 fue elegida senadora de la República por la coalición Ahora Colombia, con más de 78.000 votos.",
     "incoherences": [
       {
         "id": "pedraza-juventud-estudiantil-alianzas",
@@ -758,7 +878,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -849,6 +969,36 @@
           "title": "Actividad legislativa representante Becerra",
           "outlet": "Cámara de Representantes",
           "date": "2024-06-01"
+        },
+        {
+          "url": "https://www.camara.gov.co/representantes/gabriel-becerra-yanez/",
+          "outlet": "Cámara de Representantes de Colombia",
+          "date": "2026-06-22",
+          "title": "Gabriel Becerra Yáñez - Perfil oficial"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/congresistas/perfil/gabriel-becerra-yanez/27935/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Gabriel Becerra Yáñez - Perfil de congresista"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gabriel_Becerra",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Gabriel Becerra"
+        },
+        {
+          "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-gabriel-becerra-yanez/",
+          "outlet": "La Silla Vacía",
+          "date": "2026-06-22",
+          "title": "Quién es Gabriel Becerra Yáñez"
+        },
+        {
+          "url": "https://gabobecerra.com/perfil2/",
+          "outlet": "Sitio oficial de Gabriel Becerra",
+          "date": "2026-06-22",
+          "title": "Perfil | Gabo Becerra"
         }
       ],
       "confidence": "low",
@@ -868,7 +1018,7 @@
       "classical-marxism",
       "progressivism"
     ],
-    "bio": "Gabriel Becerra Yáñez es politólogo y político colombiano, representante a la Cámara por Bogotá desde 2022 por la Unión Patriótica (Pacto Histórico). Es secretario general de la UP y una de las figuras visibles en la reconstrucción política de ese partido tras el exterminio político de sus militantes entre 1986 y 2002.",
+    "bio": "Gabriel Becerra Yáñez (Cúcuta, 1976) es abogado y político colombiano, representante a la Cámara por Bogotá desde el 20 de julio de 2022. Es abogado de la Universidad Autónoma de Colombia y especialista en derecho público por la misma institución, magíster en estudios políticos de la Universidad del Rosario y candidato a doctor en estudios sociales latinoamericanos en la Universidad Nacional de Córdoba (Argentina). Inició su trayectoria pública en el movimiento estudiantil de los años noventa, en organizaciones como la Asociación Nacional de Estudiantes de Secundaria (ANDES) y la Asociación Colombiana de Estudiantes Universitarios (ACEU); en 2002 fue secretario general de la Juventud Comunista Colombiana (JUCO). Posteriormente se desempeñó como secretario general de la Unión Patriótica y participó como uno de los promotores de la coalición Pacto Histórico, conformada en 2020. Antes de su elección trabajó como asesor en unidades de trabajo legislativo del Concejo de Bogotá, la Cámara de Representantes y el Senado. Fue elegido a la Cámara en las elecciones de 2022 por la lista de la coalición Pacto Histórico. En el Congreso integra la Comisión Primera Constitucional y ha hecho parte de comisiones relacionadas con el seguimiento a organismos electorales y con asuntos de paz y posconflicto. Es columnista del Semanario Voz y miembro del comité editorial de la Revista Taller. Continúa en ejercicio de su curul para el periodo legislativo 2022-2026.",
     "incoherences": [
       {
         "id": "becerra-up-renovacion-pacto-diluido",
@@ -956,7 +1106,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],

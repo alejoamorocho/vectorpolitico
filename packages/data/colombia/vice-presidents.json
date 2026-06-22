@@ -83,6 +83,24 @@
           "title": "Resultados electorales Senado 2006 y Presidencia 2014/2018",
           "outlet": "Registraduría Nacional del Estado Civil",
           "date": "2018-06-17"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Marta_Luc%C3%ADa_Ram%C3%ADrez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Marta Lucía Ramírez"
+        },
+        {
+          "url": "https://conferenciamujer.cepal.org/14/es/marta-lucia-ramirez",
+          "outlet": "CEPAL",
+          "date": "2026-06-22",
+          "title": "Marta Lucía Ramírez — XIV Conferencia Regional sobre la Mujer de América Latina y el Caribe"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/gobierno/marta-lucia-ramirez-nueva-canciller-589618",
+          "outlet": "El Tiempo",
+          "date": "2021-05-19",
+          "title": "Marta Lucía Ramírez es la nueva canciller"
         }
       ],
       "dimensionScores": {
@@ -104,7 +122,7 @@
     ],
     "ideologySelf": "christian-democracy",
     "ideologyEvidenced": "traditionalist-conservatism",
-    "bio": "Marta Lucía Ramírez de Rincón (1954, Zipaquirá) es abogada de la Universidad Javeriana con especialización en Derecho Comercial y Financiero. Fue Ministra de Comercio Exterior (2002) bajo Andrés Pastrana, Ministra de Defensa Nacional (2002-2003) bajo Álvaro Uribe — la primera mujer en ese cargo en Colombia —, Senadora por el Partido de la U (2006-2010), candidata presidencial del Partido Conservador en 2014 y Vicepresidenta de Colombia (2018-2022) bajo Iván Duque, ejerciendo también como Ministra de Relaciones Exteriores encargada (2021-2022). Su trayectoria combina gestión pública desde cargos ejecutivos con militancia conservadora cristiana y defensa de agenda pro-mercado.",
+    "bio": "Marta Lucía Ramírez de Rincón (Bogotá, 4 de julio de 1954) es abogada de la Pontificia Universidad Javeriana, con estudios de posgrado en derecho financiero y en administración de empresas. Su carrera combina cargos ejecutivos y de representación. Fue ministra de Comercio Exterior durante el gobierno de Andrés Pastrana (1998-2002) y, ya bajo la presidencia de Álvaro Uribe, ministra de Defensa Nacional entre 2002 y 2003, siendo la primera mujer en ocupar esa cartera en Colombia. En 2006 resultó elegida senadora de la República, periodo en el cual presidió la Comisión Segunda del Senado, encargada de las relaciones exteriores. En 2014 fue candidata presidencial por el Partido Conservador y ocupó el tercer lugar en la primera vuelta. En las elecciones de 2018 integró la fórmula vicepresidencial de Iván Duque Márquez y, tras el triunfo, asumió el 7 de agosto de 2018 como vicepresidenta de Colombia, la primera mujer en ese cargo en la historia del país. Durante su mandato, en mayo de 2021, el presidente Duque la designó además ministra de Relaciones Exteriores en reemplazo de Claudia Blum, función que ejerció de forma simultánea con la vicepresidencia hasta 2022. Concluyó su periodo vicepresidencial el 7 de agosto de 2022. Está vinculada al Partido Conservador y, tras dejar el cargo, ha continuado su actividad pública y profesional fuera del Gobierno.",
     "incoherences": [
       {
         "id": "martaluciaramirez-panama-papers-2021",
@@ -194,7 +212,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -278,7 +296,7 @@
       }
     ],
     "compassSelfPerceived": {
-      "x": -7.0,
+      "x": -7,
       "y": -4.17,
       "justification": "Se autodefine como feminista negra antirracista, ambientalista, defensora de derechos humanos y 'mujer del pueblo'. Ha declarado representar a 'los nadies y nadies' — comunidades negras, indígenas, campesinas, mujeres, personas LGBTIQ+ y territorios históricamente marginados. Su agenda declarada es el 'Vivir Sabroso' como paradigma alternativo de desarrollo y política de cuidados.",
       "sources": [
@@ -337,6 +355,24 @@
           "title": "Goldman Environmental Prize 2018 — Francia Márquez",
           "outlet": "Goldman Environmental Prize",
           "date": "2018-04-23"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Francia_M%C3%A1rquez",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Francia Márquez"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/gobierno/las-razones-que-marcarian-la-salida-de-francia-marquez-del-ministerio-de-la-igualdad-3430681",
+          "outlet": "El Tiempo",
+          "date": "2025-02-26",
+          "title": "Las razones detrás de la salida de Francia Márquez del Ministerio de la Igualdad"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/02/26/la-vicepresidenta-francia-marquez-renuncio-al-ministerio-de-la-igualdad-esto-se-sabe/",
+          "outlet": "Infobae",
+          "date": "2025-02-28",
+          "title": "La vicepresidenta Francia Márquez renunció al Ministerio de la Igualdad: esto se sabe"
         }
       ],
       "dimensionScores": {
@@ -358,7 +394,7 @@
     ],
     "ideologySelf": "eco-socialism",
     "ideologyEvidenced": "progressivism",
-    "bio": "Francia Elena Márquez Mina (1981, Suárez, Cauca) es abogada de la Universidad Santiago de Cali, líder social y ambientalista afrocolombiana. Saltó a visibilidad internacional al organizar en 2014 la 'Marcha de los Turbantes' que movilizó a mujeres afro del norte del Cauca contra la minería ilegal en sus territorios; por ese trabajo recibió el Premio Goldman en 2018, considerado el 'Nobel ambiental'. Precandidata presidencial en la consulta del Pacto Histórico de 2022, obtuvo el segundo lugar y fue escogida como fórmula vicepresidencial de Gustavo Petro. Es la primera mujer afrocolombiana en ejercer la Vicepresidencia de Colombia (2022-presente) y primera Ministra de Igualdad y Equidad desde la creación de la cartera en 2023.",
+    "bio": "Francia Elena Márquez Mina (Yolombó, Suárez, Cauca, 1 de diciembre de 1981) es abogada, lideresa social y ambientalista afrocolombiana. Se formó en el Proceso de Comunidades Negras (PCN) y obtuvo el título de abogada en la Universidad Santiago de Cali en 2020. Desde joven participó en la defensa del territorio y de los ríos del norte del Cauca frente a proyectos mineros e hidroeléctricos. En 2014 organizó la 'Marcha de los Turbantes', una movilización de mujeres afro de La Toma que recorrió cientos de kilómetros hasta Bogotá para exigir el fin de la minería ilegal en sus territorios; ese trabajo contribuyó a la conformación de medidas estatales contra la extracción ilegal y le valió en 2018 el Premio Ambiental Goldman, distinción internacional para activistas de base. En 2021 anunció su aspiración presidencial y en la consulta del Pacto Histórico de marzo de 2022 obtuvo el segundo lugar; posteriormente fue escogida como fórmula vicepresidencial de Gustavo Petro. El 7 de agosto de 2022 asumió como Vicepresidenta de Colombia, siendo la primera mujer afrocolombiana en ocupar el cargo. En 2023 fue designada como primera titular del Ministerio de Igualdad y Equidad, creado ese año. En febrero de 2025 presentó su renuncia a esa cartera en el marco de una solicitud presidencial de renuncias protocolarias y de diferencias internas en el Gobierno, y continuó ejerciendo la Vicepresidencia.",
     "incoherences": [
       {
         "id": "franciamarquez-helicoptero-fac-2023",
@@ -448,7 +484,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
