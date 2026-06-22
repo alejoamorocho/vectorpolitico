@@ -6,7 +6,7 @@
     "fullName": "Coalición Pacto Histórico por Colombia",
     "color": "#dc2626",
     "foundedYear": 2021,
-    "description": "Coalición política colombiana de izquierda fundada en 2021 que agrupó inicialmente a Colombia Humana, Polo Democrático Alternativo, Unión Patriótica, MAIS, ADA, Colombia Renaciente y otros movimientos progresistas. Llevó a Gustavo Petro a la Presidencia en 2022 en la segunda vuelta con Francia Márquez como vicepresidenta. En 2024-2025 inició su proceso de fusión como partido único del que surgió en 2025 una nueva personería jurídica unificada.",
+    "description": "El Pacto Histórico es una fuerza política colombiana de izquierda y centroizquierda surgida como coalición electoral lanzada públicamente el 11 de febrero de 2021 con miras a las elecciones legislativas y presidenciales de 2022. Agrupó inicialmente a Colombia Humana, el Polo Democrático Alternativo, la Unión Patriótica, el Partido Comunista Colombiano, el Movimiento Alternativo Indígena y Social (MAIS) y otros movimientos progresistas, articulando a sectores de la izquierda histórica, el progresismo y diversos liderazgos sociales en torno a un programa de transformación social.\n\nIdeológicamente, el Pacto Histórico se identifica con el progresismo, la socialdemocracia y el socialismo democrático, ubicándose entre el centroizquierda y la izquierda del espectro político. Su plataforma programática ha enfatizado la reforma tributaria progresiva, la reforma agraria, la transición energética hacia fuentes no fósiles, el fortalecimiento de un sistema de salud y pensiones de carácter público, reformas laborales favorables al trabajador y la ampliación de derechos sociales, reproductivos y de las diversidades.\n\nEn lo electoral, la coalición obtuvo una votación destacada en las legislativas de 2022, consolidándose como una de las principales bancadas del Congreso, y llevó a Gustavo Petro a la Presidencia de la República al triunfar en la segunda vuelta de junio de 2022, junto a Francia Márquez como vicepresidenta. Tras la victoria, el Pacto se convirtió en la base política del gobierno.\n\nEntre sus figuras destacan Gustavo Petro, Francia Márquez, Aída Avella, Iván Cepeda y Gloria Inés Flórez, entre otros liderazgos. En diciembre de 2024 el presidente Petro planteó transformar la coalición en un partido único. El 13 de junio de 2025 las organizaciones presentaron ante el Consejo Nacional Electoral los estatutos, el acuerdo de fusión y la plataforma de unidad. El 3 de diciembre de 2025, mediante la Resolución 09673, el CNE aceptó la fusión del Polo Democrático, la Unión Patriótica y el Partido Comunista en el nuevo Pacto Histórico, mientras algunas organizaciones como MAIS y Comunes optaron por conservar su autonomía.",
     "ideologies": [
       "democratic-socialism",
       "progressivism",
@@ -15,30 +15,48 @@
     "compassPosition": {
       "x": -4.17,
       "y": -2.5,
-      "justification": "Según sus estatutos y plataforma programática, el Pacto Histórico se define como una coalición de izquierda con énfasis en democracia socialista, reformas tributarias progresivas, reforma agraria redistributiva, transición energética, reforma de salud hacia modelo público y reforma laboral favorable al trabajador. Socialmente progresista en derechos reproductivos y diversidad sexual.",
+      "justification": "La posición del Pacto Histórico en el cuadrante de izquierda y progresista del compass (x = -4.17; y = -2.5) refleja tanto su autodefinición ideológica como su plataforma programática y su actuación pública. En el eje económico (x), su ubicación claramente a la izquierda responde a propuestas centrales como la reforma tributaria progresiva, la reforma agraria redistributiva, el fortalecimiento de Colpensiones y de un sistema de salud de orientación pública, la transición energética y un mayor papel del Estado en la economía, en línea con su identificación con el socialismo democrático y la socialdemocracia. En el eje social y de autoridad (y), su valor moderadamente libertario y progresista se sustenta en el respaldo a la ampliación de derechos reproductivos, los derechos de las diversidades sexuales, el reconocimiento de pueblos étnicos y movimientos sociales, y un discurso de profundización democrática y participación ciudadana. Esta caracterización es coherente con su origen como convergencia de la izquierda histórica colombiana (Unión Patriótica, Partido Comunista, Polo Democrático) y del progresismo encarnado por Colombia Humana, así como con los estatutos, el acuerdo de fusión y la plataforma de unidad presentados ante el CNE en 2025. La confianza asignada es media porque, pese a la nitidez de su orientación general, la fuerza integra corrientes internas con matices y ha mostrado en el ejercicio de gobierno tensiones entre su programa y su implementación.",
       "sources": [
         {
           "url": "https://pactohistorico.co",
-          "title": "Sitio oficial del Pacto Histórico",
           "outlet": "Pacto Histórico",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Sitio oficial del Pacto Histórico"
         },
         {
           "url": "https://es.wikipedia.org/wiki/Pacto_Histórico",
-          "title": "Pacto Histórico",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Pacto Histórico"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Coalición Pacto Histórico",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2021-09-15"
+          "date": "2021-09-15",
+          "title": "Registro de Coalición Pacto Histórico"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Pacto_Hist%C3%B3rico_(coalici%C3%B3n_pol%C3%ADtica)",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Pacto Histórico (coalición política)"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/06/13/el-pacto-historico-la-coalicion-de-partidos-que-llevo-a-gustavo-petro-a-la-presidencia-se-convertira-en-un-movimiento-politico-que-significa-y-por-que/",
+          "outlet": "Infobae",
+          "date": "2025-06-13",
+          "title": "El Pacto Histórico, la coalición de partidos que llevó a Gustavo Petro a la Presidencia, se convertirá en un movimiento político: qué significa y por qué"
+        },
+        {
+          "url": "https://cnnespanol.cnn.com/2022/06/09/pacto-historico-petro-colombia-integrantes-origen-resultados-elecciones-orix",
+          "outlet": "CNN en Español",
+          "date": "2022-06-09",
+          "title": "Pacto Histórico en Colombia: integrantes, origen y mejores resultados en elecciones"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -136,14 +154,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/Pacto_Hist%C3%B3rico",
         "outlet": "Wikipedia",
-        "title": "Pacto Histórico — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Pacto Histórico — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Pacto_Hist%C3%B3rico_(partido_pol%C3%ADtico)",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Pacto Histórico (partido político)"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2025/12/03/cne-reconocio-la-personeria-juridica-del-pacto-historico-resultado-de-la-fusion-entre-los-partidos-comunista-union-patriotica-y-polo-democratico/",
+        "outlet": "Infobae",
+        "date": "2025-12-03",
+        "title": "CNE reconoció la personería jurídica del Pacto Histórico: confirmada la fusión del Partido Comunista, la Unión Patriótica y el Polo Democrático"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Gustavo_Petro",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Gustavo Petro"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Colombia_de_2026",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Elecciones presidenciales de Colombia de 2026"
       }
     ]
   },
@@ -154,7 +196,7 @@
     "fullName": "Partido Centro Democrático",
     "color": "#1e40af",
     "foundedYear": 2013,
-    "description": "Partido político colombiano de derecha fundado el 20 de enero de 2013 por Álvaro Uribe Vélez tras su ruptura con el gobierno de Juan Manuel Santos por diferencias sobre el proceso de paz con las FARC. Obtuvo personería jurídica en 2014. Se caracteriza por énfasis en seguridad (herencia de la Política de Seguridad Democrática 2002-2010), economía de mercado, reducción de impuestos a capitales, defensa de la propiedad rural, oposición al Acuerdo de Paz de 2016 y valores tradicionales. Llevó a Iván Duque a la Presidencia en 2018. En 2026 presenta a Paloma Valencia como candidata ganadora de la Gran Consulta por Colombia.",
+    "description": "El Centro Democrático es un partido político colombiano de derecha fundado el 20 de enero de 2013 por el expresidente Álvaro Uribe Vélez, tras su distanciamiento del gobierno de Juan Manuel Santos por discrepancias en torno al proceso de paz con las FARC. Sus antecedentes se remontan al think tank Centro de Pensamiento Primero Colombia, vinculado al entorno de Uribe. El partido obtuvo personería jurídica y se constituyó formalmente el 23 de julio de 2014, luego de su debut electoral en las legislativas de ese año, en las que alcanzó cerca de 20 curules en el Senado y 19 en la Cámara, posicionándose como la principal fuerza de oposición al santismo.\n\nIdeológicamente se identifica con el conservadurismo y con el 'uribismo', corriente articulada alrededor del legado político de Uribe. Su plataforma combina la economía de libre mercado y la confianza inversionista con el conservadurismo social y un fuerte énfasis en la seguridad, heredera de la Política de Seguridad Democrática (2002-2010). Sus ejes programáticos declarados incluyen la seguridad democrática, la confianza inversionista, la cohesión social, un Estado austero y descentralizado, y el diálogo popular. Fue el único partido que se declaró formalmente en contra del Acuerdo de Paz de 2016 firmado entre el gobierno Santos y las FARC.\n\nEn 2018 llevó a la Presidencia a Iván Duque, quien gobernó hasta 2022 implementando parte de la agenda del partido. En las legislativas de 2022 redujo su representación a 13 senadores y 16 representantes, y pasó a ejercer como bloque de oposición al gobierno de Gustavo Petro. Entre sus figuras principales están Álvaro Uribe (fundador y presidente honorario), Paloma Valencia, María Fernanda Cabal y Gabriel Vallejo. La colectividad fue golpeada por el atentado contra el senador y precandidato Miguel Uribe Turbay el 7 de junio de 2025, quien falleció el 11 de agosto de 2025. En la Gran Consulta por Colombia del 8 de marzo de 2026, Paloma Valencia resultó ganadora y se convirtió en candidata presidencial; en la primera vuelta del 31 de mayo de 2026 obtuvo cerca de 1,6 millones de votos (alrededor del 6,9 %), quedando en tercer lugar sin pasar a segunda vuelta, tras lo cual anunció su respaldo a Abelardo de la Espriella.",
     "ideologies": [
       "neo-conservatism",
       "fiscal-conservatism",
@@ -163,30 +205,48 @@
     "compassPosition": {
       "x": 9.17,
       "y": 2.5,
-      "justification": "El partido se define oficialmente como conservador, de centro-derecha, con énfasis en seguridad democrática, combate al terrorismo, libre mercado, propiedad privada, defensa de la institucionalidad y construcción de autoridad estatal.",
+      "justification": "El Centro Democrático se ubica en el cuadrante de derecha económica con marcada inclinación al orden y la autoridad estatal, lo que es coherente con la posición asignada (x=9.17, fuertemente a la derecha en el eje económico; y=2.5, hacia el polo de orden/autoridad). En lo económico, el partido defiende explícitamente la 'confianza inversionista', el libre mercado, la propiedad privada, la reducción de la carga tributaria al capital y un Estado austero, principios centrales de su plataforma y del legado uribista, lo que justifica una posición claramente derechista en ese eje. En el eje social y de autoridad, su énfasis programático prioritario es la 'seguridad democrática', entendida como lucha frontal contra los grupos armados ilegales y la criminalidad, junto con un conservadurismo social y la defensa del orden institucional; este acento en seguridad, autoridad y valores tradicionales explica su posición hacia el polo del orden. El partido fue además la única fuerza que se opuso formalmente al Acuerdo de Paz de 2016, reforzando su perfil de mano dura. La posición se sustenta en los ejes programáticos oficiales del partido, en su estatuto vigente y en su actuación legislativa y de gobierno (presidencia de Iván Duque 2018-2022 y oposición al gobierno Petro). Es pertinente señalar que, pese a su autodenominación de 'centro', tanto la literatura académica como los análisis de prensa lo clasifican consistentemente como un partido de derecha y conservador, no de centro.",
       "sources": [
         {
           "url": "https://www.centrodemocratico.com",
-          "title": "Sitio oficial del Centro Democrático",
           "outlet": "Centro Democrático",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Sitio oficial del Centro Democrático"
         },
         {
           "url": "https://es.wikipedia.org/wiki/Centro_Democrático",
-          "title": "Centro Democrático",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Centro Democrático"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro del Centro Democrático",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2014-01-01"
+          "date": "2014-01-01",
+          "title": "Registro del Centro Democrático"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Centro_Democr%C3%A1tico_(Colombia)",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Centro Democrático (Colombia)"
+        },
+        {
+          "url": "https://politize.com.co/centro-democratico-el-partido-de-alvaro-uribe-en-colombia/",
+          "outlet": "Politize!",
+          "date": "2026-02-27",
+          "title": "Centro Democrático: el partido de Álvaro Uribe en Colombia"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/03/08/paloma-valencia-gano-la-gran-consulta-por-colombia-estas-son-sus-propuestas-presidenciales/",
+          "outlet": "Infobae",
+          "date": "2026-03-08",
+          "title": "Paloma Valencia ganó la Gran Consulta por Colombia: estas son sus propuestas presidenciales"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -284,14 +344,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/Centro_Democr%C3%A1tico_(Colombia)",
         "outlet": "Wikipedia",
-        "title": "Centro Democrático — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Centro Democrático — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-se-pronuncio-frente-a-su-salida-de-la-segunda-vuelta-presidencial-en-las-elecciones-afirmo-que-apoyara-a-abelardo-de-la-espriella-3560950",
+        "outlet": "El Tiempo",
+        "date": "2026-05-31",
+        "title": "Paloma Valencia se pronunció sobre su derrota en primera vuelta presidencial; afirmó que apoyará a Abelardo de la Espriella"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Asesinato_de_Miguel_Uribe_Turbay",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Asesinato de Miguel Uribe Turbay"
+      },
+      {
+        "url": "https://www.centrodemocratico.com",
+        "outlet": "Centro Democrático",
+        "date": "2026-06-22",
+        "title": "Sitio oficial del Centro Democrático"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/%C3%81lvaro_Uribe",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Álvaro Uribe Vélez"
       }
     ]
   },
@@ -302,38 +386,50 @@
     "fullName": "Partido Liberal Colombiano",
     "color": "#b91c1c",
     "foundedYear": 1848,
-    "description": "Partido histórico colombiano fundado el 16 de julio de 1848 por Ezequiel Rojas. Uno de los dos partidos tradicionales de Colombia junto con el Partido Conservador. Adherente histórico de la Internacional Socialista desde 1999. Ha llevado a numerosos presidentes al poder (Alfonso López Pumarejo, Carlos Lleras Restrepo, Alfonso López Michelsen, Julio César Turbay, Virgilio Barco, César Gaviria, Ernesto Samper). En las últimas décadas ha perdido peso electoral pero mantiene bancadas importantes en Congreso y alcaldías. Actualmente dirigido por César Gaviria Trujillo como director único.",
+    "description": "El Partido Liberal Colombiano es uno de los dos partidos tradicionales de Colombia, junto con el Partido Conservador. Fue fundado el 16 de julio de 1848 a partir del programa redactado por Ezequiel Rojas en su artículo \"La razón de mi voto\", lo que lo convierte en una de las colectividades políticas más antiguas del país y del mundo. Durante el siglo XIX se consolidó como una fuerza federalista, anticlerical y progresista enfrentada al Partido Conservador en numerosos conflictos civiles. En el siglo XX impulsó reformas sociales de gran calado, especialmente durante la \"Revolución en Marcha\" de Alfonso López Pumarejo, con avances en derechos laborales, educación pública e intervención del Estado en la economía.\n\nEl partido se define en sus estatutos como una colectividad de orientación socialdemócrata, ubicada en el centro y el centro-izquierda del espectro político, y desde 1999 es miembro de la Internacional Socialista. Su plataforma defiende el Estado social de derecho, los derechos fundamentales, la igualdad, la lucha contra la desigualdad y una economía con énfasis social, con reservas frente al llamado Consenso de Washington.\n\nA lo largo de su historia llevó a la Presidencia a figuras como Alfonso López Pumarejo, Carlos Lleras Restrepo, Alfonso López Michelsen, Julio César Turbay, Virgilio Barco, César Gaviria y Ernesto Samper. Entre sus líderes históricos destacan también Jorge Eliécer Gaitán y Luis Carlos Galán Sarmiento.\n\nDesde comienzos de los años 2000 el partido ha perdido peso electoral y ha sufrido fragmentaciones que dieron origen a colectividades como Cambio Radical y el Partido de la U. Pese a ello, conserva una bancada relevante en el Congreso: en las elecciones legislativas de 2022 obtuvo cerca de 2,1 millones de votos y 14 curules en el Senado, y unos 2,3 millones de votos con 32 curules en la Cámara de Representantes, lo que lo mantuvo como una de las principales fuerzas del Legislativo. El expresidente César Gaviria Trujillo dirige la colectividad desde hace cerca de dos décadas y fue reelegido como director único el 31 de octubre de 2024 para un periodo de dos años.",
     "ideologies": [
       "social-liberalism",
       "social-democracy"
     ],
     "compassPosition": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
-      "justification": "Según sus estatutos, el Partido Liberal se define como liberal, de centro-izquierda, con énfasis en democracia liberal, derechos fundamentales, economía social de mercado, reforma social gradual, educación pública y protección de trabajadores.",
+      "justification": "La posición del Partido Liberal en el compass (x = 1, ligeramente a la derecha del centro en el eje económico; y = -4,17, marcadamente liberal/progresista en el eje social) refleja la tensión entre su identidad programática y su práctica de gobierno. En el eje social, la ubicación claramente liberal se sustenta en su tradición histórica anticlerical y reformista, en la defensa estatutaria del Estado social de derecho, los derechos fundamentales, la igualdad y la protección de minorías, así como en su pertenencia a la Internacional Socialista desde 1999 y en su autodefinición socialdemócrata. En el eje económico, la posición apenas a la derecha del centro recoge la distancia entre el discurso socialdemócrata del partido —que en su plataforma rechaza explícitamente el Consenso de Washington y reivindica la lucha contra la desigualdad— y su actuación real, marcada por el liderazgo de la apertura económica, la flexibilización laboral (Ley 50 de 1990) y las privatizaciones durante el gobierno de César Gaviria (1990-1994), además de votaciones de parte de su bancada a favor de reformas tributarias cuestionadas. Esa combinación de progresismo social con un manejo económico pragmático y de mercado explica una posición de centro-izquierda en lo social y de centro en lo económico, con un leve sesgo hacia el mercado.",
       "sources": [
         {
           "url": "https://www.liberalcolombia.org.co",
-          "title": "Sitio oficial del Partido Liberal",
           "outlet": "Partido Liberal Colombiano",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Sitio oficial del Partido Liberal"
         },
         {
           "url": "https://es.wikipedia.org/wiki/Partido_Liberal_Colombiano",
-          "title": "Partido Liberal Colombiano",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Partido Liberal Colombiano"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro del Partido Liberal",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro del Partido Liberal"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partido-liberal-quienes-son-sus-lideres-y-sus-principios-politicos-625051",
+          "outlet": "El Tiempo",
+          "date": "2022-02-09",
+          "title": "Partido Liberal: quiénes son sus líderes y sus principios políticos"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Elecciones_legislativas_de_Colombia_de_2022",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Elecciones legislativas de Colombia de 2022"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -431,14 +527,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/Partido_Liberal_Colombiano",
         "outlet": "Wikipedia",
-        "title": "Partido Liberal Colombiano — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Partido Liberal Colombiano — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2024/10/31/cesar-gaviria-reelegido-como-director-del-partido-liberal-jornada-se-desarrollo-en-medio-de-polemica/",
+        "outlet": "Infobae",
+        "date": "2024-10-31",
+        "title": "César Gaviria, reelegido como director del Partido Liberal"
+      },
+      {
+        "url": "https://www.radionacional.co/cultura/historia-colombiana/se-funda-el-partido-liberal-en-colombia",
+        "outlet": "Radio Nacional de Colombia",
+        "date": "2026-06-22",
+        "title": "Se funda el Partido Liberal en Colombia"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Nuevo_Liberalismo",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Nuevo Liberalismo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Gaviria",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "César Gaviria"
       }
     ]
   },
@@ -449,7 +569,7 @@
     "fullName": "Partido Conservador Colombiano",
     "color": "#1d4ed8",
     "foundedYear": 1849,
-    "description": "Partido histórico colombiano fundado el 4 de octubre de 1849 por Mariano Ospina Rodríguez y José Eusebio Caro. El segundo de los dos partidos tradicionales. Ha defendido históricamente los valores católicos, el orden tradicional y una visión jerárquica de la sociedad, aunque con variaciones significativas a lo largo del tiempo. En la política contemporánea ha mantenido una postura pragmática apoyando gobiernos de distintas orientaciones. Alberga tanto a sectores progresistas como ultraconservadores.",
+    "description": "El Partido Conservador Colombiano (PCC) es una de las dos colectividades políticas tradicionales de Colombia, fundada formalmente el 4 de octubre de 1849 por Mariano Ospina Rodríguez y José Eusebio Caro, quienes publicaron el programa del partido en el periódico La Civilización. Surgió como contraparte del Partido Liberal, defendiendo en sus orígenes las tradiciones sociales y religiosas, un Estado centralizado y fuerte, el orden y los vínculos con la Iglesia Católica, frente al librecambismo y el federalismo liberales. A lo largo del siglo XIX y buena parte del XX, conservadores y liberales protagonizaron el bipartidismo que estructuró la vida política nacional, incluyendo periodos de enfrentamiento como la Guerra de los Mil Días y La Violencia de mediados del siglo XX, así como el reparto de poder pactado en el Frente Nacional (1958-1974). El partido aportó varios presidentes a la República a lo largo de su historia.\n\nEn el plano ideológico, el PCC se identifica con el conservadurismo tradicionalista, la democracia cristiana y una agenda de orden, autoridad, seguridad e instituciones fuertes. En materia de derechos sociales ha mantenido posiciones conservadoras, con oposición al aborto, al matrimonio entre personas del mismo sexo y a la llamada ideología de género, en línea con su raíz católica. Diversos análisis lo ubican en la derecha o centroderecha del espectro político, señalando que con el tiempo moderó posturas y adoptó un comportamiento marcadamente pragmático, apoyando gobiernos de distintas orientaciones.\n\nEn términos electorales, en los comicios legislativos de 2022 obtuvo cerca del 14% de la votación al Senado, con 15 curules, y alrededor de 27 escaños en la Cámara de Representantes, consolidándose como una de las principales fuerzas del Congreso. Entre sus figuras contemporáneas destaca Efraín Cepeda, presidente del partido y presidente del Senado entre 2024 y 2025. De cara a las elecciones de 2026, el partido retiró sus precandidaturas presidenciales y, según información de prensa, respaldó la campaña de Paloma Valencia. El PCC alberga en su interior sectores diversos, desde alas más moderadas hasta corrientes ultraconservadoras.",
     "ideologies": [
       "traditionalist-conservatism",
       "christian-democracy",
@@ -458,30 +578,42 @@
     "compassPosition": {
       "x": 4.17,
       "y": 2.5,
-      "justification": "El partido se define oficialmente como conservador, de derecha, con énfasis en valores tradicionales, propiedad privada, economía de mercado, orden público, seguridad, defensa de instituciones eclesiásticas y valores familiares tradicionales.",
+      "justification": "La posición asignada al Partido Conservador Colombiano en el compass (x = 4.17, y = 2.5) lo sitúa en el cuadrante de derecha en el eje económico y moderadamente conservador-autoritario en el eje social, lo que resulta coherente con su trayectoria documentada. En el eje económico (x positivo), el partido defiende la propiedad privada, la economía de mercado y un manejo fiscal prudente, en continuidad con su tradición de centroderecha; aunque en sus orígenes del siglo XIX promovió el proteccionismo, en la política contemporánea se ha alineado con posiciones favorables a la libre empresa. El valor moderado (4.17 y no un extremo) refleja su pragmatismo: el partido ha apoyado gobiernos de distintas orientaciones y no sostiene un programa económico tan radical como otras fuerzas de derecha.\n\nEn el eje social-cultural (y = 2.5, hacia el polo conservador/autoritario), la ubicación se sustenta en la identidad histórica del partido, ligada a los valores católicos, la familia tradicional, el orden y la autoridad. Su plataforma actual enfatiza el orden y la seguridad, y defiende instituciones fuertes como pilares del Estado de Derecho. En materia de derechos, mantiene posiciones contrarias al aborto, al matrimonio igualitario y a la denominada ideología de género. El valor intermedio en este eje (2.5 y no el extremo) reconoce que el conservadurismo colombiano contemporáneo es heterogéneo, con sectores más moderados y un comportamiento institucional dentro del marco democrático, lo que matiza su carácter autoritario. En conjunto, los valores reflejan una colectividad de derecha tradicional con perfil pragmático y moderación relativa frente a posiciones más extremas del espectro.",
       "sources": [
         {
           "url": "https://www.partidoconservador.org.co",
-          "title": "Sitio oficial del Partido Conservador Colombiano",
           "outlet": "Partido Conservador Colombiano",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Sitio oficial del Partido Conservador Colombiano"
         },
         {
           "url": "https://es.wikipedia.org/wiki/Partido_Conservador_Colombiano",
-          "title": "Partido Conservador Colombiano",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Partido Conservador Colombiano"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro del Partido Conservador",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro del Partido Conservador"
+        },
+        {
+          "url": "https://partidoconservador.com/",
+          "outlet": "Partido Conservador Colombiano",
+          "date": "2026-06-22",
+          "title": "Partido Conservador Colombiano — Sitio oficial (principios: orden, autoridad, instituciones)"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/cual-es-la-posicion-politica-de-los-partidos-en-colombia-403502",
+          "outlet": "El Tiempo",
+          "date": "2019-08-22",
+          "title": "¿Cuál es la posición ideológica de los partidos políticos en Colombia?"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -579,14 +711,32 @@
       {
         "url": "https://es.wikipedia.org/wiki/Partido_Conservador_Colombiano",
         "outlet": "Wikipedia",
-        "title": "Partido Conservador Colombiano — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Partido Conservador Colombiano — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://politize.com.co/partido-conservador-colombiano-historia-politica-y-actualidad/",
+        "outlet": "Politize Colombia",
+        "date": "2026-01-23",
+        "title": "Partido Conservador Colombiano: Historia, Política y Actualidad"
+      },
+      {
+        "url": "https://archivo.lapatria.com/blogs/un-nuevo-patio-para-miguel/los-origenes-del-partido-conservador-colombiano",
+        "outlet": "La Patria",
+        "date": "2026-06-22",
+        "title": "Los orígenes del Partido Conservador colombiano"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Colombia_de_2026",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Elecciones presidenciales de Colombia de 2026"
       }
     ]
   },
@@ -597,39 +747,57 @@
     "fullName": "Partido Alianza Verde",
     "color": "#16a34a",
     "foundedYear": 2005,
-    "description": "Partido colombiano de centro-izquierda fundado originalmente en 2005 como Partido Opción Centro, refundado en 2009 como Partido Verde con los tres exalcaldes de Bogotá Antanas Mockus, Enrique Peñalosa y Luis Eduardo Garzón, y reestructurado como Alianza Verde en 2013. Énfasis declarado en sostenibilidad ambiental, transparencia institucional, anticorrupción y reformas democráticas progresistas. Ha sido parte de gobiernos de distinto color y ha mostrado profundas fisuras internas entre un ala petrista y un ala de centro.",
+    "description": "El Partido Alianza Verde es una colectividad colombiana de centro-izquierda con énfasis ambientalista. Sus orígenes se remontan al Partido Opción Centro, fundado el 25 de noviembre de 2005, que en 2007 incorporó banderas ecologistas y pasó a llamarse Partido Verde Opción Centro y, en 2009, Partido Verde. Ese año se sumaron al proyecto tres exalcaldes de Bogotá —Antanas Mockus, Luis Eduardo Garzón y Enrique Peñalosa—, lo que impulsó la candidatura presidencial de Mockus en 2010, que alcanzó la segunda vuelta. El 24 de septiembre de 2013, el Partido Verde se fusionó con el movimiento Progresistas (de raíz petrista) para conformar el actual Partido Alianza Verde, cuyo símbolo es el girasol.\n\nIdeológicamente, el partido se define como progresista y ecologista, y forma parte de redes internacionales como los Verdes Mundiales (Global Greens). Su plataforma destaca la sostenibilidad ambiental y la protección de la biodiversidad, la lucha contra la corrupción y el clientelismo, la transparencia institucional, la defensa de la paz y la resolución pacífica de los conflictos, y un enfoque de justicia social. En 2018 lideró la Consulta Anticorrupción, que obtuvo unos 11,6 millones de votos sin alcanzar el umbral requerido.\n\nEn lo electoral, la Alianza Verde ha tenido presencia constante en el Congreso. En 2022 obtuvo una de sus mayores votaciones legislativas y dejó a sus miembros en libertad de cara a la elección presidencial, en la que varios apoyaron al Pacto Histórico de Gustavo Petro mientras otros respaldaron la Coalición Centro Esperanza de Sergio Fajardo. Tras el inicio del gobierno Petro en 2022, la bancada verde se fracturó entre un ala cercana al petrismo y un ala de centro crítica, con votaciones divididas en reformas clave.\n\nEntre sus figuras destacan Antanas Mockus, Claudia López (alcaldesa de Bogotá 2020-2023), Antonio Navarro Wolff, Carlos Amaya (exgobernador de Boyacá), Katherine Miranda, Inti Asprilla y Sandra Ortiz, entre otros. El partido es conocido por su heterogeneidad interna y por tensiones recurrentes entre sus distintas corrientes.",
     "ideologies": [
       "green-politics",
       "progressivism",
       "social-liberalism"
     ],
     "compassPosition": {
-      "x": -3.0,
+      "x": -3,
       "y": -4.17,
-      "justification": "El partido se define oficialmente como progresista-ecologista, con énfasis en sostenibilidad ambiental, derechos humanos, justicia social, protección de ecosistemas, derechos de poblaciones vulnerables y transición energética.",
+      "justification": "La posición de la Alianza Verde en el cuadrante económico de centro-izquierda (x = -3) y en el extremo libertario/progresista del eje social (y = -4.17) refleja su autodefinición como partido progresista y ecologista. En lo económico, su plataforma prioriza el desarrollo sostenible y el bienestar ciudadano por encima de un enfoque exclusivamente de mercado, defendiendo la intervención del Estado en materia ambiental, la transición energética y políticas sociales inclusivas, sin proponer un modelo de estatización radical, lo que la ubica en un centro-izquierda moderado más que en la izquierda económica extrema. En el eje social y de valores, su orientación libertaria-progresista se sustenta en la defensa de los derechos humanos, los derechos de poblaciones vulnerables, la paz y la resolución pacífica del conflicto, la transparencia frente al clientelismo y un fuerte componente ecologista. Su pertenencia a redes verdes internacionales (Global Greens) y su énfasis estatutario en la protección de la biodiversidad refuerzan esa ubicación. Cabe matizar que el partido es internamente heterogéneo: convive un ala más cercana al petrismo con un ala de centro, y su bancada se ha dividido en votaciones ambientales y en reformas del gobierno Petro, lo que explica una confianza media en la posición asignada.",
       "sources": [
         {
           "url": "https://www.alianzaverde.org.co",
-          "title": "Sitio oficial de Alianza Verde",
           "outlet": "Alianza Verde",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Sitio oficial de Alianza Verde"
         },
         {
           "url": "https://es.wikipedia.org/wiki/Alianza_Verde",
-          "title": "Alianza Verde",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Alianza Verde"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Alianza Verde",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Alianza Verde"
+        },
+        {
+          "url": "https://www.alianzaverde.org.co/nosotros/historia",
+          "outlet": "Partido Alianza Verde",
+          "date": "2026-06-22",
+          "title": "Historia y principios del Partido Alianza Verde"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/partidos/perfil/alianza-verde/146/",
+          "outlet": "Congreso Visible — Universidad de los Andes",
+          "date": "2026-06-22",
+          "title": "Perfil del partido Alianza Verde"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Alianza_Verde_(Colombia)",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Alianza Verde (Colombia)"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -727,14 +895,32 @@
       {
         "url": "https://es.wikipedia.org/wiki/Alianza_Verde_(Colombia)",
         "outlet": "Wikipedia",
-        "title": "Alianza Verde — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Alianza Verde — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://www.alianzaverde.org.co/",
+        "outlet": "Partido Alianza Verde",
+        "date": "2026-06-22",
+        "title": "Sitio oficial del Partido Alianza Verde"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Colombia_de_2022",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Elecciones presidenciales de Colombia de 2022"
+      },
+      {
+        "url": "https://congresovisible.uniandes.edu.co/partidos/",
+        "outlet": "Congreso Visible — Universidad de los Andes",
+        "date": "2026-06-22",
+        "title": "Directorio de partidos políticos"
       }
     ]
   },
@@ -745,7 +931,7 @@
     "fullName": "Partido Cambio Radical",
     "color": "#f59e0b",
     "foundedYear": 1998,
-    "description": "Partido colombiano de centro-derecha fundado el 1 de abril de 1998 como escisión del Partido Liberal. Asociado históricamente a Germán Vargas Lleras, quien fue Vicepresidente de Juan Manuel Santos (2014-2017). Énfasis declarado en infraestructura, mercados, seguridad ciudadana y eficiencia estatal. Ha mantenido bancadas significativas en el Congreso desde 2002 y ha formado parte de coaliciones con gobiernos de Uribe, Santos y Duque.",
+    "description": "Cambio Radical es un partido político colombiano de orientación de centro-derecha a derecha. Sus orígenes se remontan a 1997-1998, cuando un grupo de dirigentes disidentes del Partido Liberal se separó de la colectividad para impulsar un movimiento de renovación política. El movimiento adoptó formalmente el nombre de Cambio Radical y, hacia 2000-2003, se consolidó como partido con personería jurídica. Su trayectoria está estrechamente ligada a Germán Vargas Lleras (1962-2026), quien asumió el control político de la organización a partir de 2003, fue precandidato y candidato presidencial en distintas ocasiones, y ocupó la Vicepresidencia de la República durante el primer gobierno de Juan Manuel Santos (2014-2017). Vargas Lleras falleció en mayo de 2026 tras una enfermedad.\n\nEn lo programático, el partido combina liberalismo económico —promoción de la inversión privada, grandes proyectos de infraestructura, alianzas público-privadas y fortalecimiento empresarial— con un énfasis en la seguridad ciudadana, el fortalecimiento institucional del Estado y la modernización de la gestión pública. A lo largo de su historia se le ha caracterizado por un marcado pragmatismo, que le ha permitido integrarse a coaliciones de gobierno de signos diversos: respaldó la elección de Álvaro Uribe en 2002 y participó en coaliciones durante los gobiernos de Uribe, Santos y Duque.\n\nElectoralmente, Cambio Radical alcanzó su mayor fuerza hacia 2014-2018, llegando a ser una de las principales bancadas del Congreso. En las elecciones legislativas de 2022 sufrió un retroceso significativo: pasó de 16 a 11 senadores y su votación a Senado cayó cerca de un 25%, obteniendo además alrededor de 16-18 curules en la Cámara. En las elecciones regionales de octubre de 2023, ya como partido de oposición al gobierno de Gustavo Petro, mostró una recuperación territorial con triunfos en varias gobernaciones y alcaldías capitales, entre ellas la reelección de Alejandro Char en Barranquilla. Entre sus figuras de mayor peso han destacado, además de Vargas Lleras, dirigentes regionales como el propio Char y su entorno político en la costa Caribe. Actualmente Germán Córdoba ejerce como director del partido, que mantiene representación en el Congreso y se posiciona como una de las fuerzas de oposición o independencia frente al gobierno nacional.",
     "ideologies": [
       "liberal-conservatism",
       "classical-liberalism",
@@ -754,30 +940,48 @@
     "compassPosition": {
       "x": 7.5,
       "y": 0.83,
-      "justification": "Según sus estatutos, Cambio Radical se define como de centro, radical-liberal, con énfasis en reforma institucional, modernización estatal, participación ciudadana, defensa de pequeña y mediana empresa y economía solidaria. Reubicado a (6.0, -1.0) en national-liberalism (cuadrante lib_right). El partido es fundamentalmente pro-mercado moderado con dimensión nacionalista de seguridad y desarrollo local (Vargas Lleras), no autoritario-capitalista puro.",
+      "justification": "La posición asignada a Cambio Radical en el compass (x = 7.5, y = 0.83) lo ubica claramente en el campo económico de derecha (valores altos en el eje x) y en una franja ligeramente por encima del centro en el eje vertical, reflejando una postura social moderadamente conservadora o de orden, sin llegar al autoritarismo extremo.\n\nEl valor alto en el eje económico (x = 7.5) se sustenta en la orientación pro-mercado del partido: su plataforma histórica privilegia la inversión privada, las grandes obras de infraestructura, las alianzas público-privadas, la expansión urbana y el fortalecimiento del sector empresarial. El partido ha defendido la disciplina fiscal y, en la práctica legislativa, su bancada ha acompañado con frecuencia las posiciones del Ministerio de Hacienda en materia tributaria. Esta vocación de liberalismo económico es coherente con sus ideologías declaradas (liberalismo conservador, liberalismo clásico y conservadurismo fiscal).\n\nEl valor moderadamente positivo en el eje vertical (y = 0.83) recoge el énfasis del partido en la seguridad ciudadana, el fortalecimiento institucional del Estado y la autoridad —rasgos visibles en su cercanía histórica al uribismo en materia de seguridad y en el perfil de gestión de obra y orden asociado a Germán Vargas Lleras—, pero sin un componente autoritario marcado, ya que el partido se reivindica institucionalista y de origen liberal-reformista. Su pragmatismo, que lo ha llevado a participar en coaliciones de gobierno de distinto signo, también explica que no se sitúe en posiciones extremas del eje. En conjunto, la posición describe a un partido de derecha económica con una dimensión de orden y seguridad moderada, propia de una formación de centro-derecha pragmática.",
       "sources": [
         {
           "url": "https://www.cambioradical.com.co",
-          "title": "Sitio oficial de Cambio Radical",
           "outlet": "Cambio Radical",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Sitio oficial de Cambio Radical"
         },
         {
           "url": "https://es.wikipedia.org/wiki/Cambio_Radical",
-          "title": "Cambio Radical",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Cambio Radical"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Cambio Radical",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Cambio Radical"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Partido_Cambio_Radical",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Partido Cambio Radical"
+        },
+        {
+          "url": "https://www.partidocambioradical.org/historia-cambio-radical/",
+          "outlet": "Partido Cambio Radical",
+          "date": "2026-06-22",
+          "title": "Historia Cambio Radical"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/asi-le-fue-a-cambio-radical-en-las-elecciones-regionales-del-2023-822013",
+          "outlet": "El Tiempo",
+          "date": "2023-11-01",
+          "title": "Así le fue a Cambio Radical en las elecciones regionales del 2023"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -875,14 +1079,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/Cambio_Radical",
         "outlet": "Wikipedia",
-        "title": "Cambio Radical — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Cambio Radical — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://www.partidocambioradical.org/",
+        "outlet": "Partido Cambio Radical",
+        "date": "2026-06-22",
+        "title": "Sitio oficial del Partido Cambio Radical"
+      },
+      {
+        "url": "https://www.noticiasrcn.com/colombia/quien-era-german-vargas-lleras-el-politico-que-fundo-el-partido-cambio-radical-1019633",
+        "outlet": "Noticias RCN",
+        "date": "2026-05-08",
+        "title": "Quién era Germán Vargas Lleras, el político que fundó el partido Cambio Radical"
+      },
+      {
+        "url": "https://www.partidocambioradical.org/cambio-radical-alcanzo-18-curules-para-el-congreso-2026-2030/",
+        "outlet": "Partido Cambio Radical",
+        "date": "2026-06-22",
+        "title": "Cambio Radical alcanzó curules para el Congreso 2026-2030"
+      },
+      {
+        "url": "https://www.eltiempo.com/politica/partidos-politicos/german-vargas-lleras-el-estadista-que-defendio-la-democracia-de-colombia-perfil-vida-y-legado-3539368",
+        "outlet": "El Tiempo",
+        "date": "2026-05-08",
+        "title": "Germán Vargas Lleras: perfil, vida y legado"
       }
     ]
   },
@@ -893,7 +1121,7 @@
     "fullName": "Partido Social de Unidad Nacional",
     "color": "#fb923c",
     "foundedYear": 2005,
-    "description": "Partido colombiano fundado el 8 de septiembre de 2005 por Juan Manuel Santos, Óscar Iván Zuluaga, Armando Benedetti y otros, originalmente como vehículo electoral para la reelección de Álvaro Uribe (2006). Luego se desmarcó del uribismo durante el gobierno de Juan Manuel Santos (2010-2018), apoyando el proceso de paz con las FARC. Ha sido tradicionalmente un partido de centro-derecha pragmático con fuerte presencia en regiones costeras.",
+    "description": "El Partido Social de Unidad Nacional, conocido como Partido de la U, es una colectividad política colombiana fundada el 31 de agosto de 2005 e inscrita ante el Consejo Nacional Electoral el 10 de noviembre del mismo año. Surgió como una escisión del Partido Liberal: varios congresistas, encabezados por Juan Manuel Santos, Óscar Iván Zuluaga y otros dirigentes, se agruparon para respaldar la reelección del entonces presidente Álvaro Uribe Vélez en 2006. Su nombre alude a la idea de \"unidad nacional\". Ideológicamente se ubica en el centro a centro-derecha, con un programa que combina economía de mercado con responsabilidad social, énfasis en seguridad y orden público, sostenibilidad fiscal, educación, ciencia y tecnología, y descentralización regional. En sus documentos institucionales se define como una fuerza de equidad social, defensa de los derechos ciudadanos y respeto a las instituciones. En las elecciones legislativas de 2006 obtuvo 20 curules en el Senado y 29 en la Cámara de Representantes, convirtiéndose en la primera fuerza política del país, y entre 2010 y 2014 fue el partido con mayor representación en el Congreso. Respaldó las candidaturas presidenciales ganadoras de 2006, 2010 y 2014. Durante el gobierno de Juan Manuel Santos (2010-2018) fue eje de la coalición de \"Unidad Nacional\" y apoyó la negociación y el Acuerdo de Paz con las FARC; posteriormente, a partir de 2018, una parte de su dirigencia se alineó con el gobierno de Iván Duque. Entre sus figuras históricas destacan Juan Manuel Santos, Armando Benedetti y Roy Barreras, estos dos últimos retirados del partido antes de 2022. Dilian Francisca Toro presidió la colectividad y en 2023 renunció para postularse y resultar reelegida gobernadora del Valle del Cauca. El partido ha experimentado un declive electoral en la última década y enfrentó cuestionamientos por casos de parapolítica y corrupción asociados a algunos de sus dirigentes. Tras las elecciones de 2022 se integró brevemente a la coalición del gobierno de Gustavo Petro, de la que se declaró independiente en 2023 por desacuerdos en torno a la reforma a la salud.",
     "ideologies": [
       "liberal-conservatism",
       "social-liberalism",
@@ -902,30 +1130,48 @@
     "compassPosition": {
       "x": 7.5,
       "y": 0.83,
-      "justification": "Según sus documentos constitutivos, el Partido de la U se define como de centro-derecha, con énfasis en desarrollo social, responsabilidad fiscal, orden público, seguridad y soluciones pragmáticas a problemas sociales.",
+      "justification": "La posición del Partido de la U en el eje económico hacia la derecha (x = 7,5) refleja su defensa programática de la economía de mercado, la responsabilidad y sostenibilidad fiscal y la iniciativa privada como motor del crecimiento, atemperada por un discurso de \"responsabilidad social\" y reducción de la desigualdad que evita posiciones de mercado puro. En el eje social, un valor próximo al centro y ligeramente progresista (y = 0,83) corresponde a su autodefinición como partido de centro a centro-derecha que combina valores como la familia y el orden público con compromisos en inclusión social, derechos ciudadanos, equidad y descentralización; durante el gobierno Santos respaldó leyes de corte social y reparador como la Ley de Víctimas y el marco jurídico para la paz, mientras mantenía énfasis en seguridad. Su trayectoria pragmática y de coalición —respaldo inicial al uribismo, luego al proyecto de Unidad Nacional y al Acuerdo de Paz, y posteriores realineamientos con los gobiernos de Duque y, brevemente, de Petro— confirma un posicionamiento de centro-derecha flexible más que dogmático, coherente con los valores asignados en el compass.",
       "sources": [
         {
           "url": "https://www.partidodelau.com",
-          "title": "Sitio oficial del Partido de la U",
           "outlet": "Partido de la U",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Sitio oficial del Partido de la U"
         },
         {
           "url": "https://es.wikipedia.org/wiki/Partido_de_la_U",
-          "title": "Partido de la U",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Partido de la U"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro del Partido de la U",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro del Partido de la U"
+        },
+        {
+          "url": "https://www.partidodelau.com/nuestra-historia/",
+          "outlet": "Partido de la U",
+          "date": "2026-06-22",
+          "title": "Nuestra Historia"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Partido_Social_de_Unidad_Nacional",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Partido Social de Unidad Nacional"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/el-partido-de-la-u-historia-y-principales-exponentes-620580",
+          "outlet": "El Tiempo",
+          "date": "2021-09-27",
+          "title": "El Partido de 'la U': historia y principales exponentes"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1023,14 +1269,32 @@
       {
         "url": "https://es.wikipedia.org/wiki/Partido_Social_de_Unidad_Nacional",
         "outlet": "Wikipedia",
-        "title": "Partido de la U — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Partido de la U — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Juan_Manuel_Santos",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Juan Manuel Santos"
+      },
+      {
+        "url": "https://www.elespectador.com/politica/asi-queda-la-u-tras-inminente-salida-de-dilian-francisca-toro-para-ser-candidata/",
+        "outlet": "El Espectador",
+        "date": "2023-07-11",
+        "title": "Así queda La U tras inminente salida de Dilian Francisca Toro para ser candidata"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2023/10/30/dilian-francisca-toro-fue-reelegida-como-gobernadora-de-valle-del-cauca/",
+        "outlet": "Infobae",
+        "date": "2023-10-30",
+        "title": "Dilian Francisca Toro fue reelegida como gobernadora de Valle del Cauca"
       }
     ]
   },
@@ -1041,7 +1305,7 @@
     "fullName": "Movimiento Independiente de Renovación Absoluta",
     "color": "#a855f7",
     "foundedYear": 2000,
-    "description": "Partido político colombiano fundado el 30 de julio de 2000 con raíces en la Iglesia de Dios Ministerial de Jesucristo Internacional liderada por María Luisa Piraquive. Orientación cristiana no pentecostal con énfasis en ética pública, disciplina organizacional y derechos sociales. Perdió y recuperó la personería jurídica en 2014 por decisión del Consejo de Estado. Ha mantenido una bancada pequeña pero disciplinada en el Congreso.",
+    "description": "El Partido Político MIRA (originalmente Movimiento Independiente de Renovación Absoluta) es una colectividad política colombiana de carácter confesional cristiano, fundada en el año 2000 por Carlos Alberto Baena y Alexandra Moreno Piraquive, militantes de la Iglesia de Dios Ministerial de Jesucristo Internacional (IDMJI), congregación encabezada por María Luisa Piraquive. El movimiento fue creado el 21 de marzo de 2000 y obtuvo el reconocimiento de su personería jurídica por parte del Consejo Nacional Electoral el 26 de julio del mismo año. El partido se identifica con un ideario propio al que denomina \"miraísmo\", centrado en la honestidad, el servicio y los valores, y conjuga una orientación cristiana no pentecostal con énfasis en la ética pública, la disciplina organizativa y una agenda social dirigida a poblaciones vulnerables, migrantes, mujeres y la familia.\n\nEn lo electoral, MIRA ha mantenido históricamente una bancada pequeña pero cohesionada en el Congreso, sustentada en una base de votantes muy disciplinada vinculada a la IDMJI. En 2014 perdió representación en el Senado tras un escrutinio cuestionado; el partido denunció irregularidades y, mediante fallo del Consejo de Estado (2017-2018), se le restituyeron escaños del Senado, lo que reafirmó su personería jurídica. Para el periodo 2022-2026 contó con los senadores Manuel Virgüez Piraquive, Ana Paola Agudelo y Carlos Guevara, además de representación en la Cámara, concurriendo en parte mediante coaliciones con otras fuerzas de inspiración cristiana. En 2025, Ana Paola Agudelo fue elegida Primera Vicepresidenta del Senado para la legislatura 2025-2026, hito que el partido destacó como inédito en sus 25 años de existencia.\n\nEntre sus figuras principales se cuentan los cofundadores Carlos Alberto Baena y Alexandra Moreno Piraquive, así como Manuel Virgüez Piraquive (presidente del partido desde 2022), Ana Paola Agudelo y Carlos Guevara. De cara al ciclo electoral de 2026, MIRA participó en coaliciones legislativas y oficializó su adhesión a la campaña presidencial de Paloma Valencia (Centro Democrático) en la primera vuelta, apelando a la defensa del empleo, la seguridad, la libertad de empresa y la libertad religiosa. El partido conserva su sitio oficial bajo el lema \"Honestidad, servicio y valores\".",
     "ideologies": [
       "christian-democracy",
       "social-democracy"
@@ -1049,24 +1313,42 @@
     "compassPosition": {
       "x": 0.83,
       "y": 0.83,
-      "justification": "Según sus estatutos, MIRA se define como de centro-derecha, conservador, con énfasis en valores cristianos, familia tradicional, seguridad, orden público y defensa de libertades religiosas. Ajuste post-Fase 1.5: reposicionado a (1.0, 7.0) tras la creación de la celda christian-democracy en auth_right. Refleja mejor el componente de ortodoxia religiosa en socialRights propio del partido.",
+      "justification": "La posición de MIRA en el cuadrante autoritario-derecha del compass (x=0.83, y=0.83) refleja la combinación de su orientación valórica conservadora y su perfil económico moderado de centro-derecha. En el eje cultural/social (y alto), el partido sostiene posiciones marcadamente conservadoras derivadas de su raíz confesional cristiana: defensa de la familia tradicional, énfasis en valores religiosos y en la libertad de culto, y posturas restrictivas en debates sobre aborto, derechos LGBT+ y laicidad del Estado, en línea con el electorado de la Iglesia de Dios Ministerial de Jesucristo Internacional del que proviene. En el eje económico (x hacia la derecha), MIRA combina una agenda social de protección a poblaciones vulnerables, migrantes y mujeres con una defensa explícita de la libertad de empresa y la iniciativa privada, como evidenció su adhesión en 2026 a una candidatura de derecha invocando \"la defensa del empleo, la seguridad y la libertad de empresa\". El componente autoritario del posicionamiento se sustenta además en su énfasis en el orden público, la seguridad y la disciplina interna, así como en una estructura organizativa fuertemente jerarquizada y cohesionada en torno a su origen eclesial. Su trayectoria de alianzas pragmáticas con gobiernos de distinto signo matiza la lectura, pero el núcleo programático y valórico justifica su ubicación en el cuadrante conservador y de centro-derecha.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/MIRA",
-          "title": "MIRA",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "MIRA"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de MIRA",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de MIRA"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Partido_Pol%C3%ADtico_MIRA",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Partido Político MIRA"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2026/05/19/el-partido-mira-oficializo-su-adhesion-a-la-campana-de-paloma-valencia-rumbo-a-la-primera-vuelta-presidencial/",
+          "outlet": "Infobae",
+          "date": "2026-05-19",
+          "title": "El partido MIRA oficializó su adhesión a la campaña de Paloma Valencia rumbo a la primera vuelta presidencial"
+        },
+        {
+          "url": "https://partidomira.com/",
+          "outlet": "Partido MIRA",
+          "date": "2026-06-22",
+          "title": "Inicio - Partido MIRA: Honestidad, Servicio y Valores"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1164,14 +1446,32 @@
       {
         "url": "https://es.wikipedia.org/wiki/Movimiento_Independiente_de_Renovaci%C3%B3n_Absoluta",
         "outlet": "Wikipedia",
-        "title": "MIRA — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "MIRA — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Independent_Movement_of_Absolute_Renovation",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Independent Movement of Absolute Renovation"
+      },
+      {
+        "url": "https://www.senado.gov.co/index.php/el-senado/noticias/6688-en-25-anos-del-mira-es-la-primera-vez-que-llegamos-a-esta-dignidad-ana-paola-agudelo",
+        "outlet": "Senado de la República de Colombia",
+        "date": "2025-07-20",
+        "title": "\"En 25 años del Partido MIRA, es la primera vez que llegamos a esta dignidad\": Ana Paola Agudelo"
+      },
+      {
+        "url": "https://academia-lab.com/enciclopedia/movimiento-independiente-de-renovacion-absoluta/",
+        "outlet": "Academia Lab",
+        "date": "2026-06-22",
+        "title": "Movimiento Independiente de Renovación Absoluta"
       }
     ]
   },
@@ -1182,7 +1482,7 @@
     "fullName": "Polo Democrático Alternativo",
     "color": "#eab308",
     "foundedYear": 2005,
-    "description": "Partido político colombiano de izquierda fundado el 26 de noviembre de 2005 como resultado de la fusión entre el Polo Democrático Independiente y la Alternativa Democrática. Ha sido la principal fuerza de izquierda institucional antes de la emergencia del Pacto Histórico. Entre sus fundadores y figuras históricas destacan Carlos Gaviria Díaz, Jorge Enrique Robledo, Clara López Obregón, Gustavo Petro (hasta su salida en 2011) y Iván Cepeda. Fue parte del Pacto Histórico en 2022.",
+    "description": "El Polo Democrático Alternativo (PDA) fue un partido político colombiano de izquierda fundado el 1 de diciembre de 2005, como resultado de la fusión entre el Polo Democrático Independiente (PDI) y la Alternativa Democrática. Su nacimiento respondió al propósito de unificar a la izquierda y a sectores democráticos que se oponían al programa económico neoliberal y a la política de seguridad del gobierno de Álvaro Uribe Vélez. Ideológicamente, el partido se definió como una organización de izquierda y centroizquierda, con vertientes de socialismo democrático y socialdemocracia, comprometida con la transformación de las estructuras económicas y sociales mediante la profundización de la democracia, la defensa del Estado social de derecho y de la Constitución de 1991, la soberanía nacional, la generación de riqueza con inclusión social, la protección de los recursos naturales y la defensa de la libertad sindical.\n\nSu mejor resultado electoral lo obtuvo en 2006, cuando su candidato presidencial Carlos Gaviria Díaz alcanzó cerca de 2,6 millones de votos (alrededor del 22 %), ubicándose como segunda fuerza nacional. Entre sus figuras históricas se cuentan Carlos Gaviria Díaz, Jorge Enrique Robledo, Clara López Obregón, Iván Cepeda y Gustavo Petro, este último hasta su salida en 2010 para fundar el Movimiento Progresistas. El partido enfrentó tensiones internas recurrentes, como la ruptura con Petro y la separación del Partido Comunista por la controversia de la doble militancia.\n\nEn febrero de 2021 el Polo participó en el lanzamiento de la coalición Pacto Histórico, que en 2022 llevó a Gustavo Petro a la Presidencia y obtuvo la lista más votada al Senado. En un congreso extraordinario celebrado el 12 de abril de 2025, la militancia aprobó integrarse al movimiento político Pacto Histórico; el 17 de septiembre de 2025 el Consejo Nacional Electoral avaló la fusión del Polo Democrático Alternativo con la Unión Patriótica y el Partido Comunista Colombiano en una sola organización, lo que marcó el fin del Polo como partido independiente tras dos décadas de existencia.",
     "ideologies": [
       "democratic-socialism",
       "social-democracy",
@@ -1191,24 +1491,42 @@
     "compassPosition": {
       "x": -4.17,
       "y": -2.5,
-      "justification": "El partido se define oficialmente como de izquierda, progresista y socialdemócrata, con énfasis en reformas sociales, defensa del Estado social, derechos laborales, educación pública, sistema de salud público universal y justicia transicional.",
+      "justification": "La posición del Polo Democrático en el eje económico (x = -4,17, claramente a la izquierda) refleja su oposición programática histórica al modelo neoliberal y su defensa de un Estado social de derecho con fuerte intervención pública. Sus principios y plataforma promueven la generación de riqueza con inclusión social, la educación y la salud públicas, los derechos laborales y la libertad sindical, la protección de los recursos naturales frente a su explotación y la soberanía económica nacional, todo lo cual lo ubica en el cuadrante de izquierda económica.\n\nEn el eje social y cultural (y = -2,5, hacia el polo libertario o progresista), el partido se ha caracterizado por la defensa de la Constitución de 1991, la ampliación y profundización de la democracia, los derechos humanos, la justicia transicional y los derechos de poblaciones históricamente marginadas, así como el rechazo al racismo, la xenofobia y la discriminación. Esta combinación de izquierda económica con orientación progresista en lo social es coherente con su autodefinición como partido de socialismo democrático y socialdemocracia, y con su trayectoria como principal fuerza institucional de la izquierda colombiana antes de la consolidación del Pacto Histórico. La posición no es extrema en el eje vertical porque el partido ha actuado dentro de los marcos institucionales y constitucionales, privilegiando la vía electoral y reformista sobre planteamientos rupturistas.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/Polo_Democrático_Alternativo",
-          "title": "Polo Democrático Alternativo",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Polo Democrático Alternativo"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro del Polo Democrático",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro del Polo Democrático"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Polo_Democr%C3%A1tico_Alternativo",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Polo Democrático Alternativo"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/partidos/perfil/pda--polo-democratico-alternativo/6/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Partido PDA - Polo Democrático Alternativo"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alternative_Democratic_Pole",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Alternative Democratic Pole"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1306,14 +1624,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/Polo_Democr%C3%A1tico_Alternativo",
         "outlet": "Wikipedia",
-        "title": "Polo Democrático — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Polo Democrático — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://www.polodemocratico.net/",
+        "outlet": "Polo Democrático Alternativo",
+        "date": "2026-06-22",
+        "title": "Polo Democrático Alternativo - Sitio oficial"
+      },
+      {
+        "url": "https://www.radionacional.co/actualidad/politica/polo-democratico-se-integra-pacto-historico",
+        "outlet": "Radio Nacional de Colombia",
+        "date": "2025-04-15",
+        "title": "Congreso del Polo Democrático aprueba integración al Pacto Histórico"
+      },
+      {
+        "url": "https://www.senado.gov.co/index.php/el-senado/noticias/6343-el-polo-democratico-alternativo-pda-ha-decidido-ser-parte-del-movimiento-politico-pacto-historico",
+        "outlet": "Senado de la República de Colombia",
+        "date": "2025-04-15",
+        "title": "El Polo Democrático Alternativo - PDA ha decidido ser parte del movimiento político Pacto Histórico"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Pacto_Hist%C3%B3rico_(coalici%C3%B3n_pol%C3%ADtica)",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Pacto Histórico (coalición política)"
       }
     ]
   },
@@ -1324,33 +1666,51 @@
     "fullName": "Partido Nuevo Liberalismo",
     "color": "#ef4444",
     "foundedYear": 1979,
-    "description": "Partido colombiano fundado originalmente el 25 de noviembre de 1979 por Luis Carlos Galán Sarmiento como disidencia reformista del Partido Liberal, con énfasis en lucha contra el narcotráfico y renovación política. Su líder fue asesinado por órdenes del cartel de Medellín el 18 de agosto de 1989. El partido se disolvió y reingresó al Liberal. En 2021 fue reconstituido legalmente por los hijos de Galán (Juan Manuel y Carlos Fernando) tras un fallo de la Corte Constitucional que les devolvió la personería jurídica. Se define como liberal socialdemócrata con énfasis en anticorrupción y seguridad democrática con enfoque en derechos humanos.",
+    "description": "El Nuevo Liberalismo es un partido político colombiano fundado el 20 de julio de 1979 por Luis Carlos Galán Sarmiento y Rodrigo Lara Bonilla como una disidencia reformista del Partido Liberal, en rechazo a la burocratización del liberalismo tradicional y a la influencia del clientelismo y del narcotráfico en la política. Bajo el liderazgo de Galán, el movimiento promovió la renovación ética de la política, la modernización del Estado y una frontal lucha contra los carteles de la droga. Galán fue candidato presidencial en 1982, cuando obtuvo cerca del 11 % de los votos, y su ministro de Justicia aliado, Rodrigo Lara Bonilla, fue asesinado por el narcotráfico en 1984. En 1987 el movimiento regresó al Partido Liberal y, el 18 de agosto de 1989, Galán fue asesinado durante un acto de campaña en Soacha por órdenes del cartel de Medellín, lo que truncó su aspiración presidencial para 1990.\n\nTras décadas de inactividad, el partido recuperó su personería jurídica en 2021. Mediante la Sentencia SU-257 de 2021 (5 de agosto), la Corte Constitucional ordenó reconocer provisionalmente la personería del Nuevo Liberalismo para las elecciones de 2022 y 2026, decisión formalizada por la Resolución 7822 de 2021 del Consejo Nacional Electoral. La refundación fue liderada por los hijos de Galán, Juan Manuel y Carlos Fernando Galán. Ideológicamente se ubica en el espectro liberal de centro, con énfasis en el liberalismo social, la anticorrupción, la transparencia institucional y propuestas sociales en salud, educación y política de drogas con enfoque de salud pública.\n\nEn las elecciones legislativas de 2022 el partido obtuvo una votación modesta que no le permitió alcanzar escaños en el Senado, aunque sí logró representación en la Cámara de Representantes y cargos regionales. En la contienda presidencial de 2022 participó dentro de la Coalición Centro Esperanza, cuyo candidato fue Sergio Fajardo. En octubre de 2023 Carlos Fernando Galán fue elegido alcalde de Bogotá. De cara a los comicios de 2026, Juan Manuel Galán fue proclamado candidato presidencial único del partido el 31 de octubre de 2025. Su lema es \"Siempre adelante, ni un paso atrás\".",
     "ideologies": [
       "social-liberalism",
       "social-democracy",
       "progressivism"
     ],
     "compassPosition": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
-      "justification": "Según sus documentos constitutivos, Nuevo Liberalismo se define como liberal, de centro, con énfasis en modernización estatal, eficiencia administrativa, lucha anticorrupción y reformas liberales moderadas.",
+      "justification": "La posición del Nuevo Liberalismo en el cuadrante de centro con leve inclinación a la derecha en el eje económico (x = 1) y claramente en la mitad libertaria/progresista del eje social (y = -4,17) refleja su identidad histórica y programática. En lo económico, el partido se reivindica heredero de un liberalismo reformista y modernizador, no estatista ni socialista: prioriza la eficiencia administrativa, la lucha anticorrupción, la transparencia en la contratación pública y la modernización del Estado, sin proponer una transformación radical del modelo de mercado, lo que lo sitúa apenas a la derecha del centro económico. A diferencia del Pacto Histórico y la izquierda, no plantea una economía dirigida por el Estado; y a diferencia del uribismo y la derecha tradicional, integra propuestas sociales en salud, educación y pensiones, manteniéndose en una posición de centro.\n\nEn el eje social y de libertades el partido se ubica con nitidez en el campo progresista y libertario. Su bandera fundacional —encarnada por Luis Carlos Galán— fue la renovación ética de la política frente al clientelismo, las maquinarias y la captura del Estado por el narcotráfico, un discurso de fortalecimiento institucional y participación democrática. En su versión refundada, Juan Manuel Galán ha sido una de las voces más visibles en Colombia a favor de una reforma a la política de drogas con enfoque de salud pública y regulación, así como de la defensa de derechos individuales y libertades civiles. Esa combinación de liberalismo social, énfasis en derechos y rechazo al autoritarismo explica el valor marcadamente negativo en el eje y. El partido busca diferenciarse tanto del polo conservador-autoritario como del polo de izquierda estatista, ocupando un espacio de centro liberal y socialmente progresista.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/Nuevo_Liberalismo",
-          "title": "Nuevo Liberalismo",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Nuevo Liberalismo"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Nuevo Liberalismo",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Nuevo Liberalismo"
+        },
+        {
+          "url": "https://www.corteconstitucional.gov.co/Relatoria/2021/SU257-21.htm",
+          "outlet": "Corte Constitucional de Colombia",
+          "date": "2021-08-05",
+          "title": "Sentencia SU-257 de 2021"
+        },
+        {
+          "url": "https://nuevoliberalismo.org/",
+          "outlet": "Nuevo Liberalismo",
+          "date": "2026-06-22",
+          "title": "Partido Nuevo Liberalismo — Siempre adelante, ni un paso atrás"
+        },
+        {
+          "url": "https://www.infobae.com/america/colombia/2021/08/06/que-es-el-nuevo-liberalismo-y-por-que-la-corte-lo-revivio/",
+          "outlet": "Infobae",
+          "date": "2021-08-06",
+          "title": "Qué es el Nuevo Liberalismo y por qué la Corte lo revivió"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1448,14 +1808,32 @@
       {
         "url": "https://es.wikipedia.org/wiki/Nuevo_Liberalismo",
         "outlet": "Wikipedia",
-        "title": "Nuevo Liberalismo — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Nuevo Liberalismo — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://www.infobae.com/america/colombia/2021/08/05/corte-constitucional-revive-el-nuevo-liberalismo-partido-que-fundo-luis-carlos-galan/",
+        "outlet": "Infobae",
+        "date": "2021-08-05",
+        "title": "Corte Constitucional revive el Nuevo Liberalismo, partido que fundó Luis Carlos Galán"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2025/10/31/juan-manuel-galan-es-oficializado-como-candidato-unico-presidencial-del-nuevo-liberalismo-para-2026-fue-decision-unanime/",
+        "outlet": "Infobae",
+        "date": "2025-10-31",
+        "title": "Juan Manuel Galán es oficialmente candidato presidencial único del Nuevo Liberalismo"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Elecciones_legislativas_de_Colombia_de_2022",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Elecciones legislativas de Colombia de 2022"
       }
     ]
   },
@@ -1466,33 +1844,45 @@
     "fullName": "Partido Dignidad y Compromiso",
     "color": "#0891b2",
     "foundedYear": 2023,
-    "description": "Partido político colombiano fundado en 2023 por la fusión del Movimiento de Salvación Nacional Dignidad (liderado por Jorge Enrique Robledo) y Compromiso Ciudadano (liderado por Sergio Fajardo). Surgió como alternativa independiente del centro con énfasis en educación, anticorrupción, institucionalidad y rigor técnico. Respalda la candidatura presidencial de Sergio Fajardo en 2026.",
+    "description": "Dignidad y Compromiso es un partido político colombiano que se ubica en el espectro de centro a centroizquierda y se presenta a sí mismo como una alternativa independiente frente a la polarización y a la política tradicional. Surgió de la fusión de dos organizaciones: el partido Dignidad —fundado el 29 de octubre de 2020 a partir del Movimiento Obrero Independiente y Revolucionario (MOIR), liderado por el exsenador Jorge Enrique Robledo, junto con sectores del antiguo Polo Democrático Alternativo y aliados sindicales, campesinos y empresariales— y el movimiento Compromiso Ciudadano, liderado por el exalcalde de Medellín y exgobernador de Antioquia Sergio Fajardo. La unión se oficializó el 18 de febrero de 2023, adoptando el nombre Dignidad y Compromiso, con el propósito declarado de construir, según Robledo, \"un partido de afiliados y no de caudillos\". El partido conserva la personería jurídica heredada de Dignidad. Su plataforma programática enfatiza la lucha contra la corrupción y el clientelismo, la defensa de la educación pública, la institucionalidad, los derechos de las mujeres, la inclusión y un gobierno basado en evidencia técnica, bajo el lema de un \"cambio serio y seguro\" sustentado en \"probidad, decencia y resultados\". En el plano electoral, su representación ha sido limitada: en las elecciones regionales de octubre de 2023 obtuvo varias alcaldías propias y otras en coalición, mientras que en el Congreso su bancada es reducida, con escaños en Senado y Cámara y figuras visibles como la representante Jennifer Pedraza. De cara a las elecciones de 2026, el partido respalda la tercera candidatura presidencial de Sergio Fajardo —inscrita en marzo de 2026 junto a la fórmula vicepresidencial Edna Bonilla— e integró la coalición \"¡Ahora Colombia!\", junto a Nuevo Liberalismo y MIRA, para presentar listas conjuntas al Senado. El partido ha enfrentado tensiones internas en torno a su estructura y a sus alianzas, así como el reto de traducir el prestigio individual de sus líderes en una tracción electoral más amplia.",
     "ideologies": [
       "social-liberalism",
       "progressivism",
       "technocracy"
     ],
     "compassPosition": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
-      "justification": "Partido de centro progresista liderado por Jorge Enrique Robledo y Sergio Fajardo, con agenda de descentralización, anticorrupción, calidad de la democracia y gobierno basado en evidencia técnica. Combina socialismo democrático moderado en lo económico con liberalismo en derechos civiles. Énfasis en la defensa de lo público, el respeto institucional y la independencia del ejecutivo, en contraste con los polos populistas del espectro colombiano.",
+      "justification": "La posición de Dignidad y Compromiso en el cuadrante de centro con leve inclinación a la izquierda económica (x = 1; y = -4.17) refleja la combinación de su herencia programática y su práctica política. En el eje económico, el partido recoge la tradición del MOIR y de Jorge Enrique Robledo, históricamente crítico de la flexibilización laboral y la apertura económica desregulada, y defensor del trabajo digno, de la producción nacional y de un Estado activo en la provisión de bienes públicos como la educación; esto lo sitúa apenas a la izquierda del centro, sin asumir posiciones de estatismo radical. Su discurso evita explícitamente las etiquetas de izquierda o derecha y privilegia la gestión técnica, la lucha contra la corrupción y los resultados verificables, lo que modera su ubicación económica. En el eje social y de autoridad, el valor marcadamente libertario (y = -4.17) corresponde a su énfasis en la calidad de la democracia, la independencia frente al ejecutivo, el respeto institucional, la transparencia, la diversidad, la inclusión y los derechos de las mujeres, en contraste con los polos populistas y autoritarios del espectro colombiano. Analistas como la Fundación Paz y Reconciliación lo caracterizan como un actor de centro-centroizquierda que busca articular la tradición de centroizquierda de Robledo con el centro antioqueño de Fajardo. La autodefinición del partido como tercera fuerza independiente, contraria al clientelismo y a los caudillismos, respalda esta lectura.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/Dignidad_y_Compromiso",
-          "title": "Dignidad y Compromiso",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Dignidad y Compromiso"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Dignidad y Compromiso",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Dignidad y Compromiso"
+        },
+        {
+          "url": "https://www.pares.com.co/la-fragmentacion-de-los-partidos-politicos-en-colombia-capitulo-5-el-nuevo-centro-nace-dividido-dignidad-y-compromiso-nuevo-liberalismo-y-verde-oxigeno/",
+          "outlet": "Fundación Paz y Reconciliación (Pares)",
+          "date": "2024-10-05",
+          "title": "La fragmentación de los partidos políticos en Colombia. Capítulo 5. El nuevo \"centro\" nace dividido: Dignidad y Compromiso, Nuevo Liberalismo y Verde Oxígeno"
+        },
+        {
+          "url": "https://dignidadycompromiso.co/",
+          "outlet": "Partido Dignidad y Compromiso",
+          "date": "2026-06-22",
+          "title": "Dignidad & Compromiso — Sitio oficial"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1590,14 +1980,44 @@
       {
         "url": "https://es.wikipedia.org/wiki/Dignidad_y_Compromiso",
         "outlet": "Wikipedia",
-        "title": "Dignidad y Compromiso — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Dignidad y Compromiso — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://www.eltiempo.com/politica/partidos-politicos/fajardo-y-jorge-robledo-oficializan-su-partido-dignidad-y-compromiso-743279",
+        "outlet": "El Tiempo",
+        "date": "2023-02-18",
+        "title": "Es oficial, nació el partido tras fusión de Jorge Robledo y Sergio Fajardo"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2023/02/18/sergio-fajardo-y-jorge-robledo-lanzaron-oficialmente-su-nuevo-partido-politico-dignidad-y-compromiso/",
+        "outlet": "Infobae",
+        "date": "2023-02-18",
+        "title": "Sergio Fajardo y Jorge Robledo lanzaron oficialmente su nuevo partido político \"Dignidad y Compromiso\""
+      },
+      {
+        "url": "https://www.elespectador.com/politica/sergio-fajardo-y-jorge-robledo-se-unen-para-crear-un-nuevo-partido/",
+        "outlet": "El Espectador",
+        "date": "2023-02-18",
+        "title": "Sergio Fajardo y Jorge Robledo se unen para crear un nuevo partido"
+      },
+      {
+        "url": "https://www.cne.gov.co/index.php/partidos-movimientos-politicos-y-grupos-significativos/778",
+        "outlet": "Consejo Nacional Electoral (CNE)",
+        "date": "2026-06-22",
+        "title": "Organizaciones políticas con personería jurídica vigente y sus respectivos logosímbolos"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Colombia_de_2026",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Elecciones presidenciales de Colombia de 2026"
       }
     ]
   },
@@ -1608,7 +2028,7 @@
     "fullName": "Partido Comunes",
     "color": "#f87171",
     "foundedYear": 2017,
-    "description": "Partido político colombiano fundado en 2017 como resultado del Acuerdo Final de Paz entre el gobierno de Juan Manuel Santos y las FARC-EP, que estableció en su punto 2 la conversión de la guerrilla en un partido político legal. Originalmente denominado Fuerza Alternativa Revolucionaria del Común (FARC) y posteriormente renombrado 'Comunes' en 2021 para distanciarse de la sigla histórica. El Acuerdo les garantizó 10 curules transitorias en Congreso (5 Senado + 5 Cámara) para los períodos 2018-2022 y 2022-2026.",
+    "description": "Comunes es un partido político colombiano surgido del Acuerdo Final de Paz firmado en 2016 entre el gobierno de Juan Manuel Santos y las Fuerzas Armadas Revolucionarias de Colombia - Ejército del Pueblo (FARC-EP). El punto 2 del Acuerdo contempló la transformación de la guerrilla en una organización política legal. Fundado en su congreso constitutivo celebrado en Bogotá entre el 28 y el 31 de agosto de 2017, nació con el nombre de Fuerza Alternativa Revolucionaria del Común (que conservaba la sigla FARC) y el 24 de enero de 2021 cambió oficialmente su denominación a Comunes, con el propósito de ampliar su convocatoria más allá de los excombatientes y distanciarse de la sigla histórica de la antigua guerrilla.\n\nEn lo ideológico, el partido se identifica con el socialismo democrático, el bolivarianismo y posturas reformistas de izquierda, con énfasis en la justicia social, la reforma agraria, la implementación del Acuerdo de Paz, la defensa de los sectores populares, la democracia participativa y la construcción de paz territorial. Su presidente es Rodrigo Londoño Echeverri, conocido como Timochenko, último comandante de las FARC-EP.\n\nEl Acuerdo de Paz le garantizó diez curules transitorias en el Congreso (cinco en el Senado y cinco en la Cámara de Representantes) para los periodos 2018-2022 y 2022-2026, independientemente de su votación. En las urnas su respaldo fue reducido: en 2018 obtuvo alrededor de 85.000 votos y en 2022 cifras aún menores (cerca de 25.700 al Senado y 21.400 a la Cámara). En las elecciones legislativas de marzo de 2026 se suprimieron las curules garantizadas y el partido debió competir en igualdad de condiciones con las demás agrupaciones; no alcanzó el umbral y quedó sin representación en el Congreso, lo que comprometió su personería jurídica. Tras ese revés, Londoño reafirmó el compromiso de continuar la actividad política dentro del marco democrático y descartó retomar las armas. El partido también ha enfrentado tensiones públicas derivadas de la reincidencia armada de algunos de sus cofundadores en las llamadas disidencias.",
     "ideologies": [
       "democratic-socialism",
       "classical-marxism"
@@ -1616,30 +2036,48 @@
     "compassPosition": {
       "x": -4.17,
       "y": -2.5,
-      "justification": "Según sus documentos constitutivos, Comunes se define como de izquierda, progresista, con énfasis en justicia social, inclusión de víctimas del conflicto, derechos de minorías, democracia participativa y construcción de paz territorial.",
+      "justification": "La posición de Comunes en el cuadrante de izquierda económica y libertario en lo social (x = -4.17, y = -2.5) se sustenta en su definición programática y su trayectoria. En el eje económico (izquierda), tanto sus documentos constitutivos como su sitio oficial lo identifican con el socialismo democrático y el bolivarianismo, con un programa centrado en la reforma agraria integral, la redistribución, la lucha 'contra los privilegios de unos pocos' y la defensa de los sectores populares y campesinos; estas banderas, herederas de las reivindicaciones históricas de las FARC-EP, lo ubican claramente a la izquierda del espectro, aunque la cifra no es extrema porque su práctica parlamentaria ha sido más reformista y pragmática que rupturista, centrada en defender la implementación del Acuerdo de Paz.\n\nEn el eje social (moderadamente libertario), el partido defiende la democracia participativa, los derechos de las víctimas del conflicto, los derechos de minorías y poblaciones vulnerables, la apertura democrática y la inclusión política, valores asociados a posturas progresistas y abiertas en lo cultural. El valor moderado en este eje (-2.5) refleja que, pese a su énfasis en libertades y participación, conserva una matriz organizativa de raíz marxista-leninista con fuerte disciplina interna y liderazgo jerárquico, lo que matiza una ubicación libertaria más pronunciada. La confianza media de esta posición obedece al reducido tamaño y peso electoral del partido y a la distancia entre su discurso de izquierda y algunos votos tácticos de su bancada orientados a proteger el Acuerdo de Paz.",
       "sources": [
         {
           "url": "https://www.comunes.org.co",
-          "title": "Sitio oficial de Comunes",
           "outlet": "Comunes",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Sitio oficial de Comunes"
         },
         {
           "url": "https://es.wikipedia.org/wiki/Comunes",
-          "title": "Comunes",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Comunes"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Comunes",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Comunes"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Comunes_(Colombia)",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Comunes (Colombia)"
+        },
+        {
+          "url": "https://partidocomunes.com.co/",
+          "outlet": "Partido Comunes",
+          "date": "2026-06-22",
+          "title": "Inicio - Partido Comunes"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Rodrigo_Londo%C3%B1o",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Rodrigo Londoño"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1737,14 +2175,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/Partido_Comunes",
         "outlet": "Wikipedia",
-        "title": "Partido Comunes — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Partido Comunes — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Elecciones_legislativas_de_Colombia_de_2026",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Elecciones legislativas de Colombia de 2026"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2026/03/12/adios-al-partido-comunes-timochenko-anticipo-el-futuro-del-movimiento-y-descarto-proyectos-politicos-armados-en-colombia/",
+        "outlet": "Infobae",
+        "date": "2026-03-11",
+        "title": "¿Adiós al partido Comunes?: 'Timochenko' anticipó el futuro del movimiento y descartó proyectos políticos armados en Colombia"
+      },
+      {
+        "url": "https://www.descifrandolaguerra.es/las-farc-de-guerrilla-revolucionaria-a-un-partido-del-comun/",
+        "outlet": "Descifrando la Guerra",
+        "date": "2021-08-28",
+        "title": "Las FARC: ¿De guerrilla revolucionaria a un partido del común?"
+      },
+      {
+        "url": "https://www.elcolombiano.com/colombia/politica/timochenko-lanza-su-estrategia-electoral-HN7953876",
+        "outlet": "El Colombiano",
+        "date": "2018-01-02",
+        "title": "Esta es la estrategia de Rodrigo Londoño para llegar a la presidencia"
       }
     ]
   },
@@ -1755,7 +2217,7 @@
     "fullName": "Movimiento Colombia Humana",
     "color": "#fbbf24",
     "foundedYear": 2011,
-    "description": "Movimiento político colombiano fundado en 2011 por Gustavo Petro tras su salida del Polo Democrático, originalmente como plataforma personal para su aspiración presidencial de 2018. Obtuvo personería jurídica por orden del Consejo de Estado en 2018. Es una de las organizaciones centrales del Pacto Histórico y su núcleo programático. Énfasis en transición energética, reforma agraria, economía productiva y pacto climático.",
+    "description": "Colombia Humana es un movimiento político colombiano de izquierda progresista que tiene su origen en el Movimiento Progresistas, creado el 27 de octubre de 2011 por Gustavo Petro tras su distanciamiento del Polo Democrático Alternativo. La organización funcionó inicialmente como plataforma electoral de Petro en Bogotá y, más adelante, como vehículo de su aspiración presidencial de 2018, en la que alcanzó la segunda vuelta. Su reconocimiento como personería jurídica fue resultado de un largo proceso institucional: tras decisiones desfavorables del Consejo Nacional Electoral y del Consejo de Estado, la Corte Constitucional, con ponencia del magistrado Alejandro Linares, ordenó el 16 de septiembre de 2021 al CNE conceder la personería jurídica al movimiento, habilitándolo formalmente de cara a las elecciones de 2022. En lo ideológico, Colombia Humana se identifica con el progresismo, la socialdemocracia y la justicia social, con énfasis en la transición energética y la salida gradual de los combustibles fósiles, la reforma agraria, la economía productiva, la defensa del ambiente y los páramos, la igualdad de género y la implementación de los acuerdos de paz. El movimiento fue una de las organizaciones fundadoras de la coalición Pacto Histórico, presentada el 11 de febrero de 2021, que integró a partidos y movimientos de izquierda y centroizquierda. En las elecciones de 2022 la coalición obtuvo una bancada significativa en el Congreso y Gustavo Petro ganó la Presidencia en segunda vuelta con el 50,44 % de los votos, en una fórmula con Francia Márquez. Entre sus figuras destacan Gustavo Petro como referente principal, además de dirigentes como Gloria Flórez. A partir de la decisión, anunciada en diciembre de 2024, de transformar la coalición en un partido político unificado, Colombia Humana inició un proceso de fusión junto con el Polo Democrático Alternativo, la Unión Patriótica y el Partido Comunista Colombiano para conformar el Movimiento Político Pacto Histórico; su incorporación formal fue aprobada el 3 de marzo de 2026. En consecuencia, su identidad organizativa autónoma se diluyó dentro del nuevo partido unitario de la izquierda colombiana, del que constituyó uno de los núcleos programáticos y de liderazgo.",
     "ideologies": [
       "democratic-socialism",
       "progressivism",
@@ -1764,30 +2226,42 @@
     "compassPosition": {
       "x": -4.17,
       "y": -2.5,
-      "justification": "Según sus documentos constitutivos, Colombia Humana se define como de izquierda progresista, con énfasis en justicia social, reforma integral, derechos de poblaciones vulnerables, transición energética y transformación democrática.",
+      "justification": "La posición de Colombia Humana en el cuadrante inferior izquierdo del compass (x = -4,17; y = -2,5) refleja su ubicación en la izquierda económica combinada con una orientación social libertaria o progresista. En el eje económico (x negativo, marcadamente a la izquierda), el movimiento defiende un papel activo del Estado en la economía, la reforma agraria, una transición energética que reduzca la dependencia de los hidrocarburos, mayor redistribución mediante reformas tributarias progresivas y la ampliación de derechos sociales como salud, educación y pensiones, postulados presentes en su plataforma programática y en el programa de gobierno que respaldó la candidatura presidencial de 2022. En el eje social (y negativo, hacia lo progresista o libertario), Colombia Humana promueve la igualdad de género, los derechos de poblaciones vulnerables y minorías, la profundización democrática, la participación ciudadana y la implementación de los acuerdos de paz, así como una agenda ambientalista. Su autodefinición como organización de izquierda progresista y socialdemócrata, su pertenencia a la coalición y luego al partido Pacto Histórico, y su trayectoria de gobierno bajo la presidencia de Gustavo Petro respaldan esta ubicación. El valor moderado del eje social (-2,5 frente al -4,17 económico) es coherente con tensiones documentadas entre el discurso de horizontalidad y participación y una toma de decisiones percibida como vertical en torno al liderazgo de Petro, así como con la matización del discurso anti-extractivista frente a las restricciones fiscales durante el ejercicio del gobierno.",
       "sources": [
         {
           "url": "https://www.colombiahumana.co",
-          "title": "Sitio oficial de Colombia Humana",
           "outlet": "Colombia Humana",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Sitio oficial de Colombia Humana"
         },
         {
           "url": "https://es.wikipedia.org/wiki/Colombia_Humana",
-          "title": "Colombia Humana",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Colombia Humana"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Colombia Humana",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Colombia Humana"
+        },
+        {
+          "url": "https://colombiahumana.co",
+          "outlet": "Colombia Humana",
+          "date": "2026-06-22",
+          "title": "Sitio oficial de Colombia Humana"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Pacto_Hist%C3%B3rico_(coalici%C3%B3n_pol%C3%ADtica)",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Pacto Histórico (coalición política)"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -1885,14 +2359,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/Colombia_Humana",
         "outlet": "Wikipedia",
-        "title": "Colombia Humana — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Colombia Humana — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Pacto_Hist%C3%B3rico_(partido_pol%C3%ADtico)",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Pacto Histórico (partido político)"
+      },
+      {
+        "url": "https://www.eltiempo.com/politica/partidos-politicos/gustavo-petro-que-significa-personeria-juridica-para-colombia-humana-618761",
+        "outlet": "El Tiempo",
+        "date": "2021-09-17",
+        "title": "Gustavo Petro: ¿qué significa personería jurídica para Colombia Humana?"
+      },
+      {
+        "url": "https://www.elcolombiano.com/colombia/politica/corte-constitucional-concedio-personeria-juridica-a-colombia-humana-de-gustavo-petro-IL15691238",
+        "outlet": "El Colombiano",
+        "date": "2021-09-16",
+        "title": "Corte Constitucional le concedió personería jurídica a la Colombia Humana de Gustavo Petro"
+      },
+      {
+        "url": "https://www.infobae.com/america/colombia/2021/09/02/gustavo-petro-insiste-en-que-colombia-humana-es-la-primera-fuerza-politica-del-pais/",
+        "outlet": "Infobae",
+        "date": "2021-09-02",
+        "title": "Gustavo Petro insiste en que Colombia Humana es la primera fuerza política del país"
       }
     ]
   },
@@ -1903,7 +2401,7 @@
     "fullName": "Liga de Gobernantes Anticorrupción",
     "color": "#f472b6",
     "foundedYear": 2021,
-    "description": "Movimiento político colombiano creado por Rodolfo Hernández Suárez, exalcalde de Bucaramanga, como plataforma para su aspiración presidencial de 2022. Hernández pasó a la segunda vuelta con una plataforma centrada exclusivamente en el combate a la corrupción, la austeridad estatal y el outsider anti-establishment. Perdió en segunda vuelta contra Gustavo Petro por estrecho margen (47,31% vs 50,44%). Hernández falleció en 2025.",
+    "description": "La Liga de Gobernantes Anticorrupción (LIGA) es un partido político colombiano que tuvo su origen en el movimiento ciudadano \"Lógica, Ética y Estética\", creado en 2015 en Bucaramanga para respaldar la candidatura a la alcaldía del ingeniero y empresario Rodolfo Hernández Suárez. La plataforma fue concebida principalmente como vehículo electoral de Hernández y se proyectó hacia la elección presidencial de 2022, con un discurso centrado en el combate a la corrupción, la austeridad en el gasto público y una identidad de outsider frente a la política tradicional. Su lema de campaña fue \"No robar, no mentir, no traicionar\".\n\nEn las elecciones presidenciales de 2022 Hernández, acompañado por la académica Marelen Castillo como fórmula vicepresidencial, alcanzó la segunda posición en la primera vuelta (cerca de 6 millones de votos, alrededor del 28%) y pasó al balotaje, donde obtuvo más de 10,6 millones de votos (47,31%), perdiendo frente a Gustavo Petro (50,44%). En virtud del Estatuto de la Oposición, ese resultado le otorgó una curul en el Senado a Hernández y otra en la Cámara de Representantes a Castillo.\n\nTras la campaña, el movimiento obtuvo personería jurídica como partido el 4 de agosto de 2022, mediante resolución del Consejo Nacional Electoral (CNE). La consolidación del partido estuvo marcada por conflictos internos: Marelen Castillo y varios congresistas electos quedaron por fuera de la nueva colectividad, lo que derivó en una demanda de Castillo para anular la personería jurídica. La Sección Quinta del Consejo de Estado rechazó esa demanda en 2024, de modo que el partido conservó su registro.\n\nEn términos ideológicos, la LIGA suele ubicarse en la derecha o centroderecha, con énfasis en gestión administrativa eficiente, reducción del gasto estatal, anticorrupción y rasgos de populismo de derecha y personalismo en torno a la figura de Hernández. El movimiento estuvo acompañado de controversias, incluida la condena penal de Hernández en el caso Vitalogic por presunta celebración indebida de contratos durante su alcaldía. Rodolfo Hernández falleció el 2 de septiembre de 2024, a los 79 años, por complicaciones de un cáncer. Tras su muerte, la dirigencia del partido —encabezada por Camilo Larios— anunció su intención de mantener la personería jurídica y dar continuidad al proyecto político.",
     "ideologies": [
       "nationalist-conservatism",
       "fiscal-conservatism"
@@ -1911,24 +2409,42 @@
     "compassPosition": {
       "x": 5.83,
       "y": 4.17,
-      "justification": "El movimiento se define como de centro-derecha, pragmático, con énfasis en gestión administrativa eficiente, desarrollo regional, autonomía territorial y soluciones locales a problemas nacionales. Ajuste post-Fase 1.5: la celda right-populism fue creada en auth_right. El partido cae en nationalist-conservatism con su posición actual (5.0, 4.0) y el grid reestructurado; la celda right-populism existe como referencia para futuros casos.",
+      "justification": "La posición asignada en el compass (x = 5.83, derecha; y = 4.17, ligeramente hacia el eje autoritario/conservador) refleja la combinación de elementos económicos y socioculturales del movimiento. En el eje económico (derecha), la plataforma de la Liga giró en torno a la austeridad fiscal, la reducción del gasto público, la eficiencia administrativa y un marcado discurso empresarial y antiburocrático, coherente con la trayectoria de Rodolfo Hernández como constructor y empresario; el llamado a \"acabar con el despilfarro\" y a vigilar a \"los políticos que han desangrado los recursos\" se inscribe en una lógica de Estado mínimo y disciplina del gasto, propia de la derecha económica. En el eje social/autoridad, el valor moderado hacia el polo autoritario se explica por el personalismo del proyecto, su discurso de mano dura contra la corrupción y de orden, y las posturas conservadoras y controvertidas de su líder durante la campaña de 2022, antes que por un programa social progresista. No se trata de una derecha ideológica clásica ni doctrinaria, sino de un movimiento pragmático y populista de derecha, construido alrededor de la figura de Hernández y de una bandera anticorrupción transversal. Esa mezcla —economía de derecha con austeridad y un perfil de autoridad y orden moderado, sin agenda social liberal— justifica una ubicación claramente a la derecha del centro y levemente por encima del eje horizontal hacia el cuadrante autoritario, sin llegar a posiciones extremas.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/Liga_de_Gobernantes_Anticorrupción",
-          "title": "Liga de Gobernantes Anticorrupción",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Liga de Gobernantes Anticorrupción"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Liga de Gobernantes",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Liga de Gobernantes"
+        },
+        {
+          "url": "https://www.infobae.com/america/colombia/2022/07/19/liga-de-gobernantes-anticorrupcion-movimiento-de-rodolfo-hernandez-se-inscribe-como-partido-ante-el-cne/",
+          "outlet": "Infobae",
+          "date": "2022-07-19",
+          "title": "Liga de Gobernantes Anticorrupción, movimiento de Rodolfo Hernández, se inscribe como partido ante el CNE"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Liga_de_Gobernantes_Anticorrupci%C3%B3n",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Liga de Gobernantes Anticorrupción"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2024/02/10/partido-politico-de-rodolfo-hernandez-no-perdera-su-personeria-juridica-gracias-al-consejo-de-estado/",
+          "outlet": "Infobae",
+          "date": "2024-02-10",
+          "title": "Partido político de Rodolfo Hernández no perderá su personería jurídica gracias al Consejo de Estado"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2026,14 +2542,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/Liga_de_Gobernantes_Anticorrupci%C3%B3n",
         "outlet": "Wikipedia",
-        "title": "Liga de Gobernantes — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Liga de Gobernantes — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/League_of_Anti-Corruption_Governors",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "League of Anti-Corruption Governors"
+      },
+      {
+        "url": "https://www.eltiempo.com/colombia/santander/el-legado-sigue-partido-de-la-liga-de-gobernantes-anticorrupcion-asi-sera-la-herencia-politica-de-rodolfo-hernandez-tras-su-muerte-3377426",
+        "outlet": "El Tiempo",
+        "date": "2024-09-02",
+        "title": "'El legado sigue': la herencia política de Rodolfo Hernández tras su muerte"
+      },
+      {
+        "url": "https://www.vanguardia.com/colombia/2024/09/02/urgente-fallecio-el-exalcalde-de-bucaramanga-rodolfo-hernandez/",
+        "outlet": "Vanguardia",
+        "date": "2024-09-02",
+        "title": "Urgente: Falleció el exalcalde de Bucaramanga, Rodolfo Hernández"
+      },
+      {
+        "url": "https://www.infobae.com/america/colombia/2022/10/01/la-liga-de-gobernantes-anticorrupcion-liderada-por-rodolfo-hernandez-estaria-liquidada/",
+        "outlet": "Infobae",
+        "date": "2022-10-01",
+        "title": "La Liga de Gobernantes Anticorrupción, liderada por Rodolfo Hernández, estaría liquidada"
       }
     ]
   },
@@ -2044,7 +2584,7 @@
     "fullName": "Movimiento de Salvación Nacional",
     "color": "#991b1b",
     "foundedYear": 1990,
-    "description": "Movimiento político colombiano fundado originalmente en 1990 por Álvaro Gómez Hurtado como disidencia del Partido Conservador. Ha tenido varias reencarnaciones. En 2024-2025 fue reactivado bajo el liderazgo de Enrique Gómez Martínez (hijo de Álvaro Gómez) y en 2026 respaldó formalmente la candidatura presidencial del abogado Abelardo de la Espriella con una plataforma de seguridad dura, anticorrupción, rechazo a asamblea constituyente y defensa de valores tradicionales.",
+    "description": "El Movimiento de Salvación Nacional (MSN) es un partido político colombiano de orientación conservadora, fundado en 1990 por el dirigente Álvaro Gómez Hurtado como una disidencia del Partido Conservador para respaldar su candidatura presidencial de ese año. Hijo del expresidente Laureano Gómez, Álvaro Gómez había aspirado a la Presidencia en varias ocasiones y, con el MSN, alcanzó la segunda votación en los comicios de 1990. El movimiento se consolidó como tercera fuerza en la Asamblea Nacional Constituyente de 1991, donde Gómez Hurtado ejerció como copresidente junto a Horacio Serpa y Antonio Navarro Wolff, contribuyendo a la redacción de la Constitución vigente. Tras el asesinato de Álvaro Gómez Hurtado en noviembre de 1995, el movimiento perdió impulso y, ante la falta de respaldo electoral suficiente, el Consejo Nacional Electoral le retiró la personería jurídica en 2006. El MSN recuperó su personería jurídica en diciembre de 2021, en un proceso de reactivación liderado por Enrique Gómez Martínez, sobrino del fundador. En las elecciones legislativas de 2022 obtuvo una representación mínima. De cara a las elecciones de 2026, el movimiento formalizó en agosto de 2025 una alianza con el abogado Abelardo de la Espriella y su movimiento Defensores de la Patria, con Enrique Gómez como jefe de debate de la campaña presidencial; la unión se sustentó en coincidencias declaradas en torno a la seguridad, el rescate de valores, la lucha contra la corrupción y la defensa de la democracia frente a lo que sus dirigentes caracterizan como un riesgo de deriva autoritaria. Con Enrique Gómez como cabeza de lista al Senado, el partido obtuvo en marzo de 2026 alrededor del 3,6 % de la votación (cerca de 693.582 votos), superó el umbral del 3 % requerido para conservar la personería jurídica y consiguió cuatro curules en el Senado y una en la Cámara de Representantes, con un crecimiento muy significativo frente a la elección anterior. La agenda actual del movimiento, articulada por sus congresistas, gira en torno a la fe, la familia y la seguridad, la defensa institucional y de la fuerza pública, y asuntos de la llamada agenda de vida y cultural, dentro de un posicionamiento explícitamente de derecha.",
     "ideologies": [
       "traditionalist-conservatism",
       "nationalist-conservatism",
@@ -2053,24 +2593,42 @@
     "compassPosition": {
       "x": 4.17,
       "y": 2.5,
-      "justification": "Según sus documentos constitutivos, Salvación Nacional se define como de derecha, conservador, con énfasis en orden público, seguridad, defensa institucional y valores tradicionales. Reubicado a (5.5, 6.0) en traditionalist-conservatism (ideología principal declarada) en vez de right-populism — el movimiento es más conservadurismo tradicionalista gomista que populismo personalista de derecha.",
+      "justification": "La posición del Movimiento de Salvación Nacional en el cuadrante de derecha económica y conservadurismo social (x=4.17, y=2.5) es coherente con su autodefinición y su trayectoria. En lo cultural y valórico, el movimiento se identifica abiertamente como de derecha y conservador: su plataforma actual prioriza la fe, la familia y la seguridad, la defensa de la fuerza pública y una agenda de vida (incluyendo posturas provida explícitas de sus congresistas), además de un énfasis fundacional, heredado del gomismo, en el orden y la institucionalidad, sintetizado en la idea de que 'lo verdaderamente revolucionario es el orden'. Su dirigente Enrique Gómez ha enmarcado la contienda de 2026 como una disyuntiva entre democracia con Estado de derecho y presencia militar efectiva, frente a lo que describe como un proyecto de izquierda radical, y ha situado al partido del lado de votantes cristianos y de la derecha, lo que ubica al movimiento claramente en el polo conservador del eje social. En lo económico, la coalición que el MSN integró de cara a 2026 promueve el crecimiento económico, el empleo, la seguridad jurídica para la inversión y un Estado más pequeño y eficiente, lineamientos propios de una derecha económica de mercado, lo que justifica una ubicación a la derecha del centro en el eje económico, sin alcanzar posiciones extremas. La confianza es media: el movimiento es relativamente pequeño y su perfil programático contemporáneo está fuertemente mediado por la alianza con la candidatura de Abelardo de la Espriella, por lo que su posición refleja tanto su tradición conservadora gomista como su inserción en el bloque de derecha actual.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/Salvación_Nacional",
-          "title": "Salvación Nacional",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Salvación Nacional"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Salvación Nacional",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Salvación Nacional"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/enrique-gomez-cabeza-de-lista-de-salvacion-nacional-estamos-entre-una-dictadura-con-cepeda-o-un-estado-de-derecho-vigente-con-de-la-espriella-3519861",
+          "outlet": "El Tiempo",
+          "date": "2025-12-26",
+          "title": "Enrique Gómez, cabeza de lista de Salvación Nacional: 'Estamos entre una dictadura con Cepeda o un Estado de derecho vigente con De la Espriella'"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/elecciones-2026-alianza-abelardo-de-la-espriella-salvacion-nacional-FF28788490",
+          "outlet": "El Colombiano",
+          "date": "2025-08-26",
+          "title": "Salvación Nacional oficializa alianza con Abelardo de la Espriella rumbo a 2026"
+        },
+        {
+          "url": "https://salvacionnacional.com/",
+          "outlet": "Salvación Nacional",
+          "date": "2026-06-22",
+          "title": "Inicio — Movimiento de Salvación Nacional"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2169,14 +2727,32 @@
       {
         "url": "https://es.wikipedia.org/wiki/Movimiento_de_Salvaci%C3%B3n_Nacional",
         "outlet": "Wikipedia",
-        "title": "Salvación Nacional — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Salvación Nacional — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://www.infobae.com/america/colombia/2021/11/02/renace-el-movimiento-de-salvacion-nacional-creado-por-el-desaparecido-alvaro-gomez-hurtado/",
+        "outlet": "Infobae",
+        "date": "2021-11-02",
+        "title": "Renace el Movimiento de Salvación Nacional creado por el desaparecido Álvaro Gómez Hurtado"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2025/08/26/abelardo-de-la-espriella-sera-respaldado-por-salvacion-nacional-enrique-gomez-asumira-como-su-jefe-de-debate-para-2026/",
+        "outlet": "Infobae",
+        "date": "2025-08-26",
+        "title": "Abelardo de la Espriella será respaldado por Salvación Nacional: Enrique Gómez asumirá como su jefe de debate para 2026"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2026/03/09/abelardo-de-la-espriella-se-encargo-de-que-salvacion-nacional-no-desapareciera-alcanzaron-mas-del-3-de-los-votos/",
+        "outlet": "Infobae",
+        "date": "2026-03-09",
+        "title": "Abelardo de la Espriella se encargó de que Salvación Nacional no desapareciera: alcanzaron más del 3% de los votos"
       }
     ]
   },
@@ -2187,7 +2763,7 @@
     "fullName": "Movimiento Fuerza Ciudadana",
     "color": "#14b8a6",
     "foundedYear": 2007,
-    "description": "Movimiento político regional colombiano con epicentro en el departamento de Magdalena y Santa Marta, liderado por Carlos Caicedo Omar desde 2007. Obtuvo personería jurídica nacional en 2022. Sus bases ideológicas son progresistas, autonomistas regionales y anti-establishment frente a los clanes políticos tradicionales de la Costa Caribe.",
+    "description": "Fuerza Ciudadana es un movimiento político colombiano de orientación de centroizquierda, con epicentro en el departamento del Magdalena y la ciudad de Santa Marta, en la Región Caribe. Tiene como figura central a Carlos Eduardo Caicedo Omar, quien lideró su gestación durante su etapa como rector de la Universidad del Magdalena y formalizó el movimiento el 15 de diciembre de 2007. De sus orígenes universitarios y comunitarios surgió una estructura que combina reivindicaciones progresistas, ambientalistas y un discurso de renovación frente a las estructuras políticas tradicionales de la Costa Caribe.\n\nEn su plataforma programática, el movimiento se define a favor de la construcción de un Estado social y democrático de carácter federalista, y promueve causas como la paz, los derechos de las mujeres, la equidad de género, el antirracismo y la protección ambiental. Plantea modelos de gobernanza que describe como transparentes, sostenibles, equitativos, pacíficos y democráticos, orientados a reducir la pobreza y la desigualdad en el Caribe colombiano.\n\nEn lo electoral, Fuerza Ciudadana ha tenido un peso decisivo en el Magdalena. Carlos Caicedo fue alcalde de Santa Marta (a partir de 2011) y posteriormente gobernador del Magdalena, electo en 2019 con cientos de miles de votos; en ese mismo ciclo Virna Johnson se convirtió en la primera alcaldesa de Santa Marta electa por voto popular. El movimiento conservó luego la Gobernación y la Alcaldía con candidatos afines, consolidando un fuerte dominio regional, además de representación en la Cámara de Representantes y en concejos municipales.\n\nSu situación jurídica ha sido inestable. Tras no superar el umbral en las elecciones legislativas de 2022, el Consejo Nacional Electoral le otorgó personería jurídica en diciembre de 2022, decisión que fue anulada por el Consejo de Estado en marzo de 2024 por presunta violación del artículo 108 de la Constitución; en febrero de 2025 esa pérdida de personería fue confirmada. Pese a ello, el movimiento ha mantenido influencia electoral en el Magdalena, lo que ha generado tensiones con el Pacto Histórico y el propio Gobierno nacional.",
     "ideologies": [
       "progressivism",
       "social-democracy",
@@ -2196,24 +2772,42 @@
     "compassPosition": {
       "x": -2.5,
       "y": -2.5,
-      "justification": "El movimiento se define como independiente, de centro, con énfasis en participación ciudadana, lucha anticorrupción, transparencia institucional y reforma política.",
+      "justification": "La posición asignada (x = -2,5; y = -2,5), en el cuadrante de izquierda económica y liberal/progresista en lo social, es coherente con la plataforma declarada del movimiento y con su trayectoria de gobierno. En el eje económico (izquierda), Fuerza Ciudadana se autodefine como un proyecto progresista de centroizquierda que aspira a un Estado social y democrático de carácter federalista, con énfasis en la reducción de la pobreza y la desigualdad, programas sociales y un discurso contrario a las estructuras económicas y políticas tradicionales de la Región Caribe. Distintos análisis lo ubican explícitamente como una fuerza del progresismo y fue uno de los movimientos que respaldaron la llegada de Gustavo Petro a la Presidencia.\n\nEn el eje social (libertario/progresista), su agenda incorpora la defensa de la paz, los derechos de las mujeres, la equidad de género, el antirracismo y la protección ambiental, banderas asociadas a posturas socialmente liberales. El componente regionalista y de autonomía territorial frente al centralismo refuerza un perfil descentralizador.\n\nEl valor no se sitúa en el extremo del cuadrante por matices documentados: el movimiento ha establecido alianzas nacionales y concesiones programáticas, y su práctica de gobierno en el Magdalena ha sido cuestionada por concentración familiar de cargos y por señalamientos a su gestión, elementos en tensión con su discurso de renovación. El presidente Petro llegó incluso a calificarlo como un partido 'tradicional' en el contexto de la disputa electoral en el Magdalena. Por ello la posición es de izquierda-progresista moderada y no radical, con un nivel de confianza medio.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/Fuerza_Ciudadana",
-          "title": "Fuerza Ciudadana",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Fuerza Ciudadana"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Fuerza Ciudadana",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Fuerza Ciudadana"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Fuerza_Ciudadana_(Colombia)",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Fuerza Ciudadana (Colombia)"
+        },
+        {
+          "url": "https://www.sur.org.co/fuerza-ciudadana-el-unico-partido-del-progresismo-se-consolida-y-avanza/",
+          "outlet": "Revista Sur",
+          "date": "2023-10-30",
+          "title": "Fuerza Ciudadana: el único partido del progresismo se consolida y avanza"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/petro-califico-a-fuerza-ciudadana-como-un-partido-tradicional-que-le-gano-al-progresismo-en-magdalena-y-elevo-el-malestar-con-carlos-caicedo-3511926",
+          "outlet": "El Tiempo",
+          "date": "2025-11-26",
+          "title": "Petro calificó a Fuerza Ciudadana como un partido 'tradicional' que le ganó al progresismo en Magdalena"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2311,14 +2905,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/Fuerza_Ciudadana",
         "outlet": "Wikipedia",
-        "title": "Fuerza Ciudadana — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Fuerza Ciudadana — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://fuerzaciudadana.com.co/historia/",
+        "outlet": "Fuerza Ciudadana (sitio oficial)",
+        "date": "2026-06-22",
+        "title": "Historia — Fuerza Ciudadana"
+      },
+      {
+        "url": "https://www.infobae.com/america/colombia/2023/01/03/el-polemico-carlos-caicedo-ya-tiene-partido-politico-fuerza-ciudadana-recibio-la-personeria-juridica/",
+        "outlet": "Infobae",
+        "date": "2023-01-03",
+        "title": "El polémico Carlos Caicedo ya tiene partido político: Fuerza Ciudadana recibió la personería jurídica"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2025/02/14/consejo-de-estado-confirmo-la-perdida-de-personeria-juridica-del-partido-fuerza-ciudadana-liderado-por-carlos-caicedo/",
+        "outlet": "Infobae",
+        "date": "2025-02-14",
+        "title": "Consejo de Estado confirmó la pérdida de personería jurídica del partido Fuerza Ciudadana"
+      },
+      {
+        "url": "https://www.elespectador.com/judicial/anulan-personeria-juridica-del-partido-de-carlos-caicedo-fuerza-ciudadana-noticias-hoy/",
+        "outlet": "El Espectador",
+        "date": "2024-03-07",
+        "title": "Anulan personería jurídica del partido de Carlos Caicedo, Fuerza Ciudadana"
       }
     ]
   },
@@ -2329,7 +2947,7 @@
     "fullName": "Movimiento Alternativo Indígena y Social",
     "color": "#65a30d",
     "foundedYear": 2013,
-    "description": "Partido político colombiano fundado en 2013 como reconocimiento jurídico del movimiento político del Consejo Regional Indígena del Cauca (CRIC) y otras organizaciones indígenas. Su plataforma promueve los derechos de los pueblos indígenas, plurinacionalidad, Madre Tierra y economía comunitaria. Integrante del Pacto Histórico desde 2021.",
+    "description": "El Movimiento Alternativo Indígena y Social (MAIS) es un partido político colombiano de orientación de izquierda surgido del movimiento indígena del país. Su gestación se vincula al VII Congreso Nacional Indígena de 2007, en el que el liderazgo indígena decidió retomar la participación en la política electoral, y fue constituido formalmente en 2013 en el municipio de Santander de Quilichao (Cauca), bajo el impulso de la Organización Nacional Indígena de Colombia (ONIC) y de organizaciones de base como el Consejo Regional Indígena del Cauca (CRIC), cuyo proceso organizativo se remonta a la década de 1970. El partido obtuvo su personería jurídica tras alcanzar una curul en el Senado en las elecciones legislativas de 2014, mediante la circunscripción especial indígena, con Luis Evelis Andrade.\n\nIdeológicamente, MAIS se define como indigenista, plurinacional, agrarista y progresista, y proclama la defensa de los derechos humanos, la autonomía territorial de los pueblos originarios, la protección de la \"Madre Tierra\" y el \"buen vivir\". Su emblema, una mazorca de maíz amarilla sobre fondo rojo con hojas verdes, simboliza la identidad, el saber ancestral y las tradiciones.\n\nEn su trayectoria electoral, MAIS ha mantenido representación estable en la circunscripción especial indígena del Senado y la Cámara de Representantes en los ciclos de 2014, 2018 y 2022. A partir de 2018 se acercó a la izquierda mediante coaliciones como la Lista de la Decencia y el respaldo a la candidatura presidencial de Gustavo Petro, y desde 2021 integra la coalición del Pacto Histórico. En las elecciones de 2022, varios congresistas resultaron electos avalados por MAIS dentro del Pacto, entre ellos figuras no indígenas como Gustavo Bolívar, María José Pizarro, David Racero y César Pachón, junto a liderazgos indígenas como Aida Quilcué (Senado, circunscripción indígena) y Norman David Bañol (Cámara indígena). En las elecciones regionales de 2023 obtuvo alcaldías, concejales y diputaciones en distintos departamentos.\n\nEntre sus figuras actuales destacan Martha Peralta Epieyú (presidenta del partido y senadora), Feliciano Valencia y Aida Quilcué, esta última anunciada en 2026 como fórmula vicepresidencial de Iván Cepeda en el Pacto Histórico. El partido conserva su personería jurídica y mantiene representación parlamentaria y de gobiernos locales.",
     "ideologies": [
       "progressivism",
       "green-politics",
@@ -2338,24 +2956,42 @@
     "compassPosition": {
       "x": -2.5,
       "y": -2.5,
-      "justification": "Según sus documentos constitutivos, MAIS se define como de izquierda, progresista, con énfasis en justicia ambiental, derechos de minorías, inclusión social y defensa de ecosistemas.",
+      "justification": "MAIS se ubica en el cuadrante de izquierda y libertario-progresista (x = -2.5, y = -2.5). En el eje económico-social (x), su orientación de izquierda se sustenta en una plataforma que reivindica la economía comunitaria, el agrarismo, la autonomía territorial frente al modelo extractivista y la justicia social y ambiental, prioridades distributivas y comunitarias por encima del mercado. El partido se autodefine como de izquierda y ha consolidado esa posición mediante su integración en coaliciones progresistas (Lista de la Decencia en 2018 y el Pacto Histórico desde 2021) y el respaldo a la agenda del gobierno de Gustavo Petro.\n\nEn el eje sociocultural (y), su carácter libertario-progresista se expresa en la defensa de los derechos de los pueblos indígenas y minorías étnicas, la plurinacionalidad, el reconocimiento de la diversidad cultural, la protección de la \"Madre Tierra\" y los derechos humanos, valores que el propio movimiento proclama al describirse como pluralista, democrático, incluyente y defensor de la diversidad. Su énfasis en la autonomía de las comunidades y en agendas de inclusión social y ambiental lo sitúa en el polo progresista del eje cultural. Estos valores son consistentes con su origen en el movimiento indígena del CRIC y la ONIC y con su actuación legislativa dentro del bloque de izquierda.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/MAIS",
-          "title": "MAIS",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "MAIS"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de MAIS",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de MAIS"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Movimiento_Alternativo_Ind%C3%ADgena_y_Social",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Movimiento Alternativo Indígena y Social"
+        },
+        {
+          "url": "https://mais.com.co/",
+          "outlet": "MAIS",
+          "date": "2026-06-22",
+          "title": "Inicio — MAIS, Movimiento Alternativo Indígena y Social"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Pacto_Hist%C3%B3rico_(coalici%C3%B3n_pol%C3%ADtica)",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Pacto Histórico (coalición política)"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2453,14 +3089,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/Movimiento_Alternativo_Ind%C3%ADgena_y_Social",
         "outlet": "Wikipedia",
-        "title": "MAIS — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "MAIS — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://mais.com.co/electos/congresistas/",
+        "outlet": "MAIS",
+        "date": "2026-06-22",
+        "title": "Congresistas — MAIS"
+      },
+      {
+        "url": "https://www.cric-colombia.org/portal/pronuciamiento-iv-convencion-del-movimiento-alternativo-indigena-social-mais-cric-cauca/",
+        "outlet": "Consejo Regional Indígena del Cauca (CRIC)",
+        "date": "2026-06-22",
+        "title": "Pronunciamiento frente a la IV convención del MAIS"
+      },
+      {
+        "url": "https://www.onic.org.co/noticias/98-regionales/461-comunicado-de-la-onic-y-el-cric-sobre-el-surgimiento-del-movimiento-alternativo-indigena-y-social-mais",
+        "outlet": "Organización Nacional Indígena de Colombia (ONIC)",
+        "date": "2026-06-22",
+        "title": "Comunicado de la ONIC y el CRIC sobre el surgimiento del MAIS"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Aida_Quilcu%C3%A9",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Aida Quilcué"
       }
     ]
   },
@@ -2471,7 +3131,7 @@
     "fullName": "Autoridades Indígenas de Colombia",
     "color": "#84cc16",
     "foundedYear": 1991,
-    "description": "Partido político colombiano fundado en 1991 como expresión electoral del movimiento indígena. Es uno de los partidos más antiguos con base indígena y ha obtenido curules en Congreso bajo circunscripción especial indígena. En 2025 acogió la candidatura presidencial de Daniel Quintero para las elecciones de 2026.",
+    "description": "Autoridades Indígenas de Colombia (AICO) es un movimiento político, social y cultural de base indígena, reconocido oficialmente como partido político colombiano el 15 de agosto de 1991. Sus raíces se remontan a las luchas por la tierra y la defensa de los derechos de los pueblos originarios del suroccidente del país: en 1978 surgió la Organización de Autoridades Indígenas del Suroccidente (AISO), vinculada a comunidades como la misak, que en 1987 adoptó el nombre de Movimiento de Autoridades Indígenas de Colombia (AICO), integrando cabildos y autoridades tradicionales de distintas regiones. Con la convocatoria de la Asamblea Nacional Constituyente, AICO decidió expresarse como movimiento político y presentar lista propia, logrando la elección del líder misak Lorenzo Muelas Hurtado como constituyente en 1991, hito que marcó el reconocimiento constitucional de la diversidad étnica y cultural de Colombia. Programáticamente, el movimiento se fundamenta en principios de territorialidad, autonomía, identidad, historia propia, participación y diversidad e interculturalidad, y promueve el gobierno propio de los pueblos indígenas, la protección de los territorios ancestrales y una educación y justicia propias de cada pueblo. A lo largo de su trayectoria ha obtenido representación principalmente a través de la circunscripción especial indígena, con figuras como los senadores Floro Tunubalá Paja, Marceliano Jamioy y Efrén Tarapués, además de representantes a la Cámara. En las elecciones de 2022 mantuvo presencia en el Senado por la circunscripción indígena. Su implantación territorial se concentra en departamentos del suroccidente, en especial Nariño y Cauca. En años recientes el partido ha enfrentado disputas internas de representación y cuestionamientos por el otorgamiento de avales a candidatos sin vínculo directo con las comunidades originarias. En diciembre de 2025, tras una asamblea de autoridades realizada en Pasto (Nariño), AICO otorgó su aval al exalcalde de Medellín Daniel Quintero como candidato presidencial para las elecciones de 2026, decisión que reactivó la aspiración de Quintero después de reveses ante la Registraduría y que generó debate público sobre la habilitación jurídica de la candidatura.",
     "ideologies": [
       "progressivism",
       "green-politics"
@@ -2479,24 +3139,42 @@
     "compassPosition": {
       "x": -2.5,
       "y": -2.5,
-      "justification": "Según sus documentos constitutivos, AICO se define como movimiento de reivindicación indígena, con énfasis en autonomía territorial, derechos colectivos de pueblos indígenas, protección de cosmovisión indígena y justicia intercultural.",
+      "justification": "AICO se ubica en el cuadrante de centro-izquierda (x = -2,5; y = -2,5) por la combinación de su orientación económico-social y su talante en materia de valores y autoridad. En el eje económico (x = -2,5, hacia la izquierda), el movimiento defiende los derechos colectivos de los pueblos indígenas sobre la tierra y el territorio, la propiedad comunitaria y resguardos, formas propias de administración económica de las comunidades, y la protección de los territorios ancestrales frente a la gran minería y los proyectos extractivos. Su énfasis en lo comunitario y en la reconstrucción social y económica de las comunidades indígenas y minorías étnicas lo aleja del individualismo de mercado y lo aproxima a posiciones redistributivas y de economía solidaria. En el eje social/autoridad (y = -2,5, hacia el polo libertario-progresista), AICO promueve la autonomía territorial y el gobierno propio, el pluralismo jurídico y la justicia intercultural, el reconocimiento de la diversidad étnica y cultural y la cosmovisión indígena, así como una concepción plurinacional del Estado. Estos principios fundacionales —territorialidad, autonomía, identidad, participación, diversidad e interculturalidad— reflejan una agenda de ampliación de derechos y descentralización del poder más que de imposición de un orden moral o centralista. No se sitúa en el extremo del cuadrante porque su práctica política ha sido pragmática: ha buscado gobernabilidad local, ha establecido alianzas variables y ha otorgado avales a candidatos externos, lo que matiza una posición puramente radical. Por ello la confianza en la ubicación es media: el núcleo programático es claramente progresista y de izquierda comunitaria, pero la actuación electoral del partido muestra flexibilidad y tensiones internas que impiden una localización más extrema.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/Autoridades_Indígenas_de_Colombia",
-          "title": "Autoridades Indígenas de Colombia",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Autoridades Indígenas de Colombia"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de AICO",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de AICO"
+        },
+        {
+          "url": "https://www.movimientodeautoridadesindigenasaico.org/quienes-somos/",
+          "outlet": "AICO (sitio oficial)",
+          "date": "2026-06-22",
+          "title": "Quiénes Somos — Movimiento de Autoridades Indígenas de Colombia (AICO)"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/partidos/perfil/aico-autoridades-indigenas-de-colombia/9/",
+          "outlet": "Congreso Visible (Universidad de los Andes)",
+          "date": "2026-06-22",
+          "title": "Partido AICO — Autoridades Indígenas de Colombia"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Autoridades_Ind%C3%ADgenas_de_Colombia",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Autoridades Indígenas de Colombia"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2594,14 +3272,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/Autoridades_Ind%C3%ADgenas_de_Colombia",
         "outlet": "Wikipedia",
-        "title": "AICO — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "AICO — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://www.movimientodeautoridadesindigenasaico.org/",
+        "outlet": "AICO",
+        "date": "2026-06-22",
+        "title": "Movimiento de Autoridades Indígenas de Colombia (AICO) — Sitio oficial"
+      },
+      {
+        "url": "https://reformaspoliticas.org/wp-content/uploads/2022/03/Movimiento-de-Autoridades-Indigenas-de-Colombia-AICO.pdf",
+        "outlet": "Observatorio de Reformas Políticas",
+        "date": "2022-03-01",
+        "title": "Movimiento de Autoridades Indígenas de Colombia (AICO)"
+      },
+      {
+        "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/daniel-quintero-vuelve-a-la-carrera-presidencial-ahora-con-aval-de-partido-indigena-aico-noticias-hoy/",
+        "outlet": "El Espectador",
+        "date": "2025-12-15",
+        "title": "Daniel Quintero vuelve a la carrera presidencial, ahora con aval de partido indígena AICO"
+      },
+      {
+        "url": "https://www.lasillavacia.com/silla-amazonia/desprestigio-de-mais-y-aico-rebaraja-la-puja-por-las-curules-indigenas/",
+        "outlet": "La Silla Vacía",
+        "date": "2022-02-15",
+        "title": "Desprestigio de MAIS y AICO rebaraja la puja por las curules indígenas"
       }
     ]
   },
@@ -2612,7 +3314,7 @@
     "fullName": "Partido Unión Patriótica",
     "color": "#fde047",
     "foundedYear": 1985,
-    "description": "Partido político colombiano fundado el 28 de mayo de 1985 como resultado de los Acuerdos de La Uribe entre el gobierno de Belisario Betancur y las FARC-EP para permitir la participación política legal de la guerrilla. Sufrió un exterminio sistemático con más de 3.000 militantes asesinados entre 1986 y 2002, incluyendo dos candidatos presidenciales (Jaime Pardo Leal, 1987; Bernardo Jaramillo Ossa, 1990). Perdió la personería jurídica en 2002 y la recuperó en 2013 por orden del Consejo de Estado como reparación por el genocidio político. Hace parte del Pacto Histórico.",
+    "description": "La Unión Patriótica (UP) es un partido político colombiano de izquierda fundado el 28 de mayo de 1985, en el marco del proceso de paz derivado de los Acuerdos de La Uribe entre el gobierno de Belisario Betancur y las FARC-EP. Promovida también por el Partido Comunista Colombiano y diversos sectores sociales, nació como un espacio plural orientado a permitir la participación política legal de la insurgencia y de movimientos populares, con un programa centrado en la justicia social, la reforma agraria, la ampliación de la democracia y la solución negociada del conflicto armado. En su debut electoral de 1986 obtuvo un resultado notable: elegió varios senadores, representantes, diputados, concejales y alcaldes, y su candidato presidencial, Jaime Pardo Leal, alcanzó cerca de 328.000 votos, posicionándose como una tercera fuerza emergente.\n\nDesde sus primeros años, la UP fue víctima de un exterminio sistemático. Entre mediados de la década de 1980 y comienzos de los años 2000 fueron asesinados, desaparecidos o forzados al exilio miles de sus militantes; las cifras oficiales varían según la fuente, desde 4.153 personas documentadas por el Centro Nacional de Memoria Histórica hasta más de 5.700 registradas por la Jurisdicción Especial para la Paz, e incluyeron a dos candidatos presidenciales: Jaime Pardo Leal (asesinado en 1987) y Bernardo Jaramillo Ossa (asesinado en 1990). El Consejo Nacional Electoral le retiró la personería jurídica en 2002 tras no superar los umbrales electorales, pero el Consejo de Estado se la restituyó en 2013 al reconocer que la pérdida de votos fue consecuencia directa de la violencia ejercida contra el partido.\n\nEn enero de 2023, la Corte Interamericana de Derechos Humanos declaró al Estado colombiano responsable por las violaciones de derechos humanos cometidas contra más de 6.000 víctimas de la UP, calificando los hechos como un exterminio político y ordenando medidas de reparación y garantías de no repetición. Tras su reactivación, la principal figura del partido ha sido Aída Avella, sobreviviente del exterminio y senadora. En sus últimos años, la UP se integró a la coalición Pacto Histórico que llevó a Gustavo Petro a la presidencia en 2022. En diciembre de 2025, el Consejo Nacional Electoral reconoció la fusión de la Unión Patriótica, el Polo Democrático Alternativo y el Partido Comunista Colombiano en el nuevo partido Pacto Histórico, decisión que dispone la disolución de las tres colectividades una vez se cumplan condiciones procesales pendientes.",
     "ideologies": [
       "democratic-socialism",
       "classical-marxism",
@@ -2621,30 +3323,48 @@
     "compassPosition": {
       "x": -4.17,
       "y": -2.5,
-      "justification": "Según sus estatutos, la Unión Patriótica se define como de izquierda, progresista, con énfasis en justicia social, reforma agraria, participación política de sectores populares, defensa de derechos humanos y transición hacia un modelo más igualitario.",
+      "justification": "La posición de la Unión Patriótica en el cuadrante inferior izquierdo del compass (x = -4.17, y = -2.5) refleja una orientación claramente de izquierda en lo económico y progresista-libertaria en lo social y cultural. En el eje económico, su ubicación a la izquierda responde a un programa histórico y vigente centrado en la justicia social, la reforma agraria, la defensa de lo público, la ampliación de la cobertura pensional y de servicios, la protección de los recursos naturales y la crítica al modelo económico concentrador. Estos elementos provienen de su matriz fundacional ligada al Partido Comunista Colombiano y al socialismo democrático, y se mantienen en su plataforma actual, que enfatiza la 'paz con justicia social'.\n\nEn el eje social-cultural, su valor negativo (más libertario) se sustenta en la centralidad que el partido otorga a los derechos humanos, la participación política de sectores populares, el pluralismo, la memoria histórica y la reparación a las víctimas del genocidio político, así como en su defensa de la solución negociada del conflicto y de la ampliación de la democracia frente al autoritarismo. La magnitud moderada en este eje (-2.5, no extremo) es coherente con un partido que combina ese discurso democrático y de derechos con una tradición política institucional y con su integración a una coalición de gobierno amplia (el Pacto Histórico), donde su identidad programática autónoma tiende a diluirse en una agenda compartida. En conjunto, los estatutos, la trayectoria electoral y la actuación legislativa de la UP respaldan su ubicación como una fuerza de izquierda progresista de intensidad media-alta en lo económico y media en lo social.",
       "sources": [
         {
           "url": "https://www.unionpatriotica.co",
-          "title": "Sitio oficial de la Unión Patriótica",
           "outlet": "Unión Patriótica",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Sitio oficial de la Unión Patriótica"
         },
         {
           "url": "https://es.wikipedia.org/wiki/Unión_Patriótica",
-          "title": "Unión Patriótica",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Unión Patriótica"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Unión Patriótica",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Unión Patriótica"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_Patri%C3%B3tica_(Colombia)",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Unión Patriótica (Colombia)"
+        },
+        {
+          "url": "https://partido-up.org/",
+          "outlet": "Unión Patriótica",
+          "date": "2026-06-22",
+          "title": "Unión Patriótica | Partido Unión Patriótica"
+        },
+        {
+          "url": "https://www.radionacional.co/actualidad/politica/union-patriotica-cumple-40-anos-historia-resistencia-y-legado-politico-en",
+          "outlet": "Radio Nacional de Colombia",
+          "date": "2025-05-28",
+          "title": "Unión Patriótica cumple 40 años: historia, resistencia y legado político en Colombia"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2742,14 +3462,32 @@
       {
         "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_Patri%C3%B3tica_(Colombia)",
         "outlet": "Wikipedia",
-        "title": "Unión Patriótica — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Unión Patriótica — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://www.eltiempo.com/politica/partidos-politicos/como-nace-la-union-patriotica-up-y-quienes-son-sus-representantes-620303",
+        "outlet": "El Tiempo",
+        "date": "2021-09-23",
+        "title": "Cómo nace la Unión Patriótica UP y quiénes son sus representantes"
+      },
+      {
+        "url": "https://centrodememoriahistorica.gov.co/la-cidh-declaro-responsable-al-estado-colombiano-por-el-exterminio-de-la-union-patriotica/",
+        "outlet": "Centro Nacional de Memoria Histórica",
+        "date": "2023-01-30",
+        "title": "La CIDH declaró responsable al Estado colombiano por el exterminio de la Unión Patriótica"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2025/12/03/cne-reconocio-la-personeria-juridica-del-pacto-historico-resultado-de-la-fusion-entre-los-partidos-comunista-union-patriotica-y-polo-democratico/",
+        "outlet": "Infobae",
+        "date": "2025-12-03",
+        "title": "CNE reconoció la personería jurídica del Pacto Histórico: confirmada la fusión del Partido Comunista, la Unión Patriótica y el Polo Democrático"
       }
     ]
   },
@@ -2760,33 +3498,51 @@
     "fullName": "Partido En Marcha",
     "color": "#06b6d4",
     "foundedYear": 2018,
-    "description": "Partido político colombiano fundado en 2022 por Juan Fernando Cristo, exministro del Interior del gobierno de Juan Manuel Santos, como vehículo del centro político reformista. Énfasis en descentralización, reforma política, reformas institucionales y defensa del Acuerdo de Paz. Apoyó inicialmente al gobierno Petro.",
+    "description": "En Marcha es un partido político colombiano de orientación de centro a centroizquierda, identificado con el liberalismo social y el reformismo democrático. Su origen se remonta a noviembre de 2018, cuando el dirigente Juan Fernando Cristo —exministro del Interior del gobierno de Juan Manuel Santos, expresidente del Senado y exdirigente del Partido Liberal— anunció la creación de un movimiento tras su distanciamiento de la colectividad liberal y su rechazo al respaldo de esta al gobierno de Iván Duque. El proyecto se consolidó como movimiento político en los años siguientes, con énfasis en la descentralización, el federalismo, la reforma política e institucional, la defensa del Acuerdo de Paz de 2016 y la participación ciudadana.\n\nEn las elecciones legislativas de 2022, En Marcha concurrió sin personería jurídica propia integrado a la Coalición Centro Esperanza, que superó el umbral electoral; por esa vía resultaron elegidos tres senadores (entre ellos Guido Echeverri y Gustavo Moreno). En la segunda vuelta presidencial de 2022 respaldó la candidatura de Gustavo Petro. El Consejo Nacional Electoral le otorgó personería jurídica el 16 de diciembre de 2022, reconociéndolo formalmente como partido. En abril de 2023 una consulta interna respaldó el apoyo al gobierno Petro, postura que en septiembre de ese año fue revisada por la militancia, que se inclinó mayoritariamente por la independencia.\n\nLa situación jurídica del partido ha sido objeto de un litigio prolongado: el Consejo de Estado anuló su personería en 2024 al considerar que no acreditaba el umbral de manera autónoma por haber concurrido en coalición. La Corte Constitucional intervino —con un fallo en mayo de 2025 y una decisión posterior en noviembre de 2025— para habilitar al partido a postular candidaturas propias al Congreso y a la Presidencia, garantizando su participación en el ciclo electoral de 2026. Juan Fernando Cristo, quien además ejerció como ministro del Interior del gobierno Petro en 2024, ha sido su principal figura y presidente. De cara a 2026, En Marcha ha impulsado la conformación de coaliciones con sectores afines del centro y el progresismo.",
     "ideologies": [
       "social-liberalism",
       "third-way",
       "progressivism"
     ],
     "compassPosition": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
-      "justification": "El movimiento se define como de centro-izquierda, progresista, con énfasis en reforma social, equidad, participación ciudadana y transformación democrática.",
+      "justification": "La posición de En Marcha en el cuadrante de centro, ligeramente a la derecha del eje económico (x = 1) y en la mitad progresista/libertaria del eje social (y = -4.17), refleja la combinación de un programa económico moderado con una agenda social reformista y aperturista. En el eje económico, el partido no propone una transformación estructural del modelo de mercado: su discurso enfatiza la descentralización, el federalismo y la modernización institucional más que la nacionalización o una redistribución radical, lo que lo ubica cerca del centro con una leve inclinación al pragmatismo de mercado, en línea con la trayectoria socialliberal y de 'tercera vía' de su fundador, proveniente del liberalismo histórico. En el eje social, su posición claramente progresista se sustenta en la defensa del Acuerdo de Paz de 2016 y la justicia transicional, la ampliación de la participación ciudadana, la reforma política y democrática, y un perfil pacifista y garantista en materia de derechos. Su respaldo inicial a la candidatura y al gobierno de Gustavo Petro, así como la presencia de figuras del progresismo en sus foros ideológicos, confirman esa orientación. No obstante, la posterior decisión de su militancia de inclinarse por la independencia frente al gobierno y su vocación de construir consensos amplios entre el centro y la izquierda matizan el componente económico, manteniéndolo en una zona de centro reformista antes que de izquierda económica plena.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/En_Marcha",
-          "title": "En Marcha",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "En Marcha"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de En Marcha",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de En Marcha"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/En_Marcha_(Colombia)",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "En Marcha (Colombia)"
+        },
+        {
+          "url": "https://www.eltiempo.com/politica/partidos-politicos/en-marcha-partido-de-juan-fernando-cristo-tendra-asamblea-nacional-3337347",
+          "outlet": "El Tiempo",
+          "date": "2024-04-25",
+          "title": "En Marcha, partido de Juan Fernando Cristo, tendrá Asamblea Nacional"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2025/11/13/corte-constitucional-da-luz-verde-a-en-marcha-el-partido-de-juan-fernando-cristo-podra-postular-candidaturas-al-congreso-y-presidencia/",
+          "outlet": "Infobae",
+          "date": "2025-11-13",
+          "title": "Corte Constitucional da luz verde a En Marcha: el partido de Juan Fernando Cristo podrá postular candidaturas al Congreso y Presidencia"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -2884,14 +3640,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/En_Marcha_(Colombia)",
         "outlet": "Wikipedia",
-        "title": "En Marcha — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "En Marcha — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://www.lasillavacia.com/quien-es-quien/juan-fernando-cristo-bustos/",
+        "outlet": "La Silla Vacía",
+        "date": "2026-06-22",
+        "title": "Juan Fernando Cristo Bustos — Quién es Quién"
+      },
+      {
+        "url": "https://www.eltiempo.com/justicia/cortes/corte-constitucional-revive-en-marcha-el-partido-politico-del-exministro-juan-fernando-cristo-3453474",
+        "outlet": "El Tiempo",
+        "date": "2025-05-13",
+        "title": "Corte Constitucional revive En Marcha, el partido político del exministro Juan Fernando Cristo"
+      },
+      {
+        "url": "https://www.cne.gov.co/listado-de-partidos-politicos",
+        "outlet": "Consejo Nacional Electoral",
+        "date": "2026-06-22",
+        "title": "Listado de partidos políticos con personería jurídica"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Juan_Fernando_Cristo",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Juan Fernando Cristo"
       }
     ]
   },
@@ -2902,7 +3682,7 @@
     "fullName": "Creemos Colombia",
     "color": "#2563eb",
     "foundedYear": 2015,
-    "description": "Movimiento político colombiano fundado en 2019 en Medellín por Federico 'Fico' Gutiérrez, exalcalde de Medellín (2016-2019), como plataforma independiente. Fue el partido que respaldó su candidatura presidencial en 2022 bajo la coalición Equipo por Colombia (centro-derecha). Ha mantenido presencia regional significativa en Antioquia.",
+    "description": "Creemos (también conocido como Creemos Colombia o Movimiento Creemos) es una organización política colombiana de orientación de derecha nacida en Medellín. Surgió en julio de 2015 como un grupo significativo de ciudadanos impulsado por Federico 'Fico' Gutiérrez y diversos sectores sociales y culturales de la ciudad, con el propósito inicial de respaldar su candidatura a la Alcaldía de Medellín por fuera de los partidos tradicionales. En las elecciones regionales de 2015 Gutiérrez ganó la Alcaldía de Medellín con cerca del 35,8 % de los votos y gobernó la ciudad entre 2016 y 2019.\n\nEn términos ideológicos, el movimiento combina liberalismo económico (defensa del libre mercado, la responsabilidad fiscal y la eficiencia del Estado) con conservadurismo en el plano social, y reivindica un discurso de gestión pública, seguridad y lucha contra la ilegalidad. Para las elecciones presidenciales de 2022, Creemos respaldó nuevamente la candidatura de Gutiérrez, quien compitió y resultó ganador de la consulta de la coalición Equipo por Colombia (centro-derecha). En la primera vuelta presidencial de mayo de 2022, Gutiérrez obtuvo alrededor de 5.069.448 votos (cerca del 23,9 %) y quedó en tercer lugar, detrás de Gustavo Petro y Rodolfo Hernández.\n\nApoyándose en esa votación, en marzo de 2023 el Consejo Nacional Electoral (CNE) otorgó personería jurídica al partido Creemos, lo que le permitió avalar candidatos en las elecciones regionales de octubre de 2023, en las que Gutiérrez fue reelegido alcalde de Medellín. Sin embargo, en abril de 2024 el Consejo de Estado anuló esa personería jurídica, al considerar que la participación de Creemos en la consulta de Equipo por Colombia, junto con otros partidos, no le daba derecho a constituirse como partido independiente; el fallo no afectó retroactivamente a los cargos ya electos.\n\nDesde entonces, Creemos ha operado nuevamente como movimiento y ha buscado recuperar su reconocimiento legal por la vía electoral. De cara a las elecciones de 2026 respaldó la candidatura presidencial de Abelardo de la Espriella y presentó listas al Congreso, encabezando la lista al Senado Juliana Gutiérrez Zuluaga, hermana de Federico Gutiérrez. El movimiento mantiene su principal base de apoyo en Antioquia y en torno a la figura de Gutiérrez.",
     "ideologies": [
       "liberal-conservatism",
       "fiscal-conservatism",
@@ -2911,24 +3691,42 @@
     "compassPosition": {
       "x": 7.5,
       "y": 0.83,
-      "justification": "Según sus documentos constitutivos, Creemos se define como de centro-derecha, con énfasis en libre mercado, responsabilidad fiscal, eficiencia estatal y soluciones pragmáticas.",
+      "justification": "La posición de Creemos en el cuadrante económico de derecha y socialmente moderado-conservador (x = 7.5, y = 0.83) refleja la combinación entre liberalismo económico y conservadurismo social que caracteriza al movimiento. En el eje económico, sus documentos y plataforma enfatizan la defensa del libre mercado, la responsabilidad y disciplina fiscal, la eficiencia del Estado y soluciones pragmáticas de gestión pública, lo que justifica una ubicación claramente a la derecha (x alto). Esta orientación es coherente con su trayectoria de gobierno en Medellín, centrada en la administración eficiente, la inversión en infraestructura y seguridad, y la promoción de la empresa privada.\n\nEn el eje social, el valor cercano al centro pero ligeramente del lado conservador (y = 0.83) corresponde a un movimiento que mezcla un discurso de renovación y autonomía regional con valores conservadores en lo social y un fuerte énfasis en la seguridad y el orden. Aunque Creemos se presentó como una opción independiente y de base antioqueña, en la campaña presidencial de 2022 se integró a la coalición de centro-derecha Equipo por Colombia y recibió respaldo de sectores de la derecha tradicional, incluido el Centro Democrático, lo que confirma su cercanía al espectro de la derecha colombiana. La posición no es de extrema derecha porque el movimiento ha buscado diferenciarse por su énfasis en la gestión técnica y el pragmatismo más que por una agenda ideológica radical.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/Creemos",
-          "title": "Creemos",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Creemos"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Creemos",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Creemos"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Creemos_Colombia",
+          "outlet": "Wikipedia",
+          "date": "2026-06-22",
+          "title": "Creemos Colombia"
+        },
+        {
+          "url": "https://www.elcolombiano.com/colombia/politica/fico-gutierrez-ya-tiene-partido-politico-cne-otorga-personeria-juridica-a-creemos-JM20865581",
+          "outlet": "El Colombiano",
+          "date": "2023-03-23",
+          "title": "Fico Gutiérrez ya tiene partido político: CNE otorga personería jurídica a 'Creemos'"
+        },
+        {
+          "url": "https://www.infobae.com/colombia/2024/04/18/el-partido-creemos-de-federico-gutierrez-se-quedo-sin-personeria-juridica-que-pasara-con-los-electos-en-2022/",
+          "outlet": "Infobae",
+          "date": "2024-04-18",
+          "title": "El partido Creemos, de Federico Gutiérrez, se quedó sin personería jurídica: qué pasará con los electos en 2022"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -3026,14 +3824,32 @@
       {
         "url": "https://es.wikipedia.org/wiki/Creemos_Colombia",
         "outlet": "Wikipedia",
-        "title": "Creemos Colombia — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Creemos Colombia — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://www.elespectador.com/politica/federico-gutierrez-presento-oficialmente-su-partido-politico-creemos-no-descarta-ser-candidato/",
+        "outlet": "El Espectador",
+        "date": "2023-05-09",
+        "title": "Federico Gutiérrez presentó oficialmente su partido político Creemos, no descarta ser candidato"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2023/05/09/nos-declaramos-partido-de-oposicion-federico-gutierrez-presento-oficialmente-su-nuevo-movimiento-politico-creemos/",
+        "outlet": "Infobae",
+        "date": "2023-05-09",
+        "title": "\"Nos declaramos partido de oposición\": Federico Gutiérrez presentó oficialmente su nuevo movimiento político, \"Creemos\""
+      },
+      {
+        "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-hay-detras-del-apoyo-de-creemos-movimiento-fundado-por-federico-gutierrez-a-la-candidatura-presidencial-de-abelardo-de-la-espriella-3527924",
+        "outlet": "El Tiempo",
+        "date": "2026-01-28",
+        "title": "Qué hay detrás del apoyo de Creemos, movimiento fundado por Federico Gutiérrez, a la candidatura presidencial de Abelardo de la Espriella"
       }
     ]
   },
@@ -3044,33 +3860,51 @@
     "fullName": "Partido Verde Oxígeno",
     "color": "#22d3ee",
     "foundedYear": 1998,
-    "description": "Partido político colombiano reconstituido en 2021 tras el fallo del Consejo de Estado que devolvió la personería jurídica al Oxígeno Verde originalmente fundado por Íngrid Betancourt en 2001. Betancourt fue secuestrada por las FARC en 2002 y liberada en 2008. En 2022 se presentó como candidata presidencial pero renunció antes de la primera vuelta. Énfasis en anticorrupción, ambiente y derechos humanos. Fundado en 1998 por Ingrid Betancourt, perdió personería jurídica en 2005 y la recuperó en diciembre de 2021.",
+    "description": "El Partido Verde Oxígeno es una colectividad política colombiana fundada por la exsenadora y excandidata presidencial Íngrid Betancourt. Sus orígenes se remontan al Movimiento Oxígeno Liberal, reconocido en 1998, año en el que Betancourt fue elegida senadora con una de las votaciones más altas del país. En febrero de 2000 la organización adoptó el nombre de Verde Oxígeno, perfilándose con un discurso ecologista, anticorrupción y de regeneración democrática. El secuestro de Betancourt por las FARC el 23 de febrero de 2002, en plena campaña presidencial, desarticuló la estructura del partido, que terminó perdiendo su personería jurídica ante el Consejo Nacional Electoral en 2004-2005 por falta de actividad y respaldo.\n\nTras la liberación de Betancourt en 2008 y su posterior retorno a la política, el partido recuperó su personería jurídica el 1 de diciembre de 2021, mediante resolución del Consejo Nacional Electoral, en un proceso vinculado al reconocimiento de colectividades históricas. Para las elecciones de 2022, Verde Oxígeno se integró inicialmente a la Coalición Centro Esperanza, de la que Betancourt se retiró en enero de 2022 para lanzar una candidatura presidencial independiente. Una semana antes de la primera vuelta declinó su aspiración y respaldó a Rodolfo Hernández. El partido obtuvo una representación legislativa mínima; en julio de 2022 expulsó a los dos congresistas elegidos en sus listas, Humberto de la Calle y Daniel Carvalho, tras desacuerdos sobre la decisión de declararse en oposición al gobierno de Gustavo Petro.\n\nProgramáticamente, el partido ha reivindicado la lucha contra la corrupción, la defensa del medio ambiente y la transparencia institucional como ejes centrales, junto a banderas de disciplina fiscal, descentralización y empleo juvenil. De cara a las elecciones de 2026 impulsó la estrategia opositora denominada \"Selección AntiPetro\". En las legislativas del 8 de marzo de 2026 sus listas no alcanzaron el umbral requerido —cerca de 27.900 votos al Senado—, lo que derivó en una nueva pérdida de su personería jurídica ante el Consejo Nacional Electoral. La trayectoria del partido ha estado estrechamente ligada a la figura de Betancourt, lo que ha alimentado análisis sobre su carácter de plataforma personal con limitada estructura territorial.",
     "ideologies": [
       "social-liberalism",
       "green-politics",
       "progressivism"
     ],
     "compassPosition": {
-      "x": 1.0,
+      "x": 1,
       "y": -4.17,
-      "justification": "El movimiento se define como progresista, ecologista, con énfasis en protección ambiental, sostenibilidad, defensa de ecosistemas y justicia ambiental.",
+      "justification": "La posición de Verde Oxígeno en el compass (x=1, y=-4.17) lo ubica muy ligeramente hacia el centro-derecha en el eje económico y claramente en el cuadrante progresista o libertario en el eje social y cultural. En lo económico, el discurso del partido combina elementos de mercado y ortodoxia fiscal —disciplina fiscal, fortalecimiento del sector agropecuario, descentralización y formalización del empleo juvenil— con un fuerte énfasis ambientalista y de reducción de la pobreza, lo que explica una posición cercana al centro, apenas a la derecha del eje. No plantea un programa de transformación estructural de la propiedad o de fuerte intervención estatal redistributiva, sino una agenda de eficiencia, transparencia y gestión pública. En el eje social y cultural, el componente verde-progresista es dominante: protección de ecosistemas y del agua, sostenibilidad, defensa de los derechos humanos (reforzada por la propia historia de su fundadora como víctima del conflicto y defensora de los secuestrados), regeneración democrática, participación ciudadana e igualdad de género. Ese marcado perfil ecologista, garantista y anticorrupción justifica el valor pronunciadamente negativo en el eje vertical (-4.17), propio de una orientación libertaria-progresista. Cabe matizar que algunos análisis y clasificaciones describen al partido como de centro-derecha con un \"conservadurismo verde\", y que en la práctica su actuación ha estado fuertemente personalizada en torno a Íngrid Betancourt, con escasa estructura legislativa para materializar sus banderas programáticas, lo que introduce cierta tensión entre el discurso declarado y la incidencia real.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/Verde_Oxígeno",
-          "title": "Verde Oxígeno",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Verde Oxígeno"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Verde Oxígeno",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Verde Oxígeno"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Partido_Verde_Ox%C3%ADgeno",
+          "outlet": "Wikipedia",
+          "date": "2026-06-19",
+          "title": "Partido Verde Oxígeno"
+        },
+        {
+          "url": "https://verdeoxigeno.com/",
+          "outlet": "Verde Oxígeno",
+          "date": "2026-06-22",
+          "title": "Partido Oxígeno — Sitio oficial y principios"
+        },
+        {
+          "url": "https://www.kienyke.com/politica/personeria-juridica-partido-verde-oxigeno-de-ingrid-betancourt",
+          "outlet": "KienyKe",
+          "date": "2021-12-01",
+          "title": "Partido Verde Oxígeno de Ingrid Betancourt recibe su personería jurídica"
         }
       ],
       "confidence": "medium"
     },
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -3168,14 +4002,38 @@
       {
         "url": "https://es.wikipedia.org/wiki/Verde_Ox%C3%ADgeno",
         "outlet": "Wikipedia",
-        "title": "Verde Oxígeno — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Verde Oxígeno — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Partido_Ox%C3%ADgeno",
+        "outlet": "Wikipedia",
+        "date": "2026-06-19",
+        "title": "Partido Oxígeno"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2026/03/09/la-seleccion-antipetro-fue-derrotada-en-las-elecciones-2026-partido-de-ingrid-betancourt-perdio-su-personeria-juridica/",
+        "outlet": "Infobae",
+        "date": "2026-03-09",
+        "title": "La \"Selección AntiPetro\" fue derrotada en las elecciones 2026: partido de Ingrid Betancourt perdió su personería jurídica"
+      },
+      {
+        "url": "https://www.infobae.com/colombia/2024/11/01/ingrid-betancourt-podria-quedarse-sin-partido-consejo-de-estado-admitio-demanda-contra-personeria-de-verde-oxigeno/",
+        "outlet": "Infobae",
+        "date": "2024-11-01",
+        "title": "Ingrid Betancourt podría quedarse sin partido: Consejo de Estado admitió demanda contra personería de Verde Oxígeno"
+      },
+      {
+        "url": "https://www.elpais.com.co/colombia/ingrid-betancourt-solicito-al-cne-revivir-la-personeria-de-su-partido-verde-oxigeno.html",
+        "outlet": "El País (Cali)",
+        "date": "2021-10-26",
+        "title": "Ingrid Betancourt solicitó al CNE revivir la personería de su partido 'Verde Oxígeno'"
       }
     ]
   },
@@ -3187,7 +4045,7 @@
     "color": "#f97316",
     "websiteUrl": "https://www.colombiajustalibres.co/",
     "foundedYear": 2017,
-    "description": "Partido político colombiano de orientación cristiana evangélica, fundado en 2017 por dirigentes de varias congregaciones evangélicas. Obtuvo personería jurídica con base en representación legislativa. Promueve una agenda conservadora en valores familiares, defensa de la libertad religiosa, oposición al aborto y al matrimonio igualitario, combinada con liberalismo económico moderado.",
+    "description": "Colombia Justa Libres es un partido político colombiano de orientación cristiana evangélica y carácter conservador, constituido el 11 de diciembre de 2017 a partir de la fusión de dos movimientos previos, \"Libres\" y \"Colombia Justa\". Agrupa a buena parte de las denominaciones evangélicas del país, entre ellas las Asambleas de Dios, la Iglesia Cuadrangular, Misión Paz a las Naciones y Manantial de Vida Eterna, y declara fundar su acción política en una concepción cristiana de la vida, la familia, la sociedad y el Estado. El partido se reivindica defensor de la vida desde la concepción, de la familia tradicional y de la libertad religiosa, posiciones que lo ubican en el conservadurismo social. En lo económico defiende el libre mercado y la iniciativa privada, con matices sociales en temas agrarios y de emprendimiento. Obtuvo personería jurídica gracias a su votación en las elecciones legislativas de 2018, en las que alcanzó alrededor de 431.000 votos y logró tres curules en el Senado, ingresando por primera vez al Congreso de la República; su acceso al Senado estuvo acompañado de controversias durante el escrutinio final, cuando el Consejo Nacional Electoral confirmó las curules tras un reconteo y la Fiscalía mantuvo investigaciones por presuntas irregularidades en una parte de los votos. Entre sus figuras más visibles se cuenta el pastor John Milton Rodríguez, quien encabezó la lista al Senado. De cara a las elecciones de 2022, el partido conformó la coalición \"Nos Une Colombia\" junto con el Partido MIRA para presentar listas conjuntas al Congreso, acogiéndose a la reforma que permitía coaligarse a colectividades que no superaban cierto umbral. En el debate público, su bancada se ha identificado con la oposición a la ampliación del aborto, al matrimonio igualitario y a la eutanasia, sustentando sus iniciativas en principios de inspiración cristiana, lo que ha generado tensiones recurrentes en torno a la laicidad del Estado.",
     "ideologies": [
       "christian-democracy",
       "traditionalist-conservatism",
@@ -3196,19 +4054,25 @@
     "compassPosition": {
       "x": 0.83,
       "y": 0.83,
-      "justification": "Según sus documentos constitutivos, Colombia Justa Libres se define como de centro-derecha, con énfasis en justicia, seguridad, libre mercado y soluciones conservadoras a problemas sociales.",
+      "justification": "La posición de Colombia Justa Libres en el cuadrante autoritario de derecha (x = 0,83; y = 0,83) refleja la combinación de un conservadurismo social marcado con una orientación económica favorable al libre mercado. En el eje económico (x alto), el partido defiende la iniciativa privada, el emprendimiento y una intervención estatal acotada, alineándose con posiciones de derecha, aunque con algunos matices sociales en lo agrario. En el eje social y de valores (y alto), su programa parte explícitamente de una cosmovisión cristiana evangélica: defensa de la vida desde la concepción, oposición al aborto, al matrimonio entre personas del mismo sexo, a la adopción por parejas del mismo sexo y a la eutanasia, junto con la promoción de la familia tradicional y de un papel central de la fe en la vida pública. Esta agenda, sustentada en principios religiosos y traducida en iniciativas legislativas durante su paso por el Congreso desde 2018, sitúa al partido entre las fuerzas más conservadoras del espectro colombiano en cuestiones morales y de derechos individuales. Aunque la colectividad reivindica la libertad religiosa y emplea el término \"Libres\" en su nombre, su interpretación de la libertad se enmarca en un conjunto de valores tradicionales, lo que justifica una posición elevada en el eje autoritario-conservador del compass.",
       "sources": [
         {
           "url": "https://es.wikipedia.org/wiki/Colombia_Justa_Libres",
-          "title": "Colombia Justa Libres",
           "outlet": "Wikipedia",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Colombia Justa Libres"
         },
         {
           "url": "https://www.registraduria.gov.co",
-          "title": "Registro de Colombia Justa Libres",
           "outlet": "Registraduría Nacional del Estado Civil",
-          "date": "2025-01-01"
+          "date": "2025-01-01",
+          "title": "Registro de Colombia Justa Libres"
+        },
+        {
+          "url": "https://congresovisible.uniandes.edu.co/partidos/perfil/colombia-justa-libres-antes-movimiento-libres/196/",
+          "outlet": "Congreso Visible - Universidad de los Andes",
+          "date": "2026-06-22",
+          "title": "Partido Colombia Justa Libres (Antes Movimiento Libres)"
         }
       ],
       "confidence": "low"
@@ -3302,7 +4166,7 @@
         "addedAt": "2026-04-15"
       }
     ],
-    "lastUpdated": "2026-04-11",
+    "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
     ],
@@ -3310,14 +4174,32 @@
       {
         "url": "https://es.wikipedia.org/wiki/Colombia_Justa_Libres",
         "outlet": "Wikipedia",
-        "title": "Colombia Justa Libres — Wikipedia",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Colombia Justa Libres — Wikipedia"
       },
       {
         "url": "https://www.cne.gov.co/partidos-politicos",
         "outlet": "CNE",
-        "title": "Registro de partidos políticos",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "title": "Registro de partidos políticos"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Colombia_Justa_Libres",
+        "outlet": "Wikipedia",
+        "date": "2026-06-22",
+        "title": "Colombia Justa Libres"
+      },
+      {
+        "url": "https://www.eltiempo.com/politica/congreso/consejo-nacional-electoral-confirmo-las-curules-para-el-movimiento-cristiano-colombia-justa-libres-245576",
+        "outlet": "El Tiempo",
+        "date": "2018-07-19",
+        "title": "Consejo Nacional Electoral dejó en firme elección del nuevo Senado"
+      },
+      {
+        "url": "https://www.elcolombiano.com/colombia/politica/mira-y-colombia-justa-y-libres-se-unen-para-listas-al-congreso-BD15529844",
+        "outlet": "El Colombiano",
+        "date": "2021-09-03",
+        "title": "Mira y Colombia Justa y Libres se unen para listas al Congreso"
       }
     ]
   }
