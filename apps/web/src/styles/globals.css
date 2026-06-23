@@ -1076,11 +1076,18 @@ a:hover { text-decoration-color: var(--ink); }
   height: 100vh;
 }
 
-/* Mobile: stack vertically */
+/* Mobile: apilar (mapa arriba, controles debajo) */
 @media (max-width: 639px) {
   .compass-container {
     flex-direction: column-reverse;
     min-height: auto;
+  }
+  /* En columna el mapa no puede derivar su altura del flex y colapsaba a 0
+     (el mapa se cortaba). Le damos una altura propia, cuadrada como el SVG. */
+  .compass-container-map {
+    flex: none;
+    width: 100%;
+    aspect-ratio: 1 / 1;
   }
 }
 
