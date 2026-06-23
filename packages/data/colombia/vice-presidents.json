@@ -154,35 +154,6 @@
         "addedAt": "2026-04-15"
       },
       {
-        "id": "martaluciaramirez-esmad-paro-2021",
-        "category": "derechos_humanos",
-        "severity": "high",
-        "verified": false,
-        "proposal": {
-          "text": "Como Vicepresidenta y defensora de derechos de las mujeres, promovió públicamente el respeto a las libertades fundamentales, la protección de la protesta pacífica y el enfoque de derechos humanos del gobierno.",
-          "source": {
-            "url": "https://web.archive.org/web/2020/https://mlr.vicepresidencia.gov.co/prensa/",
-            "title": "Sala de prensa Vicepresidencia",
-            "outlet": "Vicepresidencia de la República",
-            "date": "2020-12-10",
-            "archived": "https://web.archive.org/web/2020/https://mlr.vicepresidencia.gov.co/prensa/"
-          }
-        },
-        "action": {
-          "text": "Durante el Paro Nacional 2021 el gobierno del que fue Vicepresidenta mantuvo el uso del ESMAD en condiciones que HRW, la CIDH, la ONU y la Defensoría del Pueblo documentaron como violaciones graves de derechos humanos — muertes, lesiones oculares, detenciones arbitrarias, violencia sexual. Ramírez no se apartó públicamente de estas decisiones y defendió la acción de la fuerza pública.",
-          "source": {
-            "url": "https://www.ohchr.org/es/2019/07/un-human-rights-report-venezuela-urges-immediate-measures-halt-and-remedy-grave-rights",
-            "title": "Colombia: Brutalidad policial durante las protestas",
-            "outlet": "OACNUDH - Oficina del Alto Comisionado de Naciones Unidas para los Derechos Humanos",
-            "date": "2021-06-25",
-            "archived": "https://web.archive.org/web/2021/https://www.defensoria.gov.co/-/paro-nacional-defensor%C3%ADa-recibir%C3%A1-denuncias-de-periodistas-y-reporteros-gr%C3%A1ficos-atacados"
-          }
-        },
-        "nuances": "La responsabilidad directa sobre el mando de la fuerza pública recae en el Ministerio de Defensa y la Presidencia, no en la Vicepresidencia. La incoherencia es de posicionamiento público y respaldo político a decisiones cuestionadas.",
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15"
-      },
-      {
         "id": "martaluciaramirez-equidad-mujer-aborto-2018",
         "category": "derechos_humanos",
         "severity": "medium",
@@ -395,95 +366,7 @@
     "ideologySelf": "eco-socialism",
     "ideologyEvidenced": "progressivism",
     "bio": "Francia Elena Márquez Mina (Yolombó, Suárez, Cauca, 1 de diciembre de 1981) es abogada, lideresa social y ambientalista afrocolombiana. Se formó en el Proceso de Comunidades Negras (PCN) y obtuvo el título de abogada en la Universidad Santiago de Cali en 2020. Desde joven participó en la defensa del territorio y de los ríos del norte del Cauca frente a proyectos mineros e hidroeléctricos. En 2014 organizó la 'Marcha de los Turbantes', una movilización de mujeres afro de La Toma que recorrió cientos de kilómetros hasta Bogotá para exigir el fin de la minería ilegal en sus territorios; ese trabajo contribuyó a la conformación de medidas estatales contra la extracción ilegal y le valió en 2018 el Premio Ambiental Goldman, distinción internacional para activistas de base. En 2021 anunció su aspiración presidencial y en la consulta del Pacto Histórico de marzo de 2022 obtuvo el segundo lugar; posteriormente fue escogida como fórmula vicepresidencial de Gustavo Petro. El 7 de agosto de 2022 asumió como Vicepresidenta de Colombia, siendo la primera mujer afrocolombiana en ocupar el cargo. En 2023 fue designada como primera titular del Ministerio de Igualdad y Equidad, creado ese año. En febrero de 2025 presentó su renuncia a esa cartera en el marco de una solicitud presidencial de renuncias protocolarias y de diferencias internas en el Gobierno, y continuó ejerciendo la Vicepresidencia.",
-    "incoherences": [
-      {
-        "id": "franciamarquez-helicoptero-fac-2023",
-        "category": "corrupcion",
-        "severity": "medium",
-        "verified": false,
-        "proposal": {
-          "text": "En campaña y desde su vicepresidencia ha enfatizado la austeridad, el cuidado de lo público y la crítica al uso de recursos estatales para privilegios de las élites: 'no puede haber privilegios para unos pocos mientras el pueblo aguanta hambre'.",
-          "source": {
-            "url": "https://web.archive.org/web/2022/https://soyfrancia.com/propuestas",
-            "title": "Propuestas de campaña Francia Márquez 2022",
-            "outlet": "Campaña Francia Márquez",
-            "date": "2022-03-01",
-            "archived": "https://web.archive.org/web/2022/https://soyfrancia.com/propuestas"
-          }
-        },
-        "action": {
-          "text": "En 2023 se documentó el uso recurrente de aeronaves de la Fuerza Aérea Colombiana para desplazamientos oficiales y privados de la Vicepresidenta. Aunque el uso se justificó en protocolos de seguridad por amenazas documentadas, el costo y frecuencia contrastaron con el discurso de austeridad, especialmente en viajes con componente personal.",
-          "source": {
-            "url": "https://www.semana.com/politica/articulo/los-viajes-oficiales-y-personales-de-francia-marquez-en-aviones-de-la-fuerza-aerea/",
-            "title": "Los viajes oficiales y personales de Francia Márquez en aviones de la Fuerza Aérea",
-            "outlet": "Semana",
-            "date": "2023-08-18",
-            "archived": "https://web.archive.org/web/2023/https://www.semana.com/politica/articulo/los-viajes-oficiales-y-personales-de-francia-marquez-en-aviones-de-la-fuerza-aerea/"
-          }
-        },
-        "nuances": "Existen protocolos de seguridad que justifican el uso de transporte militar para altos funcionarios con amenazas. La Unidad Nacional de Protección confirmó amenazas contra Márquez. La incoherencia es de narrativa: el discurso de austeridad y 'los nadies' choca con el uso rutinario de recursos militares de alto costo.",
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15"
-      },
-      {
-        "id": "franciamarquez-ejecucion-ministerio-igualdad-2023",
-        "category": "economia",
-        "severity": "medium",
-        "verified": false,
-        "proposal": {
-          "text": "Prometió que el Ministerio de Igualdad sería el 'instrumento material' para transformar las condiciones de vida de las mujeres, comunidades étnicas y territorios históricamente excluidos, con programas de implementación rápida.",
-          "source": {
-            "url": "https://web.archive.org/web/2023/https://www.igualdad.gov.co/prensa/",
-            "title": "Sala de prensa Ministerio de Igualdad",
-            "outlet": "Ministerio de Igualdad",
-            "date": "2023-02-15",
-            "archived": "https://web.archive.org/web/2023/https://www.igualdad.gov.co/prensa/"
-          }
-        },
-        "action": {
-          "text": "En su primer año de operación el Ministerio de Igualdad ejecutó un porcentaje bajo de su presupuesto asignado, con demoras en la contratación del equipo técnico y en la territorialización de programas, situación documentada por la Contraloría y por medios especializados en seguimiento a ejecución presupuestal.",
-          "source": {
-            "url": "https://www.larepublica.co/economia/el-ministerio-de-la-igualdad-de-francia-marquez-ha-ejecutado-menos-de-20-de-su-presupuesto",
-            "title": "Ejecución presupuestal del Ministerio de Igualdad en 2023",
-            "outlet": "La República",
-            "date": "2023-11-20",
-            "archived": "https://web.archive.org/web/2023/https://www.larepublica.co/economia/el-ministerio-de-la-igualdad-de-francia-marquez-ha-ejecutado-menos-de-20-de-su-presupuesto"
-          }
-        },
-        "nuances": "La creación de una cartera nueva desde cero enfrenta obstáculos administrativos reales (nómina, sedes, contratación, articulación interinstitucional). La incoherencia es entre la expectativa creada por el discurso transformador y el ritmo real de ejecución.",
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15"
-      },
-      {
-        "id": "franciamarquez-casa-dapa-2022",
-        "category": "corrupcion",
-        "severity": "low",
-        "verified": false,
-        "proposal": {
-          "text": "Ha construido su narrativa política sobre la pertenencia a los 'nadies y nadies' y sobre representar a comunidades afro y campesinas que resisten el despojo territorial, con un ethos de vida comunitaria en el territorio ancestral.",
-          "source": {
-            "url": "https://web.archive.org/web/2022/https://soyfrancia.com/quien-soy",
-            "title": "Quién soy — Campaña Francia Márquez",
-            "outlet": "Campaña Francia Márquez",
-            "date": "2022-04-15",
-            "archived": "https://web.archive.org/web/2022/https://soyfrancia.com/quien-soy"
-          }
-        },
-        "action": {
-          "text": "En 2022, tras asumir la vicepresidencia, Francia Márquez se hospedó en una finca en DAPA (Valle del Cauca) por razones de seguridad. Fact-checkers verificaron que fue en calidad de arriendo con cargo al presupuesto de protección de la vicepresidencia, no una compra personal como se difundió. La inversión en protección se justificó por el nivel de amenaza contra su vida documentado por la UNP.",
-          "source": {
-            "url": "https://www.elpais.com.co/valle/francia-marquez-confirmo-que-compro-una-casa-en-dapa-yumbo-esta-son-los-detalles.html",
-            "title": "Francia Márquez confirmó la compra de casa en Dapa, Yumbo",
-            "outlet": "El País (Cali)",
-            "date": "2022-09-30",
-            "archived": "https://web.archive.org/web/2022/https://www.elpais.com.co/valle/francia-marquez-confirmo-que-compro-una-casa-en-dapa-yumbo-esta-son-los-detalles.html"
-          }
-        },
-        "nuances": "Las amenazas documentadas contra la Vicepresidenta y su familia justifican decisiones de relocalización por seguridad. La incoherencia registrada es narrativa, no ética-legal: la distancia entre el relato de 'mujer del territorio ancestral' y la decisión práctica de residir en Dapa.",
-        "addedBy": "ssi-co",
-        "addedAt": "2026-04-15"
-      }
-    ],
+    "incoherences": [],
     "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
