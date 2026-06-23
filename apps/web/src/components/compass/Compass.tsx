@@ -8,6 +8,10 @@ import { IdeologyGrid } from './layers/IdeologyGrid';
 import { EntityPoints } from './layers/EntityPoints';
 import { PartyPoints } from './layers/PartyPoints';
 import { AxisLines, AxisLabels } from './layers/Axes';
+import { CompassDefs } from './CompassDefs';
+import { CompassTooltip, type TooltipState } from './CompassTooltip';
+import { CompassControls } from './CompassControls';
+
 type CompassLayers = {
   grid: boolean;
   axes: boolean;
@@ -40,15 +44,6 @@ type CompassProps = {
   /** Click en un partido (diamante). */
   onPartyClick?: (partyId: string) => void;
 };
-
-type TooltipState = {
-  kind: 'entity' | 'ideology' | 'party';
-  x: number;
-  y: number;
-  title: string;
-  subtitle?: string;
-  meta?: string[];
-} | null;
 
 const DEFAULT_LAYERS: CompassLayers = {
   grid: true,
@@ -211,25 +206,7 @@ export default function Compass({
             evidenciado en rojo, conectados por una flecha.
           </desc>
 
-          <defs>
-            <linearGradient id="compass-bg" x1="0%" y1="0%" x2="0%" y2="100%">
-              <stop offset="0%" stopColor="#fdfaf1" />
-              <stop offset="100%" stopColor="#f5efe2" />
-            </linearGradient>
-            <filter id="entity-shadow" x="-50%" y="-50%" width="200%" height="200%">
-              <feDropShadow dx="0" dy="1" stdDeviation="1.2" floodOpacity="0.28" />
-            </filter>
-            {/* Patrón tipo grabado antiguo — líneas diagonales finas */}
-            <pattern
-              id="paper-lines"
-              width="8"
-              height="8"
-              patternUnits="userSpaceOnUse"
-              patternTransform="rotate(45)"
-            >
-              <line x1="0" y1="0" x2="0" y2="8" stroke="#1a1510" strokeWidth="0.3" strokeOpacity="0.03" />
-            </pattern>
-          </defs>
+          <CompassDefs />
 
           <rect width={size} height={size} fill="url(#compass-bg)" />
           <rect width={size} height={size} fill="url(#paper-lines)" />
@@ -308,60 +285,7 @@ export default function Compass({
         </svg>
 
         {/* Tooltip */}
-        {tooltip && (
-          <div
-            className="compass-tooltip"
-            data-click-through
-            style={{
-              left: Math.min(tooltip.x + 16, size - 280),
-              top: Math.min(tooltip.y + 16, size - 120),
-            }}
-          >
-            <p
-              style={{
-                fontSize: 14,
-                fontWeight: 600,
-                margin: 0,
-                color: 'var(--ink)',
-                fontFamily: 'var(--font-display)',
-              }}
-            >
-              {tooltip.title}
-            </p>
-            {tooltip.subtitle && (
-              <p
-                style={{
-                  fontSize: 10,
-                  margin: '3px 0 0',
-                  color: 'var(--ink-mute)',
-                  fontFamily: 'var(--font-mono)',
-                  textTransform: 'uppercase',
-                  letterSpacing: '0.12em',
-                }}
-              >
-                {tooltip.subtitle}
-              </p>
-            )}
-            {tooltip.meta && tooltip.meta.length > 0 && (
-              <ul
-                style={{
-                  listStyle: 'none',
-                  padding: 0,
-                  margin: '8px 0 0',
-                  fontSize: 12,
-                  color: 'var(--ink-soft)',
-                  fontFamily: 'var(--font-serif)',
-                  fontStyle: 'italic',
-                  lineHeight: 1.5,
-                }}
-              >
-                {tooltip.meta.map((line, i) => (
-                  <li key={i}>{line}</li>
-                ))}
-              </ul>
-            )}
-          </div>
-        )}
+        <CompassTooltip tooltip={tooltip} size={size} />
       </div>
 
       {/* Activation hint — shown when map is inactive in modal mode */}
@@ -377,42 +301,7 @@ export default function Compass({
 
       {/* Controles de zoom (solo en modalMode) */}
       {modalMode && !readOnly && (
-        <div className="compass-controls" data-click-through>
-          <button
-            type="button"
-            onClick={(e) => {
-              e.stopPropagation();
-              zoomIn();
-            }}
-            aria-label="Acercar"
-            className="compass-control-btn"
-          >
-            +
-          </button>
-          <button
-            type="button"
-            onClick={(e) => {
-              e.stopPropagation();
-              zoomOut();
-            }}
-            aria-label="Alejar"
-            className="compass-control-btn"
-          >
-            −
-          </button>
-          <button
-            type="button"
-            onClick={(e) => {
-              e.stopPropagation();
-              reset();
-            }}
-            aria-label="Reiniciar"
-            className="compass-control-btn"
-            style={{ fontSize: 12 }}
-          >
-            ⊚
-          </button>
-        </div>
+        <CompassControls onZoomIn={zoomIn} onZoomOut={zoomOut} onReset={reset} />
       )}
 
     </div>
