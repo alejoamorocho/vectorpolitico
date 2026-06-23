@@ -258,7 +258,36 @@
       "liberal-conservatism"
     ],
     "bio": "Alejandro 'Alex' Char Chaljub (Barranquilla, 16 de abril de 1966) es ingeniero civil, empresario y político colombiano. Se formó como ingeniero civil en la Universidad del Norte, cursó estudios de alta gerencia en la Universidad de los Andes y obtuvo una maestría en gerencia de proyectos en el Georgia Institute of Technology (Estados Unidos). Pertenece al Grupo Char, una influyente familia empresarial y política del Caribe colombiano vinculada al Grupo Empresarial Olímpica; es hijo del exsenador y exgobernador Fuad Char y hermano del exsenador Arturo Char. Inició su carrera pública como concejal de Barranquilla y en 2003 ejerció como gobernador del Atlántico. Ha sido alcalde de Barranquilla en tres períodos: 2008-2011, 2016-2019 y desde 2024, por el partido Cambio Radical, convirtiéndose en el primer político en ocupar ese cargo en tres ocasiones. Entre 2014 y 2016 fue senador de la República. En sus administraciones impulsó obras de infraestructura urbana como el Gran Malecón del Río, la recuperación de espacio público y la red de parques de la ciudad. Fue precandidato presidencial en el proceso de 2018 y nuevamente aspirante en 2022. Su tercer mandato (2024-2027) ha priorizado seguridad, movilidad, educación e infraestructura. Su trayectoria ha estado acompañada de cuestionamientos judiciales relacionados con financiación de campañas, sobre los que han actuado las autoridades.",
-    "incoherences": [],
+    "incoherences": [
+      {
+        "id": "char-aida-merlano-escandalo",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Cambio Radical, el partido de Alex Char, se ha presentado oficialmente como una fuerza anti-corrupción: en septiembre de 2018 radicó ante el Gobierno un proyecto anticorrupción para 'quitarle el dinero a los corruptos', con medidas como la publicación de declaraciones de renta de servidores públicos y la extinción de dominio acelerada, alineándose con el discurso de transparencia que ha enarbolado la colectividad.",
+          "source": {
+            "url": "https://www.semana.com/nacion/articulo/cambio-radical-partido-de-german-vargas-lleras-presenta-proyecto-anticorrupcion/581911/",
+            "title": "Cambio Radical: partido de Vargas Lleras presenta proyecto anticorrupción",
+            "outlet": "Semana",
+            "date": "2018-09-04",
+            "archived": "https://web.archive.org/web/2018/https://www.semana.com/nacion/articulo/cambio-radical-partido-de-german-vargas-lleras-presenta-proyecto-anticorrupcion/581911/"
+          }
+        },
+        "action": {
+          "text": "El caso de Aida Merlano expuso a la Casa Char: en diciembre de 2025 la Corte Suprema de Justicia acusó a Arturo Char (hermano de Alex Char) de presuntamente haber hecho parte de la cúpula de una red de compra de unos 10.000 votos en municipios del Atlántico durante las elecciones de 2018, estructura vinculada a Merlano y coordinada desde la sede política 'Casa Blanca' en Barranquilla.",
+          "source": {
+            "url": "https://www.infobae.com/colombia/2025/12/07/las-pruebas-que-tiene-la-corte-suprema-para-acusar-a-arturo-char-de-liderar-una-presunta-red-de-compra-de-votos-hizo-parte-de-la-cupula/",
+            "title": "Las pruebas que tiene la Corte Suprema para acusar a Arturo Char de liderar una presunta red de compra de votos: \"Hizo parte de la cúpula\"",
+            "outlet": "Infobae",
+            "date": "2025-12-07",
+            "archived": "https://web.archive.org/web/2025/https://www.infobae.com/colombia/2025/12/07/las-pruebas-que-tiene-la-corte-suprema-para-acusar-a-arturo-char-de-liderar-una-presunta-red-de-compra-de-votos-hizo-parte-de-la-cupula/"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-06-23"
+      }
+    ],
     "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
@@ -1004,7 +1033,36 @@
       "christian-democracy"
     ],
     "bio": "Federico Andrés Gutiérrez Zuluaga, conocido como 'Fico', nació el 28 de noviembre de 1974 en Medellín. Es ingeniero civil egresado de la Universidad de Medellín y realizó estudios de posgrado en alta gerencia y en ciencia política en la Universidad Pontificia Bolivariana. Inició su carrera política como concejal de Medellín, cargo que ocupó durante ocho años, entre 2004 y 2012. En 2015 fue elegido alcalde de Medellín por firmas ciudadanas, y gobernó la ciudad entre 2016 y 2019. Posteriormente fundó el movimiento político Creemos. En 2022 fue precandidato presidencial y ganó la consulta interna de la coalición Equipo por Colombia el 13 de marzo de ese año, con cerca de 1,6 millones de votos. En la primera vuelta presidencial del 29 de mayo de 2022 obtuvo el tercer lugar con alrededor de 5 millones de votos (cerca del 23,9%), sin pasar a la segunda vuelta. En octubre de 2023 fue elegido nuevamente alcalde de Medellín con más del 73% de la votación, una de las cifras más altas en la historia de la ciudad, y asumió el cargo para el periodo 2024-2027. Es considerado una figura del centro-derecha y la derecha colombiana.",
-    "incoherences": [],
+    "incoherences": [
+      {
+        "id": "fico-medellin-epm-hidroituango-silencios",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Como alcalde de Medellín y presidente de la junta directiva de EPM, Federico Gutiérrez ha defendido públicamente a EPM e Hidroituango como patrimonio y motor del desarrollo de Antioquia y del país. En septiembre de 2024 respondió con dureza al presidente Gustavo Petro en defensa del proyecto, advirtiendo que oponerse a más hidroeléctricas condenaría a los colombianos a racionamientos y destacando que Hidroituango, al completarse, aportará cerca del 17 % de la energía del país.",
+          "source": {
+            "url": "https://www.eltiempo.com/colombia/medellin/medellin-la-respuesta-de-fico-gutierrez-a-petro-por-declaraciones-sobre-hidroituango-3383270",
+            "title": "La dura respuesta del alcalde de Medellín, Federico Gutiérrez, al presidente Gustavo Petro por declaraciones sobre Hidroituango",
+            "outlet": "El Tiempo",
+            "date": "2024-09-21",
+            "archived": "https://web.archive.org/web/2024/https://www.eltiempo.com/colombia/medellin/medellin-la-respuesta-de-fico-gutierrez-a-petro-por-declaraciones-sobre-hidroituango-3383270"
+          }
+        },
+        "action": {
+          "text": "Tras la contingencia de Hidroituango de 2018, ocurrida durante su administración y mientras presidía la junta de EPM, Gutiérrez fue señalado por el entonces alcalde Daniel Quintero de haber ocultado un dictamen de la reaseguradora de 2019 que concluía que hubo errores de diseño y construcción en el proyecto, supuestamente para evitar demandas contra los contratistas responsables. Gutiérrez negó haber conocido ese estudio.",
+          "source": {
+            "url": "https://www.eltiempo.com/colombia/medellin/daniel-quintero-acusa-a-federico-gutierrez-de-ocultar-informacion-sobre-hidroituango-536393",
+            "title": "Se agudiza enfrentamiento entre alcalde y exalcalde de Medellín",
+            "outlet": "El Tiempo",
+            "date": "2020-09-07",
+            "archived": "https://web.archive.org/web/2020/https://www.eltiempo.com/colombia/medellin/daniel-quintero-acusa-a-federico-gutierrez-de-ocultar-informacion-sobre-hidroituango-536393"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-06-23"
+      }
+    ],
     "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"

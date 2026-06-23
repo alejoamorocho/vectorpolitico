@@ -2889,7 +2889,36 @@
       "green-politics"
     ],
     "bio": "Iván Leonidas Name Vásquez (Barranquilla, 18 de junio de 1957) es un abogado y político colombiano. Cursó estudios de Derecho en la Pontificia Universidad Javeriana. Pertenece a una familia con tradición en la política, vinculada al dirigente José Name Terán. Su trayectoria en cargos de elección popular comenzó en la década de 1980: fue representante a la Cámara y, posteriormente, llegó al Senado de la República, corporación a la que ingresó el 20 de julio de 2010 y en la que ha ejercido como senador por la Alianza Verde. Dentro del Senado ocupó la segunda vicepresidencia de la mesa directiva y, entre el 20 de julio de 2023 y el 20 de julio de 2024, presidió la corporación. En 2024 la Corte Suprema de Justicia abrió investigación en su contra en el marco del escándalo de la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD), por presuntas irregularidades relacionadas con votaciones y trámite de proyectos en el Congreso. El 7 de mayo de 2025 fue capturado por orden de la Corte Suprema y recluido en la cárcel La Picota de Bogotá, en un proceso por presuntos delitos de cohecho y peculado asociados al mismo caso. Al momento de su captura mantenía la condición de senador en ejercicio.",
-    "incoherences": [],
+    "incoherences": [
+      {
+        "id": "name-anticorrupcion-ungrd-caso",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Iván Name, como presidente del Senado 2023-2024 por Alianza Verde, reivindicó la independencia del Congreso frente al Ejecutivo, el control político al gobierno y el plan de acción 'Congreso Abierto y Transparente'. En su informe de gestión afirmó: 'El Senado, en particular, reafirmó ser un órgano independiente'.",
+          "source": {
+            "url": "https://www.senado.gov.co/index.php/el-senado/noticias/5646-senado-reafirmo-su-independencia-presidente-ivan-name-presenta-informe-de-gestion-este-27-de-junio",
+            "title": "\"Senado reafirmó su independencia\": Presidente Iván Name presenta informe de gestión este 27 de junio",
+            "outlet": "Senado de la República de Colombia",
+            "date": "2024-06-25",
+            "archived": "https://web.archive.org/web/2024/https://www.senado.gov.co/index.php/el-senado/noticias/5646-senado-reafirmo-su-independencia-presidente-ivan-name-presenta-informe-de-gestion-este-27-de-junio"
+          }
+        },
+        "action": {
+          "text": "El 27 de agosto de 2025 la Sala Especial de Instrucción de la Corte Suprema de Justicia acusó a Iván Name y a Andrés Calle por los delitos de cohecho impropio y peculado por apropiación, por presuntamente recibir recursos de la UNGRD a cambio de favorecer la aprobación de reformas del gobierno Petro. Name permanece en medida de aseguramiento carcelaria desde mayo de 2025.",
+          "source": {
+            "url": "https://cortesuprema.gov.co/caso-ungrd-la-sala-de-instruccion-acuso-a-los-congresistas-ivan-name-y-andres-calle/",
+            "title": "Caso UNGRD: la Sala de Instrucción acusó a los congresistas Iván Name y Andrés Calle",
+            "outlet": "Corte Suprema de Justicia",
+            "date": "2025-08-27",
+            "archived": "https://web.archive.org/web/2025/https://cortesuprema.gov.co/caso-ungrd-la-sala-de-instruccion-acuso-a-los-congresistas-ivan-name-y-andres-calle/"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-06-23"
+      }
+    ],
     "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
@@ -3499,7 +3528,36 @@
       "left-populism"
     ],
     "bio": "Julián Gallo Cubillos (Bogotá, 24 de marzo de 1961), conocido durante su etapa como guerrillero con el alias de Carlos Antonio Lozada, es un político colombiano y senador de la República. Vinculado desde joven a la militancia comunista, ingresó a las FARC-EP a finales de la década de 1970, donde permaneció cerca de 39 años; llegó a integrar el Secretariado de la organización y a coordinar estructuras urbanas. Participó como negociador en los diálogos de paz del Caguán (1999-2002) y, posteriormente, en las negociaciones de La Habana (2012-2016) con el gobierno de Juan Manuel Santos, donde fue parte de la subcomisión técnica para el fin del conflicto y firmante del Acuerdo Final de Paz. Tras la firma del acuerdo y la transformación de la antigua guerrilla en partido político, asumió como senador el 20 de julio de 2018, ocupando una de las diez curules transitorias que el Acuerdo de Paz otorgó al nuevo partido en el Congreso. Fue reelegido para el periodo 2022-2026 por el partido Comunes (antes Fuerza Alternativa Revolucionaria del Común). En el Senado ha integrado la Comisión Primera y ha trabajado en temas de justicia transicional, reincorporación de excombatientes y derechos de las víctimas. Es una voz frecuente en los debates sobre la implementación del acuerdo y ha formulado críticas públicas al funcionamiento de la Jurisdicción Especial para la Paz (JEP). Según su sitio oficial, es profesional en Ciencias Políticas. Su periodo en el Senado concluye en julio de 2026.",
-    "incoherences": [],
+    "incoherences": [
+      {
+        "id": "gallo-paz-reincorporacion",
+        "category": "seguridad",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Como firmante del Acuerdo Final de Paz y senador del partido Comunes, Julián Gallo Cubillos integra la Bancada de la Paz, que radicó un paquete de proyectos de ley para impulsar la implementación del Acuerdo y la reincorporación política y económica de más de 13.000 excombatientes de las antiguas FARC, junto con garantías de no repetición del conflicto armado.",
+          "source": {
+            "url": "https://www.senado.gov.co/index.php/el-senado/noticias/3886-la-bancada-de-la-paz-del-partido-comunes-radicara-28-proyectos-de-ley-a-favor-de-la-implementacion-del-acuerdo-de-paz-las-reformas-agraria-y-politica",
+            "title": "La Bancada de la Paz del Partido Comunes radicó 28 proyectos de ley a favor de la implementación del Acuerdo de Paz",
+            "outlet": "Senado de la República de Colombia",
+            "date": "2022-08-15",
+            "archived": "https://web.archive.org/web/2024/https://www.senado.gov.co/index.php/el-senado/noticias/3886-la-bancada-de-la-paz-del-partido-comunes-radicara-28-proyectos-de-ley-a-favor-de-la-implementacion-del-acuerdo-de-paz-las-reformas-agraria-y-politica"
+          }
+        },
+        "action": {
+          "text": "Pese al compromiso con la no repetición, decenas de firmantes del Acuerdo de Paz (excombatientes de las FARC) continúan siendo asesinados: el Observatorio de Indepaz documentó 31 firmantes asesinados en 2024 y 39 en 2025, dentro de una tendencia sostenida de homicidios contra excombatientes que el partido Comunes no ha logrado frenar mediante legislación efectiva de protección.",
+          "source": {
+            "url": "https://indepaz.org.co/lideres-sociales-defensores-de-dd-hh-y-firmantes-de-acuerdo-asesinados-en-2024/",
+            "title": "Líderes sociales, defensores de DD.HH. y firmantes de Acuerdo asesinados",
+            "outlet": "Indepaz",
+            "date": "2024-01-15",
+            "archived": "https://web.archive.org/web/2025/https://indepaz.org.co/lideres-sociales-defensores-de-dd-hh-y-firmantes-de-acuerdo-asesinados-en-2024/"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-06-23"
+      }
+    ],
     "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
@@ -4280,7 +4338,36 @@
       "traditionalist-conservatism"
     ],
     "bio": "Nadia Georgette Blel Scaff (Cartagena, 11 de agosto de 1981) es abogada y política colombiana, militante del Partido Conservador Colombiano. Es abogada de la Universidad Externado de Colombia y cuenta con estudios de posgrado en ciencias jurídicas. Inició su trayectoria como concejal de Cartagena (2001-2003) y posteriormente desempeñó funciones de asesoría en la administración departamental de Bolívar. Llegó al Senado de la República en 2014 y ha sido reelegida de forma consecutiva en 2018 y 2022. En su labor legislativa ha impulsado iniciativas como la ley que inhabilita para ejercer cargos públicos a personas condenadas por delitos sexuales contra menores y normas relacionadas con la prohibición del asbesto. El 25 de julio de 2024 fue elegida presidenta del Partido Conservador Colombiano, convirtiéndose en la primera mujer en dirigir la colectividad en sus más de 175 años de historia, en reemplazo de Efraín Cepeda. En diciembre de 2025 presentó su renuncia a la presidencia del partido, argumentando su intención de competir en igualdad de condiciones como aspirante al Senado. Proviene de una familia con tradición política en el departamento de Bolívar. Continúa ejerciendo como senadora de la República.",
-    "incoherences": [],
+    "incoherences": [
+      {
+        "id": "blel-salud-region",
+        "category": "salud",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Desde sus inicios en el Senado, Nadia Blel ha presentado como bandera la defensa y mejora del derecho a la salud, afirmando que el sistema de salud del país necesita humanizarse y prestando especial atención a la situación sanitaria de Bolívar y la Costa Caribe (casos como el de las niñas de El Carmen de Bolívar y la contaminación por plomo en menores de Cartagena).",
+          "source": {
+            "url": "https://www.eluniversal.com.co/politica/hay-que-humanizar-la-salud-en-el-pais-nadia-blel-175162-PVEU270942",
+            "title": "Hay que humanizar la salud en el país: Nadia Blel",
+            "outlet": "El Universal (Cartagena)",
+            "date": "2014-10-27",
+            "archived": "https://web.archive.org/web/2014/https://www.eluniversal.com.co/politica/hay-que-humanizar-la-salud-en-el-pais-nadia-blel-175162-PVEU270942"
+          }
+        },
+        "action": {
+          "text": "Como presidenta de la Comisión Séptima del Senado, Blel fue autora de la proposición que aplazó y luego archivó la reforma a la salud del gobierno Petro, que buscaba eliminar la intermediación de las EPS, argumentando que no había aval fiscal ni fuentes de financiación verificables para el nuevo sistema.",
+          "source": {
+            "url": "https://www.senado.gov.co/index.php/el-senado/noticias/6911-comision-septima-del-senado-aplaza-discusion-de-reforma-a-la-salud-hasta-definir-ley-de-financiamiento",
+            "title": "Comisión Séptima del Senado aplaza discusión de reforma a la salud hasta definir ley de financiamiento",
+            "outlet": "Senado de la República",
+            "date": "2025-10-28",
+            "archived": "https://web.archive.org/web/2025/https://www.senado.gov.co/index.php/el-senado/noticias/6911-comision-septima-del-senado-aplaza-discusion-de-reforma-a-la-salud-hasta-definir-ley-de-financiamiento"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-06-23"
+      }
+    ],
     "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"

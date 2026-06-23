@@ -319,7 +319,36 @@
     "ideologySelf": "liberal-conservatism",
     "ideologyEvidenced": "securitarian-right",
     "bio": "Juan Carlos Pinzón Bueno (Bogotá, 22 de diciembre de 1972) es economista, diplomático y político colombiano. Es economista de la Pontificia Universidad Javeriana, con maestría en Políticas Públicas de la Escuela Woodrow Wilson de la Universidad de Princeton y estudios adicionales en relaciones internacionales y estudios estratégicos en la Universidad Johns Hopkins. Inició su carrera pública en el sector financiero y multilateral, con experiencia en el Banco Mundial, Citigroup y la Asociación Bancaria de Colombia (Asobancaria). En el Ministerio de Defensa se desempeñó como viceministro para Estrategia y Planeación (2006-2009) y, tras ser secretario general de la Presidencia (2010-2011), fue Ministro de Defensa Nacional (2011-2015) durante el gobierno de Juan Manuel Santos. Posteriormente fue Embajador de Colombia en Estados Unidos en dos periodos (2015-2017 y 2021-2022), gestión durante la cual se tramitó el esquema de cooperación conocido como \"Paz Colombia\" o \"Plan Colombia II\". En 2017 anunció una aspiración presidencial para los comicios de 2018 y luego declinó para integrarse como fórmula vicepresidencial de Germán Vargas Lleras por Cambio Radical; esa candidatura obtuvo el 7,28 % en la primera vuelta del 27 de mayo de 2018. De cara a las elecciones de 2026, Pinzón promovió una nueva aspiración presidencial con el aval de los partidos Verde Oxígeno y Alianza Democrática Amplia (ADA) y participó en la \"Gran Consulta por Colombia\" del 8 de marzo de 2026.",
-    "incoherences": [],
+    "incoherences": [
+      {
+        "id": "juancarlospinzon-falsos-positivos-2014",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Como Ministro de Defensa, Juan Carlos Pinzón sostuvo públicamente que las Fuerzas Armadas estaban comprometidas con los derechos humanos, afirmando que el 99% de los militares y policías no tenía procesos asociados a violaciones de derechos humanos ni problemas penales ligados al conflicto, y defendió la integridad de la institución frente a la justicia transicional.",
+          "source": {
+            "url": "https://www.elespectador.com/politica/mindefensa-sostiene-que-fuerzas-armadas-no-necesitan-beneficios-de-justicia-transicional-article-552819/",
+            "title": "Mindefensa sostiene que Fuerzas Armadas no necesitan beneficios de justicia transicional",
+            "outlet": "El Espectador",
+            "date": "2015-04-01",
+            "archived": "https://web.archive.org/web/2015/https://www.elespectador.com/politica/mindefensa-sostiene-que-fuerzas-armadas-no-necesitan-beneficios-de-justicia-transicional-article-552819/"
+          }
+        },
+        "action": {
+          "text": "Durante su gestión como Ministro de Defensa se impulsó la reestructuración de la Justicia Penal Militar y Policial, materializada en la Ley 1765 de 2015, marco que organizaciones de derechos humanos y observadores señalaron como un riesgo de favorecer la competencia de la justicia castrense sobre violaciones graves como las ejecuciones extrajudiciales ('falsos positivos').",
+          "source": {
+            "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=65339",
+            "title": "Ley 1765 de 2015 - Por la cual se reestructura la Justicia Penal Militar y Policial",
+            "outlet": "Función Pública",
+            "date": "2015-07-23",
+            "archived": "https://web.archive.org/web/2015/https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=65339"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-06-23"
+      }
+    ],
     "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
@@ -1072,6 +1101,34 @@
         "nuances": "FECODE negó oficialmente en junio 2021 que el paro tuviera motivaciones electorales, catalogando las palabras de Alarcón como opiniones personales. Alarcón se defendió diciendo que Colombia es democrática y que hablar de elecciones no es delito. En marzo de 2026 el mismo Alarcón se convirtió en candidato vicepresidencial, confirmando empíricamente lo que había anticipado y contradiciendo la postura institucional de FECODE sobre la ausencia de intención político-electoral.",
         "addedBy": "ssi-co",
         "addedAt": "2026-04-16"
+      },
+      {
+        "id": "nelson-alarcon-acuerdo-2019",
+        "category": "educacion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Nelson Alarcón, presidente de FECODE, firmó en mayo de 2019 con el gobierno de Iván Duque el acta que puso fin al paro nacional docente. El acuerdo contemplaba una comisión de alto nivel para la reforma constitucional al Sistema General de Participaciones, ampliación de la cobertura educativa desde preescolar, nivelación salarial de 5 puntos hasta 2022, mejoras en el sistema de salud del magisterio y garantías sindicales.",
+          "source": {
+            "url": "https://ail.ens.org.co/entrevistas/importantes-acuerdos-para-el-magisterio-logra-fecode-en-negociacion-con-el-gobierno/",
+            "title": "Importantes acuerdos para el magisterio logra Fecode en negociación con el Gobierno",
+            "outlet": "Agencia de Información Laboral (ENS)",
+            "date": "2019-05-20",
+            "archived": "https://web.archive.org/web/2019/https://ail.ens.org.co/entrevistas/importantes-acuerdos-para-el-magisterio-logra-fecode-en-negociacion-con-el-gobierno/"
+          }
+        },
+        "action": {
+          "text": "En octubre de 2020, Alarcón y FECODE anunciaron nuevas movilizaciones argumentando incumplimiento del gobierno Duque. El propio Alarcón declaró: 'El año anterior firmamos 36 acuerdos para la educación. Desafortunadamente hoy solo se ha cumplido el 30 por ciento de ellos.', reconociendo que la mayoría de lo pactado no se había materializado en bonificación pedagógica, fortalecimiento de las normales ni servicios de salud del magisterio.",
+          "source": {
+            "url": "https://www.eltiempo.com/vida/educacion/paro-de-maestros-fecode-anuncia-movilizaciones-contra-regreso-a-clase-541682",
+            "title": "‘El Gobierno es el que no está listo para el regreso a clase’: Fecode",
+            "outlet": "El Tiempo",
+            "date": "2020-10-05",
+            "archived": "https://web.archive.org/web/2020/https://www.eltiempo.com/vida/educacion/paro-de-maestros-fecode-anuncia-movilizaciones-contra-regreso-a-clase-541682"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-06-23"
       }
     ],
     "lastUpdated": "2026-06-22",

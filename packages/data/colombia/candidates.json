@@ -559,7 +559,36 @@
       "social-liberalism"
     ],
     "bio": "Claudia Nayibe López Hernández (Bogotá, 9 de marzo de 1970) es politóloga, periodista y política colombiana. Es profesional en Finanzas, Gobierno y Relaciones Internacionales de la Universidad Externado de Colombia, magíster en Administración Pública y Política Urbana de la Universidad de Columbia y doctora en Ciencia Política de la Universidad Northwestern. Su vida pública se vinculó al movimiento estudiantil de la Séptima Papeleta, que entre 1989 y 1990 impulsó la Asamblea Nacional Constituyente de 1991. Fue senadora de la República por la Alianza Verde durante el periodo 2014-2018, donde impulsó iniciativas en materia de lucha contra la corrupción. En 2017-2018 fue candidata a la Vicepresidencia en la fórmula de Sergio Fajardo por la Coalición Colombia. En las elecciones locales de octubre de 2019 obtuvo más de 1.100.000 votos y fue elegida alcaldesa mayor de Bogotá para el periodo 2020-2023, convirtiéndose en la primera mujer elegida por voto popular para ese cargo y la primera persona abiertamente LGBTQ+ al frente de la capital. En diciembre de 2025 oficializó, con el grupo ciudadano Imparables, su intención de participar en una consulta interpartidista. El 8 de marzo de 2026 ganó la llamada Consulta de las Soluciones y quedó habilitada como candidata presidencial para la primera vuelta, posicionándose como una opción de centro político.",
-    "incoherences": [],
+    "incoherences": [
+      {
+        "id": "lopez-esmad-paro-2021",
+        "category": "derechos_humanos",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "En septiembre de 2020, tras la muerte de Javier Ordóñez bajo custodia policial y las protestas posteriores, la alcaldesa Claudia López calificó las muertes de jóvenes en Bogotá como una 'auténtica masacre' y denunció el uso indiscriminado de armas por parte de la Policía Nacional, junto con 119 denuncias de abuso policial documentadas en 48 horas, posicionándose como crítica del uso excesivo de la fuerza pública.",
+          "source": {
+            "url": "https://www.infobae.com/america/colombia/2020/09/12/la-alcaldesa-de-bogota-califico-como-una-autentica-masacre-las-muertes-en-las-protestas-contra-la-violencia-policial/",
+            "title": "La alcaldesa de Bogotá calificó como una “auténtica masacre” las muertes en las protestas contra la violencia policial",
+            "outlet": "Infobae",
+            "date": "2020-09-12",
+            "archived": "https://web.archive.org/web/2020/https://www.infobae.com/america/colombia/2020/09/12/la-alcaldesa-de-bogota-califico-como-una-autentica-masacre-las-muertes-en-las-protestas-contra-la-violencia-policial/"
+          }
+        },
+        "action": {
+          "text": "Durante las movilizaciones del Paro Nacional de 2021, periodo en el que organizaciones como Temblores ONG y la CIDH documentaron abusos de la fuerza pública en Bogotá, López adoptó un tono de disuasión y judicialización frente a la protesta, declarando en un consejo de seguridad del 17 de julio de 2021 que 'si hay vandalismo, habrá Policía y Fiscalía', y atribuyó previamente el vandalismo a 'una minoría política que radicaliza, dota y financia jóvenes', enmarcando los hechos como una campaña electoral en lugar de centrar el énfasis en los abusos policiales que antes había denunciado.",
+          "source": {
+            "url": "https://www.eltiempo.com/bogota/si-hay-vandalismo-habra-policia-y-fiscalia-claudia-lopez-603988",
+            "title": "Si hay vandalismo, habrá Policía y Fiscalía: Claudia López",
+            "outlet": "El Tiempo",
+            "date": "2021-07-17",
+            "archived": "https://web.archive.org/web/2021/https://www.eltiempo.com/bogota/si-hay-vandalismo-habra-policia-y-fiscalia-claudia-lopez-603988"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-06-23"
+      }
+    ],
     "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
@@ -713,7 +742,36 @@
       "technocracy"
     ],
     "bio": "Daniel Quintero Calle (Medellín, 26 de julio de 1980) es un ingeniero electrónico, empresario y político colombiano. Se formó como ingeniero electrónico en la Universidad de Antioquia, realizó una especialización en finanzas en la Universidad de los Andes, un diplomado en administración de finanzas públicas en la Escuela de Gobierno John F. Kennedy de la Universidad de Harvard y una maestría en administración de empresas en la Universidad de Boston. Antes de su carrera política se desempeñó en el sector tecnológico, fue fundador de la empresa de software Intrasoft y gerente de iNNpulsa Colombia. Entre 2016 y 2017 ocupó el cargo de viceministro de Economía Digital en el Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC). Fue alcalde de Medellín para el periodo 2020-2023, tras ganar las elecciones de 2019 como candidato independiente, sin el respaldo de los partidos tradicionales; durante su mandato estuvo separado del cargo entre mayo y junio de 2022 por una suspensión de la Procuraduría, posteriormente revocada. Su administración impulsó una agenda de transformación digital y educativa y estuvo marcada por tensiones con sectores políticos de Antioquia. En las elecciones de 2026 participó como precandidato en la consulta de la coalición Frente por la Vida, celebrada el 8 de marzo de 2026, en la que obtuvo cerca de 179.031 votos y quedó en segundo lugar frente a Roy Barreras, que ganó con alrededor de 200.401 votos; Quintero reconoció el resultado y anunció su apoyo a la candidatura ganadora.",
-    "incoherences": [],
+    "incoherences": [
+      {
+        "id": "quintero-epm-renuncia",
+        "category": "corrupcion",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Al asumir la Alcaldía de Medellín, Daniel Quintero suscribió el Convenio Marco de Relaciones entre el Municipio y EPM, en el que el alcalde se compromete a respetar y a hacer respetar, por parte de los secretarios de Despacho y demás servidores del Municipio, la autonomía de EPM.",
+          "source": {
+            "url": "https://www.elcolombiano.com/antioquia/daniel-quintero-y-la-autonomia-de-epm-HP16198807",
+            "title": "¿En la Alcaldía se pusieron de ruana la independencia de EPM?",
+            "outlet": "El Colombiano",
+            "date": "2021-12-19",
+            "archived": "https://web.archive.org/web/2021/https://www.elcolombiano.com/antioquia/daniel-quintero-y-la-autonomia-de-epm-HP16198807"
+          }
+        },
+        "action": {
+          "text": "En agosto de 2020, ocho de los nueve miembros de la junta directiva de EPM renunciaron de manera colectiva. En su carta al alcalde Daniel Quintero argumentaron la falta de buenas prácticas de gobierno corporativo: no participaron en las decisiones sobre las acciones legales por Hidroituango y el alcalde presentó una propuesta para ampliar el objeto social de la empresa sin consultar previamente a la junta, máximo órgano de la entidad. El episodio es considerado una de las mayores crisis institucionales de EPM.",
+          "source": {
+            "url": "https://www.elespectador.com/economia/renuncio-la-junta-directiva-de-epm-tras-el-comienzo-de-las-acciones-legales-por-hidroituango-article/",
+            "title": "Renunció la junta directiva de EPM tras el comienzo de las acciones legales por Hidroituango",
+            "outlet": "El Espectador",
+            "date": "2020-08-11",
+            "archived": "https://web.archive.org/web/2020/https://www.elespectador.com/economia/renuncio-la-junta-directiva-de-epm-tras-el-comienzo-de-las-acciones-legales-por-hidroituango-article/"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-06-23"
+      }
+    ],
     "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
@@ -2588,7 +2646,36 @@
       "fiscal-conservatism"
     ],
     "bio": "Paloma Susana Valencia Laserna es abogada, filósofa y política colombiana, nacida en Popayán (Cauca). Es abogada y filósofa de la Universidad de los Andes y cuenta con una maestría en escritura creativa realizada en Nueva York. Proviene de una familia con larga trayectoria política: es nieta del expresidente Guillermo León Valencia (1962-1966) y, por línea materna, su abuelo Mario Laserna fue fundador de la Universidad de los Andes. Llegó al Senado de la República en 2014 en la lista del Centro Democrático, partido fundado por Álvaro Uribe, y fue reelegida en los comicios siguientes, ejerciendo como senadora durante varios periodos consecutivos. En el Congreso ha sido una de las figuras visibles del uribismo, con intervenciones en debates sobre seguridad, paz, economía y reforma tributaria, y se ha posicionado como opositora al gobierno de Gustavo Petro. Entre su trabajo legislativo se cuenta la promoción de iniciativas orientadas a la formalización económica, como la denominada Ley de la Escalera de la Formalidad. Fue precandidata presidencial en procesos internos de su partido en 2018 y 2022. En el ciclo electoral de 2025-2026 volvió a presentar su nombre y resultó elegida candidata presidencial del Centro Democrático tras los procesos internos de la colectividad. Posteriormente participó en la elección presidencial de 2026.",
-    "incoherences": [],
+    "incoherences": [
+      {
+        "id": "paloma-cauca-division",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Como candidata presidencial, Valencia ha proyectado un discurso de unidad nacional, llamando a que los colombianos se encuentren por encima de la confrontación. El 31 de mayo de 2026, tras votar en Bogotá, afirmó: 'Que no gane el odio, que gane Colombia', enmarcando su campaña como un proyecto de país que une en lugar de dividir.",
+          "source": {
+            "url": "https://www.vanguardia.com/politica/2026/05/31/paloma-valencia-voto-en-bogota-y-envio-mensaje-de-unidad-que-no-gane-el-odio-que-gane-colombia/",
+            "title": "Paloma Valencia votó en Bogotá y envió mensaje de unidad: 'Que no gane el odio, que gane Colombia'",
+            "outlet": "Vanguardia",
+            "date": "2026-05-31",
+            "archived": "https://web.archive.org/web/2026/https://www.vanguardia.com/politica/2026/05/31/paloma-valencia-voto-en-bogota-y-envio-mensaje-de-unidad-que-no-gane-el-odio-que-gane-colombia/"
+          }
+        },
+        "action": {
+          "text": "En marzo de 2015, siendo senadora, Valencia propuso un referendo o consulta para dividir el departamento del Cauca en dos: uno indígena y otro para los mestizos. Según El Espectador (17 de marzo de 2015), planteó 'decidir si partimos el departamento en dos. Uno indígena, para que ellos haga sus paros, sus manifestaciones y sus invasiones, y uno con vocación de desarrollo'. La propuesta, segmentada por criterios étnicos, fue ampliamente rechazada como discriminatoria.",
+          "source": {
+            "url": "https://www.elespectador.com/colombia/mas-regiones/paloma-valencia-propone-dividir-el-departamento-del-cauca-article-549804/",
+            "title": "Paloma Valencia propone dividir el departamento del Cauca",
+            "outlet": "El Espectador",
+            "date": "2015-03-17",
+            "archived": "https://web.archive.org/web/2015/https://www.elespectador.com/colombia/mas-regiones/paloma-valencia-propone-dividir-el-departamento-del-cauca-article-549804/"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-06-23"
+      }
+    ],
     "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
@@ -2780,6 +2867,34 @@
         "nuances": "Agresión física documentada a un concejal durante su alcaldía (2018)",
         "addedBy": "ssi-co",
         "addedAt": "2026-04-11"
+      },
+      {
+        "id": "rodolfo-expresion-hitler",
+        "category": "derechos_humanos",
+        "severity": "high",
+        "verified": false,
+        "proposal": {
+          "text": "Como candidato presidencial de 2022 por la Liga de Gobernantes Anticorrupción, Rodolfo Hernández presentó una plataforma centrada en la lucha anticorrupción, la transparencia y la austeridad administrativa, con un perfil de ingeniero y gestor técnico ajeno a los extremos ideológicos.",
+          "source": {
+            "url": "https://www.kienyke.com/politica/cinco-propuestas-para-entender-el-plan-de-gobierno-de-rodolfo-hernandez",
+            "title": "Cinco propuestas para entender el plan de gobierno de Rodolfo Hernández",
+            "outlet": "KienyKe",
+            "date": "2022-05-07",
+            "archived": "https://web.archive.org/web/2022/https://www.kienyke.com/politica/cinco-propuestas-para-entender-el-plan-de-gobierno-de-rodolfo-hernandez"
+          }
+        },
+        "action": {
+          "text": "En una entrevista en RCN Radio del 22 de agosto de 2016, cuando era alcalde de Bucaramanga, Hernández declaró: 'Yo soy seguidor de un gran pensador alemán que se llama Adolfo Hitler'. En la misma entrevista los periodistas lo corrigieron y él reconoció el error; en 2021, al resurgir el audio, se retractó alegando que confundió una frase de Einstein con una de Hitler.",
+          "source": {
+            "url": "https://colombiacheck.com/chequeos/rodolfo-hernandez-si-dijo-que-era-seguidor-de-hitler",
+            "title": "Rodolfo Hernández sí dijo que era seguidor de Hitler",
+            "outlet": "Colombiacheck",
+            "date": "2021-08-17",
+            "archived": "https://web.archive.org/web/2021/https://colombiacheck.com/chequeos/rodolfo-hernandez-si-dijo-que-era-seguidor-de-hitler"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-06-23"
       }
     ],
     "lastUpdated": "2026-06-22",
@@ -3365,7 +3480,36 @@
       "fiscal-conservatism"
     ],
     "bio": "Victoria Eugenia Dávila Hoyos, conocida como Vicky Dávila, nació el 30 de mayo de 1973 en el Valle del Cauca. Es comunicadora social egresada de la Universidad Autónoma de Occidente y desarrolló una carrera periodística de más de tres décadas en radio y televisión. Fue presentadora de Noticias RCN entre 1998 y 2015, y trabajó posteriormente en W Radio y La FM. Entre noviembre de 2020 y noviembre de 2024 dirigió la revista Semana. A lo largo de su trayectoria recibió varios reconocimientos, entre ellos premios de periodismo Simón Bolívar. En noviembre de 2024 renunció a Semana para lanzar su precandidatura presidencial de cara a las elecciones de 2026, recogiendo firmas a través del Movimiento Valientes. Participó en la Gran Consulta por Colombia celebrada el 8 de marzo de 2026, en la que obtuvo 238.045 votos (aproximadamente 4 % de la participación), quedando en quinto lugar entre los nueve aspirantes. La consulta fue ganada por Paloma Valencia, del Centro Democrático, con 3.236.286 votos. Tras conocerse los resultados, Dávila reconoció el triunfo de Valencia, le manifestó su apoyo y anunció su regreso al ejercicio periodístico, cerrando así su primera incursión en la actividad electoral.",
-    "incoherences": [],
+    "incoherences": [
+      {
+        "id": "davila-escandalo-uribe-audios-2015",
+        "category": "corrupcion",
+        "severity": "medium",
+        "verified": false,
+        "proposal": {
+          "text": "Vicky Dávila se presenta como una periodista rigurosa y comprometida con la verdad. En entrevista afirmó: \"Una cosa es echar el discurso de que los periodistas estamos para buscar la verdad, y otra, buscarla de verdad\", y sostuvo que a ella \"no me compran con nada\", reivindicando su independencia y compromiso con la libertad de prensa.",
+          "source": {
+            "url": "https://www.eltiempo.com/justicia/investigacion/vicky-davila-habla-de-audios-benedetti-y-de-la-libertad-de-prensa-entrevista-777117",
+            "title": "Vicky Dávila habla de audios Benedetti y de la libertad de prensa | Entrevista",
+            "outlet": "El Tiempo",
+            "date": "2023-06-13",
+            "archived": "https://web.archive.org/web/2023/https://www.eltiempo.com/justicia/investigacion/vicky-davila-habla-de-audios-benedetti-y-de-la-libertad-de-prensa-entrevista-777117"
+          }
+        },
+        "action": {
+          "text": "La Sala Laboral de la Corte Suprema de Justicia confirmó una condena civil contra Vicky Dávila y RCN Radio por daños al buen nombre y la honra de un coronel de la Policía, a raíz de una grabación difundida en La FM en el marco del caso de la \"comunidad del anillo\". La Corte concluyó que el sufrimiento de los demandantes resultó del descuido en el manejo de la información y que la investigación periodística debe divulgarse con responsabilidad social y ética, tras no verificar adecuadamente las fuentes.",
+          "source": {
+            "url": "https://www.eltiempo.com/justicia/cortes/vicky-davila-corte-suprema-revoca-fallo-y-ella-debera-indemnizar-a-coronel-578395",
+            "title": "Vicky Dávila: Corte Suprema revoca fallo y ella deberá indemnizar a coronel",
+            "outlet": "El Tiempo",
+            "date": "2021-04-05",
+            "archived": "https://web.archive.org/web/2021/https://www.eltiempo.com/justicia/cortes/vicky-davila-corte-suprema-revoca-fallo-y-ella-debera-indemnizar-a-coronel-578395"
+          }
+        },
+        "addedBy": "ssi-co",
+        "addedAt": "2026-06-23"
+      }
+    ],
     "lastUpdated": "2026-06-22",
     "contributors": [
       "ssi-co"
