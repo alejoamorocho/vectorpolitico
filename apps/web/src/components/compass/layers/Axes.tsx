@@ -213,13 +213,3 @@ export function AxisLabels({ scales, size, showQuadrantLabels = true }: Props) {
     </g>
   );
 }
-
-/** @deprecated Use AxisLines + AxisLabels separately for proper layering */
-export function Axes(props: Props) {
-  return (
-    <>
-      <AxisLines scales={props.scales} size={props.size} />
-      <AxisLabels {...props} />
-    </>
-  );
-}

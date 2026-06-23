@@ -81,6 +81,7 @@ app.get('/', zValidator('query', listQuerySchema), async (c) => {
 
 app.get('/:id', async (c) => {
   const id = c.req.param('id');
+  if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(id)) return c.json({ error: 'invalid_id' }, 400);
   const row = await c.env.DB.prepare('SELECT * FROM entities WHERE id = ?').bind(id).first();
   if (!row) return c.json({ error: 'not_found' }, 404);
 

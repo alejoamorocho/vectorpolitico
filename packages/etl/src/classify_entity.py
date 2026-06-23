@@ -17,6 +17,17 @@ import sys
 from pathlib import Path
 
 
+# ── Constantes de módulo ─────────────────────────────────────────────────────
+
+# Modelo de Claude usado para la clasificación.
+MODEL_ID = "claude-opus-4-8"  # Claude Opus 4.8 (modelo vigente)
+
+# Umbral de alerta: si |x_reportado - x_promedio_ponderado| supera este valor,
+# el LLM asignó una posición inconsistente con las dimensiones que él mismo evaluó.
+# Esto históricamente produjo casos con x=±9 para políticos con scores moderados.
+VERIFICATION_THRESHOLD = 3.0
+
+
 # ── Configuración de pesos por dimensión ─────────────────────────────────────
 
 DIMENSION_WEIGHTS = {
@@ -169,16 +180,28 @@ Responde ÚNICAMENTE con un objeto JSON válido, sin texto adicional, sin markdo
 
 # ── Funciones principales ─────────────────────────────────────────────────────
 
+def _weighted_axis_averages(
+    dimension_scores: dict, entity_type: str
+) -> tuple[float, float]:
+    """Calcula el promedio ponderado de los scores por eje (x, y).
+
+    Los scores ausentes o null se tratan como 0. Usa los pesos del tipo de
+    entidad (cae a 'senator' si no hay pesos definidos).
+    """
+    weights = DIMENSION_WEIGHTS.get(entity_type, DIMENSION_WEIGHTS["senator"])
+    x_avg = sum((dimension_scores.get(d) or 0) * w for d, w in weights["x"].items())
+    y_avg = sum((dimension_scores.get(d) or 0) * w for d, w in weights["y"].items())
+    return x_avg, y_avg
+
+
 def _check_dimension_coherence(classification: dict, entity_type: str) -> tuple[float, float]:
     """Calcula |delta x| y |delta y| entre coord reportada y promedio de scores.
 
     Si |delta| > VERIFICATION_THRESHOLD el LLM se contradijo a sí mismo.
     """
-    weights = DIMENSION_WEIGHTS.get(entity_type, DIMENSION_WEIGHTS["senator"])
     evid = classification.get("evidenced", {})
     scores = evid.get("dimensionScores", {})
-    x_avg = sum((scores.get(d) or 0) * w for d, w in weights["x"].items())
-    y_avg = sum((scores.get(d) or 0) * w for d, w in weights["y"].items())
+    x_avg, y_avg = _weighted_axis_averages(scores, entity_type)
     x_reported = evid.get("x", 0)
     y_reported = evid.get("y", 0)
     return abs(x_reported - x_avg), abs(y_reported - y_avg)
@@ -237,7 +260,7 @@ def classify_entity(entity_raw: dict, max_retries: int = 1) -> dict:
             ]
 
         message = client.messages.create(
-            model="claude-opus-4-6",
+            model=MODEL_ID,
             max_tokens=4000,
             messages=messages,
         )
@@ -284,30 +307,16 @@ def validate_classification(classification: dict) -> list[str]:
     return errors
 
 
-# Umbral de alerta: si |x_reportado - x_promedio_ponderado| supera este valor,
-# el LLM asignó una posición inconsistente con las dimensiones que él mismo evaluó.
-# Esto históricamente produjo casos con x=±9 para políticos con scores moderados.
-VERIFICATION_THRESHOLD = 3.0
-
-
 def build_entity_output(entity_raw: dict, classification: dict) -> dict:
     """Combina los datos crudos con la clasificación para generar el JSON final."""
 
     entity_type = entity_raw.get("type", "president")
-    weights = DIMENSION_WEIGHTS.get(entity_type, DIMENSION_WEIGHTS["senator"])
 
     evidenced = classification.get("evidenced", {})
     dimension_scores = evidenced.get("dimensionScores", {})
 
     # Verificar coherencia del promedio ponderado
-    x_check = sum(
-        (dimension_scores.get(dim) or 0) * weight
-        for dim, weight in weights["x"].items()
-    )
-    y_check = sum(
-        (dimension_scores.get(dim) or 0) * weight
-        for dim, weight in weights["y"].items()
-    )
+    x_check, y_check = _weighted_axis_averages(dimension_scores, entity_type)
 
     x_reported = classification["evidenced"]["x"]
     y_reported = classification["evidenced"]["y"]

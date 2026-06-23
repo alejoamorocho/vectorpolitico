@@ -28,7 +28,16 @@ export function rateLimit(opts: RateLimitOpts) {
     const bucket = Math.floor(Date.now() / 1000 / opts.window);
     const key = `rl:${ip}:${bucket}`;
 
-    const current = parseInt((await c.env.RATELIMIT.get(key)) ?? '0', 10);
+    // FAIL-OPEN: si KV falla (lectura/escritura), permitir el request en lugar
+    // de romperlo. Solo bloqueamos cuando KV confirma que se excedió el límite.
+    let current = 0;
+    try {
+      current = parseInt((await c.env.RATELIMIT.get(key)) ?? '0', 10);
+    } catch {
+      await next();
+      return;
+    }
+
     if (current >= opts.max) {
       return c.json(
         {
@@ -41,9 +50,13 @@ export function rateLimit(opts: RateLimitOpts) {
       );
     }
 
-    await c.env.RATELIMIT.put(key, String(current + 1), {
-      expirationTtl: opts.window * 2,
-    });
+    try {
+      await c.env.RATELIMIT.put(key, String(current + 1), {
+        expirationTtl: opts.window * 2,
+      });
+    } catch {
+      // Ignorar fallo de escritura: no debe impedir servir el request.
+    }
 
     // Headers informativos
     c.header('X-RateLimit-Limit', String(opts.max));

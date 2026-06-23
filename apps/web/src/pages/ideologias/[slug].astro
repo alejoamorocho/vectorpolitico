@@ -173,9 +173,8 @@ const longParagraphs = (ide.longDescription ?? '')
               <li>
                 <a
                   href={`/ideologias/${rel.id}`}
+                  class="related-pill"
                   style={`display: inline-block; padding: 6px 14px; border: 1px solid var(--rule); color: var(--ink); text-decoration: none; font-family: var(--font-serif); font-size: 15px; font-style: italic; transition: background 150ms ease, border-color 150ms ease;`}
-                  onmouseover="this.style.background='var(--paper-deep)'; this.style.borderColor='var(--ink-faint)';"
-                  onmouseout="this.style.background=''; this.style.borderColor='var(--rule)';"
                 >
                   {rel.name}
                 </a>
@@ -249,3 +248,13 @@ const longParagraphs = (ide.longDescription ?? '')
     )}
   </article>
 </BaseLayout>
+
+<style>
+  .related-pill {
+    border: 1px solid var(--rule);
+  }
+  .related-pill:hover {
+    background: var(--paper-deep);
+    border-color: var(--ink-faint);
+  }
+</style>

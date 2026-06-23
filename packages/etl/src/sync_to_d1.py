@@ -18,17 +18,7 @@ import sys
 from pathlib import Path
 
 from .models import Entity, Ideology, Party
-
-ENTITY_FILES = {
-    "presidents.json",
-    "vice-presidents.json",
-    "candidates.json",
-    "vp-candidates.json",
-    "senators.json",
-    "representatives.json",
-    "governors.json",
-    "mayors.json",
-}
+from .validate import ENTITY_FILES
 
 
 def _escape_sql(value: str | None) -> str:

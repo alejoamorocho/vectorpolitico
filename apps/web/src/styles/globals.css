@@ -1330,8 +1330,13 @@ a:hover { text-decoration-color: var(--ink); }
   .newsnav-inner {
     flex-wrap: wrap;
     gap: 0.5rem 1rem;
-    padding: 0.6rem 1rem;
+    /* Respeta el notch en horizontal (viewport-fit=cover) */
+    padding: 0.6rem max(1rem, env(safe-area-inset-right)) 0.6rem max(1rem, env(safe-area-inset-left));
     font-size: 12px;
+  }
+  .page-header-inner {
+    padding-left: max(1.5rem, env(safe-area-inset-left));
+    padding-right: max(1.5rem, env(safe-area-inset-right));
   }
   .masthead-dateline {
     flex-direction: column;

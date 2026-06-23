@@ -81,9 +81,9 @@ export function EntityPoints({
               <ArrowPath x1={sx} y1={sy} x2={ex} y2={ey} />
             )}
 
-            {/* Touch targets invisibles (44px min para mobile) */}
-            {showSelfPerceived && <circle cx={sx} cy={sy} r={16} fill="transparent" stroke="none" />}
-            {showEvidenced && <circle cx={ex} cy={ey} r={16} fill="transparent" stroke="none" />}
+            {/* Touch targets invisibles (>=44px de diametro, r>=22, para mobile) */}
+            {showSelfPerceived && <circle cx={sx} cy={sy} r={22} fill="transparent" stroke="none" />}
+            {showEvidenced && <circle cx={ex} cy={ey} r={22} fill="transparent" stroke="none" />}
 
             {coincide ? (
               /* Marcador combinado: coherencia (autopercibido = evidenciado).

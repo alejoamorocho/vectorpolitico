@@ -28,14 +28,15 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", line_buffering=True)
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", line_buffering=True)
 
+# Fuente única de verdad para los archivos de entidades. sync_to_d1.py la importa
+# desde aquí para no duplicar (y desincronizar) la lista.
 ENTITY_FILES = {
     "presidents.json",
     "vice-presidents.json",
-    "presidential_candidates.json",
-    "candidates.json",
-    "vp-candidates.json",
     "senators.json",
     "representatives.json",
+    "candidates.json",
+    "vp-candidates.json",
     "governors.json",
     "mayors.json",
 }

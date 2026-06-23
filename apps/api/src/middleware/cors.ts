@@ -18,7 +18,9 @@ export async function corsMiddleware(
 
   return cors({
     origin: (origin) => {
-      if (permitAll) return origin ?? '*';
+      // Si se permite todo, devolver '*' literal en lugar de reflejar el
+      // Origin del request (evita reflejar el origin de un atacante).
+      if (permitAll) return '*';
       if (!origin) return null;
       return allowed.includes(origin) ? origin : null;
     },

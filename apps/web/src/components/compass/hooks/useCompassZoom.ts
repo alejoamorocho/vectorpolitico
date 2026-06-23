@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState, useCallback, type RefObject } from 'react';
 import { select } from 'd3-selection';
+import 'd3-transition'; // augmenta Selection.prototype.transition (usado en el zoom suave)
 import { zoom, zoomIdentity, type ZoomBehavior, type ZoomTransform } from 'd3-zoom';
 import { computeFitTransform } from '../lib/fitTransform';
 

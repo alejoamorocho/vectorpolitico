@@ -1,6 +1,6 @@
 """Generador de ideologies.json a partir de ideologies.source.yaml.
 
-Aplica un algoritmo squarified treemap determinístico por cuadrante:
+Aplica un algoritmo slice-and-dice treemap determinístico por cuadrante:
 cada cuadrante del compass (10×10 unidades data) se subdivide en familias
 proporcionales al `weight`, y cada familia se subdivide recursivamente en
 celdas hijas. El resultado son rectángulos que cubren el cuadrante sin
