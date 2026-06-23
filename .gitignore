@@ -102,3 +102,7 @@ scripts/enrich/out/
 scripts/enrich/*-ids.json
 scripts/enrich/*-slugs.json
 scripts/enrich/*-manifest.json
+
+# Artefactos locales (no portables)
+.claude/launch.json
+scripts/enrich/audit-findings.json

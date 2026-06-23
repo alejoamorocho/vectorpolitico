@@ -41,8 +41,12 @@ export const hexColorSchema = z
   .string()
   .regex(/^#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$/, 'Debe ser color hex #RGB o #RRGGBB');
 
-/** URL http(s) válida. */
-export const urlSchema = z.string().url('Debe ser URL válida');
+/** URL http(s) válida. Rechaza esquemas peligrosos (javascript:, data:, etc.)
+ *  que `z.url()` aceptaría — previene XSS al renderizar URLs de datos en `href`. */
+export const urlSchema = z
+  .string()
+  .url('Debe ser URL válida')
+  .refine((u) => /^https?:\/\//i.test(u.trim()), 'La URL debe usar esquema http(s)');
 
 // ─── Enums ───────────────────────────────────────────────────────────────────
 

@@ -76,7 +76,6 @@ app.get('/', zValidator('query', listQuerySchema), async (c) => {
     incoherenceCount: r.incoherenceCount,
   }));
 
-  c.set('cacheKey', `entities:${JSON.stringify(q)}`);
   return c.json({ items, count: items.length });
 });
 
@@ -98,7 +97,6 @@ app.get('/:id', async (c) => {
     .bind(id)
     .all();
 
-  c.set('cacheKey', `entity:${id}`);
   return c.json({ entity: row, periods: periods.results, incoherences: incoherences.results });
 });
 

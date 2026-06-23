@@ -1320,3 +1320,26 @@ a:hover { text-decoration-color: var(--ink); }
     scroll-behavior: auto !important;
   }
 }
+
+/* ════════════════════════════════════════════════════════════════
+   Ajustes responsive móvil (≤639px)
+   La nav principal y la dateline del masthead no reflujaban y se
+   desbordaban en pantallas estrechas (360-390px).
+   ════════════════════════════════════════════════════════════════ */
+@media (max-width: 639px) {
+  .newsnav-inner {
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+    padding: 0.6rem 1rem;
+    font-size: 12px;
+  }
+  .masthead-dateline {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+    text-align: center;
+  }
+  .masthead-dateline > * { flex: none; }
+  .masthead-dateline > *:nth-child(2),
+  .masthead-dateline > *:nth-child(3) { text-align: center; }
+}

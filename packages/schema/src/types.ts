@@ -232,6 +232,8 @@ export type EntitySummary = Pick<
 > & {
   compassSelfPerceived: { x: number; y: number };
   compassEvidenced: { x: number; y: number; confidence: Confidence };
+  ideologySelf?: string;
+  ideologyEvidenced?: string;
   delta: number; // distancia euclidiana entre las dos posiciones
   incoherenceCount: number;
 };

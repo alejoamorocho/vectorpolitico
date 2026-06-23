@@ -2,22 +2,31 @@ import type { Context, Next } from 'hono';
 import type { Bindings, Variables } from '../env';
 
 /**
- * Middleware de cache KV para respuestas JSON idempotentes.
+ * Middleware de cache KV para respuestas JSON idempotentes (solo GET).
  *
- * - Lee de KV con key `c.get('cacheKey')` (la ruta la establece antes).
- * - Si hay HIT: devuelve JSON cacheado + header X-Cache: HIT.
- * - Si hay MISS: ejecuta next(), serializa la respuesta, la guarda con TTL.
+ * La clave se deriva de la URL (path + query normalizada) ANTES de ejecutar el
+ * handler, para poder devolver un HIT sin tocar D1. (Antes se leía
+ * `c.get('cacheKey')`, que las rutas setean dentro del handler — es decir,
+ * después de esta fase —, por lo que el HIT nunca se producía.)
  */
+function cacheKeyFromRequest(c: Context): string {
+  const url = new URL(c.req.url);
+  const params = [...url.searchParams.entries()].sort(([a], [b]) => a.localeCompare(b));
+  const qs = new URLSearchParams(params).toString();
+  return `v1:${url.pathname}${qs ? `?${qs}` : ''}`;
+}
+
 export function kvCache(ttlSeconds: number) {
   return async (
     c: Context<{ Bindings: Bindings; Variables: Variables }>,
     next: Next,
   ) => {
-    const key = c.get('cacheKey');
-    if (!key) {
+    if (c.req.method !== 'GET') {
       await next();
       return;
     }
+
+    const key = cacheKeyFromRequest(c);
 
     // Read
     const hit = await c.env.CACHE.get(key, 'json');

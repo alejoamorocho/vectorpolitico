@@ -23,7 +23,6 @@ export type Bindings = {
   SENTRY_DSN?: string;
 };
 
-export type Variables = {
-  requestId: string;
-  cacheKey?: string;
-};
+// El cache deriva su clave de la URL (ver middleware/cache.ts); no se usan
+// variables de contexto por ahora.
+export type Variables = Record<string, never>;

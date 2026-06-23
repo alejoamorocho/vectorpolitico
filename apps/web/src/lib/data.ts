@@ -27,7 +27,6 @@ import type {
   EntitySummary,
   Ideology,
   Party,
-  Confidence,
 } from '@brujula/schema';
 import {
   parseEntityOrThrow,
@@ -87,7 +86,7 @@ function toEntitySummary(e: Entity): EntitySummary {
     compassEvidenced: {
       x: e.compassEvidenced.x,
       y: e.compassEvidenced.y,
-      confidence: e.compassEvidenced.confidence as Confidence,
+      confidence: e.compassEvidenced.confidence,
     },
     ideologySelf: e.ideologySelf,
     ideologyEvidenced: e.ideologyEvidenced,

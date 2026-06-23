@@ -117,7 +117,11 @@ def fetch_for_entity(entity_id: str, display_name: str, since: str) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--country", default="co", help="Código ISO del país")
+    parser.add_argument(
+        "--country",
+        default="colombia",
+        help="Nombre del directorio de país bajo packages/data/ (ej. colombia)",
+    )
     parser.add_argument("--entity", help="ID específico (opcional)")
     parser.add_argument(
         "--since",

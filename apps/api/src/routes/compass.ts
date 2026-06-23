@@ -9,7 +9,8 @@ const app = new Hono<{ Bindings: Bindings; Variables: Variables }>();
  * sola respuesta cacheada para minimizar round-trips del frontend.
  */
 app.get('/', async (c) => {
-  const country = c.req.query('country') ?? 'co';
+  const country = (c.req.query('country') ?? 'co').toLowerCase();
+  if (!/^[a-z]{2}$/.test(country)) return c.json({ error: 'invalid_country' }, 400);
 
   const [entities, parties, ideologies] = await Promise.all([
     c.env.DB.prepare(
@@ -25,7 +26,6 @@ app.get('/', async (c) => {
     c.env.DB.prepare('SELECT * FROM ideologies').all(),
   ]);
 
-  c.set('cacheKey', `compass:${country}`);
   return c.json({
     entities: entities.results ?? [],
     parties: parties.results ?? [],

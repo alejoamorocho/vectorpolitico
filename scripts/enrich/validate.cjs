@@ -17,7 +17,7 @@ const isoDate = z.string().regex(/^\d{4}-\d{2}-\d{2}$/);
 const slug = z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/);
 const country = z.string().regex(/^[a-z]{2}$/);
 const hex = z.string().regex(/^#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$/);
-const url = z.string().url();
+const url = z.string().url().refine((u) => /^https?:\/\//i.test(u.trim()), 'esquema http(s)');
 const entityType = z.enum(['president','vice_president','presidential_candidate','vp_candidate','senator','representative','governor','mayor']);
 const incCat = z.enum(['economia','seguridad','derechos_humanos','medio_ambiente','corrupcion','relaciones_exteriores','educacion','salud']);
 const severity = z.enum(['low','medium','high']);

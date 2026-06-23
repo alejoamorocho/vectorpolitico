@@ -79,23 +79,10 @@ Un buscador libre filtra tanto figuras como ideologías por nombre (español o i
 
 ### Click para detalles
 
-- **Click en una ideología** → panel de detalle con descripción editorial, pensadores clave, ejemplos históricos, y enlaces a fuentes externas estandarizadas (Wikipedia ES/EN, Stanford Encyclopedia of Philosophy, Britannica, Internet Archive, Google Scholar).
-- **Click en una figura** → panel de detalle con delta, confianza, posiciones exactas, link al perfil completo dentro del sitio, y link al partido al que pertenece.
+- **Click en una ideología** → navega a su página de detalle `/ideologias/<id>` con descripción extendida, contexto histórico, relevancia contemporánea, críticas, pensadores, ejemplos, corrientes relacionadas y "Lecturas sugeridas".
+- **Click en una figura** → navega a su perfil `/figuras/<id>` con biografía, trayectoria, dimensiones, justificaciones, incoherencias y la sección "Fuentes". Un click en un partido lleva a `/partidos/<id>`.
 
-## Enlaces externos estandarizados
-
-Cada ideología tiene automáticamente los mismos 6 enlaces generados dinámicamente desde su nombre:
-
-1. **Wikipedia (ES)** — versión en español
-2. **Wikipedia (EN)** — versión en inglés (suele tener más cobertura)
-3. **Stanford Encyclopedia of Philosophy** — análisis académico riguroso
-4. **Britannica** — referencia enciclopédica general
-5. **Internet Archive** — libros, artículos y material histórico
-6. **Google Scholar** — literatura académica revisada por pares
-
-Para partidos políticos los enlaces son distintos: Wikipedia, CNE (Consejo Nacional Electoral), Registraduría Nacional, Google News e Internet Archive.
-
-No guardamos estos enlaces del modal en los JSON — se calculan en `apps/web/src/components/compass/lib/external-links.ts` a partir del nombre de la entidad. Esto garantiza que todas las ideologías tengan el mismo conjunto de recursos disponibles sin trabajo manual.
+Los enlaces y fuentes "para saber más" se curan por entidad y viven en las páginas de detalle (no se generan automáticamente). Se describen a continuación.
 
 ## Páginas de detalle y la sección "Fuentes"
 

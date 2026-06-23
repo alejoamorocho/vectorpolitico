@@ -21,7 +21,6 @@ app.get('/', zValidator('query', querySchema), async (c) => {
   sql += ' ORDER BY quadrant, y DESC, x';
 
   const { results } = await c.env.DB.prepare(sql).bind(...binds).all();
-  c.set('cacheKey', `ideologies:${q.quadrant ?? 'all'}`);
   return c.json({ items: results ?? [], count: results?.length ?? 0 });
 });
 
@@ -29,7 +28,6 @@ app.get('/:id', async (c) => {
   const id = c.req.param('id');
   const row = await c.env.DB.prepare('SELECT * FROM ideologies WHERE id = ?').bind(id).first();
   if (!row) return c.json({ error: 'not_found' }, 404);
-  c.set('cacheKey', `ideology:${id}`);
   return c.json(row);
 });
 

@@ -4,13 +4,13 @@ import type { Bindings, Variables } from '../env';
 const app = new Hono<{ Bindings: Bindings; Variables: Variables }>();
 
 app.get('/', async (c) => {
-  const country = c.req.query('country') ?? 'co';
+  const country = (c.req.query('country') ?? 'co').toLowerCase();
+  if (!/^[a-z]{2}$/.test(country)) return c.json({ error: 'invalid_country' }, 400);
   const { results } = await c.env.DB.prepare(
     'SELECT * FROM parties WHERE country = ? ORDER BY name',
   )
     .bind(country)
     .all();
-  c.set('cacheKey', `parties:${country}`);
   return c.json({ items: results ?? [], count: results?.length ?? 0 });
 });
 
@@ -26,7 +26,6 @@ app.get('/:id', async (c) => {
     .bind(id)
     .all();
 
-  c.set('cacheKey', `party:${id}`);
   return c.json({ party, members: members.results ?? [] });
 });
 

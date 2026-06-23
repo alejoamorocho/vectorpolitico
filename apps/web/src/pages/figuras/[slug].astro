@@ -137,7 +137,7 @@ const sources = allSources
           <p class="section-kicker mb-4">Trayectoria</p>
           <ul class="space-y-0" style="list-style: none; padding: 0;">
             {entity.periods.map((p) => (
-              <li class="grid grid-cols-[140px_auto_1fr] gap-4 py-3" style="border-bottom: 1px solid var(--rule);">
+              <li class="grid grid-cols-[90px_1fr] gap-x-3 gap-y-1 py-3 sm:grid-cols-[140px_auto_1fr] sm:gap-4 sm:gap-y-0" style="border-bottom: 1px solid var(--rule);">
                 <span style="font-family: var(--font-mono); font-size: 12px; color: var(--ink-mute); letter-spacing: 0.05em;">
                   {p.startDate.slice(0, 4)}–{p.endDate ? p.endDate.slice(0, 4) : 'actual'}
                 </span>
