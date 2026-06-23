@@ -186,6 +186,8 @@ class Ideology(StrictModel):
     description: str = Field(..., min_length=20, max_length=3000)
     longDescription: str | None = Field(default=None, min_length=50, max_length=10000)
     historicalContext: str | None = Field(default=None, min_length=20, max_length=5000)
+    contemporaryRelevance: str | None = Field(default=None, min_length=20, max_length=3000)
+    commonCriticisms: str | None = Field(default=None, min_length=20, max_length=3000)
     keyThinkers: list[str] | None = None
     historicalExamples: list[str] | None = None
     relatedIdeologies: list[str] | None = None

@@ -90,16 +90,6 @@
         "securityApproach": 9,
         "socialRights": 8,
         "powerConcentration": 8
-      },
-      "_rationale": {
-        "fiscalPolicy": "Propone reduccion de gasto publico; discurso anti-Estado moderado en compromisos concretos.",
-        "marketPosition": "Defensa del sector privado; admiracion por Milei implica preferencia por privatizaciones.",
-        "socialPolicy": "Rechazo a subsidios universales, enfasis en responsabilidad individual; anti-clientelismo.",
-        "tradePolicy": "Libre comercio como principio, TLC vigentes como base; derecha pro-empresarial tipica.",
-        "civilRights": "Discurso de orden publico que limita derechos civiles; modelo Bukele implica restricciones a garantias.",
-        "securityApproach": "Mano dura extrema, modelo Bukele explicito, militarizacion del orden publico.",
-        "socialRights": "Ultraconservador en valores: anti-aborto, anti-matrimonio igualitario, retorica patriarcal.",
-        "powerConcentration": "Estilo personalista tipo Bukele/Milei; propone concentrar decisiones en el ejecutivo."
       }
     },
     "ideologies": [
@@ -338,16 +328,6 @@
         "securityApproach": 0,
         "socialRights": -1,
         "powerConcentration": 1
-      },
-      "_rationale": {
-        "fiscalPolicy": "Ex gobernador del Magdalena con fuerte inversion social; deficits aceptados para programas sociales.",
-        "marketPosition": "Critico del modelo extractivista pero no maximalista; regulacion fuerte sin nacionalizacion.",
-        "socialPolicy": "Universalismo social desde Magdalena: salud, educacion, agua como derechos; izquierda pragmatica.",
-        "tradePolicy": "Moderadamente proteccionista; cuestiono TLCs por impacto agricola sin salida del libre comercio.",
-        "civilRights": "Defensor de derechos civiles basicos; centrado en derechos economicos y sociales.",
-        "securityApproach": "Seguridad ciudadana con enfoque social; neutral-progresista sin desmilitarizacion ni mano dura.",
-        "socialRights": "Moderadamente progresista; no confronta valores conservadores del Caribe colombiano.",
-        "powerConcentration": "Ligera preferencia por liderazgo ejecutivo fuerte, dentro de marcos institucionales."
       }
     },
     "ideologies": [
@@ -520,16 +500,6 @@
         "securityApproach": -2,
         "socialRights": -3,
         "powerConcentration": 1
-      },
-      "_rationale": {
-        "fiscalPolicy": "Economista de izquierda, ex-alcaldesa encargada de Bogota; gasto social robusto y reforma tributaria progresiva.",
-        "marketPosition": "Critica del neoliberalismo, regulacion estatal fuerte; Polo Democratico anti-privatizacion.",
-        "socialPolicy": "Universalismo en salud, educacion y pension; plataforma del Polo anti-subsidios focalizados.",
-        "tradePolicy": "Critica de TLCs por impacto agricola; proteccionismo moderado con soberania alimentaria.",
-        "civilRights": "Defensora de derechos civiles desde el Polo; consistente con garantias individuales.",
-        "securityApproach": "Enfasis en DDHH y causas estructurales de violencia; critica del militarismo.",
-        "socialRights": "Progresista moderada; apoya derechos LGBT+ y reproductivos aunque no es su bandera principal.",
-        "powerConcentration": "Institucionalista; izquierda democratica, no propone concentracion ejecutiva."
       }
     },
     "ideologies": [
@@ -777,16 +747,6 @@
         "securityApproach": 4,
         "socialRights": -5,
         "powerConcentration": -1
-      },
-      "_rationale": {
-        "fiscalPolicy": "Centro-izquierda fiscal; en Bogota mantuvo finanzas ordenadas con inversion social; redistributiva moderada.",
-        "marketPosition": "Pragmatica; no anti-mercado, acepta inversion privada en infraestructura urbana.",
-        "socialPolicy": "Fuerte en educacion publica y programas sociales urbanos; Bogota Cuidadora como emblema.",
-        "tradePolicy": "Moderadamente aperturista; no tiene posicion anti-TLC marcada; pragmatica.",
-        "civilRights": "Pro-derechos civiles; primera alcaldesa abiertamente lesbiana; defensa activa de LGBTI+.",
-        "securityApproach": "Tension: pluralista y pro-DDHH pero mano dura contra criminalidad urbana en Bogota.",
-        "socialRights": "Progresista en valores: pro-matrimonio igualitario, pro-derechos reproductivos, feminista.",
-        "powerConcentration": "Institucionalista; defendio autonomia distrital frente al gobierno nacional."
       }
     },
     "ideologies": [
@@ -1023,16 +983,6 @@
         "securityApproach": 4,
         "socialRights": 1,
         "powerConcentration": 5
-      },
-      "_rationale": {
-        "fiscalPolicy": "Ex alcalde de Medellin con inversion estatal masiva; gasto social agresivo con deficit aceptado.",
-        "marketPosition": "Propuso municipalizacion de EPM; critico del modelo de concesion privada; estatismo explicito.",
-        "socialPolicy": "Universalismo radical: internet gratuito, educacion publica expandida, subsidios amplios.",
-        "tradePolicy": "Proteccionista; critico del modelo exportador extractivista; prioridad al mercado interno.",
-        "civilRights": "Tension: discurso de derechos pero tendencias autoritarias; cuestionado por control de medios.",
-        "securityApproach": "Cuestionado por nexos con grupos ilegales; mano relativamente dura con discurso social.",
-        "socialRights": "Sin posicion progresista marcada en valores sociales; centrado en economia politica.",
-        "powerConcentration": "Marcadamente personalista; destituido por Ministerio Publico por concentracion de poder."
       }
     },
     "ideologies": [
@@ -1247,16 +1197,6 @@
         "securityApproach": 5,
         "socialRights": 5,
         "powerConcentration": 2
-      },
-      "_rationale": {
-        "fiscalPolicy": "Linea de Alvaro Gomez Hurtado: austeridad moderada, reduccion del Estado sin extremismo.",
-        "marketPosition": "Salvacion Nacional acepta rol estatal en sectores estrategicos; prefiere empresa privada.",
-        "socialPolicy": "Critica subsidios clientelistas; prefiere inversion en educacion y seguridad.",
-        "tradePolicy": "Sin posicion fuerte en libre comercio; pragmatico; Salvacion Nacional no es ultra-aperturista.",
-        "civilRights": "Conservador moderado; prioriza orden sobre garantias individuales sin restricciones extremas.",
-        "securityApproach": "Mano dura moderada; herencia del uribismo; seguridad como prioridad dentro de marcos legales.",
-        "socialRights": "Conservador en valores: pro-familia tradicional, anti-aborto; conservadurismo catolico colombiano.",
-        "powerConcentration": "Institucionalista dentro de la derecha; no propone concentracion ejecutiva extrema."
       }
     },
     "ideologies": [
@@ -1495,16 +1435,6 @@
         "securityApproach": 7,
         "socialRights": 6,
         "powerConcentration": 2
-      },
-      "_rationale": {
-        "fiscalPolicy": "Ex alcalde de Medellin con gobierno austero; finanzas sanas, recortes en burocracia; derecha fiscal moderada.",
-        "marketPosition": "Pro-inversion privada, anti-estatizacion; incentivo clusters privados; defensa del empresariado.",
-        "socialPolicy": "Programas sociales focalizados; enfasis en meritocracia y emprendimiento sobre subsidios.",
-        "tradePolicy": "Aperturista; defensa de TLCs existentes y nuevos acuerdos; linea tipica de derecha pro-empresarial.",
-        "civilRights": "Moderado; acepta garantias basicas pero prioriza seguridad sobre expansion de derechos civiles.",
-        "securityApproach": "Mano dura como bandera central en Medellin; operativos contra combos, militarizacion de comunas.",
-        "socialRights": "Catolico practicante; anti-aborto, pro-familia tradicional; claramente conservador en valores.",
-        "powerConcentration": "Institucionalista; goberno respetando instituciones; no tendencia concentradora marcada."
       }
     },
     "ideologies": [
@@ -1752,16 +1682,6 @@
         "securityApproach": 5,
         "socialRights": 3,
         "powerConcentration": 2
-      },
-      "_rationale": {
-        "fiscalPolicy": "Moderado; como Ministro lidero gasto en infraestructura publica; pragmatico, no austeridad extrema.",
-        "marketPosition": "Infraestructura via concesiones PPP; modelo mixto publico-privado; no privatizador extremo.",
-        "socialPolicy": "Programas sociales de Cambio Radical: vivienda gratis; focalizacion antes que universalismo.",
-        "tradePolicy": "Defensor de TLCs; como Vicepresidente de Santos apoyo apertura comercial; aperturista moderado.",
-        "civilRights": "Neutro-moderado; no tiene agenda de restriccion de libertades ni de expansion agresiva.",
-        "securityApproach": "Pro-seguridad; cercania al establecimiento militar; mano dura moderada sin extremismo.",
-        "socialRights": "Conservador social moderado; no abanderado de agenda cultural conservadora ni progresista.",
-        "powerConcentration": "Institucionalista; carrera dentro de las instituciones colombianas; no propone cambios estructurales."
       }
     },
     "ideologies": [
@@ -2000,16 +1920,6 @@
         "securityApproach": -1,
         "socialRights": -2,
         "powerConcentration": -2
-      },
-      "_rationale": {
-        "fiscalPolicy": "Liberal historico; inversion social moderada; gasto en paz y reconciliacion.",
-        "marketPosition": "Aceptacion del mercado regulado; no privatizador ni estatizador; centro liberal clasico.",
-        "socialPolicy": "Jefe negociador de La Habana; enfasis en reforma rural, derechos de victimas; vocacion redistributiva.",
-        "tradePolicy": "Critico de efectos de TLCs en agricultura; vision de comercio justo mas que libre comercio puro.",
-        "civilRights": "Defensor de derechos civiles; abogado constitucionalista; garantias individuales como principio.",
-        "securityApproach": "Paz negociada como paradigma central; critico del militarismo; alternativas no-violentas.",
-        "socialRights": "Centro-progresista; Acuerdo de Paz con enfoque de genero y diversidad; moderado en agenda cultural.",
-        "powerConcentration": "Institucionalista fuerte; defensa del Estado de derecho y contrapesos."
       }
     },
     "ideologies": [
@@ -2202,16 +2112,6 @@
         "securityApproach": 1,
         "socialRights": -1,
         "powerConcentration": 0
-      },
-      "_rationale": {
-        "fiscalPolicy": "Centrista; enfasis en eficiencia del gasto y lucha anticorrupcion mas que expansion o austeridad.",
-        "marketPosition": "Centro; acepta economia de mercado regulada; Verde Oxigeno no tiene posicion anti-mercado.",
-        "socialPolicy": "Moderada; enfasis en educacion y medio ambiente; no universalismo radical ni meritocracia pura.",
-        "tradePolicy": "Ambientalismo implica cuestionamiento de ciertos TLCs; proteccionismo moderado; anti-extractivismo.",
-        "civilRights": "Defensora de DDHH; experiencia personal de secuestro FARC la hace sensible a garantias individuales.",
-        "securityApproach": "Compleja: victima de violencia pero no propone mano dura; seguridad con enfoque en DDHH.",
-        "socialRights": "Moderada; sin agenda cultural progresista marcada; centrada en anticorrupcion y medio ambiente.",
-        "powerConcentration": "Institucionalista; no propone cambios estructurales de poder; respeto a separacion de poderes."
       }
     },
     "ideologies": [
@@ -2428,16 +2328,6 @@
         "securityApproach": -2,
         "socialRights": -3,
         "powerConcentration": 2
-      },
-      "_rationale": {
-        "fiscalPolicy": "Polo Democratico: gasto social fuerte, reforma tributaria progresiva; critico del ajuste fiscal.",
-        "marketPosition": "Anti-privatizacion; defensor de empresas del Estado; critico del modelo extractivista privado.",
-        "socialPolicy": "Universalismo en salud, educacion, pensiones; uno de los mas firmes defensores del Estado social.",
-        "tradePolicy": "Critico de TLCs; proteccionismo agricola e industrial; modelo de soberania economica.",
-        "civilRights": "Defensor historico de DDHH; trabajo parlamentario centrado en crimenes de Estado. Score moderado por coordenada auditada.",
-        "securityApproach": "Critico del militarismo y paramilitarismo; defensa de dialogo y paz negociada; anti-mano dura.",
-        "socialRights": "Progresista moderado; apoya derechos LGBT+ y agenda de genero pero no es su bandera central.",
-        "powerConcentration": "Polo: institucionalismo democratico; mantiene posicion critica independiente."
       }
     },
     "ideologies": [
@@ -2644,16 +2534,6 @@
         "securityApproach": 5,
         "socialRights": 9,
         "powerConcentration": 3
-      },
-      "_rationale": {
-        "fiscalPolicy": "Centro-derecha fiscal; pastor evangelico; anti-gasto estatal excesivo, enfasis en familia productiva.",
-        "marketPosition": "Acepta economia de mercado; pro-empresa privada y anti-regulacion excesiva.",
-        "socialPolicy": "Privilegia caridad y familia sobre Estado; transferencias minimas; meritocracia con base religiosa.",
-        "tradePolicy": "Aperturista moderado; Colombia Justa Libres no tiene posicion fuerte en comercio; pragmatico.",
-        "civilRights": "Conservador: derechos civiles condicionados a valores morales; cuestiono matrimonio igualitario.",
-        "securityApproach": "Mano dura; seguridad como prioridad; critico de la negociacion con grupos armados.",
-        "socialRights": "Ultraconservador: anti-aborto radical, anti-matrimonio igualitario, anti-ideologia de genero.",
-        "powerConcentration": "Moderado; institucionalista dentro de la derecha religiosa; no busca concentracion extrema."
       }
     },
     "ideologies": [
@@ -2885,16 +2765,6 @@
         "securityApproach": 0,
         "socialRights": -3,
         "powerConcentration": -2
-      },
-      "_rationale": {
-        "fiscalPolicy": "Centro; Partido Liberal; sin posicion fiscal extrema, moderado en gasto publico.",
-        "marketPosition": "Centro; acepta economia mixta; sin posicion ideologica fuerte en privatizacion vs. estatizacion.",
-        "socialPolicy": "Centro-izquierda social; enfasis en educacion, salud y seguridad ciudadana con enfoque de derechos.",
-        "tradePolicy": "Moderado; Liberal historicamente aperturista; Galan joven matiza con enfoque en comercio justo.",
-        "civilRights": "Defensor de derechos civiles; herencia liberal de su padre; garantias individuales como principio.",
-        "securityApproach": "Centrado en paz social; critico del paramilitarismo; no militarista pero tampoco pacifista extremo.",
-        "socialRights": "Progresista moderado; abierto a agenda de genero y diversidad; sin posicion ultraconservadora.",
-        "powerConcentration": "Descentralizador; defensa de autonomia regional; institucionalismo liberal clasico."
       }
     },
     "ideologies": [
@@ -3126,16 +2996,6 @@
         "securityApproach": 0,
         "socialRights": -2,
         "powerConcentration": 0
-      },
-      "_rationale": {
-        "fiscalPolicy": "Ex Canciller y ex Gobernador del Choco; inversion social en territorios marginados; gasto con enfoque equidad.",
-        "marketPosition": "Pragmatico; acepta inversion privada en territorios etnicos con condiciones; no ideologico.",
-        "socialPolicy": "Enfasis en derechos de comunidades afro e indigenas; universalismo con enfoque diferencial.",
-        "tradePolicy": "Moderado; como Canciller manejo relaciones comerciales pragmaticamente; sin posicion extrema.",
-        "civilRights": "Defensor de derechos civiles de comunidades etnicas; Choco como escenario de violacion sistematica.",
-        "securityApproach": "Enfoque en convivencia y territorios de paz; no militarista ni pacifista extremo.",
-        "socialRights": "Moderadamente progresista; enfasis en derechos colectivos mas que agenda cultural individual.",
-        "powerConcentration": "Territorialmente descentralizador; defensor de autonomia de resguardos y consejos comunitarios."
       }
     },
     "ideologies": [
@@ -3338,16 +3198,6 @@
         "securityApproach": 5,
         "socialRights": 5,
         "powerConcentration": 5
-      },
-      "_rationale": {
-        "fiscalPolicy": "Ex alcalde de Medellin (2016-2019); discurso de austeridad y eficiencia administrativa.",
-        "marketPosition": "Pro-empresarial; incentivo inversion privada en Medellin; sin posicion extrema en privatizaciones.",
-        "socialPolicy": "Programas sociales focalizados; meritocracia sobre universalismo; empresario de formacion.",
-        "tradePolicy": "Aperturista moderado; sin posicion fuerte en comercio; pragmatico.",
-        "civilRights": "Conservador moderado; no extremista en restriccion de libertades civiles.",
-        "securityApproach": "Mano dura moderada; seguridad urbana como prioridad sin llegar al militarismo.",
-        "socialRights": "Conservador en valores; sin agenda progresista cultural; familia tradicional como referente.",
-        "powerConcentration": "Liderazgo ejecutivo fuerte; estilo personalista como alcalde; concentracion moderada."
       }
     },
     "ideologies": [
@@ -3515,16 +3365,6 @@
         "securityApproach": 1,
         "socialRights": 0,
         "powerConcentration": 1
-      },
-      "_rationale": {
-        "fiscalPolicy": "Ex Ministro TIC; centro-derecha pragmatico; pro-eficiencia sin ideologia de austeridad extrema.",
-        "marketPosition": "Pro-mercado; tecnologia e innovacion privada como motor; apertura a inversion extranjera.",
-        "socialPolicy": "Moderado; digitalizacion como herramienta de inclusion; no universalismo ni meritocracia pura.",
-        "tradePolicy": "Aperturista; economia digital implica integracion global; pro-TLCs en sector tecnologico.",
-        "civilRights": "Moderado; tecnologo pragmatico mas que ideologo; sin posicion fuerte en derechos.",
-        "securityApproach": "Sin posicion marcada en seguridad; centro politico; pragmatico.",
-        "socialRights": "Neutro; sin agenda cultural conservadora ni progresista fuerte; tecnologo sin ideologia social clara.",
-        "powerConcentration": "Moderado; institucionalista; no propone cambios en estructura de poder."
       }
     },
     "ideologies": [
@@ -3745,16 +3585,6 @@
         "securityApproach": 7,
         "socialRights": 2,
         "powerConcentration": 6
-      },
-      "_rationale": {
-        "fiscalPolicy": "Uribista de linea dura; austeridad fiscal, reduccion del Estado, anti-gasto social expansivo.",
-        "marketPosition": "Maxima privatizacion; Centro Democratico ala derecha; anti-estatizacion en todos los sectores.",
-        "socialPolicy": "Meritocracia; critica subsidios como clientelismo; programas sociales minimos y focalizados.",
-        "tradePolicy": "Libre comercio; defensa de todos los TLCs; apertura comercial como dogma del Centro Democratico.",
-        "civilRights": "Moderadamente restrictivo; orden publico sobre garantias individuales; discurso uribista.",
-        "securityApproach": "Mano dura intensa; sobrino de Alvaro Uribe; militarismo como respuesta central.",
-        "socialRights": "Centro-conservador; claramente a la derecha en agenda cultural pero no el mas extremo.",
-        "powerConcentration": "Ejecutivismo fuerte; herencia uribista de concentracion presidencial; anti-contrapesos."
       }
     },
     "ideologies": [
@@ -3983,16 +3813,6 @@
         "securityApproach": 8,
         "socialRights": 7,
         "powerConcentration": 5
-      },
-      "_rationale": {
-        "fiscalPolicy": "Senadora Centro Democratico; austeridad y reduccion de impuestos como bandera; anti-reforma tributaria Petro.",
-        "marketPosition": "Privatizacion y libre mercado como principios; una de las voces mas pro-mercado del CD.",
-        "socialPolicy": "Meritocracia pura; critica el clientelismo y los subsidios; individuo sobre Estado en bienestar.",
-        "tradePolicy": "Libre comercio absoluto; defensora de todos los TLCs; apertura maxima como posicion.",
-        "civilRights": "Conservadora; cuestiono decisiones de la Corte Constitucional en derechos; orden sobre libertad.",
-        "securityApproach": "Mano dura intensa; militarismo como respuesta al crimen; discurso de seguridad uribista.",
-        "socialRights": "Conservadora en valores; anti-aborto, cuestiono derechos LGBT+; agenda pro-familia tradicional.",
-        "powerConcentration": "Defensa del ejecutivo fuerte; marco uribista de presidencialismo aunque critica a Petro."
       }
     },
     "ideologies": [
@@ -4240,16 +4060,6 @@
         "securityApproach": 8,
         "socialRights": 7,
         "powerConcentration": 8
-      },
-      "_rationale": {
-        "fiscalPolicy": "Austeridad extrema como bandera: no robar = reducir gasto; eliminar corrupcion recortando el Estado.",
-        "marketPosition": "Pro-mercado pragmatico; anti-Estado por anticorrupcion mas que dogma ideologico.",
-        "socialPolicy": "Privilegia eficiencia sobre universalismo; programas focalizados; meritocracia empresarial.",
-        "tradePolicy": "Aperturista; empresario con enfoque exportador; libre comercio como base del crecimiento.",
-        "civilRights": "Conflicto: discurso de libertad pero autoritario en practica; declaraciones misoginas implican restriccion.",
-        "securityApproach": "Mano dura; ex alcalde con operativos agresivos en Bucaramanga; admiracion por modelos duros.",
-        "socialRights": "Conservador; misoginia documentada, declaraciones anti-feminismo; ultraderechismo cultural implicito.",
-        "powerConcentration": "Marcadamente personalista; anti-institucionalismo, ejecutivismo fuerte, yo soy el jefe."
       }
     },
     "ideologies": [
@@ -4475,16 +4285,6 @@
         "securityApproach": 7,
         "socialRights": 4,
         "powerConcentration": 7
-      },
-      "_rationale": {
-        "fiscalPolicy": "Ex-comandante FARC; economia dirigida por el Estado, reforma agraria radical, gasto social masivo.",
-        "marketPosition": "Anti-capitalismo; modelo marxista-leninista; estatizacion amplia como programa de la FARC.",
-        "socialPolicy": "Universalismo total en salud, educacion, vivienda; derecho social como base del programa FARC.",
-        "tradePolicy": "Proteccionismo fuerte; soberania economica; anti-TLCs como instrumentos del imperialismo.",
-        "civilRights": "Paradoja: discurso de derechos pero historial de violaciones; FARC-partido modero retorica post-acuerdo.",
-        "securityApproach": "Tension: ex-guerrilla propone desmilitarizar el Estado pero con organizacion verticalmente disciplinada.",
-        "socialRights": "Conservadurismo cultural: FARC historicamente patriarcal; Timochenko no es progresista en genero.",
-        "powerConcentration": "Organizacion leninista: centralismo democratico; concentracion ejecutiva en la vanguardia del partido."
       }
     },
     "ideologies": [
@@ -4715,16 +4515,6 @@
         "securityApproach": -1,
         "socialRights": -2,
         "powerConcentration": -1
-      },
-      "_rationale": {
-        "fiscalPolicy": "Senador petrista; apoya reforma tributaria y gasto social; izquierda moderada en fiscal.",
-        "marketPosition": "Critico del neoliberalismo pero pragmatico; no estatizador extremo; regulacion fuerte.",
-        "socialPolicy": "Universalismo en salud y pensiones; vocero del gobierno Petro en reformas sociales.",
-        "tradePolicy": "Moderadamente proteccionista; cuestiono algunos TLCs por impacto en sectores productivos nacionales.",
-        "civilRights": "Defensor de derechos civiles; LGBTI+, mujeres; progresista en agenda de garantias.",
-        "securityApproach": "Paz total como paradigma; critico del militarismo; dialogo con grupos armados.",
-        "socialRights": "Progresista moderado; apoya agenda de genero y diversidad dentro del petrismo.",
-        "powerConcentration": "Institucionalista; defiende los contrapesos; no concentracionista extremo."
       }
     },
     "ideologies": [
@@ -4966,16 +4756,6 @@
         "securityApproach": 1,
         "socialRights": -1,
         "powerConcentration": -3
-      },
-      "_rationale": {
-        "fiscalPolicy": "Centro; ex gobernador de Antioquia y ex alcalde de Medellin; finanzas ordenadas con inversion social.",
-        "marketPosition": "Centro; economia mixta; urbanismo social implica rol estatal importante junto al privado.",
-        "socialPolicy": "Fuerte en educacion, cultura y programas sociales; Parques Biblioteca como universalismo inteligente.",
-        "tradePolicy": "Moderadamente aperturista-critico; sin posicion extrema; pragmatico en comercio exterior.",
-        "civilRights": "Defensor de libertades civiles; academia y educacion como base democratica.",
-        "securityApproach": "Modelo Medellin: transformacion social sobre mano dura; paz y educacion vs. militarizacion.",
-        "socialRights": "Centro-progresista; sin posicion fuerte en agenda cultural; enfasis en educacion mas que valores.",
-        "powerConcentration": "Descentralizador convicto; defensa de autonomia regional y local; anti-presidencialismo concentrador."
       }
     },
     "ideologies": [
@@ -5194,16 +4974,6 @@
         "securityApproach": 3,
         "socialRights": 3,
         "powerConcentration": 0
-      },
-      "_rationale": {
-        "fiscalPolicy": "Ex-periodista derechista; austeridad como discurso central; anti-gasto del gobierno Petro.",
-        "marketPosition": "Pro-mercado; defensa del empresariado colombiano; anti-estatizacion; libre empresa como principio.",
-        "socialPolicy": "Meritocracia; critica de los subsidios como dependencia; programas sociales minimos y eficientes.",
-        "tradePolicy": "Libre comercio maximo; apertura como motor de crecimiento; defensa de TLCs existentes y nuevos.",
-        "civilRights": "Moderado; periodismo implica defensa de libertad de expresion; sin agenda fuerte de restriccion.",
-        "securityApproach": "Mano dura moderada; anti-paz total de Petro; seguridad con fuerza pero sin militarismo extremo.",
-        "socialRights": "Centro-conservadora; no extrema; periodista con audiencia amplia que modera posiciones culturales.",
-        "powerConcentration": "Libertaria en estructura; anti-concentracion de poder; critica de Petro por personalismo."
       }
     },
     "ideologies": [
@@ -5418,16 +5188,6 @@
         "securityApproach": 4,
         "socialRights": 9,
         "powerConcentration": 3
-      },
-      "_rationale": {
-        "fiscalPolicy": "Centro-derecha; ex Fiscal y Procuradora; no posicion fiscal extrema; pragmatica en gasto.",
-        "marketPosition": "Moderadamente pro-mercado; sin posicion ideologica fuerte; empresa privada como default.",
-        "socialPolicy": "Enfasis en familia como unidad de bienestar; subsidios familiares sobre universalismo individual.",
-        "tradePolicy": "Moderadamente aperturista; sin posicion fuerte en comercio; pragmatica.",
-        "civilRights": "Conservadora; como Procuradora restringio derechos civiles; cuestiono matrimonio igualitario en Corte.",
-        "securityApproach": "Mano dura moderada; ex Fiscal con vision punitiva; sin militarismo extremo.",
-        "socialRights": "Ultraconservadora: anti-aborto radical (impulso referendo), anti-matrimonio igualitario, pro-familia exclusiva.",
-        "powerConcentration": "Institucionalista moderada; respeta separacion de poderes con vision ejecutivista moderada."
       }
     },
     "ideologies": [
