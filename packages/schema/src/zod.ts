@@ -334,7 +334,33 @@ export const filterParamsSchema = z.object({
   confidence: confidenceSchema.optional(),
 });
 
-// ─── Helpers inferidos ───────────────────────────────────────────────────────
+// ─── Tipos inferidos (fuente de verdad de los tipos) ─────────────────────────
+// Los tipos del dominio se DERIVAN de los schemas con z.infer, de modo que el
+// schema (validación runtime) y el tipo (TypeScript) nunca puedan divergir.
+// `packages/schema/src/types.ts` los reexporta como API pública del paquete.
+
+export type EntityType = z.infer<typeof entityTypeSchema>;
+export type IncoherenceCategory = z.infer<typeof incoherenceCategorySchema>;
+export type Severity = z.infer<typeof severitySchema>;
+export type Confidence = z.infer<typeof confidenceSchema>;
+export type Quadrant = z.infer<typeof quadrantSchema>;
+export type Source = z.infer<typeof sourceSchema>;
+export type Period = z.infer<typeof periodSchema>;
+export type DimensionScores = z.infer<typeof dimensionScoresSchema>;
+export type CompassPosition = z.infer<typeof compassPositionSchema>;
+export type EvidencedCompassPosition = z.infer<typeof evidencedCompassPositionSchema>;
+export type IncoherenceStatement = z.infer<typeof incoherenceStatementSchema>;
+export type Incoherence = z.infer<typeof incoherenceSchema>;
+export type VpFormula = z.infer<typeof vpFormulaSchema>;
+export type IdeologyAssignment = z.infer<typeof ideologyAssignmentSchema>;
+export type Entity = z.infer<typeof entitySchema>;
+export type Party = z.infer<typeof partySchema>;
+export type ExternalLink = z.infer<typeof externalLinkSchema>;
+export type Ideology = z.infer<typeof ideologySchema>;
+export type EntitySummary = z.infer<typeof entitySummarySchema>;
+export type FilterParams = z.infer<typeof filterParamsSchema>;
+
+// ─── Helpers inferidos (tipos de entrada antes de defaults/transforms) ───────
 
 export type EntityInput = z.input<typeof entitySchema>;
 export type PartyInput = z.input<typeof partySchema>;
