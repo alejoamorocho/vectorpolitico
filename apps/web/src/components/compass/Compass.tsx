@@ -7,7 +7,7 @@ import { useCompassDimensions } from './hooks/useCompassDimensions';
 import { IdeologyGrid } from './layers/IdeologyGrid';
 import { EntityPoints } from './layers/EntityPoints';
 import { PartyPoints } from './layers/PartyPoints';
-import { AxisLines, AxisLabels } from './layers/Axes';
+import { AxisLines, AxisLabels, AxisEdgeLabels } from './layers/Axes';
 import { CompassDefs } from './CompassDefs';
 import { CompassTooltip, type TooltipState } from './CompassTooltip';
 import { CompassControls } from './CompassControls';
@@ -71,6 +71,8 @@ export default function Compass({
   const wrapRef = useRef<HTMLDivElement>(null);
   const { containerRef, size: dynamicSize } = useCompassDimensions<HTMLDivElement>(560);
   const size = fixedSize ?? dynamicSize;
+  // Margen alrededor del cuadro para las etiquetas de orientación (que no tapen las celdas)
+  const labelMargin = size * 0.06;
 
   const scales = useMemo(() => createScales(size), [size]);
   const { transform, isActive, justActivatedRef, reset, zoomIn, zoomOut } = useCompassZoom(svgRef, {
@@ -195,7 +197,7 @@ export default function Compass({
       <div ref={wrapRef} style={{ position: 'absolute', inset: 0 }}>
         <svg
           ref={svgRef}
-          viewBox={`0 0 ${size} ${size}`}
+          viewBox={`${-labelMargin} ${-labelMargin} ${size + labelMargin * 2} ${size + labelMargin * 2}`}
           role="img"
           aria-labelledby="compass-title compass-desc"
         >
@@ -261,6 +263,12 @@ export default function Compass({
               />
             )}
           </g>
+
+          {/* Etiquetas de orientación en el margen — fuera del cuadro y fijas
+              (no se mueven con el zoom), para que nunca tapen las corrientes */}
+          {layers.axes && (
+            <AxisEdgeLabels scales={scales} size={size} margin={labelMargin} />
+          )}
 
           {/* Marco doble filete — convención cartográfica */}
           <rect

@@ -125,42 +125,8 @@ export function AxisLabels({ scales, size, showQuadrantLabels = true }: Props) {
         fill="#1a1510"
         fillOpacity={0.55}
       />
-      {/* Etiquetas cardinales */}
-      <text
-        x={pad + axisLabelSize * 0.3}
-        y={cy + axisLabelSize * 0.18}
-        dominantBaseline="middle"
-        {...labelProps}
-      >
-        Izquierda
-      </text>
-      <text
-        x={size - pad - axisLabelSize * 0.3}
-        y={cy + axisLabelSize * 0.18}
-        textAnchor="end"
-        dominantBaseline="middle"
-        {...labelProps}
-      >
-        Derecha
-      </text>
-      <text
-        x={cx}
-        y={pad + axisLabelSize * 0.6}
-        textAnchor="middle"
-        dominantBaseline="middle"
-        {...labelProps}
-      >
-        Autoritario
-      </text>
-      <text
-        x={cx}
-        y={size - pad - axisLabelSize * 0.4}
-        textAnchor="middle"
-        dominantBaseline="middle"
-        {...labelProps}
-      >
-        Libertario
-      </text>
+      {/* Las etiquetas cardinales (Izquierda/Derecha/Autoritario/Libertario)
+          se renderizan FUERA del grid, en el margen, vía <AxisEdgeLabels>. */}
 
       {showQuadrantLabels && (
         <>
@@ -210,6 +176,51 @@ export function AxisLabels({ scales, size, showQuadrantLabels = true }: Props) {
           </text>
         </>
       )}
+    </g>
+  );
+}
+
+/**
+ * Etiquetas cardinales (Izquierda/Derecha/Autoritario/Libertario) renderizadas
+ * FUERA del cuadro del compass, en el margen del viewBox. Así nunca tapan los
+ * nombres de las corrientes. Se dibujan fijas (fuera del grupo de zoom) para
+ * que funcionen como orientación estable.
+ */
+export function AxisEdgeLabels({
+  scales,
+  size,
+  margin,
+}: {
+  scales: CompassScales;
+  size: number;
+  margin: number;
+}) {
+  const cx = scales.xScale(0);
+  const cy = scales.yScale(0);
+  const fs = size * 0.022;
+
+  const labelProps = {
+    fontFamily: "var(--font-display, 'Playfair Display', serif)",
+    fontSize: fs,
+    fontWeight: 700 as const,
+    fontStyle: 'italic' as const,
+    fill: '#1a1510',
+    fillOpacity: 0.85,
+    paintOrder: 'stroke fill' as const,
+    stroke: '#fdfaf1',
+    strokeWidth: 3,
+    strokeLinejoin: 'round' as const,
+    strokeOpacity: 0.9,
+    textAnchor: 'middle' as const,
+    dominantBaseline: 'middle' as const,
+  };
+
+  return (
+    <g aria-label="Orientación de los ejes">
+      <text x={cx} y={-margin * 0.45} {...labelProps}>Autoritario</text>
+      <text x={cx} y={size + margin * 0.45} {...labelProps}>Libertario</text>
+      <text transform={`translate(${-margin * 0.45}, ${cy}) rotate(-90)`} {...labelProps}>Izquierda</text>
+      <text transform={`translate(${size + margin * 0.45}, ${cy}) rotate(90)`} {...labelProps}>Derecha</text>
     </g>
   );
 }
